@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Entry -->
+<table id='entry_area' class='fixedTable'>
+	<tr>
+		<td style='width:676px;'>
+			<div id='entry_info'>
+<!-- Begin Entry Info -->
+<h3>UIC in Princeton Review&rsquo;s Top 50 Undergraduate Game Design Programs</h3><br>
+<div class='entry_content'>
+	<strong>Participants:</strong> EVL faculty, staff and students<br><br>
+	<strong>URL:</strong> <a href='http://www.evl.uic.edu' target='_blank'>http://www.evl.uic.edu</a><br><br>
+	UIC / EVL<br><br>
+<!-- Begin Entry Description -->
+The February 28, 2010 issue of USA TODAY reported that the Princeton Review and GamePro magazine selected the best institutions in the USA and Canada where students can go to study game design. They chose 50 programs based on a 2009-2010 survey of administrators at institutions offering game design coursework and / or degrees. UIC is one of the distinguished institutions that made the overall Top 50 list - and we can only presume it is because of the UIC Computer Science &ldquo;Video Game Design and Development&rdquo; class taught by EVL Director Jason Leigh.<br><br>
+
+Selection criteria for the Undergraduate Game Design Program list included the quality of the curriculum, faculty credentials, facilities and infrastructure as well as data on scholarships, financial aid and career opportunities.<br><br>
+
+The Princeton Review serves as America&rsquo;s standard for college preparation and admissions advice. Since 1981, it has been ranking colleges by programs, features, and financial aid packages as well as publishing guidebooks to college admissions.<br><br>
+
+For articles on Princeton Review / GamePro Top 50 list, see:<br>
+<ul>
+<li><a href="http://content.usatoday.com/communities/gamehunters/post/2010/02/the-princeton-reviews-top-50-undergraduate-game-design-programs--/1#.UnKc0iRQ1vF">content.usatoday.com/communities/gamehunters/post/2010/02/the-princeton-reviews-top-50-undergraduate-game-design-programs--/1#.UnKc0iRQ1vF</a></li>
+<li><a href="http://usatoday30.usatoday.com/life/lifestyle/2010-03-01-gameschools01_ST_N.htm">usatoday30.usatoday.com/life/lifestyle/2010-03-01-gameschools01_ST_N.htm</a></li>
+<li><a href="http://www.princetonreview.com/game-design.aspx">www.princetonreview.com/game-design.aspx</a></li>
+</ul><br>
+
+The UIC &ldquo;Video Game Design and Development&rdquo; class has been written up previously. It has several unique features. First, Jason Leigh teaches this course both at UIC and remotely at Louisiana State University (LSU) using high-definition video streaming over high-speed networks between Chicago and Baton Rouge. The students are organized into virtual teams, and each team has to design and develop a video game as its class project (projects are then judged by people who work in the industry.) Another unique feature is that students use the most advanced EVL hardware (currently TacTile) as the platform for game development, exploring new graphical user interfaces and human / computer interaction techniques. For more information, see:<br>
+<ul>
+<li><a href="http://www.evl.uic.edu/core.php?mod=4&amp;type=4&amp;indi=532">www.evl.uic.edu/core.php?mod=4&amp;type=4&amp;indi=532</a></li>
+<li><a href="http://www.evl.uic.edu/core.php?mod=4&amp;type=4&amp;indi=536">www.evl.uic.edu/core.php?mod=4&amp;type=4&amp;indi=536</a></li>
+<li><a href="http://news.medill.northwestern.edu/chicago/news.aspx?id=134243">news.medill.northwestern.edu/chicago/news.aspx?id=134243</a></li>
+</ul><br><br>
+<!-- End Entry Description -->
+	<strong>Email:</strong> <a href='mailto:maxine@uic.edu'>maxine@uic.edu</a><br><br>
+	<strong>Date:</strong> February 28, 2010
+</div>
+<!-- End Entry Info -->
+			</div>
+		</td>
+		<td style='width:374px;'>
+			<div id='entry_sidebar'>
+<!-- Begin Entry Sidebar -->
+<div id='entry_image_small'>
+	<img style='left:0; ' src='/resizedImages/350x622-evlgaming_tactile.jpg' alt='' title='UIC in Princeton Review&rsquo;s Top 50 Undergraduate Game Design Programs' width='350' height='236'>
+</div>
+<span class='smallText'>EVLers Using TacTile for Game Play - L. Long, EVL</span><br><br>
+<div class='entry_content'>
+	<h3>Related Entries</h3>
+	<strong>Events:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2170'>Princeton Review rates UIC one of the top 25 graduate schools to study game design</a></li>
+	</ul><br>
+	<strong>Research:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=1984'>TacTile</a></li>
+	</ul><br>
+	<h3>Related Categories</h3>
+	<ul>
+		<li><a href='/category.php?id=3&amp;related=3'>Applications</a></li>
+		<li><a href='/category.php?id=9&amp;related=3'>Devices</a></li>
+		<li><a href='/category.php?id=12&amp;related=3'>Human Factors</a></li>
+		<li><a href='/category.php?id=17&amp;related=3'>Multimedia</a></li>
+		<li><a href='/category.php?id=20&amp;related=3'>Software</a></li>
+		<li><a href='/category.php?id=24&amp;related=3'>User Groups</a></li>
+	</ul>
+</div>
+<!-- End Entry Sidebar-->
+			</div>
+		</td>
+	</tr>
+</table>
+<!-- End Entry -->
+<script>
+	// Making both divs the same height is much easier in JavaScript
+	var entryInfo = document.getElementById("entry_info");
+	var entrySidebar = document.getElementById("entry_sidebar");
+	
+	if (entryInfo && entrySidebar) {
+		var maxHeight = Math.max(entryInfo.offsetHeight, entrySidebar.offsetHeight)-20;
+		entryInfo.style.height = maxHeight+"px";
+		entrySidebar.style.height = maxHeight+"px";
+	}
+</script>
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

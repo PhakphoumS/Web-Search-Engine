@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Entry -->
+<table id='entry_area' class='fixedTable'>
+	<tr>
+		<td style='width:676px;'>
+			<div id='entry_info'>
+<!-- Begin Entry Info -->
+<h3>Chicago Design Milestones 1920–2019 Installation Opens July 1, 2019</h3>
+<div id='entry_image_large'><img style='left:0;' src='/resizedImages/1280x720-dtsoupikovamediastream.png' alt='' title='Chicago Design Milestones 1920–2019 Installation Opens July 1, 2019' width='640' height='331'></div>
+<span class='smallText'>Chicago Design Archive</span><br><br>
+<div class='entry_content'>
+	<strong>Participants:</strong> <a href='/entry.php?id=188'>Daria Tsoupikova</a><br><br>
+	<strong>URL:</strong> <a href='https://chicagodesignarchive.org/?utm_source=Chicago+Design+Archive&utm_campaign=893b43bd53-EMAIL_CAMPAIGN_6_4_2019_17_35_COPY_01&utm_medium=email&utm_term=0_a8842a4f15-893b43bd53-69959259' target='_blank'>https://chicagodesignarchive.org/?utm_source=Chicago+Design+Archive&utm_campaign=893b43bd53-EMAIL_CAMPAIGN_6_4_2019_17_35_COPY_01&utm_medium=email&utm_term=0_a8842a4f15-893b43bd53-69959259</a><br><br>
+<!-- Begin Entry Description -->
+School of Design associate professor, and EVL affiliated faculty member Daria Tsoupikova showcases her work as part of the Chicago Design Milestones 1920-2019 installation at the <a href="https://150mediastream.com/">150 Media Stream</a>.  The upcoming installation taking place throughout July visualizes the evolution of Chicago design by its examination and presentation of historic characteristics of design works in the <a href="https://chicagodesignarchive.org/">Chicago Design Archive</a> collection over the last 10 decades.<br><br>
+Chicago Design Milestones​ was developed as a collaboration of CDA, University of Illinois at Chicago School of Design & Electronic Visualization Laboratory, and Columbia College Chicago. ​It is part of the ongoing research of this collaboration ​aiming to highlight the role of Chicago as a national design center​ through the use of new technologies.<br><br>
+Opening of the ​Chicago Design Milestones 1920–2019​ installation:<br>
+Monday, July 1, 6:30–9pm, 150 N Riverside Plaza, Chicago<br><br>
+Creators:  Daria Tsoupikova (UIC), Sharon Oiga (UIC/CDA), Guy Villa Jr (CCC), Jack Weiss (CDA), Cheri Gearhart (CDA), Wayne Stuetzer (CDA), Krystofer Kim (NASA), Ali Khan (UIC)<br>
+Grant funding support: Riverside/150 Media Stream, Columbia College Chicago, UIC College of Architecture, Design, and the Arts<br><br>
+150 Media Stream comprises 89 LED blades stretching 150 feet long and rising 22 feet high. Located at 150 North Riverside Plaza in Chicago, 150 Media Stream is the only structure of its kind dedicated to showcasing Chicago artists, culture and history alongside renowned and emerging artists from around the world.<br><br>
+<!-- End Entry Description -->
+	<strong>Date:</strong> July 1, 2019 - July 31, 2019
+</div>
+<!-- End Entry Info -->
+			</div>
+		</td>
+		<td style='width:374px;'>
+			<div id='entry_sidebar'>
+<!-- Begin Entry Sidebar -->
+<div class='entry_content'>
+	<h3>Related Entries</h3>
+	<strong>Directory:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=188'>Daria Tsoupikova</a></li>
+	</ul><br>
+	<h3>Related Categories</h3>
+	<ul>
+		<li><a href='/category.php?id=2&amp;related=3'>Animation</a></li>
+		<li><a href='/category.php?id=25&amp;related=3'>Video / Film</a></li>
+	</ul>
+</div>
+<!-- End Entry Sidebar-->
+			</div>
+		</td>
+	</tr>
+</table>
+<!-- End Entry -->
+<script>
+	// Making both divs the same height is much easier in JavaScript
+	var entryInfo = document.getElementById("entry_info");
+	var entrySidebar = document.getElementById("entry_sidebar");
+	
+	if (entryInfo && entrySidebar) {
+		var maxHeight = Math.max(entryInfo.offsetHeight, entrySidebar.offsetHeight)-20;
+		entryInfo.style.height = maxHeight+"px";
+		entrySidebar.style.height = maxHeight+"px";
+	}
+</script>
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

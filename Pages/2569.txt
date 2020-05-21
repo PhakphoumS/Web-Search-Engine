@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin List -->
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Page:</strong>
+		<a href='/list.php?id=5&amp;page=1'>1</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=2'>2</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=3'><strong>3</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=4'>4</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=5'>5</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=6'>6</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=7'>7</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=8'>8</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=9'>9</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=10'>10</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=11'>11</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=12'>12</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=13'>13</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=14'>14</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=15'>15</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=16'>16</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=17'>17</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<div id='list_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin List List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2229'><img src='/resizedImages/500x280-crop-senseicamerarenderingcu.png' alt='' title='SENSEI: Sensor Environment Imaging (SENSEI) Instrument' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2229'>SENSEI: Sensor Environment Imaging (SENSEI) Instrument</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=2366'>Ahmad Atra</a>, <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=2315'>Bartosz Kupiec</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=2321'>Dimitar Kirilov</a>, <a href='/entry.php?id=2279'>Harlyn Baker</a>, <a href='/entry.php?id=2422'>Hayley Christianson</a>, <a href='/entry.php?id=2439'>Kyra Jones</a>, <a href='/entry.php?id=49'>Lance Long</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=14'>Robert V. Kenyon</a>, Tanya Berger-Wolf<br>
+			October 1, 2014 - September 30, 2019<br><br>
+			SENSEI will be a reconfigurable, ultra-high-resolution, spherical (4π steradian), photometric, radiometric and photogrammetric real-time&hellip; <a href='/entry.php?id=2229'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2044'><img src='/misc/default_500x280.png' alt='' title='Enhancing Nurse Effectiveness via Augmented Communication Tools' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2044'>Enhancing Nurse Effectiveness via Augmented Communication Tools</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=2473'>Angus Forbes</a>, J. Carrington, M. Surdeanu<br>
+			September 23, 2014 - June 30, 2017<br><br>
+			Our interdisciplinary team of computer science and health care researchers will develop augmented communication tools (ACTs) within a prototype&hellip; <a href='/entry.php?id=2044'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2208'><img src='/resizedImages/500x280-crop-1280x720-heartsandminds.jpg' alt='' title='Hearts and Minds: The Interrogations Project' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2208'>Hearts and Minds: The Interrogations Project</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=270'>Arthur Nishimoto</a>, <a href='/entry.php?id=188'>Daria Tsoupikova</a>, <a href='/entry.php?id=49'>Lance Long</a>, - University of Illinois at Chicago; Roderick Coover, Mark Partridge - Temple University; Scott Rettberg - University of Bergen, Norway<br>
+			August 16, 2014 - Ongoing<br><br>
+			Hearts and Minds: The Interrogations Project is a 3D narrative experience made for the effective sensory environment of the EVL&rsquo;s CAVE2&trade;&hellip; <a href='/entry.php?id=2208'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2043'><img src='/misc/default_500x280.png' alt='' title='Reading and Assembling Contextual and Holistic Big Mechanisms' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2043'>Reading and Assembling Contextual and Holistic Big Mechanisms</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=2473'>Angus Forbes</a>, M. Surdeanu, K. Barnard, C. Morrison, R. Gutenkunst, G. Yao<br>
+			July 1, 2014 - June 30, 2018<br><br>
+			The REACH system extracts (i.e., reads and assembles) causal mechanisms from research abstracts and papers. The fundamental research proposed has&hellip; <a href='/entry.php?id=2043'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2165'><img src='/resizedImages/500x280-crop-cave2unitysimulator.png' alt='' title='CAVE2/Unity Simulator' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2165'>CAVE2/Unity Simulator</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=270'>Arthur Nishimoto</a><br>
+			November 18, 2013 - Ongoing<br><br>
+			Developed by EVL PhD Candidate Arthur Nishimoto the CAVE2/Unity simulator is a Unity3D package for testing and development of Unity3D applications&hellip; <a href='/entry.php?id=2165'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2019'><img src='/resizedImages/500x280-crop-iss-2.jpg' alt='' title='International Space Station (ISS) and Space Shuttle Discovery' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2019'>International Space Station (ISS) and Space Shuttle Discovery</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=10'>Andrew Johnson</a>, Heyuan Huang (UIUC)<br>
+			September 15, 2013 - Ongoing<br><br>
+			The International Space Station (ISS) and Space Shuttle Discovery is a CAVE2&trade; Hybrid Reality Environment simulation where participants can&hellip; <a href='/entry.php?id=2019'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2042'><img src='/resizedImages/500x280-crop-sage2logo.jpg' alt='' title='SAGE2&trade; Scalable Amplified Group Environment' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2042'>SAGE2&trade; Scalable Amplified Group Environment</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=2231'>Andrew Burks</a>, <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=270'>Arthur Nishimoto</a>, <a href='/entry.php?id=2454'>Jade Almaguer</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=285'>Jillian Aurisano</a>, <a href='/entry.php?id=300'>Krishna Bharadwaj</a>, <a href='/entry.php?id=2133'>Kristine Lee</a>, <a href='/entry.php?id=49'>Lance Long</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=2415'>Mirko Mantovani</a>, <a href='/entry.php?id=290'>Thomas Marrinan</a>, <a href='/entry.php?id=281'>Victor Mateevitsi</a><br>
+			August 16, 2013 - Ongoing<br><br>
+			 SAGE&trade; software enables teams of users to manage their data in a room covered with displays, as if the room were one seamless canvas. SAGE lets&hellip; <a href='/entry.php?id=2042'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2021'><img src='/resizedImages/500x280-crop-_ljl3254.jpg' alt='' title='Connectome' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2021'>Connectome</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, Electronic Visualization Laboratory; Olusola Ajilore, UIC Department of Psychiatry<br>
+			April 1, 2013 - Ongoing<br><br>
+			A connectome is a map of neural connections in the brain. In this CAVE2&trade; Hybrid Reality Environment application, participants walk inside&hellip; <a href='/entry.php?id=2021'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2329'><img src='/resizedImages/500x280-crop-simple_sm.jpg' alt='' title='SIMPLE project (Sub-ice Investigation of Marine and Planetary-analog Ecosystems)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2329'>SIMPLE project (Sub-ice Investigation of Marine and Planetary-analog Ecosystems)</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=270'>Arthur Nishimoto</a><br>
+			January 7, 2013 - January 8, 2018<br><br>
+			Funded by NASA, the SIMPLE project (Sub-ice Investigation of Marine and Planetary-analog Ecosystems) is to deploy an autonomous underwater vehicle&hellip; <a href='/entry.php?id=2329'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2020'><img src='/misc/default_500x280.png' alt='' title='Burning Aluminum Nanoparticles for use in Fuel Cells' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2020'>Burning Aluminum Nanoparticles for use in Fuel Cells</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=259'>Khairi Reda</a>, Electronic Visualization Laboratory; Mike Papka, Argonne National Laboratory; Kenichi Nomura, Priya Vashishta, University of Southern California<br>
+			January 1, 2013 - Ongoing<br><br>
+			This CAVE2&trade; Hybrid Reality Environment simulation depicts the burning of three aluminum nanoparticles at very high temperatures (approximately&hellip; <a href='/entry.php?id=2020'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2027'><img src='/resizedImages/500x280-crop-_ljl2393.jpg' alt='' title='ENDURANCE (Environmentally Non-Disturbing Under-ice Robotic ANtarctiC Explorer)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2027'>ENDURANCE (Environmentally Non-Disturbing Under-ice Robotic ANtarctiC Explorer)</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=272'>Alessandro Febretti</a>, <a href='/entry.php?id=10'>Andrew Johnson</a>, Electronic Visualization Laboratory; Peter Doran, UIC Earth and Environmental Sciences Department; Stone Aerospace; NASA Ames Research Center; Montana State University<br>
+			January 1, 2013 - Ongoing<br><br>
+			Professor Peter Doran of the Earth and Environmental Sciences Department at University of Illinois at Chicago (UIC) employs virtual-reality to&hellip; <a href='/entry.php?id=2027'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2030'><img src='/resizedImages/500x280-crop-_ljl6703.jpg' alt='' title='Mars Curiosity' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2030'>Mars Curiosity</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=192'>Luc Renambot</a>, NASA Jet Propulsion Laboratory, California Institute of Technology<br>
+			January 1, 2013 - Ongoing<br><br>
+			In this application, participants view a number of 2D high-resolution images captured by the Mars Curiosity Rover, along side a 3-dimensional model&hellip; <a href='/entry.php?id=2030'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2313'><img src='/misc/default_500x280.png' alt='' title='MARS3 - Machines Assisting Recovery from Stroke' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2313'>MARS3 - Machines Assisting Recovery from Stroke</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=2301'>Ashwini Naik</a>, <a href='/entry.php?id=14'>Robert V. Kenyon</a>, James Patton<br>
+			October 1, 2012 - September 30, 2017<br><br>
+			Stroke is the fifth most common cause of mortality in the United States as reported by the Center for Disease Control and Prevention. Medical&hellip; <a href='/entry.php?id=2313'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2032'><img src='/resizedImages/500x280-crop-_ljl2834.jpg' alt='' title='Mars Curiosity (SAGE in CAVE2&trade;)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2032'>Mars Curiosity (SAGE in CAVE2&trade;)</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=192'>Luc Renambot</a><br>
+			October 1, 2012 - Ongoing<br><br>
+			In this application, participants view several 2-dimensional high-resolution images captured by the Mars Curiosity Rover in EVL&rsquo;s CAVE2&trade;&hellip; <a href='/entry.php?id=2032'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2023'><img src='/resizedImages/500x280-crop-_ljl2644.jpg' alt='' title='Gold Nanoparticle' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2023'>Gold Nanoparticle</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=272'>Alessandro Febretti</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, Electronic Visualization Laboratory; Petr Kral Research Group, UIC Department of Chemistry; Vincent M. Rotello Research Group, University of Massachusetts<br>
+			September 1, 2012 - Ongoing<br><br>
+			Participants can explore the self-assembly of a ligated gold nanoparticle and proteins inside an ionic solution in the CAVE2&trade; Hybrid Reality&hellip; <a href='/entry.php?id=2023'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<!-- End List List -->
+	</table>
+</div>
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Page:</strong>
+		<a href='/list.php?id=5&amp;page=1'>1</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=2'>2</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=3'><strong>3</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=4'>4</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=5'>5</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=6'>6</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=7'>7</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=8'>8</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=9'>9</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=10'>10</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=11'>11</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=12'>12</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=13'>13</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=14'>14</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=15'>15</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=16'>16</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=17'>17</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<!-- End List -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

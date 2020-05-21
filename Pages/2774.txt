@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Entry -->
+<table id='entry_area' class='fixedTable'>
+	<tr>
+		<td style='width:676px;'>
+			<div id='entry_info'>
+<!-- Begin Entry Info -->
+<h3>The OptIPuter</h3><br>
+<div class='entry_content'>
+	<strong>Researchers:</strong> <a href='/entry.php?id=23'>Alan Verlo</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, <a href='/entry.php?id=16'>Tom Moher</a>, Larry Smarr (CalIT2), Bob Grossman (NCDM / UIC)<br><br>
+	<strong>URL:</strong> <a href='http://www.optiputer.net' target='_blank'>http://www.optiputer.net</a><br><br>
+	<strong>Funding:</strong> NSF ITR<br><br>
+<!-- Begin Entry Description -->
+<strong>related url:</strong> <a href='http://www.evl.uic.edu/cavern/optiputer'>www.evl.uic.edu/cavern/optiputer</a><br><br>
+
+The <a href='http://www.optiputer.net'>OptIPuter</a> is a five-year, $13.9 million National Science Foundation funded project to interconnect distributed storage, computing and visualization resources using photonic networks. The main goal of the project is to exploit the trend that network capacity is increasing at a rate far exceeding processor speed, while at the same time plummeting in cost. This allows one to experiment with a new paradigm in distributed computing - where the photonic networks serve as the computer&rsquo;s system bus and compute clusters taken as a whole, serve as the peripherals in a potentially, planetary-scale computer.<br><br>
+
+EVL&rsquo;s current research focus for the OptIPuter is upon developing the next-generation Mod 1 OptIPuter, exploring novel networking technologies among a small number (~2) of clustered development endpoints for high-throughput data transfer and intra-domain control of light-paths. University of Illinois at Chicago (UIC), with Northwestern University (NU), are establishing a base-line design for network management, lambda assignment and signaling. UIC visualization experts are investigating new collaboration and computer-graphics tools and techniques for volume visualization, information visualization, streaming video and high-definition tiled displays that are tailored to huge datasets. UIC data experts are beginning to develop specialized protocols to provide end-to-end performance for data-intensive applications over long-haul networks (i.e., the bus of the OptIPuter), and high-level abstractions for working with remote and distributed data.<br><br>
+
+Led by principal investigator, Professor Larry Smarr, director of the California Institute for Telecommunications and Information Technology [<a href='http://www.calit2.net/'>Cal-(IT)2</a>], the OptIPuter is a joint venture of the University of California, San Diego (UCSD) and the University of Illinois at Chicago (UIC) in partnership with the research team consisting of researchers at <a href='http://www.northwestern.edu/'>Northwestern University</a> (NWU), San Diego State University, the <a href='http://www.isi.edu/'>Information Sciences Institute</a> at the University of Southern California (USC), and University of California-Irvine [a partner of UCSD in Cal-(IT)2].<br><br>
+
+Professor Tom DeFanti, project co-PI and director of EVL, is responsible for overall project coordination of people and resources at UIC and NU in Chicago, including education outreach at the Lincoln Elementary School in the Chicago suburbs. Maxine Brown, EVL co-director, is overall OptIPuter project manager. Jason Leigh, project co-PI and EVL&rsquo;s Senior Research Scientist, is leading the distributed volume visualization - information, visualization - tiled display - collaboration efforts. Tom DeFanti and Professor Oliver Yu of the UIC Electrical and Computer Engineering Department are using Chicago&rsquo;s metropolitan testbed for lambdas and control plane architecture experiments. UIC&rsquo;s <a href='http://www.ncdm.uic.edu'>Laboratory for Advanced Computing (LAC)</a>, led by Professor Bob Grossman, is responsible for data-mining software and hardware and the data-mining part of homeland security. Professor Tom Moher of the UIC Computer Science Department is responsible for the elementary school outreach component. Alan Verlo, EVL associate director, is the Chicago OptIPuter network and cluster engineer.<br><br>
+<!-- End Entry Description -->
+	<strong>Email:</strong> <a href='mailto:tom@uic.edu'>tom@uic.edu</a><br><br>
+	<strong>Date:</strong> October 1, 2002 - September 30, 2007
+</div>
+<!-- End Entry Info -->
+			</div>
+		</td>
+		<td style='width:374px;'>
+			<div id='entry_sidebar'>
+<!-- Begin Entry Sidebar -->
+<div id='entry_image_small'>
+	<img style='left:0; ' src='/resizedImages/350x622-optiputer_animate.gif' alt='' title='The OptIPuter' width='350' height='258'>
+</div>
+<span class='smallText'>Advanced Visualization Tiled Display - Luc Renambot, EVL</span><br><br>
+<div class='entry_content'>
+	<h3>Related Entries</h3>
+	<strong>Directory:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=23'>Alan Verlo</a></li>
+		<li><a href='/entry.php?id=178'>Maxine Brown</a></li>
+		<li><a href='/entry.php?id=16'>Tom Moher</a></li>
+		<li><a href='/entry.php?id=192'>Luc Renambot</a></li>
+		<li><a href='/entry.php?id=21'>Jason Leigh</a></li>
+		<li><a href='/related.php?id=1839&amp;related=2'><strong>View more&hellip;</strong></a></li>
+	</ul><br>
+	<strong>Events:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=930'>Ultra-high-speed, made ultra-easy</a></li>
+		<li><a href='/entry.php?id=924'>Calit2 and EVL: CAVEwave, OptIPuter as Catalysts for Wide-Ranging Innovations</a></li>
+		<li><a href='/entry.php?id=911'>Advanced Cyber-Classroom Opens at the University of Illinois at Chicago</a></li>
+		<li><a href='/entry.php?id=875'>AAAS 2009 Annual Meeting</a></li>
+		<li><a href='/entry.php?id=866'>LambdaRAM, Venkatraman Vishwanath, PhD Defense</a></li>
+		<li><a href='/related.php?id=1839&amp;related=3'><strong>View more&hellip;</strong></a></li>
+	</ul><br>
+	<strong>Papers:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=1560'>Visualizing Science: The OptIPuter Project</a></li>
+		<li><a href='/entry.php?id=1551'>Visualcasting: Scalable Real-time Image Distribution in Ultra-High Resolution Display Environments</a></li>
+		<li><a href='/entry.php?id=1569'>LambdaRAM: A High-Performance, Multi-Dimensional, Distributed Cache Over Ultra-High Speed Networks</a></li>
+		<li><a href='/entry.php?id=1548'>The Rails Toolkit (RTK) - Enabling End-System Topology-Aware High End Computing</a></li>
+		<li><a href='/entry.php?id=1567'>Scalable Adaptive Graphics middleware for visualization streaming and collaboration in ultra resolution display environments</a></li>
+		<li><a href='/related.php?id=1839&amp;related=4'><strong>View more&hellip;</strong></a></li>
+	</ul><br>
+	<strong>Research:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=1874'>LambdaVision</a></li>
+		<li><a href='/entry.php?id=1882'>SAGE: Scalable Adaptive Graphics Environment</a></li>
+		<li><a href='/entry.php?id=1845'>JuxtaView</a></li>
+		<li><a href='/entry.php?id=2053'>Effective Use of Large Visualization Displays</a></li>
+		<li><a href='/entry.php?id=1862'>Vol-a-Tile</a></li>
+		<li><a href='/related.php?id=1839&amp;related=5'><strong>View more&hellip;</strong></a></li>
+	</ul><br>
+	<h3>Related Categories</h3>
+	<ul>
+		<li><a href='/category.php?id=3&amp;related=5'>Applications</a></li>
+		<li><a href='/category.php?id=19&amp;related=5'>Networking</a></li>
+		<li><a href='/category.php?id=20&amp;related=5'>Software</a></li>
+		<li><a href='/category.php?id=23&amp;related=5'>Tele-Immersion</a></li>
+		<li><a href='/category.php?id=27&amp;related=5'>Visualization</a></li>
+	</ul>
+</div>
+<!-- End Entry Sidebar-->
+			</div>
+		</td>
+	</tr>
+</table>
+<!-- End Entry -->
+<script>
+	// Making both divs the same height is much easier in JavaScript
+	var entryInfo = document.getElementById("entry_info");
+	var entrySidebar = document.getElementById("entry_sidebar");
+	
+	if (entryInfo && entrySidebar) {
+		var maxHeight = Math.max(entryInfo.offsetHeight, entrySidebar.offsetHeight)-20;
+		entryInfo.style.height = maxHeight+"px";
+		entrySidebar.style.height = maxHeight+"px";
+	}
+</script>
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

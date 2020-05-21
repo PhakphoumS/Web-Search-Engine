@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Entry -->
+<table id='entry_area' class='fixedTable'>
+	<tr>
+		<td style='width:676px;'>
+			<div id='entry_info'>
+<!-- Begin Entry Info -->
+<h3>UIC / EVL&rsquo;s CAVE2 featured in Discover magazine, July / August 2014 issue</h3>
+<div id='entry_image_large'><img style='left:36px;' src='/resizedImages/1280x720-connectome_discover_6-20-19.jpg' alt='' title='UIC / EVL&rsquo;s CAVE2 featured in Discover magazine, July / August 2014 issue' width='568' height='360'></div>
+<span class='smallText'>The brain&rsquo;s neural fiber tracts are shown on 72 3-D LCD screens that line the inside of a 24-foot-wide, 8-foot-tall, 320-degree room at UIC - Lance Long, UIC / EVL</span><br><br>
+<div class='entry_content'>
+		<strong>URL:</strong> <a href='http://discovermagazine.com/2014/julyaug' target='_blank'>http://discovermagazine.com/2014/julyaug</a><br><br>
+	UIC / EVL<br><br>
+<!-- Begin Entry Description -->
+Discover magazine&rsquo;s July / August 2014 issue features the story &ldquo;Fantastic Voyages: Immersive 3-D environments give researchers a chance to travel through their data - and visualize a protein&rsquo;s structure, a hurricane&rsquo;s size or depression&rsquo;s circuit in the brain.&rdquo;<br><br>
+
+Author Linda Marsa profiles five immersive environments - at University of Illinois at Chicago (UIC), UC Santa Barbara, UC San Diego, Stony Brook University, and the Texas Advanced Computing Center (TACC) at University of Texas, Austin. Though dozens of immersive environments are now routinely used at universities, government agencies and key research centers, Marsa selected these institutions because they have innovative applications.<br><br>
+
+The article first motivates the need. &ldquo;Immersive environments - 3-D virtual-reality worlds - can help us make sense of [big data] in a tangible way&hellip; These electronically simulated worlds of sight and sound cut through a lot of the noise of big data, and they enable researchers to synthesize, manipulate and analyze large data sets in a way that is easier to comprehend and digest, providing unparalleled insights into the whole picture and how each individual piece fits in.&rdquo;<br><br>
+
+Andrew Johnson, EVL director of research, is quoted in the article, further motivating the need for these large displays. &ldquo;We have so much data that we need these bigger lenses to get a full picture of what&rsquo;s really going on&hellip; These kinds of environments are lenses to look at data - the modern equivalent of the microscope or telescope.&rdquo;<br><br>
+
+The article profiles a variety of applications. Specific to UIC, it discusses EVL&rsquo;s work with UIC psychiatrist Olusola Ajilore, who is mapping the brain&rsquo;s neural connections to identify regions responsible for depression, and it discusses EVL&rsquo;s work UIC earth and environmental scientist Peter Doran, who is trying to better understand underwater data collected by a remotely operated vehicle in Antarctica&rsquo;s West Lake Bonney. Both Ajilore and Doran provide testimonials to the need for large-scale 3-D displays to comprehend their data.<br><br>
+
+EVL co-founder and director emeritus Tom DeFanti, who with EVL co-founder and director emeritus Dan Sandin developed the original CAVE automatic virtual environment at UIC in 1992, is also quoted in the article. &ldquo;&lsquo;Originally, we created these [immersive environments] as an educational tool for visualizing concepts and ideas - in place of a blackboard and hand waving - to help people see things they never did before,&rsquo; says Thomas DeFanti, a research scientist at UC San Diego&rsquo;s California Institute for Telecommunications and Information Technology and a pioneer of virtual-reality systems. &lsquo;But the newest technology gives you the feeling of true immersion that makes for a completely riveting experience.&rsquo;&rdquo;<br><br>
+
+The article is not currently available on the Discover website; a copy for internal UIC use is attached.<br>
+<a href="http://discovermagazine.com/2014/julyaug">Purchase the Discover magazine.</a><br><br>
+<!-- End Entry Description -->
+	<strong>Email:</strong> <a href='mailto:maxine@uic.edu'>maxine@uic.edu</a><br><br>
+	<strong>Date:</strong> June 18, 2014<br><br>
+	<strong>Document:</strong> <a href='/documents/evl-discovermagazine-07-2014.pdf'>Discover Magazine for UIC internal use</a>
+</div>
+<!-- End Entry Info -->
+			</div>
+		</td>
+		<td style='width:374px;'>
+			<div id='entry_sidebar'>
+<!-- Begin Entry Sidebar -->
+<div class='entry_content'>
+	<h3>Related Entries</h3>
+	<strong>Research:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2021'>Connectome</a></li>
+		<li><a href='/entry.php?id=2027'>ENDURANCE (Environmentally Non-Disturbing Under-ice Robotic ANtarctiC Explorer)</a></li>
+		<li><a href='/entry.php?id=2031'>ENDURANCE (Environmentally Non-Disturbing Under-ice Robotic ANtarctiC Explorer) (SAGE&trade; Collaboration)</a></li>
+		<li><a href='/entry.php?id=2016'>CAVE2: Next-Generation Virtual-Reality and Visualization Hybrid Environment for Immersive Simulation and Information Analysis</a></li>
+		<li><a href='/entry.php?id=1769'>The CAVE&trade; Virtual Reality Theater</a></li>
+		<li><a href='/related.php?id=1165&amp;related=5'><strong>View more&hellip;</strong></a></li>
+	</ul><br>
+	<h3>No Related Categories</h3>
+</div>
+<!-- End Entry Sidebar-->
+			</div>
+		</td>
+	</tr>
+</table>
+<!-- End Entry -->
+<script>
+	// Making both divs the same height is much easier in JavaScript
+	var entryInfo = document.getElementById("entry_info");
+	var entrySidebar = document.getElementById("entry_sidebar");
+	
+	if (entryInfo && entrySidebar) {
+		var maxHeight = Math.max(entryInfo.offsetHeight, entrySidebar.offsetHeight)-20;
+		entryInfo.style.height = maxHeight+"px";
+		entrySidebar.style.height = maxHeight+"px";
+	}
+</script>
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Entry -->
+<table id='entry_area' class='fixedTable'>
+	<tr>
+		<td style='width:676px;'>
+			<div id='entry_info'>
+<!-- Begin Entry Info -->
+<h3>Perspectives from the SC Perennials</h3>
+<div id='entry_image_large'><img style='left:48px;' src='/resizedImages/1280x720-sc30year_perennials.jpg' alt='' title='Perspectives from the SC Perennials' width='544' height='360'></div>
+<span class='smallText'>Perennials gather for a group photo at SC18. (Maxine Brown is on the right.)</span><br><br>
+<div class='entry_content'>
+	<strong>Participants:</strong> <a href='/entry.php?id=178'>Maxine Brown</a><br><br>
+<!-- Begin Entry Description -->
+JUNE 6, 2018 - Maxine Brown, Director of the Electronic Visualization Laboratory (EVL) in the department of Computer Science at University of Illinois at Chicago (UIC), is a &ldquo;Perennial&rdquo; - the name given to individuals who have had perfect attendance in the 30-year history of the IEEE/ACM Supercomputing (SC) professional conference. One of 17 people with this distinction, Brown is profiled with the other Perennials in the latest SC Blog, titled &ldquo;30 Years - and the Journey Continues: Perspectives from the SC Perennials.&rdquo;<br><br>
+Though this year marks the official 30th anniversary of the SC conference, 2018 actually marks the Perennials&rsquo; 31st consecutive attendance. The first conference was held in 1988 in Orlando, Florida, with fewer than 1,500 attendees, while this year&rsquo;s event in Dallas, Texas, is expected to attract 11,000 international participants. Over the years, the conference has also broadened its scope, from being supercomputer-centric to being about high-performance computing, networking, storage and analysis.<br><br>
+In 1988, Brown had been at UIC for two years and was EVL&rsquo;s Associate Director. She had approached the chair of this fledgling conference to propose they hold a Visualization Theater, showcasing films and videos from researchers who used computer graphics to visualize complex data from supercomputers and instruments; and, when the chair enthusiastically agreed, she organized and hosted it. EVL also had a research booth with collaborator Ellen Sandor of (Art)n Laboratory to display &ldquo;phscolograms&rdquo; (auto-stereo 3D images) of scientific and mathematical images, in order to meet potential collaborators.<br><br>
+As Brown mentions in the SC Blog article, her fondest memory of early SC conferences was attendee enthusiasm for the CAVE&trade; Virtual Reality Theater, which was invented by EVL and premiered at a different conference in the summer of 1992. SC folks saw it, and requested EVL bring it to SC92 in Minneapolis, and then again to SC93 in Portland - and again to SC95 in San Diego!<br><br>
+Brown, and EVL, continue to be active in SC conferences, participating in the large research exhibition, most recently demonstrating the lab&rsquo;s SAGE2 collaboration software (a joint project of UIC and University of Hawaii at Manoa), and holding SAGE2 Birds-of-a-Feather sessions to meet with its global user community.<br><br>
+<a href="https://sc18.supercomputing.org/30-years-and-the-journey-continues-perspectives-from-the-sc-perennials/">Read the SC Blog article.</a><br><br>
+<!-- End Entry Description -->
+	<strong>Email:</strong> <a href='mailto:maxine@uic.edu'>maxine@uic.edu</a><br><br>
+	<strong>Date:</strong> June 6, 2018
+</div>
+<!-- End Entry Info -->
+			</div>
+		</td>
+		<td style='width:374px;'>
+			<div id='entry_sidebar'>
+<!-- Begin Entry Sidebar -->
+<div class='entry_content'>
+	<h3>Related Entries</h3>
+	<strong>Directory:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=178'>Maxine Brown</a></li>
+	</ul><br>
+	<strong>Events:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2403'>SAVE THE DATE: SAGE2 10th Annual International SC BOF @ SC18 - Tuesday, November 13, 12:15 - 1:15pm</a></li>
+	</ul><br>
+	<h3>Related Categories</h3>
+	<ul>
+		<li><a href='/category.php?id=22&amp;related=3'>Supercomputing</a></li>
+	</ul>
+</div>
+<!-- End Entry Sidebar-->
+			</div>
+		</td>
+	</tr>
+</table>
+<!-- End Entry -->
+<script>
+	// Making both divs the same height is much easier in JavaScript
+	var entryInfo = document.getElementById("entry_info");
+	var entrySidebar = document.getElementById("entry_sidebar");
+	
+	if (entryInfo && entrySidebar) {
+		var maxHeight = Math.max(entryInfo.offsetHeight, entrySidebar.offsetHeight)-20;
+		entryInfo.style.height = maxHeight+"px";
+		entrySidebar.style.height = maxHeight+"px";
+	}
+</script>
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

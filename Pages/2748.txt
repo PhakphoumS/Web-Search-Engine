@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Category -->
+<!-- Begin Category Pagination -->
+<div class='category_area'>
+	<div class='category_content'>
+		<h3>Tele-Collaboration</h3><br>
+		<strong>Related:</strong>
+		<a href='/category.php?id=34&amp;related=2'>Directory</a>&nbsp;&nbsp;
+		<a href='/category.php?id=34&amp;related=3'>Events</a>&nbsp;&nbsp;
+		<a href='/category.php?id=34&amp;related=4'>Papers</a>&nbsp;&nbsp;
+		<a href='/category.php?id=34&amp;related=5'><strong>Research</strong></a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End Category Pagination -->
+<div class='category_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin Category List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2494'><img src='/resizedImages/500x280-crop-sage3-2.png' alt='' title='Collaborative Research: CSSI Frameworks: SAGE3: Smart Amplified Group Environment for Harnessing the Data Revolution' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2494'>Collaborative Research: CSSI Frameworks: SAGE3: Smart Amplified Group Environment for Harnessing the Data Revolution</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=49'>Lance Long</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a><br>
+			May 15, 2020 - April 30, 2025<br><br>
+			UIC PI: Maxine Brown, co-PIs: Andrew Johnson, Luc Renambot University of Hawaii Manoa PI: Jason Leigh Virginia Polytechnic PI: Chirstopher North NSF&hellip; <a href='/entry.php?id=2494'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2402'><img src='/resizedImages/500x280-crop-sage2cybersecurity_sm-2.jpg' alt='' title='SAGE2 Team Engaging with the Trusted CI Center on SAGE2 Cybersecurity' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2402'>SAGE2 Team Engaging with the Trusted CI Center on SAGE2 Cybersecurity</a></strong><br>
+			<a href='/entry.php?id=2415'>Mirko Mantovani</a><br>
+			October 1, 2018 - September 30, 2019<br><br>
+			The SAGE Development Team at the Laboratory for Advanced Visualization &amp; Applications (LAVA) at the University of Hawaiʻi at Manoa and the&hellip; <a href='/entry.php?id=2402'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2442'><img src='/resizedImages/500x280-crop-continuum2019_renambot.jpg' alt='' title='Spatial Audio in the Continuum Environment' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2442'>Spatial Audio in the Continuum Environment</a></strong><br>
+			<a href='/entry.php?id=2362'>Sean Walker</a><br>
+			May 22, 2018 - May 22, 2019<br><br>
+			The Continuum environment is a high-resolution computer-enhanced group collaboration workspace, consisting of large format 2D touch-enabled and 3D&hellip; <a href='/entry.php?id=2442'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2316'><img src='/resizedImages/500x280-crop-continuumrendering.png' alt='' title='MRI - Development of Continuum: A Virtualized Attentive Environment for Amplified Collaboration' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2316'>MRI - Development of Continuum: A Virtualized Attentive Environment for Amplified Collaboration</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=2278'>Debaleena Chattopadhyay</a>, <a href='/entry.php?id=2052'>G. Elisabeta Marai</a>, <a href='/entry.php?id=2368'>Jack O'Donnell</a>, <a href='/entry.php?id=285'>Jillian Aurisano</a>, <a href='/entry.php?id=2322'>Joe Borowicz</a>, <a href='/entry.php?id=24'>Jonas Talandis</a>, <a href='/entry.php?id=2371'>Kayla Condrella</a>, <a href='/entry.php?id=2370'>Kenan Arica</a>, <a href='/entry.php?id=49'>Lance Long</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=2367'>Michael Avendano</a>, <a href='/entry.php?id=2453'>Navya Reddy</a>, <a href='/entry.php?id=14'>Robert V. Kenyon</a>, <a href='/entry.php?id=2445'>Sumayya Siddiqui</a>, <a href='/entry.php?id=2448'>Szymon Popowski</a>, <a href='/entry.php?id=2303'>Vijayraj Mahida</a>, Barbara DiEugenio<br>
+			October 1, 2016 - September 30, 2019<br><br>
+			Just as NSF cyberinfrastructure produces greater volumes and varieties of data from data storage systems, online instrumentation and major&hellip; <a href='/entry.php?id=2316'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2218'><img src='/resizedImages/500x280-crop-sageboard_pellolio.png' alt='' title='SAGEBoard: a Whiteboard for Large Multitouch Displays' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2218'>SAGEBoard: a Whiteboard for Large Multitouch Displays</a></strong><br>
+						August 16, 2015 - May 3, 2016<br><br>
+			SAGEBoard is an electronic whiteboard for tiled touch displays that can be used locally or shared between remote collaborators. An electronic&hellip; <a href='/entry.php?id=2218'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1971'><img src='/resizedImages/500x280-crop-cyber-commons.jpg' alt='' title='Cyber-Commons' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1971'>Cyber-Commons</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a><br>
+			January 1, 2008 - January 1, 2018<br><br>
+			A Cyber-Commons is a technology-enhanced meeting room on a university campus that supports local and distance collaboration and promotes&hellip; <a href='/entry.php?id=1971'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<!-- End Category List -->
+	</table>
+</div>
+<!-- End Category -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

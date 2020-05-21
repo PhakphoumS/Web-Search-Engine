@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Entry -->
+<table id='entry_area' class='fixedTable'>
+	<tr>
+		<td style='width:676px;'>
+			<div id='entry_info'>
+<!-- Begin Entry Info -->
+<h3>Spatial Audio in the Continuum Environment</h3>
+<div id='entry_image_large'><img style='left:13px;' src='/resizedImages/1280x720-continuum2019_renambot.jpg' alt='' title='Spatial Audio in the Continuum Environment' width='614' height='360'></div>
+<span class='smallText'>photo courtesy - Luc Renambot, ECL</span><br><br>
+<div class='entry_content'>
+	<strong>Researchers:</strong> <a href='/entry.php?id=2362'>Sean Walker</a><br><br>
+<!-- Begin Entry Description -->
+The Continuum environment is a high-resolution computer-enhanced group collaboration workspace, consisting of large format 2D touch-enabled and 3D tiled displays, and instrumented with arrays of ambient sensors, enabling users to collaborate with local and remote colleagues and their data more effectively by giving the room itself the ability to anticipate their needs, improve their interaction, and focus their time on discovery rather than the technology.<br><br>
+EVL&rsquo;s SAGE2 middleware enables teams of users to manage their data, documents, images and media on the Continuum display walls as if the room were one seamless canvas. SAGE2 lets users post and manipulate information, visualizations and animations across the Continuum displays. EVL REU Sean Walker developed a spatial audio system that ties audio playback from SAGE2 media content directly to the media&rsquo;s (i.e. video) location on the display wall.<br><br>
+Additionally, any audio playback in the Continuum environment can be played back from any of the X number of speakers in the space. The spatial audio functionality was implemented using AVB (Audio Video Bridging) to connect all of the speakers positioned throughout the room coupled with SuperCollider (a functional programming language for audio) to pan the sound around the space.<br><br><br><br>
+<!-- End Entry Description -->
+	<strong>Date:</strong> May 22, 2018 - May 22, 2019
+</div>
+<!-- End Entry Info -->
+			</div>
+		</td>
+		<td style='width:374px;'>
+			<div id='entry_sidebar'>
+<!-- Begin Entry Sidebar -->
+<div class='entry_content'>
+	<h3>Related Entries</h3>
+	<strong>Directory:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2362'>Sean Walker</a></li>
+	</ul><br>
+	<strong>Research:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=1802'>The Continuum Project</a></li>
+	</ul><br>
+	<h3>Related Categories</h3>
+	<ul>
+		<li><a href='/category.php?id=3&amp;related=5'>Applications</a></li>
+		<li><a href='/category.php?id=37&amp;related=5'>Remote Collaboration</a></li>
+		<li><a href='/category.php?id=20&amp;related=5'>Software</a></li>
+		<li><a href='/category.php?id=21&amp;related=5'>Sound Art</a></li>
+		<li><a href='/category.php?id=34&amp;related=5'>Tele-Collaboration</a></li>
+	</ul>
+</div>
+<!-- End Entry Sidebar-->
+			</div>
+		</td>
+	</tr>
+</table>
+<!-- End Entry -->
+<script>
+	// Making both divs the same height is much easier in JavaScript
+	var entryInfo = document.getElementById("entry_info");
+	var entrySidebar = document.getElementById("entry_sidebar");
+	
+	if (entryInfo && entrySidebar) {
+		var maxHeight = Math.max(entryInfo.offsetHeight, entrySidebar.offsetHeight)-20;
+		entryInfo.style.height = maxHeight+"px";
+		entrySidebar.style.height = maxHeight+"px";
+	}
+</script>
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

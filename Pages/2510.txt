@@ -1,0 +1,516 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin List -->
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Year:</strong>
+		<a href='/list.php?id=3&amp;year=2020'>2020</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2019'>2019</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2018'>2018</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2017'>2017</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2016'>2016</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2015'>2015</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2014'>2014</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2013'>2013</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2012'>2012</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2011'>2011</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2010'>2010</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2009'>2009</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2008'>2008</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2007'>2007</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2006'>2006</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2005'>2005</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2004'>2004</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2003'>2003</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2002'>2002</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2001'>2001</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2000'>2000</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1999'><strong>1999</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1998'>1998</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1997'>1997</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1996'>1996</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1995'>1995</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1994'>1994</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1993'>1993</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1992'>1992</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1987'>1987</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1979'>1979</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1976'>1976</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1975'>1975</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1974'>1974</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1973'>1973</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<div id='list_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin List List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=352'><img src='/resizedImages/500x280-crop-viseye.jpg' alt='' title='Randy Smith Recognized / VisualEyes' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=352'>Randy Smith Recognized / VisualEyes</a></strong><br>
+						December 1, 1999<br><br>
+			Randall C. Smith has received the 1999 &ldquo;Boss&rdquo; Kettering Award from General Motors, the corporation&rsquo;s top technical honor. Smith has&hellip; <a href='/entry.php?id=352'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=400'><img src='/resizedImages/500x280-crop-vrml.jpg' alt='' title='Biomedical Tele-Immersion with the College of Medicine' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=400'>Biomedical Tele-Immersion with the College of Medicine</a></strong><br>
+			<a href='/entry.php?id=195'>Mary Rasmussen</a>, Walter Panko, Jonathan Silverstein<br>
+			December 1, 1999<br><br>
+			The University of Illinois at Chicago College of Medicine will introduce biomedical tele-immersion into the curriculum of surgical residents&hellip; <a href='/entry.php?id=400'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=348'><img src='/resizedImages/500x280-crop-sc99logo.gif' alt='' title='TIDE at Supercomputing &rsquo;99' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=348'>TIDE at Supercomputing &rsquo;99</a></strong><br>
+			<a href='/entry.php?id=56'>Chris Scharver</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=55'>Nikita Sawant</a>, Gerog Reinhart, Suma Batchu, Emory Creel, Stuart Bailey, Robert Grossman<br>
+			November 13, 1999 - November 19, 1999<br><br>
+			The Tele-Immersive Data Explorer (TIDE) is a CAVERNsoft-based collaborative, immersive environment for querying and visualizing data from massive and&hellip; <a href='/entry.php?id=348'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=399'><img src='/resizedImages/500x280-crop-reactor.jpg' alt='' title='Foundation of the Hellenic World Premieres ReaCTor' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=399'>Foundation of the Hellenic World Premieres ReaCTor</a></strong><br>
+			<a href='/entry.php?id=134'>Maria Roussou</a><br>
+			November 8, 1999<br><br>
+			November 8, 1999, The Foundation of the Hellenic World (FHW) launches its latest virtual reality experience, ReaCTor, a CAVE-like environment&hellip; <a href='/entry.php?id=399'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=396'><img src='/resizedImages/500x280-crop-ivrilogo.jpg' alt='' title='Industrial Virtual Reality Symposium 1999' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=396'>Industrial Virtual Reality Symposium 1999</a></strong><br>
+			<a href='/entry.php?id=5'>Dana M. Plepys</a>, <a href='/entry.php?id=22'>Darren Thompson</a>, Pat Banerjee<br>
+			November 1, 1999 - November 2, 1999<br><br>
+			The Industrial Virtual Reality Symposium, hosted by the National Institute of Standards and Technology and the Industrial Virtual Reality Institute&hellip; <a href='/entry.php?id=396'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=397'><img src='/resizedImages/500x280-crop-lincoln.jpg' alt='' title='Virtual Reality in Education News' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=397'>Virtual Reality in Education News</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=121'>Carlos Orrego</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=65'>Joseph Alexander</a>, <a href='/entry.php?id=134'>Maria Roussou</a>, <a href='/entry.php?id=16'>Tom Moher</a>, <a href='/entry.php?id=46'>Ya Lu Lin</a>, <a href='/entry.php?id=30'>Yongjoo Cho</a>, S. Ohlsson, M. Gillingham, M. Orr, J. Jain, J. Hemmerich<br>
+			October 1, 1999<br><br>
+			EVL has installed an ImmersaDesk in the Abraham Lincoln Elementary school as a continuation of research into the use of virtual reality and&hellip; <a href='/entry.php?id=397'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=398'><img src='/resizedImages/500x280-crop-koolhaas.jpg' alt='' title='Rem Koolhaas Uses the CAVE for Architectural Design' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=398'>Rem Koolhaas Uses the CAVE for Architectural Design</a></strong><br>
+			<a href='/entry.php?id=5'>Dana M. Plepys</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, E. Breedveld, J. Adriaanse, A. Koning, P. Wielinga<br>
+			October 1, 1999<br><br>
+			ALIVE will allow Dutch architect Rem Koolhaas to work on his design for the New Campus Center at the Illinois Institute of Technology in Chicago&hellip; <a href='/entry.php?id=398'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=401'><img src='/resizedImages/500x280-crop-g2.jpg' alt='' title='Next Generation CAVERNsoft (G2) Released' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=401'>Next Generation CAVERNsoft (G2) Released</a></strong><br>
+			<a href='/entry.php?id=56'>Chris Scharver</a>, <a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=52'>Kyoung Shin Park</a>, <a href='/entry.php?id=143'>Matthew Szymanski</a>, <a href='/entry.php?id=45'>Michael Lewis</a>, <a href='/entry.php?id=44'>Naveen Krishnaprasad</a>, <a href='/entry.php?id=30'>Yongjoo Cho</a><br>
+			October 1, 1999<br><br>
+			CAVERNsoft G2 is a C++ toolkit for building collaborative networked applications or &ldquo;logistical networking&rdquo; applications. It has low and&hellip; <a href='/entry.php?id=401'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=394'><img src='/resizedImages/500x280-crop-emerge.jpg' alt='' title='EVL Partners in EMERGE' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=394'>EVL Partners in EMERGE</a></strong><br>
+			<a href='/entry.php?id=6'>Thomas A. DeFanti</a>, EVL faculty, staff, and students<br>
+			September 1, 1999<br><br>
+			ESnet / MREN Regional Grid Experimental NGI Testbed EVL is a partner in EMERGE, which intends to demonstrate Differentiated Services over an IP / ATM&hellip; <a href='/entry.php?id=394'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=346'><img src='/resizedImages/500x280-crop-aglogo.jpg' alt='' title='National Computational Science Alliance Chautauquas' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=346'>National Computational Science Alliance Chautauquas</a></strong><br>
+			<a href='/entry.php?id=5'>Dana M. Plepys</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=108'>Johnny Lawson</a><br>
+			August 9, 1999 - September 15, 1999<br><br>
+			EVL participated as a remote site in the National Computational Science Alliance&rsquo;s Chautauqua event series 1999. The Chautauqua lectures are&hellip; <a href='/entry.php?id=346'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=393'><img src='/resizedImages/500x280-crop-s99.gif' alt='' title='EVLers Participate in SIGGRAPH 99' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=393'>EVLers Participate in SIGGRAPH 99</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=12'>Josephine Anstey</a>, <a href='/entry.php?id=86'>Margaret Dolinsky</a><br>
+			August 8, 1999 - August 13, 1999<br><br>
+			SIGGRAPH, the ACM Special Interest Group on Computer Graphics, celebrates its thirtieth anniversary in Los Angeles, August 8-13. &ldquo;The Round&hellip; <a href='/entry.php?id=393'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=694'><img src='/resizedImages/500x280-crop-rndearthpostcard.jpg' alt='' title='Round Earth Video Shown During SIGGRAPH 99 Evening Show' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=694'>Round Earth Video Shown During SIGGRAPH 99 Evening Show</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=74'>Jim Costigan</a>, <a href='/entry.php?id=65'>Joseph Alexander</a>, <a href='/entry.php?id=16'>Tom Moher</a>, Stellan Ohlsson, Mark Gillingham<br>
+			August 8, 1999 - August 13, 1999<br><br>
+			A video documenting the Round Earth Project was selected to be part of the Electronic Theater at SIGGRAPH 99, and was shown at Mann&rsquo;s Chinese&hellip; <a href='/entry.php?id=694'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=392'><img src='/resizedImages/500x280-crop-igram.gif' alt='' title='IEEE Computer Society Information Visualization &rsquo;99' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=392'>IEEE Computer Society Information Visualization &rsquo;99</a></strong><br>
+			<a href='/entry.php?id=5'>Dana M. Plepys</a>, <a href='/entry.php?id=86'>Margaret Dolinsky</a>, <a href='/entry.php?id=66'>Mohammed Dastagir Ali</a><br>
+			July 14, 1999 - July 16, 1999<br><br>
+			&ldquo;Collaborative Visualization: New Advances in Documenting Virtual Reality with IGrams&rdquo; will be presented at the IEEE International&hellip; <a href='/entry.php?id=392'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=395'><img src='/resizedImages/500x280-crop-el.gif' alt='' title='EuroLink Consortium Connects to NSF Research Network through STAR TAP' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=395'>EuroLink Consortium Connects to NSF Research Network through STAR TAP</a></strong><br>
+			<a href='/entry.php?id=6'>Thomas A. DeFanti</a>, EVL faculty, staff, and students<br>
+			June 1, 1999<br><br>
+			EVL has received a major award from the National Science Foundation (NSF) to facilitate the connection of National Research Networks (NRNs) in&hellip; <a href='/entry.php?id=395'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=345'><img src='/resizedImages/500x280-crop-artech99.jpg' alt='' title='Mediartech 99' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=345'>Mediartech 99</a></strong><br>
+			<a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=12'>Josephine Anstey</a><br>
+			May 25, 1999 - May 29, 1999<br><br>
+			Josephine Anstey and Dave Pape represented EVL at the Mediartech 99 Conference. &ldquo;The Thing Growing&rdquo;, a virtual, interactive narrative&hellip; <a href='/entry.php?id=345'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=388'><img src='/resizedImages/500x280-crop-chi99_logo_new.gif' alt='' title='Moher Presents at CHI &rsquo;99' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=388'>Moher Presents at CHI &rsquo;99</a></strong><br>
+			<a href='/entry.php?id=16'>Tom Moher</a><br>
+			May 15, 1999 - May 20, 1999<br><br>
+			Tom Moher attended CHI &rsquo;99 to present the latest research on &ldquo;The Round Earth&rdquo; project in the paper entitled &ldquo;Bridging&hellip; <a href='/entry.php?id=388'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=344'><img src='/resizedImages/500x280-crop-nyfest.gif' alt='' title='Contrast (1997)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=344'>Contrast (1997)</a></strong><br>
+			<a href='/entry.php?id=31'>Ralph De Stefano</a><br>
+			May 13, 1999 - May 15, 1999<br><br>
+			&ldquo;Contrast&rdquo; (1997), an animated film by Ralph De Stefano was selected out of 400 international entries for screening at the New York&hellip; <a href='/entry.php?id=344'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=340'><img src='/resizedImages/500x280-crop-ipt99.jpg' alt='' title='Third International Immersive Projection Technology Workshop' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=340'>Third International Immersive Projection Technology Workshop</a></strong><br>
+			<a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=134'>Maria Roussou</a><br>
+			May 10, 1999 - May 11, 1999<br><br>
+			EVL&rsquo;s latest research on projection-based VR technologies and device development was presented at IPT &rsquo;99; &ldquo;The ImmersaDesk3&hellip; <a href='/entry.php?id=340'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=343'><img src='/resizedImages/500x280-crop-nature.gif' alt='' title='Second Nature' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=343'>Second Nature</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=1'>John Landry</a>, <a href='/entry.php?id=65'>Joseph Alexander</a>, <a href='/entry.php?id=12'>Josephine Anstey</a>, <a href='/entry.php?id=86'>Margaret Dolinsky</a>, <a href='/entry.php?id=58'>Samroeng Thongrong</a>, <a href='/entry.php?id=46'>Ya Lu Lin</a>, Muhammad Ali Khan<br>
+			May 9, 1999 - June 21, 1999<br><br>
+			EVL students took part in this exhibition of digital and electronic media art curated by Paul Hertz of Northwestern University. Margaret Dolinsky&hellip; <a href='/entry.php?id=343'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=389'><img src='/resizedImages/500x280-crop-multiplex.jpg' alt='' title='Multiplex - MFA Thesis Show' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=389'>Multiplex - MFA Thesis Show</a></strong><br>
+			<a href='/entry.php?id=65'>Joseph Alexander</a>, <a href='/entry.php?id=89'>Tom Frisch</a><br>
+			April 30, 1999 - May 1, 1999<br><br>
+			Tom Frisch and Joseph Alexander&rsquo;s joint MFA Thesis Exhibition consisted of twelve short pieces of film, video, and animation presented at the&hellip; <a href='/entry.php?id=389'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=390'><img src='/resizedImages/500x280-crop-ddthesis.jpg' alt='' title='Pure Illusion, Pure Beauty :: MFA Thesis Exhibition' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=390'><em>Pure Illusion, Pure Beauty</em> :: MFA Thesis Exhibition</a></strong><br>
+			<a href='/entry.php?id=80'>Daniel Davidson</a><br>
+			April 23, 1999 - April 24, 1999<br><br>
+			Dan Davidson will present Pure Illusion, Pure Beauty, a solo exhibition of wall paintings, video works, and a web site as his MFA Thesis&hellip; <a href='/entry.php?id=390'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=391'><img src='/resizedImages/500x280-crop-mass.jpg' alt='' title='MASS Ensemble Performance' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=391'>MASS Ensemble Performance</a></strong><br>
+			<a href='/entry.php?id=17'>Joe Reitzer</a>, Close, Sanchez, Harvey, Quinn, Rothschild, Pullman, Blacke, Pierce<br>
+			April 16, 1999 - April 24, 1999<br><br>
+			The MASS Ensemble will present new work in a site-specific environment in their home neighborhood of Pilsen east. MASS members Close, Sanchez&hellip; <a href='/entry.php?id=391'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=339'><img src='/resizedImages/500x280-crop-walker.jpg' alt='' title='What&rsquo;s Next at the Walker Art Center' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=339'>What&rsquo;s Next at the Walker Art Center</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a><br>
+			April 6, 1999 - April 13, 1999<br><br>
+			Dan Sandin was an invited speaker at the Walker Art Center&rsquo;s lecture series &ldquo;What&rsquo;s Next&rdquo;. His lecture, &ldquo;Virtual&hellip; <a href='/entry.php?id=339'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=338'><img src='/resizedImages/500x280-crop-vrais99.jpg' alt='' title='IEEE Virtual Reality &rsquo;99' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=338'>IEEE Virtual Reality &rsquo;99</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=14'>Robert V. Kenyon</a>, <a href='/entry.php?id=103'>Tomoko Imai</a><br>
+			March 13, 1999 - March 17, 1999<br><br>
+			EVLers presented the following papers at the IEEE Virtual Reality &rsquo;99 Conference: Andy Johnson - &ldquo;The Round Earth Project: Deep Learning&hellip; <a href='/entry.php?id=338'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=337'><img src='/resizedImages/500x280-crop-ef99.gif' alt='' title='Interiors' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=337'>Interiors</a></strong><br>
+			<a href='/entry.php?id=86'>Margaret Dolinsky</a><br>
+			February 26, 1999 - April 9, 1999<br><br>
+			Electronic Fields: Margaret Dolinsky was a collaborative series of virtual reality stills ImmersaGrams (IGrams) created with (art)n Laboratory, and&hellip; <a href='/entry.php?id=337'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=387'><img src='/resizedImages/500x280-crop-nvector.gif' alt='' title='N*Vector Collaboration Continues at EVL' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=387'>N*Vector Collaboration Continues at EVL</a></strong><br>
+			<a href='/entry.php?id=23'>Alan Verlo</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=45'>Michael Lewis</a>, <a href='/entry.php?id=34'>Ray Fang</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			February 1, 1999 - February 2, 1999<br><br>
+			EVL&rsquo;s collaboration with NTT and the University of Tokyo continues when researchers from Japan visit EVL to continue work on the N*Vector&hellip; <a href='/entry.php?id=387'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=336'><img src='/resizedImages/500x280-crop-spie99.gif' alt='' title='Photonics West &rsquo;99' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=336'>Photonics West &rsquo;99</a></strong><br>
+			<a href='/entry.php?id=51'>Dave Pape</a><br>
+			January 23, 1999 - January 29, 1999<br><br>
+			Dave Pape represented EVL at the SPIE Photonics West, presenting two papers: &ldquo;Transparently Supporting a Wide Range of VR and Stereoscopic&hellip; <a href='/entry.php?id=336'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<!-- End List List -->
+	</table>
+</div>
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Year:</strong>
+		<a href='/list.php?id=3&amp;year=2020'>2020</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2019'>2019</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2018'>2018</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2017'>2017</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2016'>2016</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2015'>2015</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2014'>2014</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2013'>2013</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2012'>2012</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2011'>2011</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2010'>2010</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2009'>2009</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2008'>2008</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2007'>2007</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2006'>2006</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2005'>2005</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2004'>2004</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2003'>2003</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2002'>2002</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2001'>2001</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2000'>2000</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1999'><strong>1999</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1998'>1998</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1997'>1997</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1996'>1996</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1995'>1995</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1994'>1994</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1993'>1993</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1992'>1992</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1987'>1987</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1979'>1979</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1976'>1976</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1975'>1975</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1974'>1974</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1973'>1973</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<!-- End List -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

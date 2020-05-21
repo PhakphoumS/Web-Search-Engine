@@ -1,0 +1,448 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+  <title>Illinois Prevention Research Center (Illinois PRC): Supporting Policy &amp; Environmental Change | Institute for Health Research and Policy | University of Illinois at Chicago</title>
+
+  <meta name="verify-v1" content="M3D7RktfZuClXLKtfBxpnsbmXcHxs+8um0cJ6n3SKFE=" />
+<meta name="description" content="This research center, funded by the Centers for Disease Control and Prevention (Agreement No. U48DP005010) was directed by Dr. Lisa Powell, principal investigator, 2014-2019. " />
+
+  
+  <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/study/illinois-prevention-research-center-supporting-policy-and-environmental-change" />
+<link rel="shortlink" href="/node/4073" />
+<link rel="shortcut icon" href="https://www.ihrp.uic.edu/files/favicon.ico" type="image/vnd.microsoft.icon" />
+  <style>
+@import url("https://www.ihrp.uic.edu/modules/system/system.base.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/system/system.messages.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/system/system.theme.css?q8vwl2");
+</style>
+<style>
+@import url("https://www.ihrp.uic.edu/modules/aggregator/aggregator.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/comment/comment.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/date/date_api/date.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/field/theme/field.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/node/node.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/search/search.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/user/user.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/views/css/views.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/ckeditor/css/ckeditor.css?q8vwl2");
+</style>
+<style>
+@import url("https://www.ihrp.uic.edu/sites/all/modules/ctools/css/ctools.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/print/print_ui/css/print_ui.theme.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/css/nice_menus.css?q8vwl2");
+</style>
+<style>
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/tabs.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/print.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/style.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/zen.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/html-elements.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/ihrp_menu.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/ihrp_researcher.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/ihrp_study.css?q8vwl2");
+</style>
+  
+    <link rel="stylesheet" href="/sites/all/themes/ihrp/css/ihrp_main.css" type="text/css"/>
+  
+
+
+  <!--[if IE]>
+    <link rel="stylesheet" href="sites/all/themes/ihrp/css/ie.css" type="text/css"/>
+   
+    <style type="text/css">
+      /* place css fixes for all versions of IE in this conditional comment */
+      .thrColFixHdr #sidebar2, .thrColFixHdr #sidebar1 { padding-top: 30px; }
+      .thrColFixHdr #mainContent { zoom: 1; }
+      /* the above proprietary zoom property gives IE the hasLayout it needs to avoid several bugs */
+    </style>
+  <![endif]-->
+
+  <!--[if IE 5]>
+    <style type="text/css">
+      /* place css box model fixes for IE 5* in this conditional comment */
+      .thrColFixHdr #sidebar1 { width: 180px; }
+      .thrColFixHdr #sidebar2 { width: 190px; }
+    </style>
+  <![endif]-->
+
+  <script src="https://www.ihrp.uic.edu/misc/jquery.js?v=1.4.4"></script>
+<script src="https://www.ihrp.uic.edu/misc/jquery-extend-3.4.0.js?v=1.4.4"></script>
+<script src="https://www.ihrp.uic.edu/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.ihrp.uic.edu/misc/drupal.js?q8vwl2"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/js/jquery.bgiframe.js?v=2.1"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/js/jquery.hoverIntent.js?v=0.5"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/js/superfish.js?v=1.4.8"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/js/nice_menus.js?v=1.0"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/google_analytics/googleanalytics.js?q8vwl2"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-4417342-1", {"cookieDomain":"auto"});ga("send", "pageview");</script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/field_group/field_group.js?q8vwl2"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/themes/ihrp/js/script.js?q8vwl2"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"ihrp","theme_token":"RyxQ8HX1N9gSEb0A2r3n_MmQ2evd0DEUSGLwwUTqw00","js":{"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/mimedetect\/nice_menus\/js\/jquery.bgiframe.js":1,"sites\/all\/modules\/mimedetect\/nice_menus\/js\/jquery.hoverIntent.js":1,"sites\/all\/modules\/mimedetect\/nice_menus\/js\/superfish.js":1,"sites\/all\/modules\/mimedetect\/nice_menus\/js\/nice_menus.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/field_group\/field_group.js":1,"sites\/all\/themes\/ihrp\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/print\/print_ui\/css\/print_ui.theme.css":1,"sites\/all\/modules\/mimedetect\/nice_menus\/css\/nice_menus.css":1,"sites\/all\/themes\/zen\/ihrp\/ihrp_menu.css":1,"sites\/all\/themes\/ihrp\/system.menus.css":1,"sites\/all\/themes\/ihrp\/css\/tabs.css":1,"sites\/all\/themes\/ihrp\/css\/print.css":1,"sites\/all\/themes\/ihrp\/css\/style.css":1,"sites\/all\/themes\/ihrp\/css\/zen.css":1,"sites\/all\/themes\/ihrp\/css\/html-elements.css":1,"sites\/all\/themes\/ihrp\/css\/ihrp_menu.css":1,"sites\/all\/themes\/ihrp\/css\/ihrp_researcher.css":1,"sites\/all\/themes\/ihrp\/css\/ihrp_study.css":1}},"nice_menus_options":{"delay":"0","speed":"fast"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/study\/illinois-prevention-research-center-supporting-policy-and-environmental-change":true},"field_group":{"no_style":"full","fieldset":"full"}});</script>
+</head>
+
+<body class="thrColFixHdr html not-front not-logged-in no-sidebars page-node page-node- page-node-4073 node-type-study section-study not-front not-logged-in page-node page-node- page-node-4073 node-type-study 
+ not-logged-in not-front type-study">
+
+  
+  <div id="page"><div id="page-inner">
+    <a name="top" id="navigation-top"></a>
+    <div role="banner" id="header"><div id="header-inner" class="clear-block" role="navigation" aria-label="Top Menu">
+      <a href="/"><img src="/sites/all/themes/ihrp/images/IHRP_Logo.png" alt="Institute for Health Research and Policy" title="I H R P home page" /></a>
+
+      <!-- the following is the code for the little blue top menu  -->
+      <span class="littleBlueMenu">
+        <a href="/people/list">People</a>
+        <a href="/content/contact-us">Contact Us</a>
+         
+            <a href="/print/4073">Print this page</a>		        <a href="/forward/?path=node/4073">E-mail to a Colleague</a>		          </span>
+      
+	             <div id="primary">
+        </div> <!-- /#primary -->
+      
+      
+    </div></div> <!-- /#header-inner, /#header -->
+
+    <div role="main" id="main"><div id="main-inner" class="clear-block with-navbar">
+      <div id="content"><div id="content-inner">
+                  <div id="search-box">
+              <div class="region region-search-form">
+    <div id="block-search-form" class="block block-search first last odd" role="search">
+
+      
+  <form action="/study/illinois-prevention-research-center-supporting-policy-and-environmental-change" method="post" id="search-block-form" accept-charset="UTF-8"><div>
+<div class="container-inline">
+  <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-K401BgCjnResMAEr4oZwjCpI2VH4SCMlMTHEBYbtbzk" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+</div>
+  </div>
+          </div> <!-- /#search-box -->
+                          <div id="content-top">
+              <div class="region region-content-top">
+    <div id="block-nice-menus-1" class="block block-nice-menus first last odd">
+
+        <h2 class="block__title block-title"><span class="nice-menu-hide-title">Main menu</span></h2>
+    
+  <ul class="nice-menu nice-menu-down nice-menu-main-menu" id="nice-menu-1"><li class="menu__item menu-11518 menuparent  menu-path-node-4984 first odd "><a href="/content/institute-welcome-intro" title="" class="menu__link">About</a><ul><li class="menu__item menu-11516 menu-path-node-4984 first odd "><a href="/content/institute-welcome-intro" class="menu__link">Welcome</a></li>
+<li class="menu__item menu-11514 menu-path-node-4983  even "><a href="/content/about-mission-social-health-sciences-research" class="menu__link">Mission</a></li>
+<li class="menu__item menu-11524 menu-path-node-4996  odd "><a href="/content/admin-IHRP-snapshot" class="menu__link">IHRP Snapshot</a></li>
+<li class="menu__item menu-7001 menu-path-node-2873  even "><a href="/content/about-our-fellows-affiliates" class="menu__link">Fellows &amp; Affiliates</a></li>
+<li class="menu__item menu-2114 menu-path-node-1357  odd "><a href="/content/employment-ihrp" class="menu__link">Jobs</a></li>
+<li class="menu__item menu-11585 menu-path-node-5034  even last"><a href="/content/media-professionals" class="menu__link">For Media Professionals</a></li>
+</ul></li>
+<li class="menu__item menu-11523 menuparent  menu-path-node-5036  even "><a href="/content/about-advantages-UIC-researchers" title="" class="menu__link">Why IHRP? </a><ul><li class="menu__item menu-11588 menu-path-node-5036 first odd "><a href="/content/about-advantages-UIC-researchers" title="" class="menu__link">Advantages</a></li>
+<li class="menu__item menu-11521 menu-path-node-18  even "><a href="/content/why-ihrp-research-faqs" class="menu__link">FAQs</a></li>
+<li class="menu__item menu-11515 menu-path-node-4982  odd last"><a href="/content/learn-more-join-us" class="menu__link">Affiliate with IHRP</a></li>
+</ul></li>
+<li class="menu__item menu-11533 menuparent  menu-path-node-5027  odd "><a href="/content/scientific-resources-intro" class="menu__link">Scientific Resources</a><ul><li class="menu__item menu-11582 menu-path-node-5027 first odd "><a href="/content/scientific-resources-intro" title="" class="menu__link">Overview</a></li>
+<li class="menu__item menu-11522 menu-path-node-23  even "><a href="/content/institute-leadership" class="menu__link">Leadership</a></li>
+<li class="menu__item menu-11052 menu-path-node-4683  odd "><a href="/center/data-management-core-for-all-UIC-researchers" class="menu__link">Data Management Core</a></li>
+<li class="menu__item menu-2054 menu-path-node-1584  even "><a href="/center/methodology-research-core-for-all-UIC-researchers" class="menu__link">Methodology Research Core</a></li>
+<li class="menu__item menu-2064 menu-path-node-39  odd last"><a href="/content/training-every-stage-research-careers" class="menu__link">Training</a></li>
+</ul></li>
+<li class="menu__item menu-11532 menuparent  menu-path-node-4999  even "><a href="/content/admin-resources-intro" title="" class="menu__link">Administrative Resources</a><ul><li class="menu__item menu-11531 menu-path-node-4999 first odd "><a href="/content/admin-resources-intro" class="menu__link">Overview</a></li>
+<li class="menu__item menu-11584 menu-path-node-4979  even "><a href="/content/admin-grants-finance" class="menu__link">Grants &amp; Finance</a></li>
+<li class="menu__item menu-11507 menu-path-node-4978  odd "><a href="/content/admin-human-resources-team" class="menu__link">Human Resources</a></li>
+<li class="menu__item menu-11505 menu-path-node-4977  even "><a href="/content/admin-computing-environment" class="menu__link">Data Tech and Security</a></li>
+<li class="menu__item menu-11508 menu-path-node-4825  odd "><a href="/content/admin-communications" class="menu__link">Communications</a></li>
+<li class="menu__item menu-11511 menu-path-node-4980  even last"><a href="/content/resources-facilities" class="menu__link">Facilities</a></li>
+</ul></li>
+<li class="menu__item menu-11535 menuparent  menu-path-node-4803  odd last"><a href="/content/our-research-focus" title="" class="menu__link">Research</a><ul><li class="menu__item menu-11534 menu-path-node-4803 first odd "><a href="/content/our-research-focus" class="menu__link">Scientific Focus</a></li>
+<li class="menu__item menu-2130 menu-path-studies-list-current-all  even "><a href="/studies/list/current/all" title="" class="menu__link">Studies</a></li>
+<li class="menu__item menu-11408 menu-path-researchers-list-all  odd "><a href="/researchers/list/all" title="" class="menu__link">Researchers</a></li>
+<li class="menu__item menu-2030 menuparent  menu-path-node-1563  even "><a href="/content/centers" class="menu__link">Centers</a><ul><li class="menu__item menu-2086 menu-path-node-7 first odd "><a href="/center/center-research-health-and-aging" class="menu__link">Center for Research on Health and Aging</a></li>
+<li class="menu__item menu-2087 menu-path-node-8  even last"><a href="/center/health-policy-center" class="menu__link">Health Policy Center</a></li>
+</ul></li>
+<li class="menu__item menu-11504 menuparent  menu-path-node-4975  odd "><a href="/content/project-websites" class="menu__link">Project Websites</a><ul><li class="menu__item menu-10646 menu-path-gouicedu-asthmaaction first odd "><a href="http://go.uic.edu/AsthmaAction" title="" class="menu__link">Asthma Action</a></li>
+<li class="menu__item menu-2079 menu-path-scecdp-ihrpuicedu-  even "><a href="https://cecdp-ihrp.uic.edu/" title="" class="menu__link">Cancer Education and Career Development Program</a></li>
+<li class="menu__item menu-10737 menu-path-co-opchicagoihrpuicedu-  odd "><a href="http://co-opchicago.ihrp.uic.edu/" title="" class="menu__link">CO-OP Chicago</a></li>
+<li class="menu__item menu-10499 menu-path-fitandstrongorg-  even "><a href="http://fitandstrong.org/" title="" class="menu__link">Fit &amp; Strong!</a></li>
+<li class="menu__item menu-10548 menu-path-node-79  odd "><a href="/center/center-research-health-and-aging/midwest-roybal-center" title="IHRP is the home of the Midwest Roybal Center, funded continuously by the National Institute on Aging since 1998." class="menu__link">Midwest Roybal Center</a></li>
+<li class="menu__item menu-10501 menu-path-tobacconomicsorg-  even last"><a href="http://tobacconomics.org/" title="" class="menu__link">Tobacconomics</a></li>
+</ul></li>
+<li class="menu__item menu-11517 menu-path-news-list  even last"><a href="/news/list" title="" class="menu__link">News</a></li>
+</ul></li>
+</ul>
+
+</div>
+  </div>
+          </div> <!-- /#content-top -->
+        
+        
+		
+		<div id="content-area">
+                      <div class="tabs"></div>
+          
+          
+          							<h1 class="title">Illinois Prevention Research Center (Illinois PRC): Supporting Policy &amp; Environmental Change</h1>
+			          
+	        
+          
+
+
+
+<div class="content-left">
+    
+  
+    <div class="projectBlock">
+    <h2>Abstract</h2>
+    <div class="field field-type-text field-field-study-abstract">
+      <div class="field-items">
+        <div class="field-item"><p><a href="https://www.facebook.com/IllinoisPRC"><img alt="" src="/files/likeuson-facebook-100x37.jpg" style="width: 100px; height: 37px; float: right; margin: 14px 5px;" /></a>The center collaborates with Illinois community stakeholders -- residents, service agencies, coalitions, small businesses, local and state governments, and other partners -- to engage in prevention research to reduce chronic disease risk and health disparities. Specifically, our research tests, develops, adapts, implements and evaluates policies and environmental approaches that aim to improve nutrition, physical activity, and tobacco-related health behaviors and health outcomes.</p>
+<p>The Illinois PRC emphasizes community engagement and community-based research to help reduce disparities and work closely with community partners throughout Illinois to develop and sustain education and training programs and translate research findings into effective public health policies and environmental changes.</p>
+<p>In 2014-2019, the Illinois PRC&#39;s theme of <strong>Supporting Policy and Environmental Change</strong>, with an aim to improve health behaviors and reduce health disparities, was reflected in all its activities. This theme was developed as part of a collaborative process of stakeholder input, partnership with community-based organizations, and leveraging of substantial expertise with University of Illinois&#39;s strengths in relevant research areas and health disparities. Illinois PRC activities are guided by the CDC&rsquo;s Logic Model for the Prevention Research Center Program and informed by conceptual frameworks for community engagement and community-based research. The Illinois PRC&rsquo;s activities concentrated in six main areas with these aims:</p>
+<ol>
+	<li>
+		Engage researchers and the community in expert multidisciplinary applied health promotion and health prevention community-based research aimed at improving health behaviors and reducing chronic disease through effective evidenced-based policy and environmental changes.</li>
+	<li>
+		Conduct community training and provide technical assistance locally and statewide and graduate student and post-doctoral mentoring and education to increase researcher, stakeholder, and community capacity to conduct community-based health prevention research and undertake policy, program, and environmental evaluations.</li>
+	<li>
+		Increase translation of evidence-based research findings into best practices and policies.</li>
+	<li>
+		Build and provide a communications infrastructure and plan that supports information sharing about programmatic, educational and scientific information for a variety of audiences including the public health practice community; local and state health coalitions and advocacy groups; local, state, and national policy-makers; prevention researchers; and the public.</li>
+	<li>
+		Conduct rigorous evaluations of all IPRC components, report findings, and use this information to improve IPRC programs.</li>
+	<li>
+		Identify and address racial/ethnic, socioeconomic, and rural disparities in all aspects of the Center&rsquo;s research, community engagement, training, communication, and evaluation to improve health behaviors and reduce related disease risks and outcomes among disadvantaged populations.</li>
+</ol>
+<h3>
+	The IPRC Applied Public Health Prevention Research Project</h3>
+<p>This project addresses a key <a href="http://www.cdc.gov/winnablebattles/obesity/index.html">CDC Winnable Battle</a> focused on increasing access to and use of parks working with community stakeholders to conduct a comprehensive, rigorous evaluation of the impact of a Chicago Park District park-based renovation, and apply the study findings to ongoing park renovations by implementing a park coalition building intervention to increase local capacity and influence park-based utilization and physical activity. This project was led by Sandy Slater, PhD.</p>
+<h2>
+	Special Interest Projects</h2>
+<p>In 2014-2019, the Illinois PRC collaborated with other CDC Prevention Research Centers in six national, thematic networks that addressed specific health challenges:</p>
+<ol>
+	<li>
+		<a href="/study/iprc-global-and-territorial-health-research-network-collaborating-center">Global and Territorial Health Research Network</a></li>
+	<li>
+		<a href="/study/illinois-prc-healthy-brain-research-network">Healthy Brain Research Network</a></li>
+	<li>
+		<a href="/study/iprc-managing-epilepsy-well-network-epilepsy-self-management-collaborating-center">Managing Epilepsy Well: Network for Epilepsy Self-Management</a></li>
+	<li>
+		<a href="/study/iprc-nutrition-and-obesity-policy-research-and-evaluation-network-collaborating-center">Nutrition and Obesity Policy Research and Evaluation Network</a></li>
+	<li>
+		<a href="/study/iprc-physical-activity-policy-research-network-collaborating-center">Physical Activity Policy Research Network </a></li>
+	<li>
+		<a href="/study/iprc-workplace-health-research-network-collaborating-center">Workplace Health Research Network</a></li>
+</ol>
+</div>
+      </div>
+    </div>
+  </div>
+  
+  
+    <div class="projectBlock">
+    <h2>Research Partner(s)</h2>
+    <div class="field field-type-text field-field-study-research-partners">
+      <div class="field-items">
+        <div class="field-item"><p><a href="http://www.cityofchicago.org/city/en/depts/cdph.html">Chicago Department of Public Health</a></p>
+<p><a href="http://www.chicagoparkdistrict.com/">Chicago Parks District</a></p>
+<p><a href="http://www.cookcountypublichealth.org/">Cook County Department of Public Health</a></p>
+<p><a href="http://www.clocc.net/">Consortium to Lower Obesity in Chicago&#39;s Children (CLOCC)</a></p>
+<p><a href="http://www.dph.illinois.gov/">Illinois Department of Public Health</a></p>
+<p><a href="http://www.midamericacphp.com/">MidAmerica Center for Public Health Practice</a></p>
+<p>And many more. For more information, see <a href="http://www.IllinoisPRC.org">www.IllinoisPRC.org</a></p>
+</div>
+      </div>
+    </div>
+  </div>
+  
+      
+</div> <!-- /#content-left -->
+
+
+<div class="content-right">
+
+
+<div class="content-right-details">
+
+
+  
+  <div class="clearfloat"></div>
+    <div class="clearfloat"></div>
+  
+    <div class="projectBlock"><strong>Funding Agency</strong>
+    <div class="field field-type-text field-field-study-funding-agency">
+      <div class="field-items">
+        <div class="field-item"><p><a href="http://www.cdc.gov/chronicdisease/">Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion</a> (Cooperative Agreement No. U48DP005010)<br />
+	&nbsp;</p>
+<p><strong>Principal Investigator</strong></p>
+<p><a href="https://publichealth.uic.edu/profiles/lisa-powell/">Lisa M. Powell, PhD</a></p>
+<p>&nbsp;</p>
+<p><strong>Co-investigators</strong></p>
+<p><a href="/researcher/jamie-f-chriqui-phd-mhs">Jamie F. Chriqui, PhD, MHS</a></p>
+<p><a href="/researcher/marian-l-fitzgibbon-phd">Marian L. Fitzgibbon, PhD</a></p>
+<p><a href="https://ahs.uic.edu/kinesiology-nutrition/directory/odoms-young-angela/">Angela Odoms-Young, PhD</a></p>
+<p><a href="/researcher/karen-e-peters-drph">Karen E. Peters, DrPH</a></p>
+<p><a href="/researcher/oksana-pugach-phd">Oksana Pugach, PhD</a></p>
+<p><a href="https://www.linkedin.com/in/sandy-slater-5136b77/"><span style="font-size: 1.1em;">Sandy J. Slater, PhD</span></a></p>
+<p><a href="https://mcphp.uic.edu/profiles/christina-welter/">Christina R. Welter, DrPH</a></p>
+<p><a href="https://nursing.uic.edu/profiles/shannon-zenk/">Shannon N. Zenk, PhD, MPH, RN</a></p>
+</div>
+      </div>
+    </div>
+  </div>
+    <div class="clearfloat"></div>
+  
+    <div class="projectBlock"><strong>Start date</strong>
+    <div class="field field-type-date field-field-study-date-start">
+      <div class="field-items">
+        <div class="field-item">
+          09/30/2014        </div>
+      </div>
+    </div>
+  </div>
+    
+    <div class="projectBlock"><strong>End date</strong>
+    <div class="field field-type-date field-field-study-date-end">
+      <div class="field-items">
+        <div class="field-item">
+          09/29/2019        </div>
+      </div>
+    </div>
+  </div>
+    <div class="clearfloat"></div>
+
+    <div class="projectBlock"><strong>Total award</strong>
+    <div class="field field-type-number-integer field-field-study-total-award-amount1">
+      <div class="field-items">
+        <div class="field-item">$4,350,000</div>
+      </div>
+    </div>
+  </div>
+    <div class="clearfloat"></div>
+  
+    <div class="projectBlock"><strong>Website</strong>
+    <div class="field field-type-text field-field-study-contact-url">
+      <div class="field-items">
+        <div class="field-item"><p>The Illinois PRC website can be found at <a href="http://www.IllinoisPRC.org">www.IllinoisPRC.org</a> (not case sensitive).</p>
+</div>
+      </div>
+    </div>
+  </div>
+    <div class="clearfloat"></div>
+ 
+    <div class="projectBlock"><strong>About this grant</strong>
+    <div class="field field-type-text field-field-study-subcontract-info">
+      <div class="field-items">
+        <div class="field-item"><p>The Illinois PRC is one of 26 <a href="http://www.cdc.gov/prc/index.htm">CDC Prevention Research Centers</a> funded nationwide for 2014-2019.&nbsp;</p>
+</div>
+      </div>
+    </div>
+  </div>
+    <div class="clearfloat"></div>
+  
+    <div class="projectBlock"><strong>For more information, contact</strong>
+          <div class="field field-type-text field-field-study-contact-name">
+        <div class="field-items">
+          <div class="field-item">Amber Uskali, MPH</div>
+        </div>
+      </div>
+              <div class="field field-type-text field-field-study-contact-title">
+        <div class="field-items">
+          <div class="field-item">Deputy Director, Illinois PRC</div>
+        </div>
+      </div>
+              <div class="field field-type-text field-field-study-contact-phone">
+        <div class="field-items">
+          <div class="field-item">(312) 355-1086</div>
+        </div>
+      </div>
+              <div class="field field-type-text field-field-study-contact-email">
+        <div class="field-items">
+          <div class="field-item"><a href="mailto:adimasc2@uic.edu">
+		       adimasc2@uic.edu</a></div>
+        </div>
+      </div>
+        </div>
+  
+</div>
+</div> <!-- /#content-right -->
+<div class="clearfloat"></div>
+
+<div class="content-bottom">
+
+    <div class="projectBlock"><h2>Related publications</h2><br />
+    <div class="field field-type-text field-field-study-releated-publicatio">
+      <div class="field-items">
+        <div class="field-item"><p>Singleton CR, Li Y, Duran AC, Zenk SN, Odoms-Young A, Powell LM. Food and Beverage Availability in Small Food Stores Located in Healthy Food Financing Initiative Eligible Communities. Int J Environ Res Public Health. 2017;14(10):1242. Published 2017 Oct 18. doi:10.3390/ijerph14101242.&nbsp;</p>
+<p>Stiehl E, Shivaprakash N, Thatcher E, et al. Worksite Health Promotion for Low-Wage Workers: A Scoping Literature Review. Am J Health Promot. 2018;32(2):359&ndash;373. doi:10.1177/0890117117728607.&nbsp;</p>
+<p>Muramatsu N, Yin L, Lin TT. Building Health Promotion into the Job of Home Care Aides: Transformation of the Workplace Health Environment. Int J Environ Res Public Health. 2017;14(4):384. Published 2017 Apr 5. doi:10.3390/ijerph14040384.&nbsp;</p>
+<p>Demment MM, Peters K, Dykens JA, et al. Developing the Evidence Base to Inform Best Practice: A Scoping Study of Breast and Cervical Cancer Reviews in Low- and Middle-Income Countries. PLoS One. 2015;10(9):e0134618. Published 2015 Sep 1. doi:10.1371/journal.pone.0134618.&nbsp;</p>
+<p>Taber DR, Chriqui JF, Perna FM, Powell LM, Chaloupka FJ. Weight status among adolescents in States that govern competitive food nutrition content. Pediatrics. 2012;130(3):437&ndash;444. doi:10.1542/peds.2011-3353.&nbsp;</p>
+<p>Powell LM, Wada R, Krauss RC, Wang Y. Ethnic disparities in adolescent body mass index in the United States: the role of parental socioeconomic status and economic contextual factors. Soc Sci Med. 2012;75(3):469&ndash;476. doi:10.1016/j.socscimed.2012.03.019.&nbsp;</p>
+</div>
+      </div>
+    </div>
+  </div>
+    <div class="clearfloat"></div>
+  
+    <div class="projectBlock"><h2>News releases</h2><br />
+    <div class="field field-type-text field-field-study-news-release">
+      <div class="field-items">
+        <div class="field-item"><p><a href="/content/news-prevention-research-center-aims-improve-health-illinoisans">Prevention Research Center aims to improve health of Illinoisans</a> (1/6/2015)</p>
+<p><a href="http://www.cdc.gov/prc/newsroom/index.htm#sip">CDC Awards $12.3 Million to Prevention Research Centers for Special Interest Projects</a> (CDC news release; 10/3/2014)</p>
+<p><a href="http://www.cdc.gov/media/releases/2014/p0530-research-centers.html">CDC awards $19.5 million to Prevention Research Centers nationwide</a> (CDC news release; 5/30/2014)</p>
+<p><a class="twitter-follow-button" data-show-count="false" href="https://twitter.com/UICPRC">Follow @UICPRC</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></p>
+</div>
+      </div>
+    </div>
+  </div>
+  
+</div> <!-- /#bottom-content -->
+        </div>
+
+        		
+      </div></div> <!-- /#content-inner, /#content -->
+
+              <div id="navbar"><div id="navbar-inner">
+
+          <a name="navigation" id="navigation"></a>
+
+          
+        </div></div> <!-- /#navbar-inner, /#navbar -->
+      
+
+    </div></div> <!-- /#main-inner, /#main -->
+
+    <div id="footer"><div id="footer-inner">
+      <div id="footer-message">  <footer id="footer" class="region region-footer">
+    <div id="block-block-43" class="block block-block first last odd">
+
+      
+  <p><strong>Institute for Health Research and Policy of the University of Illinois at Chicago</strong><br />
+	Multidisciplinary Home of UIC Researchers Collaborating in the Social and Health Sciences</p>
+<p>1747 W. Roosevelt Road, MC 275, Westside Research Office Bldg., Chicago, IL 60608<br />
+	T: <a href="tel:(312) 996-7222">(312) 996-7222</a> · F: (312) 996-2703</p>
+<p><a href="http://www.uic.edu/">UIC.edu</a> · <a href="https://www.uic.edu/apps/find-people/search">Campus Directory</a> · <a href="http://disabilityresources.uic.edu/">Disability Resources</a> · <a href="/content/employment-ihrp">Job Openings</a> · <a href="https://maps.uic.edu/">Maps</a> · <a href="/content/contact-us">Contact Us</a></p>
+<p>© 2020 <a href="http://www.uillinois.edu/trustees/">The Board of Trustees of the University of Illinois</a> · Privacy Policy · Webmaster: <a href="mailto:IHRP-webfix@uic.edu">IHRP-webfix@uic.edu</a></p>
+
+</div>
+  </footer>
+</div>
+
+    </div></div> <!-- /#footer-inner, /#footer -->
+
+    
+    
+  </div></div> <!-- /#page-inner, /#page -->
+    <script src="sites/all/themes/ihrp/js/customize-twitter-1.1/customize-twitter-1.1.min.js" type="text/javascript"></script>
+  <script>
+	var options = {
+    	"url": "sites/all/themes/ihrp/css/twitter.css",
+		"timeout_length": 1800
+	};
+	CustomizeTwitterWidget(options);
+</script>
+</body>
+</html>

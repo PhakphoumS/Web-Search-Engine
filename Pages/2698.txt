@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Category -->
+<!-- Begin Category Pagination -->
+<div class='category_area'>
+	<div class='category_content'>
+		<h3>Architecture</h3><br>
+		<strong>Related:</strong>
+		<a href='/category.php?id=4&amp;related=1'>Art</a>&nbsp;&nbsp;
+		<a href='/category.php?id=4&amp;related=2'>Directory</a>&nbsp;&nbsp;
+		<a href='/category.php?id=4&amp;related=3'>Events</a>&nbsp;&nbsp;
+		<a href='/category.php?id=4&amp;related=4'>Papers</a>&nbsp;&nbsp;
+		<a href='/category.php?id=4&amp;related=5'><strong>Research</strong></a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End Category Pagination -->
+<div class='category_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin Category List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2166'><img src='/resizedImages/500x280-crop-coebuildingcave2.png' alt='' title='Proposed UIC College of Engineering Building Rendition in the CAVE2&trade; Hybrid Reality Environment' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2166'>Proposed UIC College of Engineering Building Rendition in the CAVE2&trade; Hybrid Reality Environment</a></strong><br>
+			<a href='/entry.php?id=270'>Arthur Nishimoto</a>, <a href='/entry.php?id=24'>Jonas Talandis</a>, <a href='/entry.php?id=2133'>Kristine Lee</a>, <a href='/entry.php?id=192'>Luc Renambot</a><br>
+			August 24, 2015 - September 19, 2015<br><br>
+			EVL PhD candidate Arthur Nishimoto has developed a virtual reality representation of the proposed new College of Engineering (COE) building for&hellip; <a href='/entry.php?id=2166'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2035'><img src='/resizedImages/500x280-crop-_ljl2789.jpg' alt='' title='Architectural Design of a UCSD Engineering Building' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2035'>Architectural Design of a UCSD Engineering Building</a></strong><br>
+			<a href='/entry.php?id=235'>Steve Cady</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, The Graphics, Visualization and Virtual Reality Laboratory (GRAVITY) and California Institute for Telecommunications and Information Technology (Calit2), University of California San Diego<br>
+			January 1, 2013 - Ongoing<br><br>
+			Participants walk through an architectural model of University of California, San Diego&rsquo;s recently dedicated Structural and Materials&hellip; <a href='/entry.php?id=2035'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2029'><img src='/resizedImages/500x280-crop-_ljl2826.jpg' alt='' title='Hospital Architecture Study' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2029'>Hospital Architecture Study</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a><br>
+			September 1, 2012 - Ongoing<br><br>
+			The CAVE2&trade; System is a hybrid environment that enables users to mash-up a number of 2D and 3D images at the same time using SAGE&trade;&hellip; <a href='/entry.php?id=2029'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2037'><img src='/misc/default_500x280.png' alt='' title='Rebar Cage' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2037'>Rebar Cage</a></strong><br>
+			<a href='/entry.php?id=6'>Thomas A. DeFanti</a>, Andre Barbosa, Jurgen Schulze (University of California San Diego); American Bridge Company / Fluor Enterprises Inc.<br>
+			May 1, 2011 - Ongoing<br><br>
+			Participants walk through a 3D model of an 80x60x20-foot section of the rebar cage of the new San Francisco-Oakland Bay Bridge. Note that this model&hellip; <a href='/entry.php?id=2037'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1741'><img src='/resizedImages/500x280-crop-merc-2.jpg' alt='' title='Chicago Mercantile Exchange' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1741'>Chicago Mercantile Exchange</a></strong><br>
+			<a href='/entry.php?id=5'>Dana M. Plepys</a>, <a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=113'>Deb Lowman (1966-2018)</a>, Space Management Consultants<br>
+			March 1, 1995 - No Information<br><br>
+			The Chicago-based architectural firm, Space Management Consultants collaborated with the Electronic Visualization Laboratory to create architectural&hellip; <a href='/entry.php?id=1741'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1965'><img src='/resizedImages/500x280-crop-casa2.gif' alt='' title='CASA: Computer Augmentation for Smart Architectonics' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1965'>CASA: Computer Augmentation for Smart Architectonics</a></strong><br>
+			<a href='/entry.php?id=146'>Christina Vasilakis</a>, <a href='/entry.php?id=25'>Craig Barnes</a>, <a href='/entry.php?id=21'>Jason Leigh</a><br>
+			August 1, 1994 - May 1, 1995<br><br>
+			Homes or buildings that utilize technology in order to be &ldquo;smart,&rdquo; computer augmented, automated, &ldquo;intuitive,&rdquo; energy&hellip; <a href='/entry.php?id=1965'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<!-- End Category List -->
+	</table>
+</div>
+<!-- End Category -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

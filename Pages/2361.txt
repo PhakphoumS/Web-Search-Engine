@@ -1,0 +1,469 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+
+	Reverse Obscurity by nodethirtythree + Templated.org
+	http://templated.org/ | @templatedorg
+	Released under the Creative Commons Attribution 3.0 License.
+	
+	Note from the author: These templates take quite a bit of time to conceive,
+	design, and finally code. So please, support our efforts by respecting our
+	license: keep our footer credit links intact so people can find out about us
+	and what we do. It's the right thing to do, and we'll love you for it :)
+	
+--><html xmlns="http://www.w3.org/1999/xhtml">
+<link href="../Templates/obscurity/style.css" rel="stylesheet" type="text/css" />
+<script src="../SpryAssets/SpryAccordion.js" type="text/javascript"></script>
+<link href="../SpryAssets/SpryAccordion.css" rel="stylesheet" type="text/css" />
+<head><meta name="Keywords" content="" /><meta name="Description" content="" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<TITLE>Past Issues of Survey Research</TITLE>
+<link href="http://fonts.googleapis.com/css?family=PT+Sans+Narrow" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css" /><link rel="stylesheet" type="text/css" href="../ferbersudman/obscurity/style.css" />
+<style type="text/css">
+a:link {
+	color: #384C78;
+}
+</style>
+</head><body>
+		
+		
+<div id="bg">
+			<div id="outer">
+			  <div id="header">
+			    <div id="header2">
+			      <div id="nav">
+			        <ul>
+			          <li class="first active"> <a href="http://www.srl.uic.edu/">Home</a> </li>
+                      <li> <a href="http://www.srl.uic.edu/resources.htm">resources</a> </li>
+			          <li> <a href="http://www.srl.uic.edu/publist.htm">publications</a></li>
+		            </ul>
+			        <br class="clear" />
+		          </div>
+		        </div>
+			  </div>
+			  <div id="banner"><img src="../Images/past_issues.jpg" width="890" height="160" alt="Logo" /></div>
+				<div id="main">
+<div id="sidebar1">
+
+        <ul class="linkedList">
+	<h3>&nbsp;</h3>
+	<h3>&nbsp;</h3>
+	<h3>&nbsp;</h3>
+	<h3>&nbsp;</h3>
+	<h3>&nbsp;</h3>
+	<h3>&nbsp;</h3>
+	<h3>&nbsp;</h3>
+	<h3>&nbsp;</h3>
+        </ul>
+        </div>
+				<div id="content">
+  <div id="box1">
+	      <h2>Click on a volume to see available issues.</h2>
+          <div id="Accordion1" class="Accordion" tabindex="0">
+          <div class="AccordionPanel">
+              <div class="AccordionPanelTab"><strong>Volume 48 (2017)</strong></div>
+              <div class="AccordionPanelContent">
+                <p><strong><a href="issues/2010s/v48n1.pdf" target="_blank">Number 1.</a></strong> Features <em>Notes from the Field: Making Sure Interviewers are in the Right Location via LAPOP’s Innovative Real Time Geo-fencing System</em> (D. Montalvo, E. Zechmeister & M. Seligson)</p>
+              </div>
+            </div>
+          <div class="AccordionPanel">
+              <div class="AccordionPanelTab"><strong>Volume 47 (2016)</strong></div>
+              <div class="AccordionPanelContent">
+                <p><strong><a href="issues/2010s/v47n1.pdf" target="_blank">Number 1.</a></strong> Features <em>We Asked; You Answered: Results of the</em> Survey Research <em>Readership Survey</em> (L. Kelly)</p>
+                <p><strong><a href="issues/2010s/v47n2.pdf" target="_blank">Number 2.</a></strong> Features <em>Updated list of Academic and Not-for-Profit Survey Research Organizations</em></p>
+                <p><strong><a href="issues/2010s/v47n3.pdf" target="_blank">Number 3.</a></strong> Features <em>Diffusion of Web Survey Methodology: An Update</em> (T. Johnson, M. Basic & S. Joscelyn)</p>
+              </div>
+            </div>
+          <div class="AccordionPanel">
+              <div class="AccordionPanelTab"><strong>Volume 46 (2015)</strong></div>
+              <div class="AccordionPanelContent">
+                <p><strong><a href="issues/2010s/v46n1.pdf" target="_blank">Number 1.</a></strong> Features <em>Bloustein School, Rutgers University Hosts 9th Annual AASRO Directors Meeting: March 5-7, 2015: Reflections and Directions </em>(M. D. Weiner)</p>
+                <p><strong><a href="issues/2010s/v46n2.pdf" target="_blank">Number 2.</a></strong> Features <em>Controlled Access Buildings in Area Probability Surveys: Challenges and Recommendations Report from 2015 IFD&TC </em>(J. Parsons & L. Owens)</p>
+                <p><strong><a href="issues/2010s/v46n3.pdf" target="_blank">Number 3.</a></strong> Features <em>Notes from the Field: Contact Strategies for Adults with Serious Mental Illness</em> (M. Basic)</p>
+              </div>
+            </div>
+            <div class="AccordionPanel">
+              <div class="AccordionPanelTab"><strong>Volume 45 (2014)</strong></div>
+              <div class="AccordionPanelContent">
+                <p><strong><a href="issues/2010s/v45n1.pdf" target="_blank">Number 1.</a></strong> Features <em>SRL Celebrates 50 Years </em>(T. Johnson)</p>
+                <p><strong><a href="issues/2010s/v45n2.pdf" target="_blank">Number 2.</a></strong> Features <em>Detecting the Winds of Change: The Role of Academic Survey Research Organizations in Academe </em>(D. Moore)</p>
+                <p><strong><a href="issues/2010s/v45n3.pdf" target="_blank">Number 3.</a></strong> Features <em>AAPOR Launches the Transparency Initiative </em>(T. Johnson)</p>
+              </div>
+            </div>
+            <div class="AccordionPanel">
+              <div class="AccordionPanelTab"><strong>Volume 44 (2013)</strong></div>
+              <div class="AccordionPanelContent">
+                <p><strong><a href="issues/2010s/v44n1.pdf" target="_blank">Number 1.</a></strong> Features <em>AASRO Update: Nonprofit Status!</em> (L. Hembroff),<em> Report on the CSDI Workshop 2013 in Stockholm, Sweden</em> (P. Ph. Mohler), and <em>In Memoriam: Robin Bebel</em></p>
+                <p><strong><a href="issues/2010s/v44n2.pdf" target="_blank">Number 2.</a></strong> Features <em>Welcoming the DIY Survey Sector to Campus</em> (T. Guterbock)</p>
+                <p><strong><a href="issues/2010s/v44n3.pdf" target="_blank">Number 3.</a></strong> Features <em>Survey Frontiers: A Brief Romp through the Tech Terrain and Its Changing Landscape </em>(M. Losch &amp; K. Johnson))</p>
+              </div>
+            </div>
+<div class="AccordionPanel">
+              <div class="AccordionPanelTab"><strong>Volume 43 (2012)</strong></div>
+              <div class="AccordionPanelContent">
+                <p align="left"><strong><a href="issues/2010s/v43n1.pdf" target="_blank">Number 1</a>.</strong> Features <em>The John Tarnai Memorial Scholarship Fund
+                  for Investing in Survey Research</em> (D. A. Dillman), <em>Indiana’s John M. Kennedy Honored                with AASRO’s First Achievement                Award</em>, and <em>AASRO Year in Review</em> (Y. Miller)</p>
+                <p align="left"><a href="issues/2010s/v43n2.pdf" target="_blank"><strong>Number 2</strong></a><strong>.</strong> Features (in memory of) <em>Janet A. Harkness (1948-2012)</em> and <em>International Field Directors and Technologies Conference:                What IFD&amp;TC Means to Me</em></p>
+                <p align="left"><strong><a href="issues/2010s/v43n3.pdf" target="_blank">Number 3</a>. </strong>Features<em> AASRO Update</em> (L. Hembroff) </p>
+              </div>
+            </div>
+<div class="AccordionPanel">
+              <div class="AccordionPanelTab"><strong>Volume 42 (2011)</strong></div>
+              <div class="AccordionPanelContent">
+                <p><a href="issues/2010s/v42n1.pdf" target="_blank"><strong>Number 1</strong></a><strong>.</strong> Features<em> Diffusion of Web Survey Methodology, 1995–2009</em> (E. Brown and T. Johnson) and <em>AASRO President’s Column</em> (Y. Miller)</p>
+                <p><a href="issues/2010s/v42n2.pdf" target="_blank"><strong>Number 2</strong></a><strong>.</strong> Features<em> International Field Directors and Technologies Conference Leading the Way of Survey Research</em>                  (C. Wiese) and <em>Groves Addresses AASRO Luncheon in Phoenix</em> (T. Guterbock)</p>
+                <p><a href="issues/2010s/v42n3.pdf" target="_blank"><strong>Number 3</strong></a><strong>.</strong> Features <em>2010 Survey of Academic Survey Research Organizations: Summary of Main Findings</em><br />
+                </p>
+              </div>
+            </div>
+            <div class="AccordionPanel">
+              <div class="AccordionPanelTab"><strong>Volume 41 (2010)
+              </strong></div>
+              <div class="AccordionPanelContent">
+                <p><a href="issues/2010s/v41n1.pdf" target="_blank"><strong>Number 1</strong></a>. Features <em>The Future of the Academic Survey Research Organization</em> (T. Guterbock)</p>
+              </div>
+            </div>
+            <div class="AccordionPanel">
+              <div class="AccordionPanelTab"><strong>Volume 40 (2009)</strong></div>
+              <div class="AccordionPanelContent">
+                <p><a href="issues/2000s/v40n1-2.pdf" target="_blank"><strong>Numbers 1-2</strong></a><strong>.</strong></p>
+                <p><strong><a href="issues/2000s/v40n3.pdf" target="_blank">Number 3</a>. </strong>Features <em>Introducing AASRO </em>(R. Langley)</p>
+                <p>&nbsp; </p>
+              </div>
+            </div>
+            <div class="AccordionPanel">
+              <div class="AccordionPanelTab"><strong>Volume 39 (2008)</strong></div>
+              <div class="AccordionPanelContent">
+                <p><a href="issues/2000s/v39n1.pdf" target="_blank"><strong>Number 1</strong></a><strong>.</strong> Features <em>Surveying Cell Phone Numbers in the U.S. in 2008: What We Think We Know and What We Still Need to Learn </em>(P. Lavrakas) </p>
+                <p><a href="issues/2000s/v39n2.pdf" target="_blank"><strong>Number 2</strong></a><strong>.</strong></p>
+                <p><a href="issues/2000s/v39n3.pdf" target="_blank"><strong>Number 3</strong></a><strong><em>.</em></strong><em> </em>Features<em> How Respondents Perceive Political Polls, Census, and Surveys, and How Those Perceptions Predict Survey Quality</em> (P. Gwartney)</p>
+              </div>
+            </div>
+<div class="AccordionPanel">
+              <div class="AccordionPanelTab"><strong>Volume 38 (2007)</strong></div>
+              <div class="AccordionPanelContent">
+                <p><a href="issues/2000s/v38n1.pdf" target="_blank"><strong>Number 1</strong></a>. Features<em> The National Network of State Polls: Promoting the Collection and Use of State-Level Survey Data</em></p>
+                <p><a href="issues/2000s/v38n2.pdf" target="_blank"><strong>Number 2</strong></a>. Features<em> What Can Survey Organizations Do to Improve Their Client Relationships?</em> (T. Triplett) </p>
+                <p><a href="issues/2000s/v38n3.pdf" target="_blank"><strong>Number 3</strong></a>. Features<em> Challenges to Collecting Survey-Based Biomarker and Genetic Data</em> (T. Beebe) <br />
+                  <br />
+                </p>
+              </div>
+            </div>
+            <div class="AccordionPanel">
+              <div class="AccordionPanelTab"><strong>Volume 37 (2006)</strong></div>
+              <div class="AccordionPanelContent">
+                <p><a href="issues/2000s/v37n1-2.pdf" target="_blank"><strong>Numbers 1-2</strong></a>. Features<em> Translations and Interpreting: What Do Survey Organizations Do?</em> (A. Blom, L. Doerr, G. Cheung, Y. Liu, &amp; J. Harkness)<br />
+                </p>
+              </div>
+            </div>
+<div class="AccordionPanel">
+              <div class="AccordionPanelTab">
+               <strong>Volume 36 (2005)</strong>
+              </div>
+              <div class="AccordionPanelContent">
+                <p><a href="issues/2000s/05v36n1.pdf" target="_blank"><strong>Number 1</strong></a><strong>.</strong> Features <em>Network Sampling Developments in Survey Research During the Past 40+ Years</em> (M. Sirken) </p>
+                <p><a href="issues/2000s/05v36n2.pdf" target="_blank"><strong>Number 2</strong></a><strong>.</strong> Features <em>The Laws of Studying Societal Change</em> (T. Smith)</p>
+                <p><a href="issues/2000s/v36n3.pdf" target="_blank"><strong>Number 3</strong></a>. Features<em> Refusal Conversion: Monitoring the Trends</em> (K.  Retzer &amp; D. Schipani)</p>
+                <p>&nbsp;</p>
+              </div>
+            </div>
+            <div class="AccordionPanel">
+              <div class="AccordionPanelTab"><strong>Volume 35 (2004)</strong></div>
+              <div class="AccordionPanelContent">
+                <p><a href="issues/2000s/04v35n1.pdf" target="_blank"><strong>Number 1</strong></a>. Features<em> Interviewer Falsification in Survey Research: Current Best Methods for Prevention, Detection, and Repair of Its Effects </em> (B. Groves)</p>
+                <p><a href="issues/2000s/04v35n2-3.pdf" target="_blank"><strong>Numbers 2-3</strong></a>. Features <em>Risk, Benefit, and Informed Consent in Survey Research, Lecture Commemorating the 40th Anniversary of the Survey Research Laboratory, University of Illinois at Chicago</em> (E. Singer) <br />
+                </p>
+              </div>
+            </div>
+            <div class="AccordionPanel">
+              <div class="AccordionPanelTab"><strong>Volume 34 (2003)</strong></div>
+              <div class="AccordionPanelContent">
+                <p><a href="issues/2000s/03v34n1.PDF" target="_blank"><strong>Number 1</strong></a>. Features <em>Testing CAI Questionnaires</em> (J. Tarnai &amp; D. Moore)</p>
+                <p><a href="issues/2000s/03v34n2.pdf" target="_blank"><strong>Number 2</strong></a>. Features <em>Nothing About Us Without Us - Removing Barriers to Survey Participation</em> <em>by Persons with Disabilities</em> (G. Hendershot)</p>
+                <p><a href="issues/2000s/03v34n3.pdf" target="_blank"><strong>Number 3</strong></a>. Features<em> Personality Type as a Predictor of Interviewer Performance</em> (C. Abbott, B. Yost, &amp; J. Harding)</p>
+              </div>
+            </div>
+            <div class="AccordionPanel">
+              <div class="AccordionPanelTab"><strong>Volume 33 (2002)</strong></div>
+              <div class="AccordionPanelContent">
+                <p><a href="issues/2000s/02v33n1.PDF" target="_blank"><strong>Number 1</strong></a>. Features <em>Using Advance Letters in RDD Surveys: Results of Two Experiments</em> (J. Parsons, L. Owens, &amp; W. Skogan) </p>
+                <p><a href="issues/2000s/02v33n2.pdf" target="_blank"><strong>Number 2</strong></a>. </p>
+                <p><a href="issues/2000s/02v33n3.pdf" target="_blank"><strong>Number 3</strong></a>.  Features <em>How Much Extra Would You Be Willing to Pay for Gasoline? Depends on How You Ask</em> (C. Helmstetter &amp; A. Murphy)<br />
+                </p>
+              </div>
+            </div>
+            <div class="AccordionPanel">
+              <div class="AccordionPanelTab"><strong>Volume 32 (2001)</strong></div>
+              <div class="AccordionPanelContent">
+                <p><a href="issues/2000s/01v32n1.PDF" target="_blank"><strong>Number 1</strong></a>. Features <em>Events to Honor Seymour Sudman</em></p>
+                <p><a href="issues/2000s/01v32n2.PDF" target="_blank"><strong>Number 2</strong></a><em>. </em>Features <em>The Impacts of Technology on Survey Data Collection</em> (M. Sheridan)</p>
+                <p><a href="issues/2000s/01v32n3.PDF" target="_blank"><strong>Number 3</strong></a>. Features <em>Detection and Prevention of Data Falsification in Survey Research</em> (T. Johnson, V. Parker, &amp; C. Clements)</p>
+              </div>
+            </div>
+            <div class="AccordionPanel">
+              <div class="AccordionPanelTab"><strong>Volume 31 (2000) </strong></div>
+              <div class="AccordionPanelContent">
+                <p><a href="issues/2000s/00v31n1.pdf" target="_blank"><strong>Number 1</strong></a>. Features <em>An Inquiry into Declining RDD Response Rates Part IV: Lack of Standardization</em> (D. O'Rourke)</p>
+                <p><a href="issues/2000s/00v31n2.pdf" target="_blank"><strong>Number 2</strong></a>.  Seymour Sudman Memorial Issue</p>
+                <p><a href="issues/2000s/00v31n3.pdf" target="_blank"><strong>Number 3</strong></a>.  Features <em>Telephone Survey Practices Study </em>(J. Sheppard) <br />
+                </p>
+              </div>
+            </div>
+            <div class="AccordionPanel">
+              <div class="AccordionPanelTab"><strong>Volume 30 (1999)</strong></div>
+              <div class="AccordionPanelContent">
+                <p><a href="issues/1990s/99v30n1.pdf" target="_blank"><strong>Number 1</strong></a>. Features <em>The Year 2000: A Look at Trends Affecting the Field </em>(R. Ferber) and <em>Celebrating ThirtyYears of the Survey Research Newsletter</em></p>
+                <p><a href="issues/1990s/99v30n2.pdf" target="_blank"><strong>Numbers 2-3</strong></a>. Features <em>An Inquiry into Declining RDD Response Rates Part III: A Multivariate Review</em> (D. O’Rourke &amp; T. Johnson)</p>
+              </div>
+            </div>
+            <div class="AccordionPanel">
+              <div class="AccordionPanelTab"><strong>Volume 29 (1998)</strong></div>
+              <div class="AccordionPanelContent">
+                <p><a href="issues/1990s/98v29n1.pdf" target="_blank"><strong>Number 1</strong></a>. Features <em>Electronic Monitoring: Do You Know the Laws? </em>(D. O'Rourke) </p>
+                <p><a href="issues/1990s/98v29n2.pdf" target="_blank"><strong>Number 2</strong></a>. Features <em>An Inquiry into Declining RDD Response Rates Part I: Telephone Survey Practices</em><br />
+                (D. O’Rourke, G. Chapa-Resendez, L. Hamilton, K. Lind, L. Owens, &amp; V. Parker)</p>
+                <p><a href="issues/1990s/98v29n3.pdf" target="_blank"><strong>Number 3</strong></a>. Features <em>An Inquiry into Declining RDD Response Rates Part II: Telephone Center Operations and Interviewers</em>               (D. O’Rourke)</p>
+              </div>
+            </div>
+            <div class="AccordionPanel">
+              <div class="AccordionPanelTab"><strong>Volume 28 (1997)</strong></div>
+              <div class="AccordionPanelContent">
+                <p><a href="issues/1990s/97v28n1-2.pdf" target="_blank"><strong>Numbers 1-2</strong></a>. Features <em>CMOR Refusal Rates and Industry Image Survey (Summary of Results)</em></p>
+                <p><a href="issues/1990s/97v28n3.pdf" target="_blank"><strong>Number 3</strong></a><em>. </em>Features <em>Where We Have Been: Survey Research 1967-1997) </em>(S. Sudman) </p>
+                <p><a href="issues/1990s/97v28n4.pdf" target="_blank"><strong>Number 4</strong></a>. Features <em>List of Academic and Not-for-Profit Survey Research Organizations </em></p>
+              </div>
+            </div>
+            <div class="AccordionPanel">
+              <div class="AccordionPanelTab"><strong>Volume 27 (1996)</strong></div>
+              <div class="AccordionPanelContent">
+                <p><a href="issues/1990s/96v27n1_2.pdf" target="_blank"><strong>Numbers 1-2</strong></a>. Features <em>The Growth of Academic and Not-for Profit Survey Research Organizations </em>(D. O'Rourke, S. Sudman, &amp; M. Ryan)</p>
+                <p><a href="issues/1990s/96v27n3.pdf" target="_blank"><strong>Number 3</strong></a>.  Features <em>Telephone Data Collection Miscellanea </em>(D. O'Rourke), <em>Data Archives </em>(D. O'Rourke), and <em>The Use of Focus Groups </em>(K. Cissold)</p>
+                <p><a href="issues/1990s/96v27n4.pdf" target="_blank"><strong>Number 4</strong></a>.  Features <em>News from COPAFS </em><br />
+                </p>
+              </div>
+            </div>
+            <div class="AccordionPanel">
+              <div class="AccordionPanelTab"><strong>Volume 26 (1995)</strong></div>
+              <div class="AccordionPanelContent">
+                <p><a href="issues/1990s/95v26n1_2.PDF" target="_blank"><strong>Numbers 1-2</strong></a>. Features <em>Keeping Confidences: What We Owe Respondents &amp; the Profession </em>(A. Gollin) and <em>Why Innovation is Difficult in Government Surveys </em>(D. Dillman)</p>
+                <p><a href="issues/1990s/95v26n3.PDF" target="_blank"><strong>Number 3</strong></a>. Features <em>Asking the Embarrassing Question </em>(A. Barton)</p>
+                <p><a href="issues/1990s/95v26n4.pdf" target="_blank"><strong>Number 4</strong></a>. </p>
+              </div>
+            </div>
+            <div class="AccordionPanel">
+              <div class="AccordionPanelTab"><strong>Volume 25 (1994)</strong></div>
+              <div class="AccordionPanelContent">
+                <p><a href="issues/1990s/94v25n1_2.PDF" target="_blank"><strong>Numbers 1-2</strong></a>. Features <em>Strictly Confidential? </em>(D. O'Rourke) and <em>Interviewer Monitoring at Risk </em>(D. O'Rourke) </p>
+                <p><a href="issues/1990s/94v25n3.PDF" target="_blank"><strong>Number 3</strong></a>. Features <em>Providing Incentives </em></p>
+                <p><a href="issues/1990s/94v25n4.PDF" target="_blank"><strong>Number 4</strong></a>. </p>
+              </div>
+            </div>
+            <div class="AccordionPanel">
+              <div class="AccordionPanelTab"><strong>Volume 24 (1993)</strong></div>
+              <div class="AccordionPanelContent">
+                <p><a href="issues/1990s/93v24n2.PDF" target="_blank"><strong>Number 2</strong></a>.</p>
+                <p><a href="issues/1990s/93v24n3_4.PDF" target="_blank"><strong>Numbers 3-4</strong></a>. Features <em>Translating Questionnaires</em> (M. Breslow &amp; M. Sanchez) and <em>RAND Survey Prevails in Court Challenge</em> (S. Berry) </p>
+              </div>
+            </div>
+            <div class="AccordionPanel">
+              <div class="AccordionPanelTab"><strong>Volume 23 (1992)</strong></div>
+              <div class="AccordionPanelContent">
+                <p><a href="issues/1990s/92v23n1.pdf"><strong>Number 1</strong></a>. </p>
+                <p><a href="issues/1990s/92v23n2.pdf"><strong>Number 2</strong></a>. Features <em>Ten Commandments of Questionnaire Construction </em>(A. Tuchfarber)</p>
+                <p><a href="issues/1990s/92v23n3-4.pdf"><strong>Numbers 3-4</strong></a>. Features <em>Response Rates at Academic Survey Research Organizations</em> (M. Spaeth) </p>
+              </div>
+            </div>
+            <div class="AccordionPanel">
+              <div class="AccordionPanelTab"><strong>Volume 22 (1991)</strong></div>
+              <div class="AccordionPanelContent">
+                <p><a href="issues/1990s/91v22n1.pdf" target="_blank"><strong>Number 1</strong></a>.</p>
+                <p><a href="issues/1990s/91v22n2.pdf" target="_blank"><strong>Number 2</strong></a>. </p>
+                <p><a href="issues/1990s/91v22n3-4.pdf" target="_blank"><strong>Number 3-4</strong></a>.</p>
+              </div>
+            </div>
+            <div class="AccordionPanel">
+              <div class="AccordionPanelTab"><strong>Volume 21 (1990)</strong></div>
+              <div class="AccordionPanelContent">
+                <p><a href="issues/1990s/90v21n1.pdf" target="_blank"><strong>Number 1</strong></a>.</p>
+                <p><a href="issues/1990s/90v21n2.pdf" target="_blank"><strong>Number 2</strong></a>. Features <em>CATI Facilities at Academic Survey Research Organizations </em>(M. Spaeth)</p>
+                <p><a href="issues/1990s/90v21n3-4.pdf" target="_blank"><strong>Number 3-4</strong></a>.</p>
+              </div>
+            </div>
+            <div class="AccordionPanel">
+              <div class="AccordionPanelTab"><strong>Volume 20 (1989)</strong></div>
+              <div class="AccordionPanelContent">
+                <p><a href="issues/1980s/89v20n1-2.pdf" target="_blank"><strong>Numbers 1-2</strong></a>. </p>
+                <p><a href="issues/1980s/89v20n3-4.pdf" target="_blank"><strong>Numbers 3-4</strong></a>. </p>
+              </div>
+            </div>
+            <div class="AccordionPanel">
+              <div class="AccordionPanelTab"><strong>Volume 19 (1988)</strong></div>
+              <div class="AccordionPanelContent">
+                <p><a href="issues/1980s/88v19n1-2.pdf" target="_blank"><strong>Numbers 1-2</strong></a>.</p>
+                <p><a href="issues/1980s/88v19n3-4.pdf" target="_blank"><strong>Numbers 3-4</strong></a>. </p>
+              </div>
+            </div>
+            <div class="AccordionPanel">
+              <div class="AccordionPanelTab"><strong>Volume 18 (1987)</strong></div>
+              <div class="AccordionPanelContent">
+                <p><a href="issues/1980s/87v18n1-2.pdf" target="_blank"><strong>Numbers 1-2</strong></a>. Features <em>Bibliography on Computer-Assisted Telephone Interviewing </em>(M. Spaeth)</p>
+                <p><a href="issues/1980s/87v18n3-4.pdf" target="_blank"><strong>Numbers 3-4</strong></a>. Features <em>CATI Facilities at Survey Research Organizations </em>(M. Spaeth) </p>
+              </div>
+            </div>
+            <div class="AccordionPanel">
+              <div class="AccordionPanelTab"><strong>Volume 17 (1986)</strong></div>
+              <div class="AccordionPanelContent">
+                <p><a href="issues/1980s/86v17n1-2.pdf" target="_blank"><strong>Numbers 1-2</strong></a>.</p>
+                <p><a href="issues/1980s/86v17n3-4.pdf" target="_blank"><strong>Numbers 3-4</strong></a>. </p>
+              </div>
+            </div>
+            <div class="AccordionPanel">
+              <div class="AccordionPanelTab"><strong>Volume 16 (1985)</strong></div>
+              <div class="AccordionPanelContent">
+                <p><a href="issues/1980s/85v16n1-2.pdf" target="_blank"><strong>Numbers 1-2</strong></a>.</p>
+                <p><a href="issues/1980s/85v16n3-4.pdf" target="_blank"><strong>Numbers 3-4</strong></a>. </p>
+                <p>&nbsp; </p>
+              </div>
+            </div>
+<div class="AccordionPanel">
+              <div class="AccordionPanelTab"><strong>Volume 15 (1983)</strong></div>
+              <div class="AccordionPanelContent">
+                <p><a href="issues/1980s/83v15n1-2.pdf" target="_blank"><strong>Numbers 1-2</strong></a>.</p>
+                <p><a href="issues/1980s/83v15n3-4.pdf" target="_blank"><strong>Numbers 3-4</strong></a>. </p>
+              </div>
+            </div>
+            <div class="AccordionPanel">
+              <div class="AccordionPanelTab">
+               <strong>Volume 14 (1982)</strong>
+              </div>
+              <div class="AccordionPanelContent">
+                <p><a href="issues/1980s/82v14n1-2.pdf" target="_blank"><strong>Numbers 1-2</strong></a>.</p>
+                <p><a href="issues/1980s/82v14n3-4.pdf" target="_blank"><strong>Numbers 3-4</strong></a>. </p>
+              </div>
+            </div>
+            <div class="AccordionPanel">
+              <div class="AccordionPanelTab"><strong>Volume 13 (1981)</strong></div>
+              <div class="AccordionPanelContent">
+                <p><a href="issues/1980s/80-81v13n1.pdf" target="_blank"><strong>Number 1</strong></a>.</p>
+                <p><a href="issues/1980s/81v13n2.pdf" target="_blank"><strong>Number 2</strong></a>.</p>
+                <p><a href="issues/1980s/81v13n3.pdf" target="_blank"><strong>Number 3</strong></a>. </p>
+                <p><a href="issues/1980s/81v13n4.pdf" target="_blank"><strong>Number 4</strong></a>. Features <em>In Memoriam: Robert Ferber, 1922 - 1981 </em> </p>
+              </div>
+            </div>
+            <div class="AccordionPanel">
+              <div class="AccordionPanelTab">
+                <strong>Volume 12 (1979-1980)</strong>
+              </div>
+              <div class="AccordionPanelContent">
+                <p><a href="issues/1970s/79-80v12n1.pdf" target="_blank"><strong>Number 1</strong></a>. </p>
+                <p><a href="issues/1980s/80v12n3.pdf" target="_blank"><strong>Number 3</strong></a>. </p>
+                <p><a href="issues/1980s/80v12n4.pdf" target="_blank"><strong>Number 4</strong></a>. </p>
+              </div>
+            </div>
+            <div class="AccordionPanel">
+              <div class="AccordionPanelTab"><strong>Volume 11 (1979) </strong></div>
+              <div class="AccordionPanelContent">
+                <p><a href="issues/1970s/79v11n1.pdf" target="_blank"><strong>Number 1</strong></a>.</p>
+<p><a href="issues/1970s/79v11n3-4.pdf" target="_blank"><strong>Numbers 3-4</strong></a>.</p>
+              </div>
+            </div>
+            <div class="AccordionPanel">
+              <div class="AccordionPanelTab"><strong>Volume 10 (1978) </strong></div>
+              <div class="AccordionPanelContent">
+                <p><strong><a href="issues/1970s/77-78v10n1.pdf" target="_blank">Number 1</a></strong>.</p>
+                <p><a href="issues/1970s/78v10n2.pdf" target="_blank"><strong>Number 2</strong></a>.</p>
+<p><a href="issues/1970s/78v10n3.pdf" target="_blank"><strong>Number 3</strong></a>.</p>
+                <p><a href="issues/1970s/78v10n4.pdf" target="_blank"><strong>Number 4</strong></a>. </p>
+                <p></p>
+              </div>
+            </div>
+            <div class="AccordionPanel">
+              <div class="AccordionPanelTab"><strong>Volume 9 (1977)</strong></div><div class="AccordionPanelContent">
+                <p><a href="issues/1970s/77v9n1-2.pdf" target="_blank"><strong>Numbers 1-2</strong></a>. </p>
+<p><a href="issues/1970s/77v9n3.pdf" target="_blank"><strong>Number 3</strong></a>. </p>
+                <p><a href="issues/1970s/77v9n4.pdf" target="_blank"><strong>Number 4</strong></a>. </p>
+              </div>
+            </div>
+            <div class="AccordionPanel">
+              <div class="AccordionPanelTab"><strong>Volume 8 (1976)</strong></div>
+              <div class="AccordionPanelContent">
+                <p><a href="issues/1970s/76v8n1.pdf" target="_blank"><strong>Number 1</strong></a>. </p>
+<p><a href="issues/1970s/76v8n2.pdf" target="_blank"><strong>Number 2</strong></a>.</p>
+              </div>
+            </div>
+            <div class="AccordionPanel">
+              <div class="AccordionPanelTab"><strong>Volume 7 (1975)</strong></div>
+              <div class="AccordionPanelContent">
+                <p><a href="issues/1970s/75v7n1.pdf" target="_blank"><strong>Number 1</strong></a>. </p>
+<p><a href="issues/1970s/75v7n2.pdf" target="_blank"><strong>Number 2</strong></a>. </p>
+                <p><a href="issues/1970s/75v7n3.pdf" target="_blank"><strong>Number 3</strong></a>. </p>
+                <p></p>
+              </div>
+            </div>
+            <div class="AccordionPanel">
+              <div class="AccordionPanelTab"><strong>Volume 6 (1974)</strong></div>
+              <div class="AccordionPanelContent">
+                <p><a href="issues/1970s/74v6n1.pdf" target="_blank"><strong>Number 1</strong></a>. </p>
+<p><a href="issues/1970s/74v6n2.pdf" target="_blank"><strong>Number 2</strong></a>. </p>
+                <p><a href="issues/1970s/74v6n3.pdf" target="_blank"><strong>Number 3</strong></a>. </p>
+            </div></div>
+            <div class="AccordionPanel">
+              <div class="AccordionPanelTab"><strong>Volume 5 (1973)</strong></div>
+              <div class="AccordionPanelContent">
+                <p><a href="issues/1970s/73v5n1.pdf" target="_blank"><strong>Number 1</strong></a>. Features <em>Interviewing in Telephone Surveys, Telephone Interviewing Procedures </em>(T. Weller)<em>, The Efficacy of Random Digit Dialing </em>(W. Klecker &amp; A. Tuchfarber)<em>, </em>and<em> Telephone Interviewing on the NLRB Election Study </em>(M. Hauck &amp; J. Goldberg)</p>
+<p><a href="issues/1970s/73v5n2.pdf" target="_blank"><strong>Number 2</strong></a>. Features <em>Undergraduate Mathematics Teaching: Setting &amp; Staff </em>(P. Collette)</p>
+                <p><a href="issues/1970s/73v5n3.pdf" target="_blank"><strong>Number 3</strong></a>. </p>
+              </div>
+            </div>
+            <div class="AccordionPanel">
+              <div class="AccordionPanelTab"><strong>Volume 4 (1972)</strong></div>
+              <div class="AccordionPanelContent">
+                <p><a href="issues/1970s/72v4n1.pdf" target="_blank"><strong>Number 1</strong></a>. </p>
+<p><a href="issues/1970s/72v4n2.pdf" target="_blank"><strong>Number 2</strong></a>. </p>
+                <p><a href="issues/1970s/72v4n3.pdf" target="_blank"><strong>Number 3</strong></a>. Features <em>The Case for Larger Assignments </em>(D. Weber)</p>
+                <p></p>
+              </div>
+            </div>
+            <div class="AccordionPanel">
+              <div class="AccordionPanelTab"><strong>Volume 3 (1971)</strong></div>
+              <div class="AccordionPanelContent">
+                <p><a href="issues/1970s/71v3n3.pdf" target="_blank"><strong>Number 3</strong></a>. Features <em>How Do You Rate?</em> (in terms of interviewer wages and validation procedures) and <em>You Too Want to Have a Survey Center?</em> (R. Ferber)</p>
+                <p><strong><a href="issues/1970s/71v3n7.pdf" target="_blank">Number 7</a></strong>. Features <em>How Do You Rate on Advance Letters?</em></p>
+              </div>
+            </div>
+            <div class="AccordionPanel">
+              <div class="AccordionPanelTab"><strong>Volume 2 (1970)</strong></div>
+              <div class="AccordionPanelContent">
+                <p><a href="issues/1970s/70v2n1.pdf" target="_blank"><strong>Number 1</strong></a>.</p>
+                <p><a href="issues/1970s/70v2n2.pdf" target="_blank"><strong>Number 2</strong></a>.</p>
+                <p><a href="issues/1970s/70v2n3.pdf" target="_blank"><strong>Number 3</strong></a>.</p>
+              </div>
+            </div>
+            <div class="AccordionPanel">
+              <div class="AccordionPanelTab"><strong>Volume 1 (1969)</strong></div>
+              <div class="AccordionPanelContent">
+                <p><a href="issues/1960s/69v1n1.pdf" target="_blank"><strong>Number 1</strong></a>.</p>
+                <p><a href="issues/1960s/69v1n2.pdf" target="_blank"><strong>Number 2</strong></a>.</p>
+              </div>
+            </div>
+          </div>
+          <p>&nbsp;</p>
+  </div>
+  <br class="clear" /></div>
+					<br class="clear" /></div>
+				<div id="footer">
+					<div id="footerContent">
+					  <!-- #BeginDate format:Am1 -->June 21, 2019<!-- #EndDate -->
+					</div>
+					<div id="footerSidebar"> </div>
+					<br class="clear" /></div>
+			</div>
+			<div id="copyright">
+			  <p>&copy; 2019 The Board of Trustees of the University of Illinois <span class="pipe-separator">|</span>
+  <a href="http://www.vpaa.uillinois.edu/policies/web_privacy.cfm">Privacy Statement</a><br />
+			  </p>
+		    <!--##@%--></div>
+</div>
+<script type="text/javascript">
+var Accordion1 = new Spry.Widget.Accordion("Accordion1", { useFixedPanelHeights: false, defaultPanel: -1 });
+</script>
+
+</body></html>

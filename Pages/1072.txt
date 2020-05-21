@@ -1,0 +1,103 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+
+	Reverse Obscurity by nodethirtythree + Templated.org
+	http://templated.org/ | @templatedorg
+	Released under the Creative Commons Attribution 3.0 License.
+	
+	Note from the author: These templates take quite a bit of time to conceive,
+	design, and finally code. So please, support our efforts by respecting our
+	license: keep our footer credit links intact so people can find out about us
+	and what we do. It's the right thing to do, and we'll love you for it :)
+	
+-->
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta name="keywords" content=""><meta name="description" content=""><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>SRL | Resources</title><link href="http://fonts.googleapis.com/css?family=PT+Sans+Narrow" rel="stylesheet" type="text/css"><link href="http://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css"><link rel="stylesheet" type="text/css" href="Templates/obscurity/style.css">
+
+<style type="text/css">
+
+a:link {
+	color: #384C78;
+	text-decoration: none;
+}
+.style1 {font-family: "Book Antiqua"}
+</style>
+<script src="test/SpryAssets/SpryAccordion.js" type="text/javascript"></script>
+<link href="test/SpryAssets/SpryAccordion.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+a:active {
+	text-decoration: none;
+}
+
+#Accordion1 {line-height: 0.5;}
+.AccordionPanelContent {line-height: 1.5;}
+
+</style>
+</head>
+<body>
+		<div id="bg">
+			<div id="outer">
+			  <div id="header">
+			    <div id="header2">
+			      <div id="nav">
+			        <ul>
+			          <li class="first active"> <a href="http://www.srl.uic.edu/">Home</a> </li>
+                      <li> <a href="http://www.srl.uic.edu/resources.htm">resources</a> </li>
+			          <li> <a href="http://www.srl.uic.edu/publist.htm">publications</a></li>
+
+		            </ul>
+			        <br class="clear" />
+		          </div>
+		        </div>
+			  </div>
+			  <div id="banner"><img src="Images/Resources.jpg" width="860" height="160" alt="Resources banner" /></div>
+				<div id="main">
+				  <div id="sidebar1">
+	<h3>&nbsp;</h3>
+	<h3>&nbsp;</h3>
+	<h3>&nbsp;</h3>
+	<h1>&nbsp;</h1>
+
+
+                  </div>
+				  <div id="content">
+					  <div id="box1">
+                      
+<ul class="linkedList">
+		    <li class="first"></li>
+		    <li><a href="http://www.srl.uic.edu/Publist/bulletin.html">Survey News Bulletins</a></li>
+		    <li><a href="http://www.srl.uic.edu/links.html">Links related to survey research</a></li>
+		    <li><a href="http://www.srl.uic.edu/gcsrm.htm">Graduate Concentration in Survey Methods</a></li>
+
+	      </ul>
+
+  </div>  <!--"box1"-->        
+
+</div> <!--"content"-->
+
+
+
+
+					<br class="clear"></div>
+				<div id="footer">
+					<div id="footerContent">
+					  <!-- #BeginDate format:Am1 -->June 21, 2019<!-- #EndDate -->
+					</div>
+					<div id="footerSidebar"> </div>
+					<br class="clear"></div>
+			</div>
+			<div id="copyright">
+			  <p>&copy; 2019 The Board of Trustees of the University of Illinois <span class="pipe-separator">|</span>
+  <a href="http://www.vpaa.uillinois.edu/policies/web_privacy.cfm">Privacy Statement</a><br />
+			  </p>
+		    <!--##@%--></div>
+		</div>
+
+</body>
+ </body> </html>
+        </html>

@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Entry -->
+<table id='entry_area' class='fixedTable'>
+	<tr>
+		<td style='width:676px;'>
+			<div id='entry_info'>
+<!-- Begin Entry Info -->
+<h3>Replication of System, 2008</h3><br>
+<div class='entry_content'>
+	<strong>Researchers:</strong> <a href='/entry.php?id=230'>AnnMarie Cernoch</a>, <a href='/entry.php?id=227'>Ratko Jagodic</a><br><br>
+<!-- Begin Entry Description -->
+<em>Replication of System, 2008</em> is an interactive, kinetic, sculptural installation, that explores communication through computer-human interaction and visual feedback.  The human brain is the inspiration for the sculpture&rsquo;s communication system; a central control unit receives a sigal (sound input from cardioid microphones) which then transmits electrical impulses throughout the interactive spatial circuit. At the core of the system is an Arduino board - a physical computing platform based on a simple I/O board and a development environment that uses the Processing / Wiring language. The core represents the systems &ldquo;nucleus&rdquo; from which the flow of information or data radiates. Contact sensors are connected to vine-like appendages that extend from the sculpture and are attached to various surfaces within the space it occupies. These &ldquo;tentacles&rdquo; act like sound sensitive ears, collecting input from participants through surface vibration. User input triggers a series of LEDs to illuminate and sound to be output via Piezo speakers and tranducers. The sculpture&rsquo;s mood or reaction is directly correlated to the nature of the user interaction; if the user pounds a surface rapidly, the system will respond vibrantly to reflect an aggressive reaction.<br><br>
+
+<em>Replication of System</em> creates a feeling of ever expansive growth and informational movement. The project consists of a chaotic wire-filled nucleus that is attached to two sets of consecutive rings. Stretching out from the center of the project are vine-like arms that contain the small, yet powerful sound sensors. The appendages are attached to walls and flat surfaces in the space it occupies. A diffused spotlight illuminates the sculpture to create a sparkling coagulation of copper wire. As one moves around the piece, the illusion of growing wires emerges adding movement / life to the sculpture.<br><br>
+
+<em>Replication of System</em> is an exploration into how technology is an extension of the human mind. Using our brains as inspiration, we are expanding technological systems to create what was once perceived as impossible.<br><br>
+<!-- End Entry Description -->
+	<strong>Email:</strong> <a href='mailto:acernoch@gmail.com'>acernoch@gmail.com</a><br><br>
+	<strong>Date:</strong> March 1, 2008 - May 23, 2008
+</div>
+<!-- End Entry Info -->
+			</div>
+		</td>
+		<td style='width:374px;'>
+			<div id='entry_sidebar'>
+<!-- Begin Entry Sidebar -->
+<div id='entry_image_small'>
+	<img style='left:0; ' src='/resizedImages/350x622-replicationsystem-2.png' alt='' title='Replication of System, 2008' width='350' height='232'>
+</div>
+<span class='smallText'>Replication of System, 2008 - A. Cernoch, EVL</span><br><br>
+<div class='entry_content'>
+	<h3>Related Entries</h3>
+	<strong>Directory:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=227'>Ratko Jagodic</a></li>
+		<li><a href='/entry.php?id=230'>AnnMarie Cernoch</a></li>
+	</ul><br>
+	<strong>Events:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=895'>Smart art: when art imitates life</a></li>
+		<li><a href='/entry.php?id=891'>Illinois Women Video Artists</a></li>
+		<li><a href='/entry.php?id=828'>MFA Thesis Exhibition: Replication of System</a></li>
+		<li><a href='/entry.php?id=826'>MFA AnnMarie Cernoch Receives Provost&rsquo;s Award for Graduate Research</a></li>
+		<li><a href='/entry.php?id=822'>Two EVL Grad Students Win UIC Image of Research Award</a></li>
+		<li><a href='/related.php?id=1972&amp;related=3'><strong>View more&hellip;</strong></a></li>
+	</ul><br>
+	<strong>Papers:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=1537'>Replication of System: explorations in kinetic sculpture</a></li>
+	</ul><br>
+	<h3>Related Categories</h3>
+	<ul>
+		<li><a href='/category.php?id=15&amp;related=1'>MFA Thesis</a></li>
+	</ul>
+</div>
+<!-- End Entry Sidebar-->
+			</div>
+		</td>
+	</tr>
+</table>
+<!-- End Entry -->
+<script>
+	// Making both divs the same height is much easier in JavaScript
+	var entryInfo = document.getElementById("entry_info");
+	var entrySidebar = document.getElementById("entry_sidebar");
+	
+	if (entryInfo && entrySidebar) {
+		var maxHeight = Math.max(entryInfo.offsetHeight, entrySidebar.offsetHeight)-20;
+		entryInfo.style.height = maxHeight+"px";
+		entrySidebar.style.height = maxHeight+"px";
+	}
+</script>
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

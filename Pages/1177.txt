@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Entry -->
+<table id='entry_area' class='fixedTable'>
+	<tr>
+		<td style='width:676px;'>
+			<div id='entry_info'>
+<!-- Begin Entry Info -->
+<h3>UIC/EVL Student Recognized in 2017 UIC Image of Research Competition</h3>
+<div id='entry_image_large'><img style='left:50px;' src='/resizedImages/1280x720-2017-imageofresearch-nishimoto_sm.jpg' alt='' title='UIC/EVL Student Recognized in 2017 UIC Image of Research Competition' width='539' height='360'></div>
+<span class='smallText'>&ldquo;Under the Virtual Ice&rdquo; with Arthur Nishimoto, UIC Electronic Visualization Laboratory. - Photo by Lance Long</span><br><br>
+<div class='entry_content'>
+	<strong>Participants:</strong> <a href='/entry.php?id=270'>Arthur Nishimoto</a><br><br>
+<!-- Begin Entry Description -->
+September 14, 2017 - This year, UIC Computer Science (CS) PhD student and Electronic Visualization Laboratory (EVL) research assistant Arthur Nishimoto received Honorable Mention for his &ldquo;Under the Virtual Ice&rdquo; image in the campus&rsquo;s 2017 Image of Research competition. This is the 10th anniversary of the interdisciplinary exhibit competition, and is organized by the UIC Graduate College and University Library to showcase the breadth and diversity of research at UIC.<br><br>
+&ldquo;Under the Virtual Ice&rdquo; demonstrates how Nishimoto&rsquo;s research, under the supervision of CS associate professor and EVL director for research Andy Johnson, enables scientists to use a virtual-reality head-mounted display to visually and interactively explore data that has been collected under the Ross Ice Shelf in Antarctica. Funded by NASA, the SIMPLE project (Sub-ice Investigation of Marine and Planetary-analog Ecosystems) deployed an autonomous underwater vehicle (AUV) whose sensors collected biogeochemical data of the water&rsquo;s composition and photographed the underside the ice surface, and used sonar data to map the underside of the ice surface. More specifically, this photo shows the user holding a wand controller that enables him to virtually swim through the Ross Sea, follow the yellow path of the AUV, and view salinity, pressure, conductivity, and oxygen concentrations. The goal is to compare measurements of the ice shelf taken from under the ice with measurements taken from above the ice, to improve future mapping missions to Jupiter&rsquo;s ice-covered moon Europa, and eventually send an AUV under that ice to search for life. SIMPLE is a collaboration of UIC, Stone Aerospace, Georgia Tech, Louisiana State University, University of Nebraska-Lincoln, San Jose State, University of Texas at Austin, and Montana State University.<br><br>
+An awards reception featuring the winners and the finalists for this year&rsquo;s 10th Anniversary exhibition will take place at the UIC Gallery 400 on October 24, 2017, from 4:00 - 6:00pm. Some of the winning entries from the past decade will also be on display.<br><br>
+<a href="http://tinyurl.com/ior10"><strong>RSVP</strong></a><br><br>
+All winning entries will be on exhibit at the UIC Daley Library (October 11, 2017 - January 31, 2018) and in the Library of Health Sciences, and will be featured on light pole banners around campus. Winners, finalists and a wide selection of other entries received for each year&rsquo;s competition will also be posted to an online gallery run by the <a href="http://collections.carli.illinois.edu/cdm/landingpage/collection/uic_ior">Consortium of Academic and Research Libraries in Illinois (CARLI).</a><br><br>
+For information on the 2017 awards, as well as a list of all exhibition winners and finalists from the competition&rsquo;s inception, see:<br>
+<a href="http://grad.uic.edu/image-research-exhibit">General information and list of winners over the years</a><br>
+<a href="http://grad.uic.edu/ior-results/2017">2017 winning entries</a><br><br>
+It should be noted that Image of Research judges used EVL&rsquo;s largest tiled display system, the CAVE2 hybrid reality environment, and EVL&rsquo;s windowing software SAGE2, to display all the submissions at once for easy comparison and grouping.<br><br>
+# # #<br><br>
+EVL students have participated in and received recognition in previous Image of Research competitions. Here is a summary of all EVL accomplishments to date:<br><br>
+2016: 1st Place - &ldquo;SpiderSense,&rdquo; Victor Mateevitsi; Honorable Mention - &ldquo;Into the (Virtual) Jungle,&rdquo; Jillian Aurisano and James Hwang<br><br>
+2014: Honorable Mention - &ldquo;Getting in Touch with the Data,&rdquo; Arthur Nishimoto<br><br>
+2013: 1st Place - &ldquo;Threshold,&rdquo; Joshua Albers; 2nd place - &ldquo;A Nanoscale Forest Seen Through a Big Lens,&rdquo; Khairi Reda; Finalist - &ldquo;SpiderSense,&rdquo; Victor Mateevitsi, Brad Haggadone, Brian Kunzer<br><br>
+2012: 1st Place - &ldquo;Artificially created cortical functional blood unit,&rdquo; Thomas Marrinan, Ian Gould<br><br>
+2011: Honorable Mention - &ldquo;20 Foot Canvas&rdquo;, JD Pirtle, Arthur Nishimoto, Karan Chakrapani, Todd Silvia, and Philip Pilosi; Finalist  - &ldquo;Cli-Mate,&rdquo; Ed Kahler<br><br>
+2010: 1st Place - &ldquo;Avatar - A Virtual Human,&rdquo; Sangyoon Lee<br><br>
+2009: Honorable Mention - &ldquo;The Viewer,&rdquo; Julio Obelleiro; Finalist  - &ldquo;The Tight Room,&rdquo; Heejoo Kim<br><br>
+2008: 1st Place - &ldquo;Infinity Gliders,&rdquo; AnnMarie Cernoch; 3rd Place - &ldquo;Rain on Mars,&rdquo; Dmitri Svistula<br><br>
+<!-- End Entry Description -->
+	<strong>Email:</strong> <a href='mailto:maxine@uic.edu'>maxine@uic.edu</a><br><br>
+	<strong>Date:</strong> September 14, 2017
+</div>
+<!-- End Entry Info -->
+			</div>
+		</td>
+		<td style='width:374px;'>
+			<div id='entry_sidebar'>
+<!-- Begin Entry Sidebar -->
+<div class='entry_content'>
+	<h3>Related Entries</h3>
+	<strong>Directory:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=270'>Arthur Nishimoto</a></li>
+	</ul><br>
+	<strong>Research:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2329'>SIMPLE project (Sub-ice Investigation of Marine and Planetary-analog Ecosystems)</a></li>
+	</ul><br>
+	<h3>Related Categories</h3>
+	<ul>
+		<li><a href='/category.php?id=3&amp;related=3'>Applications</a></li>
+		<li><a href='/category.php?id=27&amp;related=3'>Visualization</a></li>
+		<li><a href='/category.php?id=28&amp;related=3'>VR</a></li>
+	</ul>
+</div>
+<!-- End Entry Sidebar-->
+			</div>
+		</td>
+	</tr>
+</table>
+<!-- End Entry -->
+<script>
+	// Making both divs the same height is much easier in JavaScript
+	var entryInfo = document.getElementById("entry_info");
+	var entrySidebar = document.getElementById("entry_sidebar");
+	
+	if (entryInfo && entrySidebar) {
+		var maxHeight = Math.max(entryInfo.offsetHeight, entrySidebar.offsetHeight)-20;
+		entryInfo.style.height = maxHeight+"px";
+		entrySidebar.style.height = maxHeight+"px";
+	}
+</script>
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

@@ -1,0 +1,2816 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin List -->
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Type:</strong>
+		<a href='/list.php?id=2&amp;type=1&amp;letter=all'><strong>Alumni</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=all'>Directorate</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=3&amp;letter=all'>Faculty</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=4&amp;letter=all'>Former Staff</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=5&amp;letter=all'>Staff</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=all'>Students</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=7&amp;letter=all'>Visitors</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=all&amp;letter=all'>All</a><br>
+		<strong>Name:</strong>
+		<a href='/list.php?id=2&amp;type=1&amp;letter=A'>A</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=B'>B</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=C'>C</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=D'>D</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=E'>E</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=F'>F</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=G'>G</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=H'>H</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=I'>I</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=J'>J</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=K'>K</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=L'>L</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=M'>M</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=N'>N</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=O'>O</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=P'>P</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=Q'>Q</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=R'>R</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=S'>S</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=T'>T</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=U'>U</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=V'>V</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=W'>W</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=X'>X</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=Y'>Y</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=Z'>Z</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=all'><strong>All</strong></a>
+	</div>
+</div>
+<!-- End List Pagination -->
+<div id='list_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin List List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=62'><img src='/resizedImages/500x280-crop-dave_adamczyk.jpg' alt='' title='Dave Adamczyk' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=62'>Dave Adamczyk</a></strong><br>
+			MS Graduate, 1994<br>
+			<a href='mailto:dave@adamczyk.com'>dave@adamczyk.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=64'><img src='/resizedImages/500x280-crop-training_afenya.jpg' alt='' title='Michelle Afenya' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=64'>Michelle Afenya</a></strong><br>
+			MS Graduate, 1997<br>
+			<a href='mailto:afenya@comm.mot.com'>afenya@comm.mot.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=191'><img src='/resizedImages/500x280-crop-juli.jpg' alt='' title='Julieta Aguilera' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=191'>Julieta Aguilera</a></strong><br>
+			MFA Graduate, 2006<br>
+			<a href='http://www.julietina.com' target='_blank'>http://www.julietina.com</a><br>
+			<a href='mailto:juli3ta@yahoo.com'>juli3ta@yahoo.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=292'><img src='/resizedImages/500x280-crop-josh20120408.png' alt='' title='Joshua Albers' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=292'>Joshua Albers</a></strong><br>
+			New Media Arts Graduate, 2013<br>
+			<a href='http://joshuaalbers.com' target='_blank'>http://joshuaalbers.com</a><br>
+			<a href='mailto:joshua.albers@gmail.com'>joshua.albers@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=65'><img src='/resizedImages/500x280-crop-jalex.gif' alt='' title='Joseph Alexander' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=65'>Joseph Alexander</a></strong><br>
+			MFA Graduate, 1999<br>
+			<a href='http://www.evl.uic.edu/jalex' target='_blank'>http://www.evl.uic.edu/jalex</a><br>
+			<a href='mailto:phejos@yahoo.com'>phejos@yahoo.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=67'><img src='/resizedImages/500x280-crop-alic.gif' alt='' title='Mihailo Alic' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=67'>Mihailo Alic</a></strong><br>
+			MS Graduate, 1994,  MFA Graduate, 1995<br>
+			<a href='http://www.evl.uic.edu/alic' target='_blank'>http://www.evl.uic.edu/alic</a><br>
+			<a href='mailto:bgmix@verat.net'>bgmix@verat.net</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=212'><img src='/resizedImages/500x280-crop-javid_liberty.jpg' alt='' title='Javid Alimohideen' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=212'>Javid Alimohideen</a></strong><br>
+			MS Graduate, 2007<br>
+			<a href='http://javid.alimohideen.googlepages.com' target='_blank'>http://javid.alimohideen.googlepages.com</a><br>
+			<a href='mailto:javid.alimohideen@gmail.com'>javid.alimohideen@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=302'><img src='/resizedImages/500x280-crop-kyle_almryde.png' alt='' title='Kyle Almryde' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=302'>Kyle Almryde</a></strong><br>
+			MS Graduate, 2017<br>
+			<a href='mailto:kyle.almryde@gmail.com'>kyle.almryde@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2358'><img src='/resizedImages/500x280-crop-simoneamico.jpg' alt='' title='Simone Amico' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2358'>Simone Amico</a></strong><br>
+			MS Graduate, 2019<br>
+			<a href='http://amicosimone.com' target='_blank'>http://amicosimone.com</a><br>
+			<a href='mailto:simoamico94@gmail.com'>simoamico94@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=12'><img src='/resizedImages/500x280-crop-budmyface-sm.jpg' alt='' title='Josephine Anstey' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=12'>Josephine Anstey</a></strong><br>
+			MFA Graduate, 2000<br>
+			<a href='http://www.evl.uic.edu/anstey' target='_blank'>http://www.evl.uic.edu/anstey</a><br>
+			<a href='mailto:jranstey@buffalo.edu'>jranstey@buffalo.edu</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=206'><img src='/resizedImages/500x280-crop-kapil.jpg' alt='' title='Kapil Arora' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=206'>Kapil Arora</a></strong><br>
+			MFA Graduate, 2007
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2366'><img src='/resizedImages/500x280-crop-aatra.jpg' alt='' title='Ahmad Atra' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2366'>Ahmad Atra</a></strong><br>
+			Undergraduate Researcher (REU), BS 2018<br>
+			<a href='mailto:ahmadatra81@gmail.com'>ahmadatra81@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2367'><img src='/resizedImages/500x280-crop-mavendano.jpg' alt='' title='Michael Avendano' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2367'>Michael Avendano</a></strong><br>
+			Undergraduate Researchers (REU), BS 2018<br>
+			<a href='mailto:mavend2@gmail.com'>mavend2@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2375'><img src='/misc/default_500x280.png' alt='' title='Joseph Baldwin' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2375'>Joseph Baldwin</a></strong><br>
+			MFA Graduate, 2010<br>
+			<a href='http://www.noisivelvet.org' target='_blank'>http://www.noisivelvet.org</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2074'><img src='/resizedImages/500x280-crop-galenballew_sm.jpg' alt='' title='Galen Ballew' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2074'>Galen Ballew</a></strong><br>
+			Research Experience Undergraduate, 2014-2016
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=25'><img src='/resizedImages/500x280-crop-barnes.gif' alt='' title='Craig Barnes' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=25'>Craig Barnes</a></strong><br>
+			PhD Graduate, 2001<br>
+			<a href='mailto:cbarnes@intelligentlight.com'>cbarnes@intelligentlight.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=68'><img src='/resizedImages/500x280-crop-barr.gif' alt='' title='Jim Barr' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=68'>Jim Barr</a></strong><br>
+			MFA Graduate, 1995<br>
+			<a href='http://www.evl.uic.edu/barr' target='_blank'>http://www.evl.uic.edu/barr</a><br>
+			<a href='mailto:jim.barr.1441@facebook.com'>jim.barr.1441@facebook.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=161'><img src='/resizedImages/500x280-crop-gabpab3.jpg' alt='' title='Geoffrey Allen Baum' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=161'>Geoffrey Allen Baum</a></strong><br>
+			MFA Graduate, 2005<br>
+			<a href='http://www.evl.uic.edu/xiccarph' target='_blank'>http://www.evl.uic.edu/xiccarph</a><br>
+			<a href='mailto:gabaum@xiccarph.net'>gabaum@xiccarph.net</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=254'><img src='/resizedImages/500x280-crop-marcobernasconi.png' alt='' title='Marco Bernasconi' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=254'>Marco Bernasconi</a></strong><br>
+			PhD Graduate, 2011<br>MS Graduate, 2010<br>
+			<a href='mailto:marco_berna_76@alice.it'>marco_berna_76@alice.it</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=300'><img src='/resizedImages/500x280-crop-krishna_sm.jpg' alt='' title='Krishna Bharadwaj' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=300'>Krishna Bharadwaj</a></strong><br>
+			PhD Candidate<br>MS Graduate, 2015<br>
+			<a href='mailto:krishnaknbharadwaj@gmail.com'>krishnaknbharadwaj@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=246'><img src='/resizedImages/500x280-crop-darshanbhatt.jpg' alt='' title='Darshan Bhatt' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=246'>Darshan Bhatt</a></strong><br>
+			MS Graduate, 2008<br>
+			<a href='mailto:dbhatt4@gmail.com'>dbhatt4@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=70'><img src='/resizedImages/500x280-crop-hisham.gif' alt='' title='Hisham Bizri' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=70'>Hisham Bizri</a></strong><br>
+			MFA Graduate, 2000<br>
+			<a href='http://www.hishambizri.com' target='_blank'>http://www.hishambizri.com</a><br>
+			<a href='mailto:hbizri@umn.edu'>hbizri@umn.edu</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=308'><img src='/resizedImages/500x280-crop-mblewett.jpg' alt='' title='Mark Blewett' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=308'>Mark Blewett</a></strong><br>
+			BS, 2014<br>
+			<a href='http://www.linkedin.com/in/markblewett' target='_blank'>http://www.linkedin.com/in/markblewett</a><br>
+			<a href='mailto:markrblewett@me.com'>markrblewett@me.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2322'><img src='/resizedImages/500x280-crop-joeborowicz_sm.jpg' alt='' title='Joe Borowicz' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2322'>Joe Borowicz</a></strong><br>
+			Research Experience Undergraduate, BS 2018<br>
+			<a href='https://www.linkedin.com/in/joseph-borowicz' target='_blank'>https://www.linkedin.com/in/joseph-borowicz</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=263'><img src='/resizedImages/500x280-crop-alejandroborsani2008.jpg' alt='' title='Alejandro Borsani' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=263'>Alejandro Borsani</a></strong><br>
+			MFA Graduate, 2010<br>
+			<a href='mailto:alejandrobs@gmail.com'>alejandrobs@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=156'><img src='/misc/default_500x280.png' alt='' title='Hugh Bridgeford' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=156'>Hugh Bridgeford</a></strong><br>
+			MFA Graduate, 1990
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=27'><img src='/resizedImages/500x280-crop-jeffreybrooks.jpg' alt='' title='Jeffrey Brooks' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=27'>Jeffrey Brooks</a></strong><br>
+			MFA Graduate, 2002<br>
+			<a href='http://www.roughly.net' target='_blank'>http://www.roughly.net</a><br>
+			<a href='mailto:jeffrey@roughly.net'>jeffrey@roughly.net</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=294'><img src='/resizedImages/500x280-crop-abui.jpg' alt='' title='Huy A. Bui' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=294'>Huy A. Bui</a></strong><br>
+			PhD Graduate, 2015<br>
+			<a href='http://www.cs.uic.edu/~abui' target='_blank'>http://www.cs.uic.edu/~abui</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=235'><img src='/resizedImages/500x280-crop-cabazon_stevecady.jpg' alt='' title='Steve Cady' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=235'>Steve Cady</a></strong><br>
+			MFA Graduate, 2008<br>
+			<a href='http://www.stephencady.com' target='_blank'>http://www.stephencady.com</a><br>
+			<a href='mailto:stephen@stephencady.com'>stephen@stephencady.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=268'><img src='/resizedImages/500x280-crop-gordoncarlson.png' alt='' title='Gordon Carlson' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=268'>Gordon Carlson</a></strong><br>
+			Graduate, Communication 2010<br>
+			<a href='mailto:gordycarlson@gmail.com'>gordycarlson@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2302'><img src='/resizedImages/500x280-crop-jcastor2018.jpg' alt='' title='Joshua Lagunda Castor' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2302'>Joshua Lagunda Castor</a></strong><br>
+			Undergraduate Researcher (REU), BS 2018<br>
+			<a href='https://joshuacastor.me' target='_blank'>https://joshuacastor.me</a><br>
+			<a href='mailto:joshua.castor@joshuacastor.me'>joshua.castor@joshuacastor.me</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2156'><img src='/resizedImages/500x280-crop-marcocavallo.jpg' alt='' title='Marco Cavallo' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2156'>Marco Cavallo</a></strong><br>
+			MS Graduate, 2016<br>
+			<a href='mailto:mastercava@hotmail.it'>mastercava@hotmail.it</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=230'><img src='/resizedImages/500x280-crop-annmariecernoch.jpg' alt='' title='AnnMarie Cernoch' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=230'>AnnMarie Cernoch</a></strong><br>
+			MFA Graduate, 2008<br>
+			<a href='http://www.anncernoch.com' target='_blank'>http://www.anncernoch.com</a><br>
+			<a href='mailto:acernoch@gmail.com'>acernoch@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=29'><img src='/resizedImages/500x280-crop-bethcerny_directory.jpg' alt='' title='Beth Cerny Pati&ntilde;o' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=29'>Beth Cerny Pati&ntilde;o</a></strong><br>
+			MFA Graduate, 2003<br>
+			<a href='http://www.evl.uic.edu/cerny' target='_blank'>http://www.evl.uic.edu/cerny</a><br>
+			<a href='mailto:bcpatino@gmail.com'>bcpatino@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=288'><img src='/resizedImages/500x280-crop-johnchambers.png' alt='' title='Jon Chambers' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=288'>Jon Chambers</a></strong><br>
+			MFA Graduate, 2012<br>
+			<a href='http://jonchambersart.com' target='_blank'>http://jonchambersart.com</a><br>
+			<a href='mailto:jon_chambers@sbcglobal.net'>jon_chambers@sbcglobal.net</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=211'><img src='/resizedImages/500x280-crop-vaidya.jpg' alt='' title='Vaidya Chandrasekhar' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=211'>Vaidya Chandrasekhar</a></strong><br>
+			MS Graduate, 2005
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=260'><img src='/resizedImages/500x280-crop-chau_sm.jpg' alt='' title='Dennis Chau' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=260'>Dennis Chau</a></strong><br>
+			MS Graduate, 2012<br>
+			<a href='mailto:koracas@gmail.com'>koracas@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=228'><img src='/resizedImages/500x280-crop-julian_chen.png' alt='' title='Yu-Chung Chen' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=228'>Yu-Chung Chen</a></strong><br>
+			PhD Graduate, 2011<br>
+			<a href='http://www.evl.uic.edu/julian' target='_blank'>http://www.evl.uic.edu/julian</a><br>
+			<a href='mailto:julian9@gmail.com'>julian9@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=30'><img src='/resizedImages/500x280-crop-yongjoo2.jpg' alt='' title='Yongjoo Cho' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=30'>Yongjoo Cho</a></strong><br>
+			PhD Graduate, 2003
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=180'><img src='/resizedImages/500x280-crop-vikas.jpeg' alt='' title='Vikas Chowdry' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=180'>Vikas Chowdry</a></strong><br>
+			MS Graduate, 2003<br>
+			<a href='mailto:hobbes@vikaschowdhry.com'>hobbes@vikaschowdhry.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=73'><img src='/resizedImages/500x280-crop-coffin_185.jpg' alt='' title='Tom Coffin' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=73'>Tom Coffin</a></strong><br>
+			MFA Graduate, 1996<br>
+			<a href='mailto:coffin.tom@gmail.com'>coffin.tom@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=72'><img src='/resizedImages/500x280-crop-stevecohen.jpg' alt='' title='Steven Cohen' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=72'>Steven Cohen</a></strong><br>
+			MS Graduate, 1994<br>
+			<a href='mailto:steve@scohenpatents.com'>steve@scohenpatents.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2371'><img src='/resizedImages/500x280-crop-kcondrella2.png' alt='' title='Kayla Condrella' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2371'>Kayla Condrella</a></strong><br>
+			Undergraduate Researcher (REU), BS 2018<br>
+			<a href='mailto:kayla.condrella@gmail.com'>kayla.condrella@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=293'><img src='/resizedImages/500x280-crop-steveconner.jpg' alt='' title='Steve Conner' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=293'>Steve Conner</a></strong><br>
+			MS Graduate, 2013<br>
+			<a href='http://joat.dyndns.org/wordpress' target='_blank'>http://joat.dyndns.org/wordpress</a><br>
+			<a href='mailto:joat29@gmail.com'>joat29@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=74'><img src='/resizedImages/500x280-crop-golf.jpg' alt='' title='Jim Costigan' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=74'>Jim Costigan</a></strong><br>
+			MA Graduate, 1997<br>
+			<a href='mailto:jim@costigan.com'>jim@costigan.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=75'><img src='/resizedImages/500x280-crop-alan_cruz2.jpg' alt='' title='Alan Cruz' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=75'>Alan Cruz</a></strong><br>
+			MFA Graduate, 1999<br>
+			<a href='mailto:acruzanim8or@yahoo.com'>acruzanim8or@yahoo.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=76'><img src='/resizedImages/500x280-crop-carolina_cruzniera2.jpg' alt='' title='Carolina Cruz-Neira' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=76'>Carolina Cruz-Neira</a></strong><br>
+			MS Graduate, 1991,  PhD Graduate, 1995<br>
+			<a href='http://ualr.edu/emerginganalytics/' target='_blank'>http://ualr.edu/emerginganalytics/</a><br>
+			<a href='mailto:cxcruz@ualr.edu'>cxcruz@ualr.edu</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=77'><img src='/misc/default_500x280.png' alt='' title='Junna Cui' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=77'>Junna Cui</a></strong><br>
+			MS Graduate, 1998<br>
+			<a href='http://www.linkedin.com/pub/5/376/39B' target='_blank'>http://www.linkedin.com/pub/5/376/39B</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=78'><img src='/resizedImages/500x280-crop-i_based_czernu.jpg' alt='' title='Marek Czernuszenko' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=78'>Marek Czernuszenko</a></strong><br>
+			PhD Graduate, 1998<br>
+			<a href='mailto:marek@wt.net'>marek@wt.net</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=310'><img src='/resizedImages/500x280-crop-bryan-dalle-molle.png' alt='' title='Bryan Dalle Molle' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=310'>Bryan Dalle Molle</a></strong><br>
+			Research Experience Undergraduate, 2013-2015<br>
+			<a href='mailto:bryandallemolle@gmail.com'>bryandallemolle@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=79'><img src='/resizedImages/500x280-crop-sumit_das.jpg' alt='' title='Sumit Das' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=79'>Sumit Das</a></strong><br>
+			PhD Graduate, 1994<br>
+			<a href='mailto:smeet.das@gmail.com'>smeet.das@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=66'><img src='/resizedImages/500x280-crop-mali.jpg' alt='' title='Mohammed Dastagir Ali' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=66'>Mohammed Dastagir Ali</a></strong><br>
+			MS Graduate, 1998<br>
+			<a href='http://www.evl.uic.edu/mali' target='_blank'>http://www.evl.uic.edu/mali</a><br>
+			<a href='mailto:mali519@yahoo.com'>mali519@yahoo.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=80'><img src='/resizedImages/500x280-crop-dan_davidson.jpg' alt='' title='Daniel Davidson' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=80'>Daniel Davidson</a></strong><br>
+			MFA Graduate
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=81'><img src='/resizedImages/500x280-crop-fred_dech_new07.jpg' alt='' title='Fred Dech (1960 - 2011)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=81'>Fred Dech (1960 - 2011)</a></strong><br>
+			MFA Graduate, 1989<br>
+			<a href='http://www.evl.uic.edu/fred' target='_blank'>http://www.evl.uic.edu/fred</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=83'><img src='/resizedImages/500x280-crop-frank2.jpg' alt='' title='Frank Dietrich' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=83'>Frank Dietrich</a></strong><br>
+			MFA Graduate, 1982<br>
+			<a href='http://www.teleculture.com' target='_blank'>http://www.teleculture.com</a><br>
+			<a href='mailto:frank@teleculture.com'>frank@teleculture.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=84'><img src='/resizedImages/500x280-crop-terry_disz.gif' alt='' title='Terry Disz' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=84'>Terry Disz</a></strong><br>
+			PhD Graduate, 1984<br>
+			<a href='http://www-fp.mcs.anl.gov/~disz' target='_blank'>http://www-fp.mcs.anl.gov/~disz</a><br>
+			<a href='mailto:disz@mcs.anl.gov'>disz@mcs.anl.gov</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=85'><img src='/misc/default_500x280.png' alt='' title='Clark Dodsworth' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=85'>Clark Dodsworth</a></strong><br>
+			MFA Graduate<br>
+			<a href='mailto:clark@dodsworth.com'>clark@dodsworth.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=86'><img src='/resizedImages/500x280-crop-dolinsky-2.gif' alt='' title='Margaret Dolinsky' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=86'>Margaret Dolinsky</a></strong><br>
+			MFA Graduate, 1999<br>
+			<a href='http://www.evl.uic.edu/dolinsky' target='_blank'>http://www.evl.uic.edu/dolinsky</a><br>
+			<a href='mailto:dolinsky@indiana.edu'>dolinsky@indiana.edu</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=82'><img src='/resizedImages/500x280-crop-blake_drolson.jpg' alt='' title='Blake Drolson' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=82'>Blake Drolson</a></strong><br>
+			MS Graduate<br>
+			<a href='mailto:blake@pixi.com'>blake@pixi.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=33'><img src='/resizedImages/500x280-crop-j_eliason.jpg' alt='' title='Joshua Eliason' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=33'>Joshua Eliason</a></strong><br>
+			MFA Graduate<br>
+			<a href='http://www.evl.uic.edu/jelias1' target='_blank'>http://www.evl.uic.edu/jelias1</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=87'><img src='/resizedImages/500x280-crop-crash_engleman.gif' alt='' title='Roger Engelman' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=87'>Roger Engelman</a></strong><br>
+			MS Graduate<br>
+			<a href='mailto:roger@hilum.bsd.uchicago.edu'>roger@hilum.bsd.uchicago.edu</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=34'><img src='/misc/default_500x280.png' alt='' title='Ray Fang' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=34'>Ray Fang</a></strong><br>
+			MS Graduate
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=272'><img src='/resizedImages/500x280-crop-alessandrofebretti.jpg' alt='' title='Alessandro Febretti' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=272'>Alessandro Febretti</a></strong><br>
+			MS Gradudate, 2008<br>PhD Graduate, 2017<br>
+			<a href='http://www.febretpository.net' target='_blank'>http://www.febretpository.net</a><br>
+			<a href='mailto:febret@gmail.com'>febret@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=88'><img src='/resizedImages/500x280-crop-franguiadakis.gif' alt='' title='Terry Franguiadakis' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=88'>Terry Franguiadakis</a></strong><br>
+			MFA Graduate, 1995<br>
+			<a href='http://www.evl.uic.edu/terry' target='_blank'>http://www.evl.uic.edu/terry</a><br>
+			<a href='mailto:terryfranguiadakis@gmail.com'>terryfranguiadakis@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=226'><img src='/misc/default_500x280.png' alt='' title='Lisa Fremont' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=226'>Lisa Fremont</a></strong><br>
+			MFA Graduate, 1985<br>
+			<a href='mailto:lpf4@comcast.net'>lpf4@comcast.net</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=89'><img src='/resizedImages/500x280-crop-frisch.jpg' alt='' title='Tom Frisch' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=89'>Tom Frisch</a></strong><br>
+			MFA Graduate, 1999<br>
+			<a href='http://www.tom11.com' target='_blank'>http://www.tom11.com</a><br>
+			<a href='mailto:tom@tom11.com'>tom@tom11.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=284'><img src='/resizedImages/500x280-crop-tfunkpic_sm.gif' alt='' title='Tiffany Ann Funk' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=284'>Tiffany Ann Funk</a></strong><br>
+			MFA, 2012, New Media &amp; PhD Candidate, Art History<br>
+			<a href='http://www.tiffanyannfunk.com' target='_blank'>http://www.tiffanyannfunk.com</a><br>
+			<a href='mailto:tiffany.a.funk@gmail.com'>tiffany.a.funk@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=90'><img src='/resizedImages/500x280-crop-billgale.jpg' alt='' title='Bill Gale' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=90'>Bill Gale</a></strong><br>
+			MS Graduate, 1989<br>
+			<a href='mailto:bill.gale@navteq.com'>bill.gale@navteq.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=163'><img src='/resizedImages/500x280-crop-jinghua.jpg' alt='' title='Jinghua Ge' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=163'>Jinghua Ge</a></strong><br>
+			PhD Graduate, 2007
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=162'><img src='/resizedImages/500x280-crop-beta_g.jpg' alt='' title='Petra Gemeinboeck' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=162'>Petra Gemeinboeck</a></strong><br>
+			MFA Graduate, 2003<br>
+			<a href='http://www.uzume.net' target='_blank'>http://www.uzume.net</a><br>
+			<a href='mailto:betarosa@gmx.net'>betarosa@gmx.net</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=91'><img src='/resizedImages/500x280-crop-ultrasoniccave_ghazisaedy.jpg' alt='' title='Morteza Ghazisaedy' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=91'>Morteza Ghazisaedy</a></strong><br>
+			MS Graduate, 1994<br>
+			<a href='mailto:mghazi@sharif.edu'>mghazi@sharif.edu</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=92'><img src='/resizedImages/500x280-crop-coppergiloth.jpg' alt='' title='Copper Giloth' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=92'>Copper Giloth</a></strong><br>
+			MFA Graduate, 1980<br>
+			<a href='http://www-unix.oit.umass.edu/~giloth' target='_blank'>http://www-unix.oit.umass.edu/~giloth</a><br>
+			<a href='mailto:giloth@art.umass.edu'>giloth@art.umass.edu</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=35'><img src='/resizedImages/500x280-crop-javier.jpg' alt='' title='Javier Girado' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=35'>Javier Girado</a></strong><br>
+			PhD Graduate, 2004, Post-Doctoral Research Associate, 2004-2006<br>
+			<a href='http://www.evl.uic.edu/girado' target='_blank'>http://www.evl.uic.edu/girado</a><br>
+			<a href='mailto:jgirado@gmail.com'>jgirado@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=93'><img src='/resizedImages/500x280-crop-jon-goldman.png' alt='' title='Jon Goldman' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=93'>Jon Goldman</a></strong><br>
+			MS Graduate, 1995<br>
+			<a href='http://www.swcp.com/~goldman' target='_blank'>http://www.swcp.com/~goldman</a><br>
+			<a href='mailto:jgoldma@sandia.gov'>jgoldma@sandia.gov</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=94'><img src='/resizedImages/500x280-crop-ben_goldstein.jpg' alt='' title='Ben Goldstein' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=94'>Ben Goldstein</a></strong><br>
+			MS Graduate, 2000<br>
+			<a href='http://www.evl.uic.edu/benjamin' target='_blank'>http://www.evl.uic.edu/benjamin</a><br>
+			<a href='mailto:mindfeed@yahoo.com'>mindfeed@yahoo.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=36'><img src='/resizedImages/500x280-crop-melissa.gif' alt='' title='Melissa Golter' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=36'>Melissa Golter</a></strong><br>
+			MFA Graduate, 2006
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=37'><img src='/resizedImages/500x280-crop-m_gotsis.jpg' alt='' title='Marientina Gotsis' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=37'>Marientina Gotsis</a></strong><br>
+			MFA Graduate, 2003<br>
+			<a href='http://www.evl.uic.edu/gotsis' target='_blank'>http://www.evl.uic.edu/gotsis</a><br>
+			<a href='mailto:marientina@yahoo.com'>marientina@yahoo.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=297'><img src='/misc/default_500x280.png' alt='' title='Vaibhav Govilkar' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=297'>Vaibhav Govilkar</a></strong><br>
+			MS Graduate, 2103<br>
+			<a href='mailto:vaibhavgovilkar88@gmail.com'>vaibhavgovilkar88@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=243'><img src='/resizedImages/500x280-crop-lindsaygrace_rev.png' alt='' title='Lindsay Grace' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=243'>Lindsay Grace</a></strong><br>
+			MFA Graduate, 2009<br>
+			<a href='http://www.LGrace.com' target='_blank'>http://www.LGrace.com</a><br>
+			<a href='mailto:lindsay_grace@yahoo.com'>lindsay_grace@yahoo.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=289'><img src='/resizedImages/500x280-crop-paulgrenningportrait.jpg' alt='' title='Paul Grenning' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=289'>Paul Grenning</a></strong><br>
+			MS Graduate, 2012<br>
+			<a href='http://paulgrenning.com' target='_blank'>http://paulgrenning.com</a><br>
+			<a href='mailto:paul.grenning@gmail.com'>paul.grenning@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=296'><img src='/resizedImages/500x280-crop-brent6919_lower_quality_cropped.png' alt='' title='Brent Grossman' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=296'>Brent Grossman</a></strong><br>
+			MS Graduate, 2103<br>
+			<a href='mailto:hbrentg@gmail.com'>hbrentg@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=95'><img src='/resizedImages/500x280-crop-grzeszczuk.gif' alt='' title='Robert Grzeszczuk' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=95'>Robert Grzeszczuk</a></strong><br>
+			PhD Graduate<br>
+			<a href='http://www.mri.uchicago.edu/~rg' target='_blank'>http://www.mri.uchicago.edu/~rg</a><br>
+			<a href='mailto:robert_grzeszczuk@hotmail.com'>robert_grzeszczuk@hotmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=171'><img src='/resizedImages/500x280-crop-dhaas.jpg' alt='' title='Dave Haas' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=171'>Dave Haas</a></strong><br>
+			MS Graduate, 2002<br>
+			<a href='http://www.hasslehaas.com' target='_blank'>http://www.hasslehaas.com</a><br>
+			<a href='mailto:hasslehaas@gmail.com'>hasslehaas@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2119'><img src='/resizedImages/500x280-crop-brookhabtegiorgis.jpg' alt='' title='Brook Habtegiorgis' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2119'>Brook Habtegiorgis</a></strong><br>
+			Research Experience Undergraduate, 2015<br>
+			<a href='mailto:brk.habte@gmail.com'>brk.habte@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=96'><img src='/resizedImages/500x280-crop-mhallam-2.jpg' alt='' title='Maggie Hallam' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=96'>Maggie Hallam</a></strong><br>
+			MFA Graduate, 1994<br>
+			<a href='mailto:maggiebhallam@gmail.com'>maggiebhallam@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2251'><img src='/resizedImages/500x280-crop-piotr.png' alt='' title='Peter Hanula' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2251'>Peter Hanula</a></strong><br>
+			MS Graduate, 2018<br>
+			<a href='https://p10tr.gitlab.io/' target='_blank'>https://p10tr.gitlab.io/</a><br>
+			<a href='mailto:peterhanulajr@gmail.com'>peterhanulajr@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=97'><img src='/resizedImages/500x280-crop-john_hart.jpg' alt='' title='John Hart' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=97'>John Hart</a></strong><br>
+			MS Graduate 1989, PhD 1991<br>
+			<a href='http://graphics.cs.uiuc.edu/~jch' target='_blank'>http://graphics.cs.uiuc.edu/~jch</a><br>
+			<a href='mailto:jch@cs.uiuc.edu'>jch@cs.uiuc.edu</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=98'><img src='/resizedImages/500x280-crop-hiroshi_directory.jpg' alt='' title='Hiroshi Hayakawa' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=98'>Hiroshi Hayakawa</a></strong><br>
+			MS Graduate, 1999<br>
+			<a href='mailto:deuva@hotmail.com'>deuva@hotmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=38'><img src='/resizedImages/500x280-crop-he.jpg' alt='' title='Eric He' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=38'>Eric He</a></strong><br>
+			PhD Graduate, 2006<br>
+			<a href='http://www.evl.uic.edu/eric' target='_blank'>http://www.evl.uic.edu/eric</a><br>
+			<a href='mailto:eric.he@gmail.com'>eric.he@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=295'><img src='/resizedImages/500x280-crop-steve-heminover-0512.jpg' alt='' title='Steve Heminover' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=295'>Steve Heminover</a></strong><br>
+			EVL Collaborator<br>
+			<a href='http://www.aura-technologies.com' target='_blank'>http://www.aura-technologies.com</a><br>
+			<a href='mailto:steve@aura-technologies.com'>steve@aura-technologies.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=99'><img src='/misc/default_500x280.png' alt='' title='Debra Herschmann' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=99'>Debra Herschmann</a></strong><br>
+			MFA Graduate, 1987<br>
+			<a href='mailto:debra.herschmann@gs.com'>debra.herschmann@gs.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=173'><img src='/resizedImages/500x280-crop-alex_hill.jpg' alt='' title='Alex Hill' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=173'>Alex Hill</a></strong><br>
+			PhD Graduate, 2007<br>
+			<a href='http://www.alexshill.com' target='_blank'>http://www.alexshill.com</a><br>
+			<a href='mailto:contact@alexshill.com'>contact@alexshill.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=39'><img src='/resizedImages/500x280-crop-cityofbrass.jpg' alt='' title='Jakub Hryniewicz' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=39'>Jakub Hryniewicz</a></strong><br>
+			BFA Graduate, Collaborator in Art &amp; Design<br>Assistant, &ldquo;City of Brass&rdquo;
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=101'><img src='/resizedImages/500x280-crop-milana.gif' alt='' title='Milana Huang' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=101'>Milana Huang</a></strong><br>
+			MS Graduate, 1996<br>
+			<a href='mailto:Milana.Huang@pdi.dreamworks.com'>Milana.Huang@pdi.dreamworks.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=102'><img src='/resizedImages/500x280-crop-hudson.jpg' alt='' title='Randy Hudson' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=102'>Randy Hudson</a></strong><br>
+			MS Graduate, 1992<br>
+			<a href='http://www-unix.mcs.anl.gov/~hudson/index.html' target='_blank'>http://www-unix.mcs.anl.gov/~hudson/index.html</a><br>
+			<a href='mailto:reasonbear@gmail.com'>reasonbear@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=245'><img src='/resizedImages/500x280-crop-hur.png' alt='' title='Hyejung Hur' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=245'>Hyejung Hur</a></strong><br>
+			PhD Graduate, 2014
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2217'><img src='/resizedImages/500x280-crop-jameshwang.png' alt='' title='James Hwang' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2217'>James Hwang</a></strong><br>
+			Research Experience Undergraduate, 2016-2017<br>
+			<a href='mailto:jameshwang2289@gmail.com'>jameshwang2289@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=103'><img src='/resizedImages/500x280-crop-tomoko_imai.jpg' alt='' title='Tomoko Imai' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=103'>Tomoko Imai</a></strong><br>
+			MS Graduate, 1998<br>
+			<a href='http://www.evl.uic.edu/timai' target='_blank'>http://www.evl.uic.edu/timai</a><br>
+			<a href='mailto:timai@mlab.t.u-tokyo.ac.jp'>timai@mlab.t.u-tokyo.ac.jp</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=104'><img src='/resizedImages/500x280-crop-insley.gif' alt='' title='Joe Insley' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=104'>Joe Insley</a></strong><br>
+			MS &amp; MFA Graduate, 2002<br>
+			<a href='http://www-unix.mcs.anl.gov/~insley' target='_blank'>http://www-unix.mcs.anl.gov/~insley</a><br>
+			<a href='mailto:insley@mcs.anl.gov'>insley@mcs.anl.gov</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=257'><img src='/resizedImages/500x280-crop-shriram2.jpg' alt='' title='Shriram Iyer' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=257'>Shriram Iyer</a></strong><br>
+			MS Graduate, 2008
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=279'><img src='/resizedImages/500x280-crop-annjakobs.jpg' alt='' title='Ann Jacobs Kolb' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=279'>Ann Jacobs Kolb</a></strong><br>
+			MFA Graduate, 1990<br>
+			<a href='mailto:A-kolb@kellogg.northwestern.edu'>A-kolb@kellogg.northwestern.edu</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=227'><img src='/resizedImages/500x280-crop-jagodic_sm.jpg' alt='' title='Ratko Jagodic' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=227'>Ratko Jagodic</a></strong><br>
+			PhD Graduate, 2011<br>
+			<a href='http://ratko.lakephoto.org/journal' target='_blank'>http://ratko.lakephoto.org/journal</a><br>
+			<a href='mailto:rjagodic@gmail.com'>rjagodic@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=40'><img src='/resizedImages/500x280-crop-kaleung.jpg' alt='' title='Ka-Leung Jark' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=40'>Ka-Leung Jark</a></strong><br>
+			MFA Graduate, 2001<br>
+			<a href='http://www.evl.uic.edu/jark/thesis' target='_blank'>http://www.evl.uic.edu/jark/thesis</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=208'><img src='/resizedImages/500x280-crop-byungil_jeong.jpg' alt='' title='Byungil Jeong' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=208'>Byungil Jeong</a></strong><br>
+			PhD Graduate, 2008<br>
+			<a href='http://www.evl.uic.edu/bijeong/index.html' target='_blank'>http://www.evl.uic.edu/bijeong/index.html</a><br>
+			<a href='mailto:myprelude@gmail.com'>myprelude@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=193'><img src='/misc/default_500x280.png' alt='' title='Stephen Joyce' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=193'>Stephen Joyce</a></strong><br>
+			MS Graduate<br>
+			<a href='mailto:stephen.joyce@bitlab.com'>stephen.joyce@bitlab.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=265'><img src='/resizedImages/500x280-crop-kahler.png' alt='' title='Ed Kahler' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=265'>Ed Kahler</a></strong><br>
+			MS Graduate, 2011<br>
+			<a href='mailto:ekahle2@gmail.com'>ekahle2@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=41'><img src='/resizedImages/500x280-crop-merk1_kalara.jpg' alt='' title='Anupreet Kalra' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=41'>Anupreet Kalra</a></strong><br>
+			MS Graduate
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=42'><img src='/resizedImages/500x280-crop-cube.jpg' alt='' title='Seung Kang' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=42'>Seung Kang</a></strong><br>
+			MFA Graduate, 2004<br>
+			<a href='http://www.evl.uic.edu/xevious' target='_blank'>http://www.evl.uic.edu/xevious</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=106'><img src='/resizedImages/500x280-crop-kapoor.jpg' alt='' title='Abhinav Kapoor' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=106'>Abhinav Kapoor</a></strong><br>
+			MS Graduate, 2000<br>
+			<a href='http://www.evl.uic.edu/akapoor' target='_blank'>http://www.evl.uic.edu/akapoor</a><br>
+			<a href='mailto:akapoor@qarbon.com'>akapoor@qarbon.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=172'><img src='/resizedImages/500x280-crop-janet.jpg' alt='' title='Janet Kim' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=172'>Janet Kim</a></strong><br>
+			MS Graduate, 2004<br>
+			<a href='http://www.evl.uic.edu/jkim' target='_blank'>http://www.evl.uic.edu/jkim</a><br>
+			<a href='mailto:janet@dragonflyesque.com'>janet@dragonflyesque.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=234'><img src='/resizedImages/500x280-crop-taejinkim.jpg' alt='' title='Tae Jin Kim' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=234'>Tae Jin Kim</a></strong><br>
+			MS Graduate
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=240'><img src='/resizedImages/500x280-crop-evl_heejoo.jpg' alt='' title='Heejoo Kim' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=240'>Heejoo Kim</a></strong><br>
+			MFA Graduate, 2010<br>
+			<a href='mailto:scarlet.heejoo@gmail.com'>scarlet.heejoo@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2321'><img src='/resizedImages/500x280-crop-dimitarkirilov_sm.jpg' alt='' title='Dimitar Kirilov' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2321'>Dimitar Kirilov</a></strong><br>
+			Research Experience Undergraduate (REU), 2018<br>
+			<a href='mailto:dimitarikirilov@gmail.com'>dimitarikirilov@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=222'><img src='/resizedImages/500x280-crop-robertkoomia2.jpg' alt='' title='Robert Kooima' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=222'>Robert Kooima</a></strong><br>
+			PhD Graduate, 2008<br>
+			<a href='mailto:robert.kooima@gmail.com'>robert.kooima@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=247'><img src='/resizedImages/500x280-crop-tesia.jpg' alt='' title='Tesia Kosmalski' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=247'>Tesia Kosmalski</a></strong><br>
+			MFA Graduate, 2010<br>
+			<a href='mailto:tesiak@gmail.com'>tesiak@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=189'><img src='/resizedImages/500x280-crop-eleni.jpg' alt='' title='Helen-Nicole Kostis' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=189'>Helen-Nicole Kostis</a></strong><br>
+			MFA Graduate, 2006<br>
+			<a href='mailto:elenikostis@gmail.com'>elenikostis@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=107'><img src='/resizedImages/500x280-crop-koziol.gif' alt='' title='Arkadius Koziol' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=107'>Arkadius Koziol</a></strong><br>
+			MS Graduate, 2000
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=44'><img src='/resizedImages/500x280-crop-naveen_k.gif' alt='' title='Naveen Krishnaprasad' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=44'>Naveen Krishnaprasad</a></strong><br>
+			MS Graduate, 2001<br>
+			<a href='mailto:naveen.krishnaprasad@gmail.com'>naveen.krishnaprasad@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=221'><img src='/resizedImages/500x280-crop-solarapp_cole.jpg' alt='' title='Cole Krumbholz' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=221'>Cole Krumbholz</a></strong><br>
+			MS Graduate, 2007<br>
+			<a href='mailto:cole.krumbholz@gmail.com'>cole.krumbholz@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2315'><img src='/resizedImages/500x280-crop-bartkupiec.jpg' alt='' title='Bartosz Kupiec' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2315'>Bartosz Kupiec</a></strong><br>
+			Research Experience Undergraduate, BS 2018<br>
+			<a href='http://bkupie.github.io' target='_blank'>http://bkupie.github.io</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2133'><img src='/resizedImages/500x280-crop-klee_photo.jpg' alt='' title='Kristine Lee' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2133'>Kristine Lee</a></strong><br>
+			MS Graduate 2018<br>EVL Research Experience Undergraduate, 2015-2016<br>
+			<a href='http://hmsklee.com/' target='_blank'>http://hmsklee.com/</a><br>
+			<a href='mailto:hmsklee@gmail.com'>hmsklee@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=207'><img src='/resizedImages/500x280-crop-lee.jpg' alt='' title='Sangyoon Lee' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=207'>Sangyoon Lee</a></strong><br>
+			PhD Graduate, 2013<br>MFA Graduate, 2006<br>
+			<a href='http://www.evl.uic.edu/sjames' target='_blank'>http://www.evl.uic.edu/sjames</a><br>
+			<a href='mailto:s.james.lee@me.com'>s.james.lee@me.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=21'><img src='/resizedImages/500x280-crop-j-leigh.jpg' alt='' title='Jason Leigh' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=21'>Jason Leigh</a></strong><br>
+			Director Emeritus, EVL<br>Professor, Computer Science<br>
+			<a href='mailto:leighj@hawaii.edu'>leighj@hawaii.edu</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=109'><img src='/misc/default_500x280.png' alt='' title='Gordon Lescinsky' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=109'>Gordon Lescinsky</a></strong><br>
+			MFA Graduate, 1991
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=45'><img src='/resizedImages/500x280-crop-michael_lewis.png' alt='' title='Michael Lewis' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=45'>Michael Lewis</a></strong><br>
+			PhD Graduate, 2017<br>MS Graduate, 2002<br>
+			<a href='https://sites.google.com/site/researchlogofmike/home' target='_blank'>https://sites.google.com/site/researchlogofmike/home</a><br>
+			<a href='mailto:mlewisaquarius@gmail.com'>mlewisaquarius@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=287'><img src='/resizedImages/500x280-crop-qin_li.jpg' alt='' title='Qin Li' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=287'>Qin Li</a></strong><br>
+			MS Graduate, 2013<br>
+			<a href='mailto:liqin.channinglee@hotmail.com'>liqin.channinglee@hotmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=110'><img src='/resizedImages/500x280-crop-zina-drli.jpg' alt='' title='Zoe Likoudis' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=110'>Zoe Likoudis</a></strong><br>
+			MS Graduate<br>
+			<a href='mailto:zlikoudi@vivodinet.gr'>zlikoudi@vivodinet.gr</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=46'><img src='/resizedImages/500x280-crop-yalu.gif' alt='' title='Ya Lu Lin' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=46'>Ya Lu Lin</a></strong><br>
+			MFA Graduate, 2003<br>
+			<a href='http://yalulin.com/' target='_blank'>http://yalulin.com/</a><br>
+			<a href='mailto:yalugorcz@gmail.com'>yalugorcz@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=112'><img src='/misc/default_500x280.png' alt='' title='Robert Lin' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=112'>Robert Lin</a></strong><br>
+			MS Graduate<br>
+			<a href='mailto:rlin@apple.com'>rlin@apple.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=111'><img src='/resizedImages/500x280-crop-garylindahl.jpg' alt='' title='Gary Lindahl' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=111'>Gary Lindahl</a></strong><br>
+			MFA Graduate, 1991<br>
+			<a href='mailto:garylindahl@yahoo.com'>garylindahl@yahoo.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=47'><img src='/resizedImages/500x280-crop-webpuma_1.jpg' alt='' title='Josephine Lipuma' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=47'>Josephine Lipuma</a></strong><br>
+			MFA Graduate, 2005<br>
+			<a href='mailto:puma@evl.uic.edu'>puma@evl.uic.edu</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=48'><img src='/misc/default_500x280.png' alt='' title='Fu Hu Liu' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=48'>Fu Hu Liu</a></strong><br>
+			MS Graduate<br>
+			<a href='mailto:liufuhu@evl.uic.edu'>liufuhu@evl.uic.edu</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=49'><img src='/resizedImages/500x280-crop-long_headshot.jpg' alt='' title='Lance Long' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=49'>Lance Long</a></strong><br>
+			Senior Research Programmer<br>MS Graduate, 2003<br>
+			<a href='mailto:llong4@uic.edu'>llong4@uic.edu</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=4'><img src='/resizedImages/500x280-crop-brendatiled_directory.png' alt='' title='Brenda Lopez Silva' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=4'>Brenda Lopez Silva</a></strong><br>
+			MFA Graduate, 2004<br>
+			<a href='http://www.evl.uic.edu/brenda' target='_blank'>http://www.evl.uic.edu/brenda</a><br>
+			<a href='mailto:brenda.ls@gmail.com'>brenda.ls@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=113'><img src='/resizedImages/500x280-crop-debra-lowman-tucker-ga-obituary.jpg' alt='' title='Deb Lowman (1966-2018)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=113'>Deb Lowman (1966-2018)</a></strong><br>
+			MFA Graduate, 1996
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=182'><img src='/resizedImages/500x280-crop-c_luciano05.jpg' alt='' title='Cristian J. Luciano' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=182'>Cristian J. Luciano</a></strong><br>
+			Research Assistant Professor (Bioengineering)<br>PhD Graduate, 2010<br>MS Graduate (Computer Science &amp; Industrial Engineering)<br>
+			<a href='mailto:clucia1@uic.edu'>clucia1@uic.edu</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=232'><img src='/resizedImages/500x280-crop-xunluo.png' alt='' title='Xun Luo' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=232'>Xun Luo</a></strong><br>
+			PhD Graduate, Spring 2008
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2076'><img src='/resizedImages/500x280-crop-chihua_ma.jpg' alt='' title='Chihua Ma' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2076'>Chihua Ma</a></strong><br>
+			PhD Graduate, 2018<br>
+			<a href='http://chihuama.com/' target='_blank'>http://chihuama.com/</a><br>
+			<a href='mailto:chma87@gmail.com'>chma87@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=164'><img src='/misc/default_500x280.png' alt='' title='David Maduram' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=164'>David Maduram</a></strong><br>
+			MS Graduate
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2303'><img src='/resizedImages/500x280-crop-vijayrajmahida_sm.jpg' alt='' title='Vijayraj Mahida' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2303'>Vijayraj Mahida</a></strong><br>
+			Research Experience Undergraduate, BS 2018<br>
+			<a href='https://vking12.github.io/' target='_blank'>https://vking12.github.io/</a><br>
+			<a href='mailto:vijayrajmahida@gmail.com'>vijayrajmahida@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=253'><img src='/resizedImages/500x280-crop-petermalcolm2.png' alt='' title='Peter Malcolm' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=253'>Peter Malcolm</a></strong><br>
+			MS Graduate, 2009, Learning Technologies Group<br>
+			<a href='http://peter.t.malcolm.googlepages.com' target='_blank'>http://peter.t.malcolm.googlepages.com</a><br>
+			<a href='mailto:peter.t.malcolm@gmail.com'>peter.t.malcolm@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2361'><img src='/resizedImages/500x280-crop-fmantovani.jpg' alt='' title='Francesco Mantovani' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2361'>Francesco Mantovani</a></strong><br>
+			MS Graduate, 2018<br>
+			<a href='mailto:fra.mantovani@gmail.com'>fra.mantovani@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2'><img src='/resizedImages/500x280-crop-toddcopy.jpg' alt='' title='Todd Margolis' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2'>Todd Margolis</a></strong><br>
+			MFA Graduate, 2003<br>
+			<a href='http://www.evl.uic.edu/todd' target='_blank'>http://www.evl.uic.edu/todd</a><br>
+			<a href='mailto:tmargo@gmail.com'>tmargo@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=290'><img src='/resizedImages/500x280-crop-tmarrinan01.jpg' alt='' title='Thomas Marrinan' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=290'>Thomas Marrinan</a></strong><br>
+			PhD Graduate, 2016<br>
+			<a href='http://tmarrinan.bitbucket.org' target='_blank'>http://tmarrinan.bitbucket.org</a><br>
+			<a href='mailto:thomas.j.marrinan@gmail.com'>thomas.j.marrinan@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=114'><img src='/resizedImages/500x280-crop-posteuclid_half_mason.gif' alt='' title='Joanna Mason' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=114'>Joanna Mason</a></strong><br>
+			MS Graduate, 1995<br>
+			<a href='mailto:Joanna.Mason@gmail.com'>Joanna.Mason@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=281'><img src='/resizedImages/500x280-crop-vmateevitsi.jpg' alt='' title='Victor Mateevitsi' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=281'>Victor Mateevitsi</a></strong><br>
+			PhD Graduate, 2018<br>
+			<a href='http://www.vmateevitsi.com' target='_blank'>http://www.vmateevitsi.com</a><br>
+			<a href='mailto:mvictoras@gmail.com'>mvictoras@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=286'><img src='/resizedImages/500x280-crop-brad_mcginnis.jpg' alt='' title='Brad McGinnis' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=286'>Brad McGinnis</a></strong><br>
+			MS Graduate, 2012<br>
+			<a href='mailto:bwmcginnis@prodigy.net'>bwmcginnis@prodigy.net</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=115'><img src='/resizedImages/500x280-crop-mrk_fish3c2.jpg' alt='' title='Mark McKernin' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=115'>Mark McKernin</a></strong><br>
+			MFA Graduate, 1983<br>
+			<a href='http://orion.neiu.edu/~mpmckern' target='_blank'>http://orion.neiu.edu/~mpmckern</a><br>
+			<a href='mailto:m-mckernin@neiu.edu'>m-mckernin@neiu.edu</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=269'><img src='/resizedImages/500x280-crop-davidmei.jpg' alt='' title='David Mei' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=269'>David Mei</a></strong><br>
+			Research Experience Undergraduate
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=154'><img src='/resizedImages/500x280-crop-stephanmeyers_highres.jpg' alt='' title='Stephan Meyers' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=154'>Stephan Meyers</a></strong><br>
+			MFA Graduate, 1991<br>
+			<a href='http://www.stephan.com' target='_blank'>http://www.stephan.com</a><br>
+			<a href='mailto:stephan@stephan.com'>stephan@stephan.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=165'><img src='/resizedImages/500x280-crop-keithmiller3.jpg' alt='' title='Keith Miller' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=165'>Keith Miller</a></strong><br>
+			MFA Graduate, 2005<br>
+			<a href='mailto:keith.francis.miller@gmail.com'>keith.francis.miller@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=15'><img src='/resizedImages/500x280-crop-millman.jpg' alt='' title='Alan Millman' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=15'>Alan Millman</a></strong><br>
+			MFA Graduate, 1997<br>
+			<a href='http://www.evl.uic.edu/alan' target='_blank'>http://www.evl.uic.edu/alan</a><br>
+			<a href='mailto:alan@alanmillman.com'>alan@alanmillman.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=3'><img src='/resizedImages/500x280-crop-gnat.jpg' alt='' title='Natt Mintrasak' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=3'>Natt Mintrasak</a></strong><br>
+			MFA Graduate, 2001<br>
+			<a href='mailto:natt@tumbleview.com'>natt@tumbleview.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=116'><img src='/misc/default_500x280.png' alt='' title='Zsuzsanna Molnar' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=116'>Zsuzsanna Molnar</a></strong><br>
+			MFA Graduate, 1981<br>
+			<a href='http://teleculture.com' target='_blank'>http://teleculture.com</a><br>
+			<a href='mailto:zsuzsa@teleculture.com'>zsuzsa@teleculture.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=303'><img src='/resizedImages/500x280-crop-paul_murray.png' alt='' title='Paul Murray' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=303'>Paul Murray</a></strong><br>
+			PhD Graduate Student, 2014-2016
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=248'><img src='/resizedImages/500x280-crop-sungwonnam.png' alt='' title='Sungwon Nam' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=248'>Sungwon Nam</a></strong><br>
+			PhD Graduate, 2013
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=118'><img src='/resizedImages/500x280-crop-s_narayanan.jpg' alt='' title='Swaminathan Narayanan' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=118'>Swaminathan Narayanan</a></strong><br>
+			MS Graduate, 1997
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=166'><img src='/resizedImages/500x280-crop-atulnayak-crop.jpg' alt='' title='Atul Nayak' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=166'>Atul Nayak</a></strong><br>
+			MS Graduate, 2003<br>
+			<a href='http://www.eqinfo.ucsd.edu/~atul' target='_blank'>http://www.eqinfo.ucsd.edu/~atul</a><br>
+			<a href='mailto:nayakatul@yahoo.com'>nayakatul@yahoo.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=50'><img src='/resizedImages/500x280-crop-paul.jpg' alt='' title='Paul Neumann' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=50'>Paul Neumann</a></strong><br>
+			PhD Graduate, 2000 (Computer Science)<br>
+			<a href='http://www.cimit.org' target='_blank'>http://www.cimit.org</a><br>
+			<a href='mailto:paul_neumann@acm.org'>paul_neumann@acm.org</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=270'><img src='/resizedImages/500x280-crop-anishimoto_2014.jpg' alt='' title='Arthur Nishimoto' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=270'>Arthur Nishimoto</a></strong><br>
+			PhD Candidate<br>MS Graduate, 2014<br>
+			<a href='http://arthurnishimoto.blogspot.com/' target='_blank'>http://arthurnishimoto.blogspot.com/</a><br>
+			<a href='mailto:anishi2@uic.edu'>anishi2@uic.edu</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=198'><img src='/resizedImages/500x280-crop-bow.gif' alt='' title='TJ O&rsquo;Donnell' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=198'>TJ O&rsquo;Donnell</a></strong><br>
+			MS Graduate - EVL&rsquo;s First Graduate Student<br>
+			<a href='mailto:tjo@acm.org'>tjo@acm.org</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=244'><img src='/resizedImages/500x280-crop-julioobelleiro.png' alt='' title='Julio Obelleiro' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=244'>Julio Obelleiro</a></strong><br>
+			MFA Graduate, 2010<br>
+			<a href='http://www.playthemagic.com' target='_blank'>http://www.playthemagic.com</a><br>
+			<a href='mailto:julio.obelleiro@gmail.com'>julio.obelleiro@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=120'><img src='/resizedImages/500x280-crop-circus_okeefe.gif' alt='' title='Kathy OKeefe' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=120'>Kathy OKeefe</a></strong><br>
+			MFA Graduate, 1995<br>
+			<a href='mailto:kady0@msn.com'>kady0@msn.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=264'><img src='/resizedImages/500x280-crop-oleksiuk.jpg' alt='' title='Andrew Oleksiuk' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=264'>Andrew Oleksiuk</a></strong><br>
+			MFA Graduate, 2010<br>
+			<a href='mailto:mailart@earthlink.net'>mailart@earthlink.net</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=249'><img src='/resizedImages/500x280-crop-olmstead.png' alt='' title='Don Olmstead' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=249'>Don Olmstead</a></strong><br>
+			MS Graduate, 2008<br>
+			<a href='http://www.donolmstead.me' target='_blank'>http://www.donolmstead.me</a><br>
+			<a href='mailto:don.j.olmstead@gmail.com'>don.j.olmstead@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=121'><img src='/resizedImages/500x280-crop-carlos.jpg' alt='' title='Carlos Orrego' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=121'>Carlos Orrego</a></strong><br>
+			MS Graduate<br>
+			<a href='http://www.inflexa.com/orrego' target='_blank'>http://www.inflexa.com/orrego</a><br>
+			<a href='mailto:orrego@inflexa.com'>orrego@inflexa.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=51'><img src='/resizedImages/500x280-crop-dave2.jpg' alt='' title='Dave Pape' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=51'>Dave Pape</a></strong><br>
+			PhD Graduate, 2001<br>
+			<a href='http://www.evl.uic.edu/pape' target='_blank'>http://www.evl.uic.edu/pape</a><br>
+			<a href='mailto:dave.pape@acm.org'>dave.pape@acm.org</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=122'><img src='/resizedImages/500x280-crop-papkasmall.jpg' alt='' title='Mike Papka' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=122'>Mike Papka</a></strong><br>
+			MS Graduate<br>
+			<a href='http://www-unix.mcs.anl.gov/~papka' target='_blank'>http://www-unix.mcs.anl.gov/~papka</a><br>
+			<a href='mailto:papka@mcs.anl.gov'>papka@mcs.anl.gov</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=52'><img src='/resizedImages/500x280-crop-kpark.gif' alt='' title='Kyoung Shin Park' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=52'>Kyoung Shin Park</a></strong><br>
+			MS Graduate, 1997,  PhD Graduate, 2003
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=123'><img src='/resizedImages/500x280-crop-soyon.gif' alt='' title='Soyon Park' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=123'>Soyon Park</a></strong><br>
+			MFA Graduate<br>
+			<a href='http://www.evl.uic.edu/sopark' target='_blank'>http://www.evl.uic.edu/sopark</a><br>
+			<a href='mailto:sypark@sky.wkhc.ac.kr'>sypark@sky.wkhc.ac.kr</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=202'><img src='/resizedImages/500x280-crop-m_park.jpg' alt='' title='HyeYun Park' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=202'>HyeYun Park</a></strong><br>
+			MFA Graduate, 2006
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2253'><img src='/misc/default_500x280.png' alt='' title='Filippo Pellolio' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2253'>Filippo Pellolio</a></strong><br>
+			MS Graduate, 2016
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=199'><img src='/resizedImages/500x280-crop-tompeterkasm.jpg' alt='' title='Tom Peterka' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=199'>Tom Peterka</a></strong><br>
+			MS Graduate, 2003, PhD Graduate, 2007<br>
+			<a href='mailto:t.peterka@comcast.net'>t.peterka@comcast.net</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=124'><img src='/resizedImages/500x280-crop-lucypetrovich.jpg' alt='' title='Lucy Petrovich' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=124'>Lucy Petrovich</a></strong><br>
+			MFA Graduate, 1985<br>
+			<a href='mailto:lucy.petrovich@gotsky.com'>lucy.petrovich@gotsky.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=125'><img src='/resizedImages/500x280-crop-stupettigrewsm.jpg' alt='' title='Stuart Pettigrew' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=125'>Stuart Pettigrew</a></strong><br>
+			MFA Graduate<br>
+			<a href='mailto:s2art@ix.netcom.com'>s2art@ix.netcom.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=309'><img src='/resizedImages/500x280-crop-jimmy-pinkl.png' alt='' title='James Pinkl' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=309'>James Pinkl</a></strong><br>
+			Undergraduate Student, 2013-2015<br>
+			<a href='mailto:jimmypinkl@yahoo.com'>jimmypinkl@yahoo.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=273'><img src='/resizedImages/500x280-crop-jd_pirtle.jpg' alt='' title='JD Pirtle' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=273'>JD Pirtle</a></strong><br>
+			Research Specialist, 2011-2013<br>MFA Graduate, 2011<br>
+			<a href='http://jdpirtle.com' target='_blank'>http://jdpirtle.com</a><br>
+			<a href='mailto:jdpirtle@gmail.com'>jdpirtle@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=5'><img src='/resizedImages/500x280-crop-plepys_black_horiz.jpg' alt='' title='Dana M. Plepys' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=5'>Dana M. Plepys</a></strong><br>
+			Associate Director<br>MFA Graduate, 1984<br>
+			<a href='mailto:dplepys@uic.edu'>dplepys@uic.edu</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=53'><img src='/resizedImages/500x280-crop-portlock_new.png' alt='' title='Tim Portlock' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=53'>Tim Portlock</a></strong><br>
+			MFA Graduate, 2003<br>
+			<a href='http://www.evl.uic.edu/portlock/index.html' target='_blank'>http://www.evl.uic.edu/portlock/index.html</a><br>
+			<a href='mailto:tim.portlock@hunter.cuny.edu'>tim.portlock@hunter.cuny.edu</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=126'><img src='/resizedImages/500x280-crop-chrispratico.jpeg' alt='' title='Chris Pratico' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=126'>Chris Pratico</a></strong><br>
+			MS Graduate<br>
+			<a href='http://www.pratico.name' target='_blank'>http://www.pratico.name</a><br>
+			<a href='mailto:chris@pratico.name'>chris@pratico.name</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=224'><img src='/resizedImages/500x280-crop-michelle.jpg' alt='' title='Michelle Lee Pratico (Miller)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=224'>Michelle Lee Pratico (Miller)</a></strong><br>
+			MFA Graduate, 1992<br>
+			<a href='http://www.pratico.name' target='_blank'>http://www.pratico.name</a><br>
+			<a href='mailto:michelle@pratico.name'>michelle@pratico.name</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2155'><img src='/resizedImages/500x280-crop-andreapurgato.png' alt='' title='Andrea Purgato' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2155'>Andrea Purgato</a></strong><br>
+			MS Graduate, 2016<br>
+			<a href='mailto:andrea.purgato@gmail.com'>andrea.purgato@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=127'><img src='/misc/default_500x280.png' alt='' title='Vicki Putz' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=127'>Vicki Putz</a></strong><br>
+			MFA Graduate
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=61'><img src='/resizedImages/500x280-crop-zhongwei.gif' alt='' title='Zhongwei Qui' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=61'>Zhongwei Qui</a></strong><br>
+			MS Graduate
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=266'><img src='/resizedImages/500x280-crop-arunan_rabindran.gif' alt='' title='Arunan Rabindran' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=266'>Arunan Rabindran</a></strong><br>
+			MFA Graduate, 2010<br>MS Graduate, 2008<br>
+			<a href='mailto:r.arunan@gmail.com'>r.arunan@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=128'><img src='/misc/default_500x280.png' alt='' title='Mukund Raghunath' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=128'>Mukund Raghunath</a></strong><br>
+			MS Graduate
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=54'><img src='/resizedImages/500x280-crop-vivekrajan.jpg' alt='' title='Vivek Rajan' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=54'>Vivek Rajan</a></strong><br>
+			MS Graduate, 2001<br>
+			<a href='http://www.evl.uic.edu/vrajan' target='_blank'>http://www.evl.uic.edu/vrajan</a><br>
+			<a href='mailto:vrajan@gmail.com'>vrajan@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=274'><img src='/resizedImages/500x280-crop-b-ransom.jpg' alt='' title='Brittany Ransom' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=274'>Brittany Ransom</a></strong><br>
+			MFA Graduate, 2011<br>
+			<a href='http://www.brittanyransom.com' target='_blank'>http://www.brittanyransom.com</a><br>
+			<a href='mailto:brittany@brittanyransom.com'>brittany@brittanyransom.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=216'><img src='/resizedImages/500x280-crop-arun_rao.jpg' alt='' title='Arun Rao' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=216'>Arun Rao</a></strong><br>
+			MS Graduate, 2007<br>
+			<a href='http://www.evl.uic.edu/arao' target='_blank'>http://www.evl.uic.edu/arao</a><br>
+			<a href='mailto:arun.g.rao@gmail.com'>arun.g.rao@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=195'><img src='/resizedImages/500x280-crop-mary_rass_new.jpg' alt='' title='Mary Rasmussen' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=195'>Mary Rasmussen</a></strong><br>
+			EVL Affiliated Faculty<br>Research Associate Professor (retired)<br>MFA Graduate, 1989<br>
+			<a href='mailto:mary.rasmussen@gmail.com'>mary.rasmussen@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=129'><img src='/resizedImages/500x280-crop-maggie.gif' alt='' title='Maggie Rawlings' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=129'>Maggie Rawlings</a></strong><br>
+			Associate Director (retired)<br>MFA Graduate, 1991<br>
+			<a href='http://www.evl.uic.edu/maggie' target='_blank'>http://www.evl.uic.edu/maggie</a><br>
+			<a href='mailto:Mmrawlings@aol.com'>Mmrawlings@aol.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=259'><img src='/resizedImages/500x280-crop-khairireda2.png' alt='' title='Khairi Reda' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=259'>Khairi Reda</a></strong><br>
+			PhD Graduate, 2014<br>
+			<a href='http://www.oldamascus.com/~lio' target='_blank'>http://www.oldamascus.com/~lio</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=130'><img src='/resizedImages/500x280-crop-kgrehorsm.jpg' alt='' title='Ken Rehor' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=130'>Ken Rehor</a></strong><br>
+			MS Graduate<br>
+			<a href='mailto:ken@rehor.com'>ken@rehor.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=17'><img src='/resizedImages/500x280-crop-reitzer.gif' alt='' title='Joe Reitzer' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=17'>Joe Reitzer</a></strong><br>
+			MFA Graduate, 1985<br>
+			<a href='http://www.evl.uic.edu/reitzer' target='_blank'>http://www.evl.uic.edu/reitzer</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=131'><img src='/misc/default_500x280.png' alt='' title='Bill Reynolds' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=131'>Bill Reynolds</a></strong><br>
+			MS Graduate
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=217'><img src='/resizedImages/500x280-crop-saleha_duo.jpg' alt='' title='Saleha Rizvi' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=217'>Saleha Rizvi</a></strong><br>
+			MS Graduate, 2005
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2099'><img src='/resizedImages/500x280-crop-jrodriguez.jpg' alt='' title='Joshua Rodriguez' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2099'>Joshua Rodriguez</a></strong><br>
+			Research Experience Undergraduate, 2015
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=132'><img src='/resizedImages/500x280-crop-sally_rosenthal_200x146.jpg' alt='' title='Sally Rosenthal' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=132'>Sally Rosenthal</a></strong><br>
+			MFA Graduate, 1983
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2290'><img src='/misc/default_500x280.png' alt='' title='Andrea Rottigni' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2290'>Andrea Rottigni</a></strong><br>
+			MS Graduate, 2016
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=134'><img src='/resizedImages/500x280-crop-mariaroussou_new.jpg' alt='' title='Maria Roussou' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=134'>Maria Roussou</a></strong><br>
+			MS &amp; MFA Graduate, 1997 (CS &amp; EV)<br>
+			<a href='http://www.makebelieve.gr/mr' target='_blank'>http://www.makebelieve.gr/mr</a><br>
+			<a href='mailto:maria@makebelieve.gr'>maria@makebelieve.gr</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=135'><img src='/resizedImages/500x280-crop-troy.jpg' alt='' title='Trina Roy' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=135'>Trina Roy</a></strong><br>
+			MS Graduate, 1995<br>
+			<a href='https://www.evl.uic.edu/trina/' target='_blank'>https://www.evl.uic.edu/trina/</a><br>
+			<a href='mailto:trina@acm.org'>trina@acm.org</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=136'><img src='/resizedImages/500x280-crop-marty_ryan.gif' alt='' title='Marty Ryan' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=136'>Marty Ryan</a></strong><br>
+			MS Graduate<br>
+			<a href='mailto:marty@rhythm.com'>marty@rhythm.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=55'><img src='/resizedImages/500x280-crop-tide_210_sawant.jpg' alt='' title='Nikita Sawant' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=55'>Nikita Sawant</a></strong><br>
+			MS Graduate, 2000
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=56'><img src='/resizedImages/500x280-crop-chris.jpg' alt='' title='Chris Scharver' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=56'>Chris Scharver</a></strong><br>
+			MS Graduate, 2005<br>
+			<a href='http://www.evl.uic.edu/scharver' target='_blank'>http://www.evl.uic.edu/scharver</a><br>
+			<a href='mailto:chris.scharver@mechdyne.com'>chris.scharver@mechdyne.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=138'><img src='/misc/default_500x280.png' alt='' title='Paul Schneider' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=138'>Paul Schneider</a></strong><br>
+			MS Graduate
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=213'><img src='/resizedImages/500x280-crop-nicholas.jpg' alt='' title='Nicholas Schwarz' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=213'>Nicholas Schwarz</a></strong><br>
+			MS Graduate, 2007<br>
+			<a href='http://www.evl.uic.edu/schwarz' target='_blank'>http://www.evl.uic.edu/schwarz</a><br>
+			<a href='mailto:nicholas.schwarz@gmail.com'>nicholas.schwarz@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=137'><img src='/resizedImages/500x280-crop-anna.gif' alt='' title='Anna Seeto' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=137'>Anna Seeto</a></strong><br>
+			MFA Graduate, 1991<br>
+			<a href='mailto:annaseeto@yahoo.com'>annaseeto@yahoo.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=187'><img src='/resizedImages/500x280-crop-tina_200.jpg' alt='' title='Tina Shah' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=187'>Tina Shah</a></strong><br>
+			MFA Graduate, 2008<br>
+			<a href='http://www.evl.uic.edu/tinas' target='_blank'>http://www.evl.uic.edu/tinas</a><br>
+			<a href='mailto:tinashah8@gmail.com'>tinashah8@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=283'><img src='/resizedImages/500x280-crop-lewissiegel.jpg' alt='' title='Lewis Siegel' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=283'>Lewis Siegel</a></strong><br>
+			MS Graduate, 1992<br>
+			<a href='mailto:lnsiegel@gmail.com'>lnsiegel@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=291'><img src='/resizedImages/500x280-crop-alexsimes.jpg' alt='' title='Alex Simes' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=291'>Alex Simes</a></strong><br>
+			MS Graduate, 2014<br>
+			<a href='http://alexsimes.com' target='_blank'>http://alexsimes.com</a><br>
+			<a href='mailto:simes.alex@gmail.com'>simes.alex@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=183'><img src='/resizedImages/500x280-crop-rajsingh.jpg' alt='' title='Rajvikram Singh' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=183'>Rajvikram Singh</a></strong><br>
+			MS Graduate, 2003<br>
+			<a href='mailto:rajvikrams@gmail.com'>rajvikrams@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2249'><img src='/resizedImages/500x280-crop-shiwangi_singh.jpg' alt='' title='Shiwangi Singh' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2249'>Shiwangi Singh</a></strong><br>
+			MS Graduate, 2017<br>
+			<a href='mailto:shiwangi27@gmail.com'>shiwangi27@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=168'><img src='/resizedImages/500x280-crop-allan_spale.jpg' alt='' title='Allan Spale' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=168'>Allan Spale</a></strong><br>
+			MS Graduate, 2003, Systems Administrator - Center for Virtual Reality in the Arts (CVRA)<br>
+			<a href='http://www.evl.uic.edu/aspale' target='_blank'>http://www.evl.uic.edu/aspale</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=140'><img src='/misc/default_500x280.png' alt='' title='Robert Stevenson' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=140'>Robert Stevenson</a></strong><br>
+			MS Graduate, 1997<br>
+			<a href='mailto:robert.stevenson@gmail.com'>robert.stevenson@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=57'><img src='/resizedImages/500x280-crop-thumb-virdirnov_9.jpg' alt='' title='Satheesh Subramanian' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=57'>Satheesh Subramanian</a></strong><br>
+			MS Graduate, 2000<br>
+			<a href='http://www.evl.uic.edu/gsat' target='_blank'>http://www.evl.uic.edu/gsat</a><br>
+			<a href='mailto:gsat@iname.com'>gsat@iname.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=141'><img src='/resizedImages/500x280-crop-sugimoto.jpg' alt='' title='Hiroe Sugimoto' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=141'>Hiroe Sugimoto</a></strong><br>
+			MFA Graduate<br>
+			<a href='http://www.evl.uic.edu/sugimoto' target='_blank'>http://www.evl.uic.edu/sugimoto</a><br>
+			<a href='mailto:h_sugimoto@hotmail.com'>h_sugimoto@hotmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=190'><img src='/resizedImages/500x280-crop-kang_sun.jpg' alt='' title='Kang B. Sun' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=190'>Kang B. Sun</a></strong><br>
+			PhD Graduate, 2004
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=250'><img src='/resizedImages/500x280-crop-yiwensun.png' alt='' title='Yiwen Sun' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=250'>Yiwen Sun</a></strong><br>
+			PhD Graduate, 2012<br>
+			<a href='mailto:marieywsun@gmail.com'>marieywsun@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=219'><img src='/resizedImages/500x280-crop-dmitri.jpg' alt='' title='Dmitri Svistula' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=219'>Dmitri Svistula</a></strong><br>
+			MS Graduate, Spring 2008<br>
+			<a href='http://www.evl.uic.edu/dmitr' target='_blank'>http://www.evl.uic.edu/dmitr</a><br>
+			<a href='mailto:svistula@gmail.com'>svistula@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=142'><img src='/misc/default_500x280.png' alt='' title='Dave Swoboda' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=142'>Dave Swoboda</a></strong><br>
+			MFA Graduate, 1995
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=143'><img src='/resizedImages/500x280-crop-szymanski.gif' alt='' title='Matthew Szymanski' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=143'>Matthew Szymanski</a></strong><br>
+			MS Graduate, 1998<br>
+			<a href='http://www.evl.uic.edu/szymansk' target='_blank'>http://www.evl.uic.edu/szymansk</a><br>
+			<a href='mailto:matt.szymanski@mechdyne.com'>matt.szymanski@mechdyne.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=144'><img src='/resizedImages/500x280-crop-kathytanaka.jpg' alt='' title='Kathy Tanaka' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=144'>Kathy Tanaka</a></strong><br>
+			MFA Graduate, 1985<br>
+			<a href='mailto:kdt7@aol.com'>kdt7@aol.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2291'><img src='/misc/default_500x280.png' alt='' title='Davide Tantillo' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2291'>Davide Tantillo</a></strong><br>
+			MS Graduate, 2016
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2235'><img src='/resizedImages/500x280-crop-jtapia.png' alt='' title='Jacqueline Tapia' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2235'>Jacqueline Tapia</a></strong><br>
+			Research Experience Undergraduate, 2016
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=203'><img src='/resizedImages/500x280-crop-poliana.jpg' alt='' title='Poliana Tassini' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=203'>Poliana Tassini</a></strong><br>
+			MFA Graduate, 2006
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=145'><img src='/resizedImages/500x280-crop-marcusthiebaux.jpg' alt='' title='Marcus Thiebaux' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=145'>Marcus Thiebaux</a></strong><br>
+			MS &amp; MFA Graduate, 1997<br>
+			<a href='http://www.evl.uic.edu/thiebaux' target='_blank'>http://www.evl.uic.edu/thiebaux</a><br>
+			<a href='mailto:thiebaux@gmail.com'>thiebaux@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2248'><img src='/resizedImages/500x280-crop-manu_thomas.jpg' alt='' title='Manu Mathew Thomas' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2248'>Manu Mathew Thomas</a></strong><br>
+			MS Graduate 2018<br>
+			<a href='mailto:manumathewthomas@gmail.com'>manumathewthomas@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=298'><img src='/resizedImages/500x280-crop-galen_thomas-ramos.png' alt='' title='Galen Thomas-Ramos' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=298'>Galen Thomas-Ramos</a></strong><br>
+			MS Graduate, 2014<br>
+			<a href='mailto:galen.thomasramos@gmail.com'>galen.thomasramos@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=22'><img src='/resizedImages/500x280-crop-darrenthompson.png' alt='' title='Darren Thompson' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=22'>Darren Thompson</a></strong><br>
+			MS Graduate, 1998<br>
+			<a href='http://www.evl.uic.edu/darren' target='_blank'>http://www.evl.uic.edu/darren</a><br>
+			<a href='mailto:lastingempreshins@gmail.com'>lastingempreshins@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=58'><img src='/resizedImages/500x280-crop-samthongron.png' alt='' title='Samroeng Thongrong' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=58'>Samroeng Thongrong</a></strong><br>
+			MFA Graduate, 2001<br>
+			<a href='http://users.rcn.com/sthongrong/index.htm' target='_blank'>http://users.rcn.com/sthongrong/index.htm</a><br>
+			<a href='mailto:sam_thongrong@hotmail.com'>sam_thongrong@hotmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=251'><img src='/resizedImages/500x280-crop-benthorp.png' alt='' title='Benjamin Thorp' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=251'>Benjamin Thorp</a></strong><br>
+			MFA Graduate, 2010<br>
+			<a href='http://www.benjaminthorp.net' target='_blank'>http://www.benjaminthorp.net</a><br>
+			<a href='mailto:benjaminthorp@gmail.com'>benjaminthorp@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=59'><img src='/resizedImages/500x280-crop-k_timm_dirpic.jpg' alt='' title='Karl Timm' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=59'>Karl Timm</a></strong><br>
+			PhD Graduate, 2003
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=60'><img src='/resizedImages/500x280-crop-lqd_sm.jpg' alt='' title='Joseph Tremonti' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=60'>Joseph Tremonti</a></strong><br>
+			MFA Graduate, 2002<br>
+			<a href='http://www.liquidon.org' target='_blank'>http://www.liquidon.org</a><br>
+			<a href='mailto:tremont@hawaii.edu'>tremont@hawaii.edu</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=242'><img src='/resizedImages/500x280-crop-trowbridge2008.jpg' alt='' title='Adam Trowbridge' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=242'>Adam Trowbridge</a></strong><br>
+			MFA Graduate, 2009<br>
+			<a href='http://www.atrowbri.com' target='_blank'>http://www.atrowbri.com</a><br>
+			<a href='mailto:atrowbri@gmail.com'>atrowbri@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=304'><img src='/misc/default_500x280.png' alt='' title='Jeremey Tubbs' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=304'>Jeremey Tubbs</a></strong><br>
+			MFA Graduate, 2012<br>
+			<a href='mailto:contact@jeremytubbs.com'>contact@jeremytubbs.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=252'><img src='/resizedImages/500x280-crop-brianuphoff.jpg' alt='' title='Brian Uphoff' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=252'>Brian Uphoff</a></strong><br>
+			MS Graduate, Learning Technologies Group<br>
+			<a href='mailto:buphoff@gmail.com'>buphoff@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2120'><img src='/resizedImages/500x280-crop-carlosuribe.jpg' alt='' title='Carlos Uribe' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2120'>Carlos Uribe</a></strong><br>
+			Research Experience Undergraduate, 2015-2016<br>
+			<a href='mailto:carlosuribe80@gmail.com'>carlosuribe80@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=146'><img src='/resizedImages/500x280-crop-vasilakis.gif' alt='' title='Christina Vasilakis' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=146'>Christina Vasilakis</a></strong><br>
+			MS &amp; MFA Graduate, 1997<br>
+			<a href='http://www.evl.uic.edu/chris' target='_blank'>http://www.evl.uic.edu/chris</a><br>
+			<a href='mailto:chris@intelligentlight.com'>chris@intelligentlight.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=169'><img src='/resizedImages/500x280-crop-shaleni_new_03.jpg' alt='' title='Shalini Venkataraman' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=169'>Shalini Venkataraman</a></strong><br>
+			MS Graduate, 2004
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=23'><img src='/resizedImages/500x280-crop-alan_verlo.jpg' alt='' title='Alan Verlo' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=23'>Alan Verlo</a></strong><br>
+			Associate Director (retired), MS Graduate
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=148'><img src='/resizedImages/500x280-crop-rafael.jpg' alt='' title='Rafael Vilasuso' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=148'>Rafael Vilasuso</a></strong><br>
+			MS Graduate<br>
+			<a href='mailto:neferset0@hotmail.com'>neferset0@hotmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=209'><img src='/resizedImages/500x280-crop-venkat_terabit.jpg' alt='' title='Venkatram Vishwanath' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=209'>Venkatram Vishwanath</a></strong><br>
+			PhD Graduate, 2009<br>
+			<a href='mailto:venkatram.vishwanath@gmail.com'>venkatram.vishwanath@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2362'><img src='/resizedImages/500x280-crop-seanwalker-pic-small.jpg' alt='' title='Sean Walker' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2362'>Sean Walker</a></strong><br>
+			Research Experience Undergraduate (REU), 2019<br>
+			<a href='mailto:seanwalker909@gmail.com'>seanwalker909@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=271'><img src='/resizedImages/500x280-crop-muxuan.jpg' alt='' title='Muxuan Wang' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=271'>Muxuan Wang</a></strong><br>
+			PhD Graduate, 2011
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=149'><img src='/resizedImages/500x280-crop-fangwang.gif' alt='' title='Fang Wang' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=149'>Fang Wang</a></strong><br>
+			MS Graduate, 1998<br>
+			<a href='http://www.evl.uic.edu/fwang' target='_blank'>http://www.evl.uic.edu/fwang</a><br>
+			<a href='mailto:fwang@microsoft.com'>fwang@microsoft.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=150'><img src='/resizedImages/500x280-crop-edawarren.jpg' alt='' title='Eda Warren' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=150'>Eda Warren</a></strong><br>
+			MFA Graduate, 1995<br>
+			<a href='mailto:edawarren@ameritech.net'>edawarren@ameritech.net</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=151'><img src='/resizedImages/500x280-crop-mwatson.jpg' alt='' title='Margaret Watson' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=151'>Margaret Watson</a></strong><br>
+			MFA Graduate, 1997<br>
+			<a href='http://mwatson.org' target='_blank'>http://mwatson.org</a><br>
+			<a href='mailto:mw@mwatson.org'>mw@mwatson.org</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=239'><img src='/resizedImages/500x280-crop-grav.png' alt='' title='Hubert Weldon' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=239'>Hubert Weldon</a></strong><br>
+			MFA Graduate, 2009<br>
+			<a href='mailto:hweldon@gravatonia.com'>hweldon@gravatonia.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=152'><img src='/resizedImages/500x280-crop-chris_white.jpg' alt='' title='Chris White' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=152'>Chris White</a></strong><br>
+			MFA Graduate, 2004<br>
+			<a href='mailto:rchrisw@mac.com'>rchrisw@mac.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=214'><img src='/misc/default_500x280.png' alt='' title='Chaoyue Xiong' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=214'>Chaoyue Xiong</a></strong><br>
+			PhD Graduate<br>
+			<a href='mailto:chaoyue.xiong@sun.com'>chaoyue.xiong@sun.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=197'><img src='/resizedImages/500x280-crop-ruoyun_yang.jpg' alt='' title='Ruoyun Yang' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=197'>Ruoyun Yang</a></strong><br>
+			MS Graduate
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=299'><img src='/resizedImages/500x280-crop-shi_yin.png' alt='' title='Shi Yin' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=299'>Shi Yin</a></strong><br>
+			MS Graduate, 2018<br>
+			<a href='http://joysword.com' target='_blank'>http://joysword.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=153'><img src='/misc/default_500x280.png' alt='' title='Bo Yuan' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=153'>Bo Yuan</a></strong><br>
+			MS Graduate
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=170'><img src='/resizedImages/500x280-crop-zhang.png' alt='' title='Charles Zhang' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=170'>Charles Zhang</a></strong><br>
+			PhD Graduate, 2008<br>
+			<a href='http://www.evl.uic.edu/charles' target='_blank'>http://www.evl.uic.edu/charles</a><br>
+			<a href='mailto:czhang@factset.com'>czhang@factset.com</a>
+		</div>
+	</td>
+</tr>
+<!-- End List List -->
+	</table>
+</div>
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Type:</strong>
+		<a href='/list.php?id=2&amp;type=1&amp;letter=all'><strong>Alumni</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=all'>Directorate</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=3&amp;letter=all'>Faculty</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=4&amp;letter=all'>Former Staff</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=5&amp;letter=all'>Staff</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=all'>Students</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=7&amp;letter=all'>Visitors</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=all&amp;letter=all'>All</a><br>
+		<strong>Name:</strong>
+		<a href='/list.php?id=2&amp;type=1&amp;letter=A'>A</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=B'>B</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=C'>C</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=D'>D</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=E'>E</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=F'>F</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=G'>G</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=H'>H</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=I'>I</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=J'>J</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=K'>K</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=L'>L</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=M'>M</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=N'>N</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=O'>O</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=P'>P</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=Q'>Q</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=R'>R</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=S'>S</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=T'>T</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=U'>U</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=V'>V</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=W'>W</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=X'>X</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=Y'>Y</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=Z'>Z</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=1&amp;letter=all'><strong>All</strong></a>
+	</div>
+</div>
+<!-- End List Pagination -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

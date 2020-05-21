@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin List -->
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Page:</strong>
+		<a href='/list.php?id=5&amp;page=1'>1</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=2'>2</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=3'>3</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=4'>4</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=5'>5</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=6'>6</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=7'>7</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=8'>8</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=9'>9</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=10'>10</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=11'>11</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=12'>12</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=13'>13</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=14'>14</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=15'>15</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=16'>16</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=17'><strong>17</strong></a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<div id='list_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin List List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2059'><img src='/resizedImages/500x280-crop-mosbie.png' alt='' title='MOSBIE: A Tool for Comparison and Analysis of Rule-Based Biochemical Models' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2059'>MOSBIE: A Tool for Comparison and Analysis of Rule-Based Biochemical Models</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=2052'>G. Elisabeta Marai</a>, John R. Wenskovitch, Leonard A. Harris, Jose-Juan Tapia, James R. Faeder<br>
+			Unknown - Ongoing<br><br>
+			Mechanistic models that describe the dynamical behaviors of biochemical systems are common in computational systems biology, especially in the realm&hellip; <a href='/entry.php?id=2059'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2060'><img src='/misc/default_500x280.png' alt='' title='RuleBender: Rule Based Modeling and Simulation with RuleBender' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2060'>RuleBender: Rule Based Modeling and Simulation with RuleBender</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=2052'>G. Elisabeta Marai</a>, A.M. Smith, W. Xu, Y. Sun, J.R. Faeder<br>
+			Unknown - Ongoing<br><br>
+			Modern biological experiments generate large amounts of data describing intracellular dynamics. Rule-based languages for describing intracellular&hellip; <a href='/entry.php?id=2060'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2062'><img src='/resizedImages/500x280-crop-fixingtim-2.png' alt='' title='FixingTIM: Interactive Exploration of Sequence and Structural Data to Identify Functional Mutations in Protein Families' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2062'>FixingTIM: Interactive Exploration of Sequence and Structural Data to Identify Functional Mutations in Protein Families</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=2052'>G. Elisabeta Marai</a>, <a href='/entry.php?id=2189'>Timothy Luciani</a>, J. Wenskovitch, K. Chen, D. Koes, T. Travers<br>
+			Unknown - Ongoing<br><br>
+			We present the design and implementation of a visual mining and analysis tool to help identify protein mutations across family structural models, and&hellip; <a href='/entry.php?id=2062'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1818'><img src='/misc/default_500x280.png' alt='' title='A Realistic Video Avatar System for Networked Virtual Environments' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1818'>A Realistic Video Avatar System for Networked Virtual Environments</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=54'>Vivek Rajan</a><br>
+			Unknown - December 2, 2001<br><br>
+			With the advent of collaborative virtual reality applications, there is a need for representing users with a higher degree of realism for better&hellip; <a href='/entry.php?id=1818'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1857'><img src='/misc/default_500x280.png' alt='' title='Panels, Tools, and Views: A Framework for Visual Programming' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1857'>Panels, Tools, and Views: A Framework for Visual Programming</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=168'>Allan Spale</a><br>
+			Unknown - December 1, 2002<br><br>
+			Panels, Tools, and Views (PTV) is a conceptual framework for providing a visual programming environment. This framework seeks to map programming&hellip; <a href='/entry.php?id=1857'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<!-- End List List -->
+	</table>
+</div>
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Page:</strong>
+		<a href='/list.php?id=5&amp;page=1'>1</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=2'>2</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=3'>3</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=4'>4</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=5'>5</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=6'>6</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=7'>7</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=8'>8</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=9'>9</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=10'>10</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=11'>11</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=12'>12</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=13'>13</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=14'>14</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=15'>15</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=16'>16</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=17'><strong>17</strong></a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<!-- End List -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

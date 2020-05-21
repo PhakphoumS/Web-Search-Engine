@@ -1,0 +1,1944 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Category -->
+<!-- Begin Category Pagination -->
+<div class='category_area'>
+	<div class='category_content'>
+		<h3>Applications</h3><br>
+		With the premiere of the <a href="/entry.php?id=1769">CAVE&trade;</a> Virtual Reality Theater at the SIGGRAPH 92 Showcase event came EVL&rsquo;s debut of a broad range of virtual reality applications - from experiential science to A-Life experiments; data-generated, interactive modeling of viruses, weather patterns or Julia sets; collaborative design prototyping; through aesthetic/artistic experiences. For the first time, participants could experience something as small as an atom or as large as the universe - all from varying perspectives.<br><br> EVL has since continued to foster collaboration with computational scientists, engineers, researchers and colleagues to develop virtual reality experiences and projects across the spectrum of application areas. EVL students, faculty and staff regularly participate in a host of events, conferences and exhibitions to showcase the efforts of these partnerships; venues include - <a href="http://www.siggraph.org">SIGGRAPH</a>, <a href="http://www.supercomp.org">Supercomputing</a>, <a href="http://www.isoc.org">INET</a>, <a href="http://www.aec.at/en/festival">Ars Electronica Festival</a>, <a href="http://www.isea-web.org">International Society for Electronic Arts</a> - to name a few.<br><br> Since 1996, EVL has also been credited with creating award-winning applications that explore the use of virtual reality as a learning medium. Currently, virtual reality education applications are being evaluated in traditional learning environments for potential integration into elementary school curriculum.<br><br> As EVL&rsquo;s research focus encompassed <a href="/category.php?id=19&related=3">Networking</a>, <a href="/category.php?id=23&related=3">TeleImmersion</a>, or networked virtual reality applications, emerged. Collaboration and sharing of virtual environments over distance presents a host of opportunities for application content development and distribution. Virtual prototyping, design review, architectural proposals, remote visualization from massive and distributed data stores, distance learning applications and more, are among the Tele-Immersion applications currently deployed.
+	</div>
+	<div class='category_content'>
+		<strong>Related:</strong>
+		<a href='/category.php?id=3&amp;related=1'>Art</a>&nbsp;&nbsp;
+		<a href='/category.php?id=3&amp;related=2'>Directory</a>&nbsp;&nbsp;
+		<a href='/category.php?id=3&amp;related=3'>Events</a>&nbsp;&nbsp;
+		<a href='/category.php?id=3&amp;related=4'>Papers</a>&nbsp;&nbsp;
+		<a href='/category.php?id=3&amp;related=5'>Research</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End Category Pagination -->
+<div class='category_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin Category List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2476'><img src='/resizedImages/500x280-crop-dtsoupikovamdunne-2.jpg' alt='' title='Discovery Partners Institute: The Autism and Innovation Initiative' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2476'>Discovery Partners Institute: The Autism and Innovation Initiative</a></strong><br>
+			<a href='/entry.php?id=188'>Daria Tsoupikova</a><br>
+			August 16, 2019 - Ongoing<br><br>
+			PI: Maureen Dunne, Disability and Human Development, UIC co-PI: Tamar Heller, Disability and Human Development, UIC co-PI: Daria Tsoupikova, New&hellip; <a href='/entry.php?id=2476'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2469'><img src='/misc/default_500x280.png' alt='' title='High-performance computing and data-driven modeling of aircraft contrails' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2469'>High-performance computing and data-driven modeling of aircraft contrails</a></strong><br>
+			<a href='/entry.php?id=2052'>G. Elisabeta Marai</a>, (co-PI), Roberto Paoli (PI, UIC MIE)<br>
+			July 1, 2019 - June 30, 2022<br><br>
+			In this project, we will develop a novel computational method to model the evolution of aircraft contrail (ice particles forming in aircraft&hellip; <a href='/entry.php?id=2469'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2437'><img src='/resizedImages/500x280-crop-cancer-disparities-interface.png' alt='' title='Cancer Disparities in Chicago' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2437'>Cancer Disparities in Chicago</a></strong><br>
+			Yashika Goyal<br>
+			February 1, 2019 - May 1, 2019<br><br>
+			Cancer has a major impact on society all around the world. It affects people of all population groups though certain groups bear more burden of&hellip; <a href='/entry.php?id=2437'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2363'><img src='/resizedImages/500x280-crop-sounddome.png' alt='' title='Ableton Live Integration & Audio Effects for a 32 Speaker Ambisonic Sound System' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2363'>Ableton Live Integration & Audio Effects for a 32 Speaker Ambisonic Sound System</a></strong><br>
+			<a href='/entry.php?id=2137'>Anil Camci</a>, <a href='/entry.php?id=2362'>Sean Walker</a>, Ryan Hauser<br>
+			August 15, 2018 - Ongoing<br><br>
+			Ableton Live is music software designed for computer-based composition and performance. Ambisonics is a full-sphere surround sound technique used for&hellip; <a href='/entry.php?id=2363'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2398'><img src='/misc/default_500x280.png' alt='' title='NIH: R01: SCH: INT: MyPHA: Automatically generating personalized accounts of inpatient hospitalization' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2398'>NIH: R01: SCH: INT: MyPHA: Automatically generating personalized accounts of inpatient hospitalization</a></strong><br>
+			<a href='/entry.php?id=2278'>Debaleena Chattopadhyay</a><br>
+			August 1, 2018 - July 31, 2022<br><br>
+			Pi: Barbara Di Eugenio; Co-I: Debaleena Chattopadhyay A growing body of research has found that patients who actively manage their health have better&hellip; <a href='/entry.php?id=2398'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2442'><img src='/resizedImages/500x280-crop-continuum2019_renambot.jpg' alt='' title='Spatial Audio in the Continuum Environment' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2442'>Spatial Audio in the Continuum Environment</a></strong><br>
+			<a href='/entry.php?id=2362'>Sean Walker</a><br>
+			May 22, 2018 - May 22, 2019<br><br>
+			The Continuum environment is a high-resolution computer-enhanced group collaboration workspace, consisting of large format 2D touch-enabled and 3D&hellip; <a href='/entry.php?id=2442'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2425'><img src='/resizedImages/500x280-crop-abilitylab_demoworld_maxine.png' alt='' title='Virtual Reality Enhanced Physical Therapy' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2425'>Virtual Reality Enhanced Physical Therapy</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=2361'>Francesco Mantovani</a>, <a href='/entry.php?id=2364'>Ryan Nishimoto</a>, <a href='/entry.php?id=2358'>Simone Amico</a><br>
+			January 1, 2018 - December 31, 2018<br><br>
+			The Shirley Ryan AbilityLab of Chicago worked with the Electronic Visualization Laboratory (EVL) at the University of Illinois at Chicago to use&hellip; <a href='/entry.php?id=2425'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2428'><img src='/resizedImages/500x280-crop-vissnippets_sage2.png' alt='' title='VisSnippets: A Web-Based System for Impromptu Collaborative Data Exploration on Large Displays' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2428'>VisSnippets: A Web-Based System for Impromptu Collaborative Data Exploration on Large Displays</a></strong><br>
+			<a href='/entry.php?id=2231'>Andrew Burks</a><br>
+			January 1, 2018 - Ongoing<br><br>
+			In the past decades, science has become increasingly interdisciplinary and scientific discovery has experienced a paradigm shift from the classical&hellip; <a href='/entry.php?id=2428'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2330'><img src='/misc/default_500x280.png' alt='' title='Incorporating Image-based Features into Biomedical Document Classification' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2330'>Incorporating Image-based Features into Biomedical Document Classification</a></strong><br>
+			<a href='/entry.php?id=2052'>G. Elisabeta Marai</a>, <a href='/entry.php?id=2250'>Juan Trelles Trabucco</a>, <br><br>UIC PI: G.E. Marai<br>University of Delaware PI: H. Shatkay<br>Co-PIs: C. Arighi, C. Kambhamettu, C. Wu<br>
+			September 14, 2017 - August 31, 2021<br><br>
+			This collaborative research project led by the colleagues at the University of Delaware aims to develop and advance tools for using image-data&hellip; <a href='/entry.php?id=2330'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2333'><img src='/misc/default_500x280.png' alt='' title='QuBBD: Precision E-Radiomics for Dynamic Big Head & Neck Cancer Data' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2333'>QuBBD: Precision E-Radiomics for Dynamic Big Head & Neck Cancer Data</a></strong><br>
+			<a href='/entry.php?id=2076'>Chihua Ma</a>, <a href='/entry.php?id=2052'>G. Elisabeta Marai</a>, <a href='/entry.php?id=2251'>Peter Hanula</a>, <br><br>Grant PI: Georgeta-Elisabeta Marai (UIC); Guadalupe Canahuate (University of Iowa); Clifton David Fuller (MD Anderson Cancer Center); David M. Vock (University of Minnesota)<br>
+			September 1, 2017 - August 31, 2020<br><br>
+			Cancer treatment courses which rely on imaging and spatially-dependent therapy involve making multiple treatment decisions (e.g., radiotherapy alone&hellip; <a href='/entry.php?id=2333'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2311'><img src='/resizedImages/500x280-crop-explorechicago.png' alt='' title='Exploring Chicago' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2311'>Exploring Chicago</a></strong><br>
+			<a href='/entry.php?id=2052'>G. Elisabeta Marai</a>, <a href='/entry.php?id=2248'>Manu Mathew Thomas</a>, Jakob Eriksson<br>
+			May 16, 2017 - Ongoing<br><br>
+			Exploring big cities like Chicago can be a daunting experience when the tourist has to gather information from multiple sources regarding places&hellip; <a href='/entry.php?id=2311'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2309'><img src='/resizedImages/500x280-crop-anl_lcfbuilding.png' alt='' title='Vis for Deep Learning for Biology' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2309'>Vis for Deep Learning for Biology</a></strong><br>
+			<a href='/entry.php?id=285'>Jillian Aurisano</a><br>
+			May 16, 2017 - May 15, 2018<br><br>
+			Deep learning is often referred to as a &lsquo;black box&rsquo;, because, aside from selecting model and the model hyperparameters (like the learning&hellip; <a href='/entry.php?id=2309'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2331'><img src='/resizedImages/500x280-crop-edhub.png' alt='' title='Englewood Social Service Finder and Englewood Analytics' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2331'>Englewood Social Service Finder and Englewood Analytics</a></strong><br>
+			<a href='/entry.php?id=2231'>Andrew Burks</a>, <a href='/entry.php?id=2052'>G. Elisabeta Marai</a>, <a href='/entry.php?id=2302'>Joshua Lagunda Castor</a>, Isabel Lindmae, Jaspreet Kaur Sohal<br>
+			May 16, 2017 - Ongoing<br><br>
+			The Englewood Data Hub (EDH) is a project that brings together both crowdsourced and public data surrounding the Englewood area into a single place&hellip; <a href='/entry.php?id=2331'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2334'><img src='/misc/default_500x280.png' alt='' title='SMART-ACT: Spatial Methodologic Approaches for Risk Assessment and Therapeutic Adaptation in Cancer Treatment' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2334'>SMART-ACT: Spatial Methodologic Approaches for Risk Assessment and Therapeutic Adaptation in Cancer Treatment</a></strong><br>
+			<a href='/entry.php?id=2467'>Andrew Wentzel</a>, <a href='/entry.php?id=2076'>Chihua Ma</a>, <a href='/entry.php?id=2052'>G. Elisabeta Marai</a>, <a href='/entry.php?id=2189'>Timothy Luciani</a>, <br><br>Grant PI: Georgeta-Elisabeta Marai (UIC); Guadalupe Canahuate (University of Iowa); Clifton David Fuller (MD Anderson Cancer Center); David M. Vock (University of Minnesota)<br>
+			March 3, 2017 - February 29, 2020<br><br>
+			Head and neck squamous carcinomas affect all ethnicities and age groups, accounting for significant mortality and therapy-related side effects. Over&hellip; <a href='/entry.php?id=2334'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2347'><img src='/resizedImages/500x280-crop-hai_9981-2.jpg' alt='' title='UIC Human-Computer Interaction (HCI) Laboratory' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2347'>UIC Human-Computer Interaction (HCI) Laboratory</a></strong><br>
+			<a href='/entry.php?id=2278'>Debaleena Chattopadhyay</a><br>
+			January 1, 2017 - Ongoing<br><br>
+			The Human-Computer Interaction (HCI) Laboratory at the University of Illinois at Chicago (UIC) is led by assistant professor Debaleena Chattopadhyay&hellip; <a href='/entry.php?id=2347'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2237'><img src='/resizedImages/500x280-crop-smohan_cave2.png' alt='' title='Music Instruction in a Virtual/Augmented Environment' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2237'>Music Instruction in a Virtual/Augmented Environment</a></strong><br>
+			<a href='/entry.php?id=2236'>Shreyas Mohan</a><br>
+			June 1, 2016 - August 15, 2016<br><br>
+			This project&rsquo;s purpose was to investigate the ability of virtual reality to teach music. An application was developed for the CAVE2&trade; and&hellip; <a href='/entry.php?id=2237'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2232'><img src='/resizedImages/500x280-crop-viscousfingers_burks_sugiyama.png' alt='' title='Interactive Exploration and Tracking of Viscous Fingers in Large-Scale Ensemble Simulations' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2232'>Interactive Exploration and Tracking of Viscous Fingers in Large-Scale Ensemble Simulations</a></strong><br>
+			<a href='/entry.php?id=2231'>Andrew Burks</a>, <a href='/entry.php?id=2230'>Cassiano Sugiyama</a>, <a href='/entry.php?id=2052'>G. Elisabeta Marai</a>, <a href='/entry.php?id=2189'>Timothy Luciani</a><br>
+			May 16, 2016 - August 15, 2016<br><br>
+			The visualization of aleatoric uncertainty in ensemble simulations - i.e. the study of high concentrations in mixtures - provides many challenges due&hellip; <a href='/entry.php?id=2232'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2177'><img src='/resizedImages/500x280-crop-digitalquest_ieee_vr_image-2.png' alt='' title='DigitalQuest: A Mixed Reality Approach to Scavenger Hunts' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2177'>DigitalQuest: A Mixed Reality Approach to Scavenger Hunts</a></strong><br>
+			<a href='/entry.php?id=2156'>Marco Cavallo</a><br>
+			March 19, 2016 - March 23, 2016<br><br>
+			Despite much progress and increased interest, mixed reality applications are not yet in widespread use by the general public. Our framework&hellip; <a href='/entry.php?id=2177'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2171'><img src='/resizedImages/500x280-crop-riverwalkar.png' alt='' title='Riverwalk: Incorporating Historical Photographs in Public Outdoor Augmented Reality Experiences' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2171'>Riverwalk: Incorporating Historical Photographs in Public Outdoor Augmented Reality Experiences</a></strong><br>
+			<a href='/entry.php?id=2473'>Angus Forbes</a>, <a href='/entry.php?id=2156'>Marco Cavallo</a>, Geoffrey Alan Rhodes, Assistant Professor at the School of The Art Institute of Chicago<br>
+			January 1, 2016 - Ongoing<br><br>
+			The Chicago 0,0 Riverwal AR experience provides a novel, interactive way for users to explore historical photographs sourced from museum archives. As&hellip; <a href='/entry.php?id=2171'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2176'><img src='/resizedImages/500x280-crop-rehabjim_image.png' alt='' title='RehabJim: A Third Person Approach To Virtual Reality Biomechanical Rehabilitation' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2176'>RehabJim: A Third Person Approach To Virtual Reality Biomechanical Rehabilitation</a></strong><br>
+			<a href='/entry.php?id=2156'>Marco Cavallo</a>, Andrea Rottigni<br>
+			January 1, 2016 - May 1, 2016<br><br>
+			Patients come to Centers for Physical Therapy and Rehabilitation from all over the globe, &ldquo;often with catastrophic or unusual conditions and&hellip; <a href='/entry.php?id=2176'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2178'><img src='/resizedImages/500x280-crop-3dcity_mcavallo_image.jpg' alt='' title='3D City Reconstruction From Google Street View' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2178'>3D City Reconstruction From Google Street View</a></strong><br>
+			<a href='/entry.php?id=2156'>Marco Cavallo</a><br>
+			January 1, 2016<br><br>
+			Google Street View can be considered as an online browsable dataset consisting of billions of street-level panoramic images acquired all around the&hellip; <a href='/entry.php?id=2178'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2228'><img src='/resizedImages/500x280-crop-senseipanama.png' alt='' title='SENSEI-Panama' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2228'>SENSEI-Panama</a></strong><br>
+			<a href='/entry.php?id=2217'>James Hwang</a>, <a href='/entry.php?id=285'>Jillian Aurisano</a>, Oliver San-Juan, Ishta Bhagat<br>
+			November 1, 2015 - Ongoing<br><br>
+			SENSEI: Sensor Environment Imaging (SENSEI) Instrument is a National Science Foundation award to construct a reconfigurable, ultra-high-resolution&hellip; <a href='/entry.php?id=2228'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2215'><img src='/resizedImages/500x280-crop-covallo_mr.png' alt='' title='Merging Worlds: A Location-based Approach to Mixed Reality' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2215'>Merging Worlds: A Location-based Approach to Mixed Reality</a></strong><br>
+			<a href='/entry.php?id=2473'>Angus Forbes</a>, <a href='/entry.php?id=2156'>Marco Cavallo</a><br>
+			August 16, 2015 - May 15, 2016<br><br>
+			This research explores a novel approach to the design of Mixed Reality (MR) applications, which combines elements from markerless and location-based&hellip; <a href='/entry.php?id=2215'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2218'><img src='/resizedImages/500x280-crop-sageboard_pellolio.png' alt='' title='SAGEBoard: a Whiteboard for Large Multitouch Displays' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2218'>SAGEBoard: a Whiteboard for Large Multitouch Displays</a></strong><br>
+						August 16, 2015 - May 3, 2016<br><br>
+			SAGEBoard is an electronic whiteboard for tiled touch displays that can be used locally or shared between remote collaborators. An electronic&hellip; <a href='/entry.php?id=2218'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2229'><img src='/resizedImages/500x280-crop-senseicamerarenderingcu.png' alt='' title='SENSEI: Sensor Environment Imaging (SENSEI) Instrument' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2229'>SENSEI: Sensor Environment Imaging (SENSEI) Instrument</a></strong><br>
+			<a href='/entry.php?id=2366'>Ahmad Atra</a>, <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=2315'>Bartosz Kupiec</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=2321'>Dimitar Kirilov</a>, <a href='/entry.php?id=2279'>Harlyn Baker</a>, <a href='/entry.php?id=2422'>Hayley Christianson</a>, <a href='/entry.php?id=2439'>Kyra Jones</a>, <a href='/entry.php?id=49'>Lance Long</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=14'>Robert V. Kenyon</a>, Tanya Berger-Wolf<br>
+			October 1, 2014 - September 30, 2019<br><br>
+			SENSEI will be a reconfigurable, ultra-high-resolution, spherical (4π steradian), photometric, radiometric and photogrammetric real-time&hellip; <a href='/entry.php?id=2229'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2208'><img src='/resizedImages/500x280-crop-1280x720-heartsandminds.jpg' alt='' title='Hearts and Minds: The Interrogations Project' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2208'>Hearts and Minds: The Interrogations Project</a></strong><br>
+			<a href='/entry.php?id=270'>Arthur Nishimoto</a>, <a href='/entry.php?id=188'>Daria Tsoupikova</a>, <a href='/entry.php?id=49'>Lance Long</a>, - University of Illinois at Chicago; Roderick Coover, Mark Partridge - Temple University; Scott Rettberg - University of Bergen, Norway<br>
+			August 16, 2014 - Ongoing<br><br>
+			Hearts and Minds: The Interrogations Project is a 3D narrative experience made for the effective sensory environment of the EVL&rsquo;s CAVE2&trade;&hellip; <a href='/entry.php?id=2208'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2165'><img src='/resizedImages/500x280-crop-cave2unitysimulator.png' alt='' title='CAVE2/Unity Simulator' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2165'>CAVE2/Unity Simulator</a></strong><br>
+			<a href='/entry.php?id=270'>Arthur Nishimoto</a><br>
+			November 18, 2013 - Ongoing<br><br>
+			Developed by EVL PhD Candidate Arthur Nishimoto the CAVE2/Unity simulator is a Unity3D package for testing and development of Unity3D applications&hellip; <a href='/entry.php?id=2165'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2019'><img src='/resizedImages/500x280-crop-iss-2.jpg' alt='' title='International Space Station (ISS) and Space Shuttle Discovery' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2019'>International Space Station (ISS) and Space Shuttle Discovery</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, Heyuan Huang (UIUC)<br>
+			September 15, 2013 - Ongoing<br><br>
+			The International Space Station (ISS) and Space Shuttle Discovery is a CAVE2&trade; Hybrid Reality Environment simulation where participants can&hellip; <a href='/entry.php?id=2019'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2021'><img src='/resizedImages/500x280-crop-_ljl3254.jpg' alt='' title='Connectome' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2021'>Connectome</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, Electronic Visualization Laboratory; Olusola Ajilore, UIC Department of Psychiatry<br>
+			April 1, 2013 - Ongoing<br><br>
+			A connectome is a map of neural connections in the brain. In this CAVE2&trade; Hybrid Reality Environment application, participants walk inside&hellip; <a href='/entry.php?id=2021'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2329'><img src='/resizedImages/500x280-crop-simple_sm.jpg' alt='' title='SIMPLE project (Sub-ice Investigation of Marine and Planetary-analog Ecosystems)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2329'>SIMPLE project (Sub-ice Investigation of Marine and Planetary-analog Ecosystems)</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=270'>Arthur Nishimoto</a><br>
+			January 7, 2013 - January 8, 2018<br><br>
+			Funded by NASA, the SIMPLE project (Sub-ice Investigation of Marine and Planetary-analog Ecosystems) is to deploy an autonomous underwater vehicle&hellip; <a href='/entry.php?id=2329'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2030'><img src='/resizedImages/500x280-crop-_ljl6703.jpg' alt='' title='Mars Curiosity' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2030'>Mars Curiosity</a></strong><br>
+			<a href='/entry.php?id=192'>Luc Renambot</a>, NASA Jet Propulsion Laboratory, California Institute of Technology<br>
+			January 1, 2013 - Ongoing<br><br>
+			In this application, participants view a number of 2D high-resolution images captured by the Mars Curiosity Rover, along side a 3-dimensional model&hellip; <a href='/entry.php?id=2030'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2035'><img src='/resizedImages/500x280-crop-_ljl2789.jpg' alt='' title='Architectural Design of a UCSD Engineering Building' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2035'>Architectural Design of a UCSD Engineering Building</a></strong><br>
+			<a href='/entry.php?id=235'>Steve Cady</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, The Graphics, Visualization and Virtual Reality Laboratory (GRAVITY) and California Institute for Telecommunications and Information Technology (Calit2), University of California San Diego<br>
+			January 1, 2013 - Ongoing<br><br>
+			Participants walk through an architectural model of University of California, San Diego&rsquo;s recently dedicated Structural and Materials&hellip; <a href='/entry.php?id=2035'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2020'><img src='/misc/default_500x280.png' alt='' title='Burning Aluminum Nanoparticles for use in Fuel Cells' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2020'>Burning Aluminum Nanoparticles for use in Fuel Cells</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=259'>Khairi Reda</a>, Electronic Visualization Laboratory; Mike Papka, Argonne National Laboratory; Kenichi Nomura, Priya Vashishta, University of Southern California<br>
+			January 1, 2013 - Ongoing<br><br>
+			This CAVE2&trade; Hybrid Reality Environment simulation depicts the burning of three aluminum nanoparticles at very high temperatures (approximately&hellip; <a href='/entry.php?id=2020'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2027'><img src='/resizedImages/500x280-crop-_ljl2393.jpg' alt='' title='ENDURANCE (Environmentally Non-Disturbing Under-ice Robotic ANtarctiC Explorer)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2027'>ENDURANCE (Environmentally Non-Disturbing Under-ice Robotic ANtarctiC Explorer)</a></strong><br>
+			<a href='/entry.php?id=272'>Alessandro Febretti</a>, <a href='/entry.php?id=10'>Andrew Johnson</a>, Electronic Visualization Laboratory; Peter Doran, UIC Earth and Environmental Sciences Department; Stone Aerospace; NASA Ames Research Center; Montana State University<br>
+			January 1, 2013 - Ongoing<br><br>
+			Professor Peter Doran of the Earth and Environmental Sciences Department at University of Illinois at Chicago (UIC) employs virtual-reality to&hellip; <a href='/entry.php?id=2027'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2031'><img src='/resizedImages/500x280-crop-evl_endurancesimple.jpg' alt='' title='ENDURANCE (Environmentally Non-Disturbing Under-ice Robotic ANtarctiC Explorer) (SAGE&trade; Collaboration)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2031'>ENDURANCE (Environmentally Non-Disturbing Under-ice Robotic ANtarctiC Explorer) (SAGE&trade; Collaboration)</a></strong><br>
+			<a href='/entry.php?id=272'>Alessandro Febretti</a>, <a href='/entry.php?id=10'>Andrew Johnson</a>, Electronic Visualization Laboratory; Peter Doran, UIC Earth and Environmental Sciences Department; Stone Aerospace; NASA Ames Research Center; Montana State University<br>
+			January 1, 2013 - Ongoing<br><br>
+			This application uses EVL&rsquo;s SAGE&trade; software to display both 2D and 3D data in the CAVE2&trade; Hybrid Reality Environment. In a&hellip; <a href='/entry.php?id=2031'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2032'><img src='/resizedImages/500x280-crop-_ljl2834.jpg' alt='' title='Mars Curiosity (SAGE in CAVE2&trade;)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2032'>Mars Curiosity (SAGE in CAVE2&trade;)</a></strong><br>
+			<a href='/entry.php?id=192'>Luc Renambot</a><br>
+			October 1, 2012 - Ongoing<br><br>
+			In this application, participants view several 2-dimensional high-resolution images captured by the Mars Curiosity Rover in EVL&rsquo;s CAVE2&trade;&hellip; <a href='/entry.php?id=2032'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2313'><img src='/misc/default_500x280.png' alt='' title='MARS3 - Machines Assisting Recovery from Stroke' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2313'>MARS3 - Machines Assisting Recovery from Stroke</a></strong><br>
+			<a href='/entry.php?id=2301'>Ashwini Naik</a>, <a href='/entry.php?id=14'>Robert V. Kenyon</a>, James Patton<br>
+			October 1, 2012 - September 30, 2017<br><br>
+			Stroke is the fifth most common cause of mortality in the United States as reported by the Center for Disease Control and Prevention. Medical&hellip; <a href='/entry.php?id=2313'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2025'><img src='/resizedImages/500x280-crop-_ljl2674.jpg' alt='' title='Virtual Reality for Medical Training' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2025'>Virtual Reality for Medical Training</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a><br>
+			September 1, 2012 - Ongoing<br><br>
+			To show medical illustrators and educators the value of virtual reality for medical training, the Electronic Visualization Laboratory (EVL) at the&hellip; <a href='/entry.php?id=2025'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2029'><img src='/resizedImages/500x280-crop-_ljl2826.jpg' alt='' title='Hospital Architecture Study' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2029'>Hospital Architecture Study</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a><br>
+			September 1, 2012 - Ongoing<br><br>
+			The CAVE2&trade; System is a hybrid environment that enables users to mash-up a number of 2D and 3D images at the same time using SAGE&trade;&hellip; <a href='/entry.php?id=2029'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2023'><img src='/resizedImages/500x280-crop-_ljl2644.jpg' alt='' title='Gold Nanoparticle' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2023'>Gold Nanoparticle</a></strong><br>
+			<a href='/entry.php?id=272'>Alessandro Febretti</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, Electronic Visualization Laboratory; Petr Kral Research Group, UIC Department of Chemistry; Vincent M. Rotello Research Group, University of Massachusetts<br>
+			September 1, 2012 - Ongoing<br><br>
+			Participants can explore the self-assembly of a ligated gold nanoparticle and proteins inside an ionic solution in the CAVE2&trade; Hybrid Reality&hellip; <a href='/entry.php?id=2023'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2024'><img src='/resizedImages/500x280-crop-_ljl2584.jpg' alt='' title='High-Speed Trains' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2024'>High-Speed Trains</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=300'>Krishna Bharadwaj</a>, <a href='/entry.php?id=297'>Vaibhav Govilkar</a>, Electronic Visualization Laboratory; National University Rail (NURail) Center<br>
+			September 1, 2012 - Ongoing<br><br>
+			Participants stand inside virtual train tracks in the CAVE2&trade; System to observe distortion as high-speed trains roar past. This visualization of&hellip; <a href='/entry.php?id=2024'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2026'><img src='/resizedImages/500x280-crop-_ljl2004.jpg' alt='' title='Molecular Dynamics Simulation of a Glass Fissure' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2026'>Molecular Dynamics Simulation of a Glass Fissure</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=259'>Khairi Reda</a>, Electronic Visualization Laboratory; Aaron Knoll, Mike Papka, Argonne National Laboratory; Kenichi Nomura, Priya Vashishta, University of Southern California<br>
+			September 1, 2012 - Ongoing<br><br>
+			Participants fly through a close-up of a glass fissure computed in a 5-Million atom molecular dynamics nanoscale simulation. Visualization by Aaron&hellip; <a href='/entry.php?id=2026'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2040'><img src='/resizedImages/500x280-crop-spidersense-2.png' alt='' title='SpiderSense' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2040'>SpiderSense</a></strong><br>
+			<a href='/entry.php?id=281'>Victor Mateevitsi</a><br>
+			August 16, 2012 - February 7, 2013<br><br>
+			SpiderSense is a wearable device that projects the wearer&rsquo;s near environment on the skin and allows for directional awareness of objects around&hellip; <a href='/entry.php?id=2040'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2022'><img src='/resizedImages/500x280-crop-_ljl1976.jpg' alt='' title='Electron Density of a Molecular Dataset' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2022'>Electron Density of a Molecular Dataset</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=259'>Khairi Reda</a>, Electronic Visualization Laboratory; Aslihan Sumer, Juliuis Jellineck, Michael Papka, Argonne National Laboratory<br>
+			August 1, 2012 - Ongoing<br><br>
+			Participants in the CAVE2&trade; System stand inside a balls-and-sticks model of a molecular chemistry dataset. The clouds represent the density of&hellip; <a href='/entry.php?id=2022'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2038'><img src='/resizedImages/500x280-crop-bactogenie_cusm.jpg' alt='' title='BactoGeNIE, the Bacterial Gene Neighborhood Investigation Environment' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2038'>BactoGeNIE, the Bacterial Gene Neighborhood Investigation Environment</a></strong><br>
+			<a href='/entry.php?id=285'>Jillian Aurisano</a><br>
+			August 1, 2012 - Ongoing<br><br>
+			BactoGeNIE, the Bacterial Gene Neighborhood Investigation Environment, is a genome visualization approach developed at Electronic Visualization&hellip; <a href='/entry.php?id=2038'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2014'><img src='/resizedImages/500x280-crop-spacedout.jpg' alt='' title='Spaced Out' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2014'>Spaced Out</a></strong><br>
+			<a href='/entry.php?id=270'>Arthur Nishimoto</a><br>
+			September 1, 2011 - December 9, 2011<br><br>
+			Spaced Out uses a NeuroSky MindWave and Unity3d to generate a model of the Solar System affected by brain waves. Solar flares are triggered by high&hellip; <a href='/entry.php?id=2014'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2015'><img src='/resizedImages/500x280-crop-fullbrain01_cropped.png' alt='' title='Reconstructing the Cerebral Vascular Network' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2015'>Reconstructing the Cerebral Vascular Network</a></strong><br>
+			<a href='/entry.php?id=290'>Thomas Marrinan</a>, (Computer Science); Dr. Linninger, Chih Yang Hsu, Ian Gould, (BioEngineering)<br>
+			June 1, 2011 - May 15, 2013<br><br>
+			Researchers from the UIC Departments of Computer Science and BioEngineering propose to develop graphical stereoscopic visual applications for a&hellip; <a href='/entry.php?id=2015'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2037'><img src='/misc/default_500x280.png' alt='' title='Rebar Cage' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2037'>Rebar Cage</a></strong><br>
+			<a href='/entry.php?id=6'>Thomas A. DeFanti</a>, Andre Barbosa, Jurgen Schulze (University of California San Diego); American Bridge Company / Fluor Enterprises Inc.<br>
+			May 1, 2011 - Ongoing<br><br>
+			Participants walk through a 3D model of an 80x60x20-foot section of the rebar cage of the new San Francisco-Oakland Bay Bridge. Note that this model&hellip; <a href='/entry.php?id=2037'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2036'><img src='/resizedImages/500x280-crop-_ljl2805.jpg' alt='' title='Luxor' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2036'>Luxor</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, Dick Ainsworth<br>
+			April 30, 2011 - Ongoing<br><br>
+			As a demonstration of cultural heritage, participants can view 360-degree panoramic images of Medinet Habu, the Mortuary Temple of Ramesses III&hellip; <a href='/entry.php?id=2036'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2007'><img src='/misc/default_500x280.png' alt='' title='The Shadow' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2007'>The Shadow</a></strong><br>
+			<a href='/entry.php?id=287'>Qin Li</a>, <a href='/entry.php?id=14'>Robert V. Kenyon</a>, Chihua Ma,<br>Rehabilitation Institute of Chicago<br>
+			January 1, 2011 - May 15, 2012<br><br>
+			This project&rsquo;s goal is to render an avatar on a display screen that will mimic the movements of the person facing the screen, in real-time&hellip; <a href='/entry.php?id=2007'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2061'><img src='/resizedImages/500x280-crop-astroshelf.png' alt='' title='Astroshelf: Panning and Zooming the Observable Universe' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2061'>Astroshelf: Panning and Zooming the Observable Universe</a></strong><br>
+			<a href='/entry.php?id=2052'>G. Elisabeta Marai</a>, <a href='/entry.php?id=2189'>Timothy Luciani</a>, B. Cherinka, P. Chrysanthis, A. Conn, R. Hachey, M. Liegey, S. Myers, J. Newman, D. Oliphant, M. Seiler, M. Wood-Vasey<br>
+			January 1, 2010 - Ongoing<br><br>
+			The growing onslaught of astronomical data available presents a great challenge. Astronomy lacks an easy-to-use and scalable way to collect and&hellip; <a href='/entry.php?id=2061'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2005'><img src='/resizedImages/500x280-crop-cli-mate_kahler.png' alt='' title='Cli-Mate: An Interactive Climate Application for TacTile Multi-touch Display' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2005'>Cli-Mate: An Interactive Climate Application for TacTile Multi-touch Display</a></strong><br>
+			<a href='/entry.php?id=265'>Ed Kahler</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, Mark Hereld, Michael Papka (Argonne National Laboratory)<br>
+			November 1, 2009 - October 31, 2011<br><br>
+			Cli-Mate is an interactive multi-touch application for the visualization of climate data. Developed to explore new interaction modalities with the&hellip; <a href='/entry.php?id=2005'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1997'><img src='/resizedImages/500x280-crop-mars_project_10-09.png' alt='' title='Virtual Reality Environment Assisting Recovery from Stroke' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1997'>Virtual Reality Environment Assisting Recovery from Stroke</a></strong><br>
+			<a href='/entry.php?id=188'>Daria Tsoupikova</a>, Nikolay Stoykov, Bioengineering,  Rehabilitation Institute of Chicago (RIC), Randy Vick, Art Therapy, School of Art Institute of Chicago (SAIC)<br>
+			October 1, 2009 - Ongoing<br><br>
+			Virtual Reality Environment Assisting Recovery from Stroke is a research collaboration between the Rehabilitation Institute of Chicago, UIC / EVL&hellip; <a href='/entry.php?id=1997'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1998'><img src='/resizedImages/500x280-crop-led_tissue.jpg' alt='' title='Laser Emitting Diode for Stabilization of Cutaneous Battlefield Wounds for Air Evacuation and Transport' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1998'>Laser Emitting Diode for Stabilization of Cutaneous Battlefield Wounds for Air Evacuation and Transport</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=289'>Paul Grenning</a>, Maxine Brown, Patrick Hallihan, Victor Mateevitsi, Yiwen Sun<br>
+			September 30, 2009 - November 14, 2011<br><br>
+			Wartime injuries present extreme problems in wound management and the modern battlefield places extraordinary adaptability demands on combat medical&hellip; <a href='/entry.php?id=1998'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1999'><img src='/resizedImages/500x280-crop-omega.jpg' alt='' title='Research, Analysis, and Databasing of Emerging High Power Directed Energy Technologies Marketed to the Clinical and Research Communities' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1999'>Research, Analysis, and Databasing of Emerging High Power Directed Energy Technologies Marketed to the Clinical and Research Communities</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=159'>Patrick Hallihan</a>, <a href='/entry.php?id=281'>Victor Mateevitsi</a>, <a href='/entry.php?id=250'>Yiwen Sun</a><br>
+			September 30, 2009 - September 29, 2015<br><br>
+			This project applies a multidisciplinary approach to the assessment of medical devices and laboratory equipment that utilize directed energy (DE)&hellip; <a href='/entry.php?id=1999'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2000'><img src='/resizedImages/500x280-crop-hands_screenshot_sm.png' alt='' title='Hands-on Automated Nursing Data System (HANDS)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2000'>Hands-on Automated Nursing Data System (HANDS)</a></strong><br>
+			<a href='/entry.php?id=272'>Alessandro Febretti</a>, <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=228'>Yu-Chung Chen</a>, Gail M. Keenan and Diana Wilke (University of Florida College of Nursing); Karen Dunn Lopez (UIC College of Nursing)<br>
+			September 18, 2009 - May 31, 2015<br><br>
+			The Hands-on Automated Nursing Data System (HANDS) is a standardized plan of care method in which the patient&rsquo;s plan is updated at every nurse&hellip; <a href='/entry.php?id=2000'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2012'><img src='/resizedImages/500x280-crop-fleetcommander_rev.jpg' alt='' title='Fleet Commander' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2012'>Fleet Commander</a></strong><br>
+			<a href='/entry.php?id=270'>Arthur Nishimoto</a>, <a href='/entry.php?id=21'>Jason Leigh</a><br>
+			June 15, 2009 - September 1, 2009<br><br>
+			Fleet Commander is an interactive game developed to explore how a real-time strategy game that often relies on complex keyboard commands and mouse&hellip; <a href='/entry.php?id=2012'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1992'><img src='/resizedImages/500x280-crop-ittf_still_sm.jpg' alt='' title='Disaster Preparedness Training Online Gaming Demonstration' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1992'>Disaster Preparedness Training Online Gaming Demonstration</a></strong><br>
+			<a href='/entry.php?id=263'>Alejandro Borsani</a>, <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=45'>Michael Lewis</a>, <a href='/entry.php?id=271'>Muxuan Wang</a>, <a href='/entry.php?id=207'>Sangyoon Lee</a>, Patricia Rushing (IGPA / UIUC PI), Tom Ruiz, Mike Woodley (UIUC / Dept of Computer Science, Music)<br>
+			May 1, 2009 - April 30, 2010<br><br>
+			UIC, UIUC and Center for Technology and Public Policy Working on Earthquake Preparedness Simulation for Middle School Students Computer science&hellip; <a href='/entry.php?id=1992'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2004'><img src='/resizedImages/500x280-crop-futureearth_dcsm.png' alt='' title='Future Earth Initiative' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2004'>Future Earth Initiative</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=259'>Khairi Reda</a>, Science Museum of Minnesota<br>
+			April 1, 2009 - December 31, 2011<br><br>
+			EVL is working with the Science Museum of Minnesota on a museum exhibit titled Future Earth. This exhibit addresses the long-term human impact on out&hellip; <a href='/entry.php?id=2004'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2002'><img src='/resizedImages/500x280-crop-articulate-yiwen_sm-2.png' alt='' title='Articulate: a Semi-automated System for Translating Natural Language Queries into Meaningful Visualizations' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2002'>Articulate: a Semi-automated System for Translating Natural Language Queries into Meaningful Visualizations</a></strong><br>
+			<a href='/entry.php?id=2306'>Abeer Alsaiari</a>, <a href='/entry.php?id=2472'>Abhinav Kumar</a>, <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=285'>Jillian Aurisano</a>, <a href='/entry.php?id=2322'>Joe Borowicz</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=2303'>Vijayraj Mahida</a>, <a href='/entry.php?id=250'>Yiwen Sun</a>, Barbara DiEugenio<br>
+			March 1, 2009 - Ongoing<br><br>
+			While many visualization tools exist that offer sophisticated functions for charting complex data, they still expect users to possess a high degree&hellip; <a href='/entry.php?id=2002'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2009'><img src='/resizedImages/500x280-crop-risingtide_cropped.png' alt='' title='Rising Tide' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2009'>Rising Tide</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=259'>Khairi Reda</a><br>
+			January 1, 2009 - December 31, 2011<br><br>
+			EVL collaborators at the Science Museum of Minnesota (SMM) built a TacTile multi-touch display in 2009 after seeing it at EVL, and made several&hellip; <a href='/entry.php?id=2009'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1989'><img src='/resizedImages/500x280-crop-zebrascreenshot.png' alt='' title='Visual Analysis of Social Behavior of Wild Animals' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1989'>Visual Analysis of Social Behavior of Wild Animals</a></strong><br>
+			<a href='/entry.php?id=259'>Khairi Reda</a><br>
+			August 16, 2008 - August 16, 2009<br><br>
+			Understanding the social interaction of wild animals in the context of their ecology is imperative to the conservation of endangered species. Our&hellip; <a href='/entry.php?id=1989'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1983'><img src='/resizedImages/500x280-crop-merra_lamdaram.png' alt='' title='MERRA Computation Using LambdaRAM' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1983'>MERRA Computation Using LambdaRAM</a></strong><br>
+			<a href='/entry.php?id=209'>Venkatram Vishwanath</a>, Software Integration and Visualization Office (SIVO), NASA Goddard Space Flight Center<br>
+			May 16, 2008 - November 4, 2008<br><br>
+			Data-intensive scientific applications require rapid access to local and geographically distributed data, however, there are significant I/O latency&hellip; <a href='/entry.php?id=1983'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1987'><img src='/resizedImages/500x280-crop-planetaryscaleterrain.png' alt='' title='Planetary-scale Terrain Composition' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1987'>Planetary-scale Terrain Composition</a></strong><br>
+			<a href='/entry.php?id=222'>Robert Kooima</a><br>
+			August 1, 2007 - October 23, 2008<br><br>
+			Planetary-scale Terrain Composition is a GPU-centric real-time approach to generating and rendering planetary bodies composed of arbitrary quantities&hellip; <a href='/entry.php?id=1987'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1993'><img src='/resizedImages/500x280-crop-endurance.jpg' alt='' title='NASA Environmentally Non-Disturbing Under-ice Robotic ANtarctiC Explorer (ENDURANCE)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1993'>NASA Environmentally Non-Disturbing Under-ice Robotic ANtarctiC Explorer (ENDURANCE)</a></strong><br>
+			<a href='/entry.php?id=272'>Alessandro Febretti</a>, <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=227'>Ratko Jagodic</a>, <a href='/entry.php?id=257'>Shriram Iyer</a>, Peter Doran (PI UIC); John Priscu (Montana State University); Christopher McKay (NASA Ames Research Center); Bill Stone (Stone Aerospace)<br>
+			May 1, 2007 - April 30, 2010<br><br>
+			NASA&rsquo;s Astrobiology Science and Technology for Exploring Planets (ASTEP) Program is supporting ENDURANCE - the Environmentally Non-Disturbing&hellip; <a href='/entry.php?id=1993'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1929'><img src='/resizedImages/500x280-crop-lifelike_avatars.png' alt='' title='Towards Lifelike Computer Interfaces that Learn' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1929'>Towards Lifelike Computer Interfaces that Learn</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=268'>Gordon Carlson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=207'>Sangyoon Lee</a>, <a href='/entry.php?id=11'>Steve Jones</a>, (EVL); Avelino J Gonzalez, Ronald F DeMara (University of Central Florida)<br>
+			February 15, 2007 - January 30, 2010<br><br>
+			This collaborative research project investigates, develops and evaluates lifelike, natural computer interfaces as portals to intelligent programs in&hellip; <a href='/entry.php?id=1929'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1947'><img src='/resizedImages/500x280-crop-evl_tellurion.jpg' alt='' title='Tellurion' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1947'>Tellurion</a></strong><br>
+			<a href='/entry.php?id=222'>Robert Kooima</a><br>
+			January 1, 2007 - December 30, 2008<br><br>
+			Tellurion is a real-time planetary-scale data visualization. It uses a GPU-based algorithm to adaptively tessellate the sphere and apply terrain&hellip; <a href='/entry.php?id=1947'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2033'><img src='/resizedImages/500x280-crop-_ljl2712.jpg' alt='' title='Constellations' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2033'>Constellations</a></strong><br>
+			<a href='/entry.php?id=222'>Robert Kooima</a><br>
+			January 1, 2007 - October 1, 2012<br><br>
+			Individuals standing in the CAVE2&trade; System interactively fly through Earth&rsquo;s galaxy to observe constellations from different viewpoints&hellip; <a href='/entry.php?id=2033'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2034'><img src='/resizedImages/500x280-crop-_ljl2747.jpg' alt='' title='Mars' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2034'>Mars</a></strong><br>
+			<a href='/entry.php?id=222'>Robert Kooima</a><br>
+			January 1, 2007 - October 1, 2012<br><br>
+			Participants interactively fly around a 3D representation of Mars in the CAVE2&trade; System. The 3D model was originally created by EVL graduate&hellip; <a href='/entry.php?id=2034'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1936'><img src='/resizedImages/500x280-crop-svl_adler_400.png' alt='' title='Adler Planetarium and Astronomy Museum&rsquo;s Space Visualization Laboratory' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1936'>Adler Planetarium and Astronomy Museum&rsquo;s Space Visualization Laboratory</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=222'>Robert Kooima</a><br>
+			December 1, 2006 - Ongoing<br><br>
+			EVL has been working with the Adler Planetarium over the last several years to deploy EVL&rsquo;s advanced visualization display technologies and&hellip; <a href='/entry.php?id=1936'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1945'><img src='/resizedImages/500x280-crop-etars_400.png' alt='' title='ETARS: Eye Tracking Assessment and Remediation System' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1945'>ETARS: Eye Tracking Assessment and Remediation System</a></strong><br>
+			<a href='/entry.php?id=258'>Filippo Galgani</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=261'>Katie Cruppenink</a>, <a href='/entry.php?id=250'>Yiwen Sun</a>, Richard Markin, Learning By Design, Inc.<br>
+			July 1, 2006 - December 31, 2008<br><br>
+			The initial goal of this research is to evaluate the feasibility of creating a research and service software platform that can be used to test a&hellip; <a href='/entry.php?id=1945'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1917'><img src='/resizedImages/500x280-crop-tollway_wilbursmith_400.png' alt='' title='Virtual Driving Simulator with Wilbur Smith Associates &amp; the Illinois State Toll Highway Authority' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1917'>Virtual Driving Simulator with Wilbur Smith Associates &amp; the Illinois State Toll Highway Authority</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=206'>Kapil Arora</a>, <a href='/entry.php?id=222'>Robert Kooima</a><br>
+			June 14, 2006 - August 31, 2006<br><br>
+			The virtual driving simulator co-developed by computer science Ph.D. student Robert Kooima and Master of Fine Art student Kapil Arora was developed&hellip; <a href='/entry.php?id=1917'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1912'><img src='/resizedImages/500x280-crop-nasa_solarapp.png' alt='' title='Solar Video Visualization for the NASA / NRL STEREO Satellite Mission' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1912'>Solar Video Visualization for the NASA / NRL STEREO Satellite Mission</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=221'>Cole Krumbholz</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=49'>Lance Long</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=234'>Tae Jin Kim</a><br>
+			June 1, 2006 - May 1, 2007<br><br>
+			The ??STEREO?? mission, scheduled for launch in late October, will capture the first ever stereo solar imagery by sending two telescope suites in&hellip; <a href='/entry.php?id=1912'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1923'><img src='/resizedImages/500x280-crop-cytoviz.jpg' alt='' title='CytoViz' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1923'>CytoViz</a></strong><br>
+			<a href='/entry.php?id=4'>Brenda Lopez Silva</a>, <a href='/entry.php?id=192'>Luc Renambot</a><br>
+			May 1, 2006 - Ongoing<br><br>
+			CytoViz is an artistic, real-time information visualization driven by statistical information gathered during gigabit network transfers to the&hellip; <a href='/entry.php?id=1923'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1944'><img src='/resizedImages/500x280-crop-wallcology400.png' alt='' title='WallCology: Ecology Embedded Phenomenon' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1944'>WallCology: Ecology Embedded Phenomenon</a></strong><br>
+			<a href='/entry.php?id=16'>Tom Moher</a>, Brian Uphoff, Darshan Bhatt, Brenda Lopez<br>
+			May 1, 2006 - Ongoing<br><br>
+			For the past several years, EVL researchers have been developing and field-testing a simulation platform designed to support authentic science&hellip; <a href='/entry.php?id=1944'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1955'><img src='/resizedImages/500x280-crop-raintable2sm.jpg' alt='' title='RainTable' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1955'>RainTable</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=219'>Dmitri Svistula</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, Patrick Hamilton (Science Museum of Minnesota) and Paul Morin (Department of Geology at the University of Minnesota)<br>
+			January 15, 2006 - June 17, 2009<br><br>
+			RainTable is an interactive multi-user application developed by the Electronic Visualization Laboratory (EVL) at the University of Illinois at&hellip; <a href='/entry.php?id=1955'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1968'><img src='/resizedImages/500x280-crop-roomquake-2.jpg' alt='' title='RoomQuake' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1968'>RoomQuake</a></strong><br>
+			<a href='/entry.php?id=16'>Tom Moher</a><br>
+			January 2, 2006 - April 1, 2006<br><br>
+			Roomquake is a distributed simulation of a series of earthquakes using PDAs as simulated (position-dependent) seismographs. Roomquake was designed to&hellip; <a href='/entry.php?id=1968'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1946'><img src='/resizedImages/500x280-crop-lambdatable_schwarzthesis.jpg' alt='' title='Distributed Volume Rendering of Very Large Data on High-Resolution Scalable Displays' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1946'>Distributed Volume Rendering of Very Large Data on High-Resolution Scalable Displays</a></strong><br>
+			<a href='/entry.php?id=213'>Nicholas Schwarz</a><br>
+			January 1, 2006 - December 31, 2007<br><br>
+			Scientific instruments increasing collect higher spatial resolution samples providing scientists with larger volumetric datasets. For example&hellip; <a href='/entry.php?id=1946'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1903'><img src='/resizedImages/500x280-crop-corelyzer_twoscreens.jpg' alt='' title='Corelyzer' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1903'>Corelyzer</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=216'>Arun Rao</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=207'>Sangyoon Lee</a>, <a href='/entry.php?id=228'>Yu-Chung Chen</a><br>
+			September 1, 2005 - Ongoing<br><br>
+			Ice cores drilled from lake and ocean floors, continents, and ice sheets provide geoscientists with the most extensive and accurate picture of the&hellip; <a href='/entry.php?id=1903'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1895'><img src='/resizedImages/500x280-crop-magiccarpetnew2.jpg' alt='' title='Magic Carpet' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1895'>Magic Carpet</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=219'>Dmitri Svistula</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, Paul Morin, Science Museum of Minnesota<br>
+			August 16, 2005 - August 15, 2006<br><br>
+			MagicCarpet is a cluster-based ultra-high-resolution image viewer for scalable tiled displays. Unlike JuxtaView, MagicCarpet uses pre-processed&hellip; <a href='/entry.php?id=1895'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1979'><img src='/resizedImages/500x280-crop-pace.png' alt='' title='Personal Augmented Computing Environment (PACE)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1979'>Personal Augmented Computing Environment (PACE)</a></strong><br>
+			<a href='/entry.php?id=14'>Robert V. Kenyon</a>, <a href='/entry.php?id=232'>Xun Luo</a><br>
+			August 16, 2005 - May 1, 2008<br><br>
+			Personal Augmented Computing Environment (PACE) focuses upon the research challenges affecting the development of applications for personal mobile&hellip; <a href='/entry.php?id=1979'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1919'><img src='/resizedImages/500x280-crop-starflightsm.jpg' alt='' title='StarFlight: An Interactive VR Exploration of the Three-Dimensional Nature of Constellations' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1919'>StarFlight: An Interactive VR Exploration of the Three-Dimensional Nature of Constellations</a></strong><br>
+			<a href='/entry.php?id=4'>Brenda Lopez Silva</a>, <a href='/entry.php?id=49'>Lance Long</a>, <a href='/entry.php?id=213'>Nicholas Schwarz</a>, <a href='/entry.php?id=222'>Robert Kooima</a><br>
+			July 1, 2005 - June 30, 2006<br><br>
+			&ldquo;StarFlight&rdquo; developed by the University of Chicago&rsquo;s Center for the Presentation of Science in collaboration with EVL is an&hellip; <a href='/entry.php?id=1919'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1889'><img src='/resizedImages/500x280-crop-geowall2sm_darker.jpg' alt='' title='GeoWall2 for Informal Science Education in Museums' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1889'>GeoWall2 for Informal Science Education in Museums</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, Patrick Hamilton, Science Museum of Minnesota, Paul Morin, Geology and Geophysics, University of Minnesota<br>
+			May 1, 2005 - January 13, 2009<br><br>
+			The GeoWall2 is a tiled advanced visualization system (5x3 array of LCD panels) designed to cost-effectively serve Geoscience applications that&hellip; <a href='/entry.php?id=1889'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1927'><img src='/resizedImages/500x280-crop-pointvr-2.jpg' alt='' title='A Point-Based Remote Visualization Pipeline For Large-Scale Virtual Reality' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1927'>A Point-Based Remote Visualization Pipeline For Large-Scale Virtual Reality</a></strong><br>
+			<a href='/entry.php?id=163'>Jinghua Ge</a><br>
+			March 1, 2005 - March 1, 2007<br><br>
+			This research project focuses on a distributed visualization pipeline which combines VR technologies and remote computing resources through high&hellip; <a href='/entry.php?id=1927'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1911'><img src='/resizedImages/500x280-crop-mappoint.jpg' alt='' title='MapPoint' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1911'>MapPoint</a></strong><br>
+			<a href='/entry.php?id=187'>Tina Shah</a>, Christopher Turek<br>
+			September 1, 2004 - December 5, 2004<br><br>
+			Its Friday night and the weekend&rsquo;s here, you need to unwind&hellip; Where&rsquo;s the party? The object of MapPoint is to drive around the city&hellip; <a href='/entry.php?id=1911'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1914'><img src='/resizedImages/500x280-crop-hapticdentistry.gif' alt='' title='Haptics-Based Virtual Reality Periodontal Training Simulator' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1914'>Haptics-Based Virtual Reality Periodontal Training Simulator</a></strong><br>
+			<a href='/entry.php?id=182'>Cristian J. Luciano</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			August 16, 2004 - October 17, 2006<br><br>
+			The haptics-based virtual reality periodontal training simulator project focuses upon the research and development of a prototype dental simulator&hellip; <a href='/entry.php?id=1914'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1883'><img src='/resizedImages/500x280-crop-corewall_2004.jpg' alt='' title='CoreWall' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1883'>CoreWall</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=216'>Arun Rao</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=213'>Nicholas Schwarz</a>, <a href='/entry.php?id=228'>Yu-Chung Chen</a>, Paul Morin (University of Minnesota)<br>
+			May 16, 2004 - May 15, 2011<br><br>
+			CoreWall is an integrated visualization tool for the study of lake and ocean sediment cores. It is a collaborative project among the University of&hellip; <a href='/entry.php?id=1883'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1893'><img src='/resizedImages/500x280-crop-embeddedphenonmena.jpg' alt='' title='Embedded Phenomena' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1893'>Embedded Phenomena</a></strong><br>
+			<a href='/entry.php?id=4'>Brenda Lopez Silva</a>, <a href='/entry.php?id=252'>Brian Uphoff</a>, <a href='/entry.php?id=246'>Darshan Bhatt</a>, <a href='/entry.php?id=253'>Peter Malcolm</a>, <a href='/entry.php?id=16'>Tom Moher</a><br>
+			January 1, 2004 - December 31, 2009<br><br>
+			Embedded Phenomena is an emerging framework intended to support science inquiry in K-6 classrooms. The basic idea is to use simulation to map&hellip; <a href='/entry.php?id=1893'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1839'><img src='/resizedImages/500x280-crop-optiputer_animate.gif' alt='' title='The OptIPuter' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1839'>The OptIPuter</a></strong><br>
+			<a href='/entry.php?id=23'>Alan Verlo</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, <a href='/entry.php?id=16'>Tom Moher</a>, Larry Smarr (CalIT2), Bob Grossman (NCDM / UIC)<br>
+			October 1, 2002 - September 30, 2007<br><br>
+			related url: www.evl.uic.edu/cavern/optiputer The OptIPuter is a five-year, $13.9 million National Science Foundation funded project to interconnect&hellip; <a href='/entry.php?id=1839'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1853'><img src='/resizedImages/500x280-crop-marsrercsm.png' alt='' title='Machines Assisting Recovery in Stroke (MARS)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1853'>Machines Assisting Recovery in Stroke (MARS)</a></strong><br>
+			<a href='/entry.php?id=14'>Robert V. Kenyon</a>, <a href='/entry.php?id=232'>Xun Luo</a>, Z. Rymer (PI), A. Halper, J. Hidler, T. G. Hornby, L. Kahn (Northwestern University);D. Kamper, J. Patton (Rehabilitation Institute of Chicago);D. Reinkensmeyer (University of California, Irvine)<br>
+			October 1, 2002 - September 30, 2007<br><br>
+			Thanks to the new robotic devices with computer displays, there have been great strides in fundamental research that suggests a promising future in&hellip; <a href='/entry.php?id=1853'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1838'><img src='/resizedImages/500x280-crop-wiggleview_istrip2.jpg' alt='' title='Wiggleview' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1838'>Wiggleview</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=166'>Atul Nayak</a>, <a href='/entry.php?id=21'>Jason Leigh</a><br>
+			September 1, 2002 - August 30, 2003<br><br>
+			Wiggleview is a tool developed by the Electronic Visualization Laboratory (EVL) at the University of Illinois at Chicago (UIC) for visualizing&hellip; <a href='/entry.php?id=1838'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1855'><img src='/resizedImages/500x280-crop-geopad_new.jpg' alt='' title='The GeoPad Project' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1855'>The GeoPad Project</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, Paul Morin / University of Minnesota, Peter Knopp, Ben van der Pluijm, Peter van Keken / University of Michigan, Brian Davis / US Geological Survey<br>
+			September 1, 2002 - May 15, 2003<br><br>
+			The GeoPad project is an extension of the collaboration of geoscientist and computer scientist initiated with the GeoWall Consortium. The focus of&hellip; <a href='/entry.php?id=1855'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1846'><img src='/resizedImages/500x280-crop-morphing_karltimm-3.jpg' alt='' title='Real-Time Video View Morphing' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1846'>Real-Time Video View Morphing</a></strong><br>
+			<a href='/entry.php?id=59'>Karl Timm</a><br>
+			March 1, 2002 - September 1, 2003<br><br>
+			Real-Time Video View Morphing is a real-time virtual video camera application based on view morphing. This system takes video input from multiple&hellip; <a href='/entry.php?id=1846'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1845'><img src='/resizedImages/500x280-crop-juxtaview2.jpg' alt='' title='JuxtaView' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1845'>JuxtaView</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=44'>Naveen Krishnaprasad</a>, <a href='/entry.php?id=213'>Nicholas Schwarz</a>, <a href='/entry.php?id=169'>Shalini Venkataraman</a><br>
+			January 16, 2002 - January 15, 2005<br><br>
+			JuxtaView is a tool designed specifically for scalable tiled displays to visualize extremely high-resolution images. Scientists are finding an&hellip; <a href='/entry.php?id=1845'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2053'><img src='/resizedImages/500x280-crop-effectiveviz.jpg' alt='' title='Effective Use of Large Visualization Displays' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2053'>Effective Use of Large Visualization Displays</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=208'>Byungil Jeong</a>, <a href='/entry.php?id=245'>Hyejung Hur</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=259'>Khairi Reda</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=227'>Ratko Jagodic</a><br>
+			January 2, 2002 - Ongoing<br><br>
+			Global-scale cyberinfrastructure, whether sensor nets or supercomputers, is transforming the way teams of scientists and engineers study and&hellip; <a href='/entry.php?id=2053'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1862'><img src='/resizedImages/500x280-crop-volatile_02-2.png' alt='' title='Vol-a-Tile' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1862'>Vol-a-Tile</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=213'>Nicholas Schwarz</a>, <a href='/entry.php?id=169'>Shalini Venkataraman</a><br>
+			January 1, 2002 - December 31, 2002<br><br>
+			The Vol-a-Tile system is a volume visualization tool for large-scale, time-series scientific datasets rendered on high resolution scalable displays&hellip; <a href='/entry.php?id=1862'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1825'><img src='/resizedImages/500x280-crop-teravision_res.jpg' alt='' title='TeraVision' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1825'>TeraVision</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=208'>Byungil Jeong</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=183'>Rajvikram Singh</a><br>
+			January 1, 2002 - January 1, 2006<br><br>
+			TERAVISION is a hardware-assisted, network-enabled &ldquo;PowerPoint&rdquo; projector for the Access Grid, enabling anyone to plug a laptop&hellip; <a href='/entry.php?id=1825'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1835'><img src='/resizedImages/500x280-crop-paris_cranial_istrip.jpg' alt='' title='Immersive Design and Fabrication of Cranial Implants on PARIS&trade;' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1835'>Immersive Design and Fabrication of Cranial Implants on PARIS&trade;</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=56'>Chris Scharver</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=211'>Vaidya Chandrasekhar</a>, Ray Evenhouse, School of Biomedical and Health Information Sciences<br>
+			September 1, 2001 - August 31, 2006<br><br>
+			The Electronic Visualization Laboratory (EVL) at the University of Illinois at Chicago (UIC) in cooperation with UIC&rsquo;s Virtual Reality in&hellip; <a href='/entry.php?id=1835'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1826'><img src='/resizedImages/500x280-crop-terasanp.jpg' alt='' title='TeraScope' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1826'>TeraScope</a></strong><br>
+			<a href='/entry.php?id=170'>Charles Zhang</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=183'>Rajvikram Singh</a><br>
+			August 1, 2001 - August 1, 2002<br><br>
+			TeraScope is a massively parallelized set of information visualization tools for Visual Data Mining. TeraScope enables researchers to interactively&hellip; <a href='/entry.php?id=1826'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1849'><img src='/resizedImages/500x280-crop-lambdacache.jpg' alt='' title='LambdaRAM' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1849'>LambdaRAM</a></strong><br>
+			<a href='/entry.php?id=170'>Charles Zhang</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=209'>Venkatram Vishwanath</a><br>
+			August 1, 2001 - Ongoing<br><br>
+			LambdaRAM (Optically Connected Memory Cache) is an application being developed to address long-haul latency in optical networks. LambdaRAM is a tool&hellip; <a href='/entry.php?id=1849'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1684'><img src='/resizedImages/500x280-crop-cavern_logo-2.jpg' alt='' title='Collaboration and Visualization over High Speed Networks' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1684'>Collaboration and Visualization over High Speed Networks</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=56'>Chris Scharver</a>, <a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=35'>Javier Girado</a>, <a href='/entry.php?id=52'>Kyoung Shin Park</a>, <a href='/entry.php?id=45'>Michael Lewis</a>, <a href='/entry.php?id=44'>Naveen Krishnaprasad</a>, <a href='/entry.php?id=30'>Yongjoo Cho</a>, T. Imai, R. Fang, Y. Lin, T. Portlock, B. Silva, L. Wang, J. Eliason, J. Ge, E. He, A. Nayak, S. Venkatamaran<br>
+			March 1, 2001 - February 28, 2003<br><br>
+			This research focuses on the development of Tele-immersive (collaborative virtual reality) applications, the middleware (software infrastructure)&hellip; <a href='/entry.php?id=1684'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1802'><img src='/resizedImages/500x280-crop-continum_185-2.jpg' alt='' title='The Continuum Project' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1802'>The Continuum Project</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=196'>Chris Rosenthal</a>, <a href='/entry.php?id=56'>Chris Scharver</a>, <a href='/entry.php?id=38'>Eric He</a>, <a href='/entry.php?id=215'>Gideon Goldman</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=24'>Jonas Talandis</a>, <a href='/entry.php?id=52'>Kyoung Shin Park</a>, <a href='/entry.php?id=45'>Michael Lewis</a>, <a href='/entry.php?id=44'>Naveen Krishnaprasad</a>, <a href='/entry.php?id=169'>Shalini Venkataraman</a>, Atul Nayak, Jinghua Ge, Brenda Silva, Joshua Eliason, Tomoko Imai, Abhinav Kapoor, Nikita Sawant, Ben Goldstein<br>
+			January 1, 2000 - January 1, 2003<br><br>
+			The goal of the Continuum Project is to develop integrated ubiquitous tools and environments and to study how these tools can be used to enhance&hellip; <a href='/entry.php?id=1802'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1966'><img src='/resizedImages/500x280-crop-lara2.gif' alt='' title='LARA: Laboratory for Analysing and Reconstructing Artifacts' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1966'>LARA: Laboratory for Analysing and Reconstructing Artifacts</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a><br>
+			January 1, 2000 - August 1, 2004<br><br>
+			&ldquo;When the explorer is ready the guide will appear.&rdquo; - Himalayan Saying LARA (Laboratory for Analyzing and Reconstructing Artifacts) is an&hellip; <a href='/entry.php?id=1966'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1782'><img src='/resizedImages/500x280-crop-quickworlds-2.jpg' alt='' title='QuickWorlds' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1782'>QuickWorlds</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=16'>Tom Moher</a>, <a href='/entry.php?id=46'>Ya Lu Lin</a><br>
+			September 1, 1999 - Unknown<br><br>
+			Since our larger learning research projects such as Correlations and the Round Earth require high levels of time and effort commitment from teachers&hellip; <a href='/entry.php?id=1782'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1739'><img src='/resizedImages/500x280-crop-depth_185.jpg' alt='' title='3D Avatars Using Depth from Stereo' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1739'>3D Avatars Using Depth from Stereo</a></strong><br>
+			<a href='/entry.php?id=173'>Alex Hill</a>, <a href='/entry.php?id=5'>Dana M. Plepys</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=57'>Satheesh Subramanian</a>, <a href='/entry.php?id=54'>Vivek Rajan</a><br>
+			July 1, 1999 - September 1, 2000<br><br>
+			The 3D model of the person is obtained using depth from stereo. The range information obtained from depth from stereo is used to segment the&hellip; <a href='/entry.php?id=1739'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1679'><img src='/resizedImages/500x280-crop-tide_210.jpg' alt='' title='TIDE: Tele-Immersive Data Explorer' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1679'>TIDE: Tele-Immersive Data Explorer</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=56'>Chris Scharver</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=55'>Nikita Sawant</a>, G. Reinhart, S. Batchu, E. Creel, S. Bailey, R. Grossman<br>
+			May 1, 1999 - June 1, 2000<br><br>
+			The Tele-Immersive Data Explorer is a CAVERNsoft-based collaborative, immersive environment for querying and visualizing data from massive and&hellip; <a href='/entry.php?id=1679'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1783'><img src='/resizedImages/500x280-crop-ambients.jpg' alt='' title='Virtual Ambient Environments' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1783'>Virtual Ambient Environments</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=16'>Tom Moher</a>, <a href='/entry.php?id=46'>Ya Lu Lin</a>, <a href='/entry.php?id=30'>Yongjoo Cho</a><br>
+			May 1, 1999 - August 1, 2002<br><br>
+			The &ldquo;virtual ambients&rdquo; are worlds which investigate the effectiveness of virtual environments as simulated data collection environments&hellip; <a href='/entry.php?id=1783'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1700'><img src='/resizedImages/500x280-crop-mars.jpg' alt='' title='Mars Explorer' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1700'>Mars Explorer</a></strong><br>
+			<a href='/entry.php?id=94'>Ben Goldstein</a>, <a href='/entry.php?id=56'>Chris Scharver</a>, Alex Hill<br>
+			January 1, 1999 - November 2, 1999<br><br>
+			This project is an interactive and collaborative learning environment that aims to teach children about collective sample spaces. It is a Tandem&hellip; <a href='/entry.php?id=1700'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1744'><img src='/resizedImages/500x280-crop-moto.jpg' alt='' title='Motorola Drop Test Visualization' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1744'>Motorola Drop Test Visualization</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, Hong Yee Wong, Xiaoyan Liu, SiewEng Quah<br>
+			January 1, 1999 - December 1, 1999<br><br>
+			One of the areas of research that Motorola actively engages in is the drop testing of their products. Physical drop tests typically produce few&hellip; <a href='/entry.php?id=1744'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1748'><img src='/resizedImages/500x280-crop-datamining.jpg' alt='' title='Data-Mining Visualization' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1748'>Data-Mining Visualization</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, Stuart Bailey, Kartik Ganeshan, Robert Grossman<br>
+			September 1, 1998 - December 1, 1999<br><br>
+			The Health Care field is data rich, but information poor. Data exists from admissions, laboratory, radiology, and pharmacy systems, as well as from&hellip; <a href='/entry.php?id=1748'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1747'><img src='/resizedImages/500x280-crop-ve.jpg' alt='' title='VisualEyes' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1747'>VisualEyes</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, Randall C. Smith, David A. Brown<br>
+			January 1, 1998 - June 30, 2004<br><br>
+			General Motors has developed VisualEyes (VE) - an application that allows designers to import 3D CAD models into the CAVE for quick visual inspection&hellip; <a href='/entry.php?id=1747'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1749'><img src='/resizedImages/500x280-crop-ring.jpg' alt='' title='Tele-Immersion Performance Studies' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1749'>Tele-Immersion Performance Studies</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=52'>Kyoung Shin Park</a>, <a href='/entry.php?id=14'>Robert V. Kenyon</a>, Hong-Yee Wong<br>
+			January 1, 1998 - January 1, 2000<br><br>
+			Studies are being conducted involving a cooperative tele-operation task in which two remote participants in CAVEs work together to manipulate shared&hellip; <a href='/entry.php?id=1749'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1675'><img src='/resizedImages/500x280-crop-ncsalogo.gif' alt='' title='NCSA: National Computational Science Alliance' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1675'>NCSA: National Computational Science Alliance</a></strong><br>
+			<a href='/entry.php?id=6'>Thomas A. DeFanti</a>, L. Smarr, R. Abdulla, C. Bender, D. Ceperley, J. Connolly, R. GileJ. Hennessy, K. Kennedy;. McRae, J. Ostriker, D. Reed, R. Stevens, M. Vernon, P. Woodward<br>
+			October 1, 1997 - September 30, 2005<br><br>
+			After 10 years, the NSF Supercomputer Centers Program was replaced with the NSF Partnerships for Advanced Computational Infrastructure (PACI)&hellip; <a href='/entry.php?id=1675'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1847'><img src='/resizedImages/500x280-crop-ncsa_logo2.gif' alt='' title='Alliance Expeditions' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1847'>Alliance Expeditions</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, National Center for Supercomputing Applications, Argnonne National Laboratory, Network for Earthquake Simulation, Earthscope, GriPhyN, TeraGrid communities<br>
+			October 1, 1997 - September 30, 2004<br><br>
+			For the past 17 years, EVL&rsquo;s partnership with NCSA and the Alliance has enabled the rapid deployment and acceptance of EVL&rsquo;s advanced&hellip; <a href='/entry.php?id=1847'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1969'><img src='/resizedImages/500x280-crop-rndearth_present.jpg' alt='' title='The Round Earth Project' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1969'>The Round Earth Project</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=121'>Carlos Orrego</a>, <a href='/entry.php?id=65'>Joseph Alexander</a>, <a href='/entry.php?id=134'>Maria Roussou</a>, <a href='/entry.php?id=16'>Tom Moher</a>, M. Gillingham, J. Hemmerich, J. Jain, M. Orr, S. Ohlsson, T. DeFanti<br>
+			October 1, 1997 - September 1, 2000<br><br>
+			The Round Earth Project is investigating how virtual reality technology can be used to help teach concepts that are counter-intuitive to a&hellip; <a href='/entry.php?id=1969'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1738'><img src='/resizedImages/500x280-crop-vrear.jpg' alt='' title='The Virtual Temporal Bone' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1738'>The Virtual Temporal Bone</a></strong><br>
+			<a href='/entry.php?id=15'>Alan Millman</a>, Theodore P. Mason M.D, Mary Rasmussen, Ray Evenhouse, Linda Warren, Noah Lowenthal, Jay McElroy, Rose Seelaus, Judy Challender, Edward L. Applebaum, Walter Panko Ph.D<br>
+			August 1, 1997 - July 30, 1999<br><br>
+			Mastery of the complex anatomic interrelationships of the human temporal bone is an essential part of otolaryngologic residency training, requiring&hellip; <a href='/entry.php?id=1738'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1943'><img src='/resizedImages/500x280-crop-lincolnschool.jpg' alt='' title='Learning Technologies at The Abraham Lincoln Elementary School' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1943'>Learning Technologies at The Abraham Lincoln Elementary School</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=16'>Tom Moher</a>, <a href='/entry.php?id=46'>Ya Lu Lin</a>, <a href='/entry.php?id=30'>Yongjoo Cho</a><br>
+			May 1, 1997 - August 1, 2002<br><br>
+			Since 1997, EVL has partnered with the Abraham Lincoln Elementary School in Oak Park, IL to design and implement learning technologies and techniques&hellip; <a href='/entry.php?id=1943'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1681'><img src='/resizedImages/500x280-crop-cave6d.jpg' alt='' title='CAVE6D' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1681'>CAVE6D</a></strong><br>
+			<a href='/entry.php?id=106'>Abhinav Kapoor</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, G.H. Wheless, C. Lascara - Center for Coastal Physcial Oceanography, Old Dominion University<br>
+			January 1, 1997 - December 1, 1999<br><br>
+			CAVE5D, co-developed by Wheless and Lascara from ODU and Dr. Bill Hibbard from the University of Wisconsin-Madison, is a configurable virtual reality&hellip; <a href='/entry.php?id=1681'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1742'><img src='/resizedImages/500x280-crop-4dmath.gif' alt='' title='Dimension Land' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1742'>Dimension Land</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=25'>Craig Barnes</a>, <a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=74'>Jim Costigan</a>, <a href='/entry.php?id=101'>Milana Huang</a>, Jim Danowski<br>
+			September 1, 1996 - May 1, 1997<br><br>
+			In Dimension Land a remotely located instructor uses a shared virtual environment and the three dimensions of VR to teach about hypercubes and 4D&hellip; <a href='/entry.php?id=1742'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1970'><img src='/resizedImages/500x280-crop-dimensionlandavatar4.gif' alt='' title='A Comparsion of Video, Avatar &amp; Face-To-Face in Collaborative Virtual Learning Environments' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1970'>A Comparsion of Video, Avatar &amp; Face-To-Face in Collaborative Virtual Learning Environments</a></strong><br>
+			<a href='/entry.php?id=74'>Jim Costigan</a><br>
+			September 1, 1996 - May 1, 1997<br><br>
+			The use of communication technology has an effect on communication. Studies have been conducted that show these effects vary by transmission channel&hellip; <a href='/entry.php?id=1970'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1892'><img src='/resizedImages/500x280-crop-anrlogo-6.jpg' alt='' title='Advanced Networking Research' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1892'>Advanced Networking Research</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a><br>
+			January 1, 1996 - Ongoing<br><br>
+			Advanced Networking Research (ANR) has been a focus of EVL&rsquo;s work over the last decade. The ANR encompasses the development of an advanced&hellip; <a href='/entry.php?id=1892'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1726'><img src='/resizedImages/500x280-crop-addison.jpg' alt='' title='Synesthesia: Collaborative Biosignal Experience' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1726'>Synesthesia: Collaborative Biosignal Experience</a></strong><br>
+			<a href='/entry.php?id=23'>Alan Verlo</a>, <a href='/entry.php?id=131'>Bill Reynolds</a>, <a href='/entry.php?id=17'>Joe Reitzer</a>, <a href='/entry.php?id=145'>Marcus Thiebaux</a>, <a href='/entry.php?id=151'>Margaret Watson</a>, <a href='/entry.php?id=91'>Morteza Ghazisaedy</a>, <a href='/entry.php?id=63'>Rita Addison</a>, <a href='/entry.php?id=14'>Robert V. Kenyon</a>, <a href='/entry.php?id=73'>Tom Coffin</a>, Anthony Tamburrino, Dave Warner, Eben Gay<br>
+			December 3, 1995 - December 8, 1995<br><br>
+			Synesthesia is defined as a unique neuroperceptual event identified in one out of three million people in which a sensory input, such as music, is&hellip; <a href='/entry.php?id=1726'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1734'><img src='/resizedImages/500x280-crop-disz95.jpg' alt='' title='Participatory Artificial Life Demonstration' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1734'>Participatory Artificial Life Demonstration</a></strong><br>
+			<a href='/entry.php?id=143'>Matthew Szymanski</a>, <a href='/entry.php?id=122'>Mike Papka</a>, <a href='/entry.php?id=84'>Terry Disz</a>, <a href='/entry.php?id=88'>Terry Franguiadakis</a>, Rick Stevens<br>
+			December 3, 1995 - December 8, 1995<br><br>
+			The science being visualized is a demonstration of artificial life by generating computer programs that mimic organic life in simple ways. The&hellip; <a href='/entry.php?id=1734'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1963'><img src='/resizedImages/500x280-crop-nice_cave-2.jpg' alt='' title='N.I.C.E: Narrative-based Immersive Constructionists / Collaborative Environments' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1963'>N.I.C.E: Narrative-based Immersive Constructionists / Collaborative Environments</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=146'>Christina Vasilakis</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=134'>Maria Roussou</a>, <a href='/entry.php?id=16'>Tom Moher</a><br>
+			September 1, 1995 - June 1, 1999<br><br>
+			NICE is a project that applies virtual reality to the creation of a family of educational environments for young users. Our approach is based on&hellip; <a href='/entry.php?id=1963'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1741'><img src='/resizedImages/500x280-crop-merc-2.jpg' alt='' title='Chicago Mercantile Exchange' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1741'>Chicago Mercantile Exchange</a></strong><br>
+			<a href='/entry.php?id=5'>Dana M. Plepys</a>, <a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=113'>Deb Lowman (1966-2018)</a>, Space Management Consultants<br>
+			March 1, 1995 - No Information<br><br>
+			The Chicago-based architectural firm, Space Management Consultants collaborated with the Electronic Visualization Laboratory to create architectural&hellip; <a href='/entry.php?id=1741'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1727'><img src='/resizedImages/500x280-crop-cox.jpg' alt='' title='IMAX Cosmic Voyage' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1727'>IMAX Cosmic Voyage</a></strong><br>
+			<a href='/entry.php?id=145'>Marcus Thiebaux</a>, R. Patterson, D. Cox, E. Wesselak, C. Mihos, L. Hernquist, F. Summers<br>
+			January 1, 1995 - March 1, 1995<br><br>
+			Two high-resolution astrophysical simulations are explored, choreographed, and rendered. The first is a visualization of the collision / merging of&hellip; <a href='/entry.php?id=1727'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1854'><img src='/resizedImages/500x280-crop-walkabout_new.jpg' alt='' title='Walkabout' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1854'>Walkabout</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a><br>
+			January 1, 1995 - December 16, 2002<br><br>
+			Walkabout is an application that allows users to explore geo-referenced terrains. It is an educational application for elementary school kids to&hellip; <a href='/entry.php?id=1854'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1965'><img src='/resizedImages/500x280-crop-casa2.gif' alt='' title='CASA: Computer Augmentation for Smart Architectonics' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1965'>CASA: Computer Augmentation for Smart Architectonics</a></strong><br>
+			<a href='/entry.php?id=146'>Christina Vasilakis</a>, <a href='/entry.php?id=25'>Craig Barnes</a>, <a href='/entry.php?id=21'>Jason Leigh</a><br>
+			August 1, 1994 - May 1, 1995<br><br>
+			Homes or buildings that utilize technology in order to be &ldquo;smart,&rdquo; computer augmented, automated, &ldquo;intuitive,&rdquo; energy&hellip; <a href='/entry.php?id=1965'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1729'><img src='/resizedImages/500x280-crop-vreye.gif' alt='' title='The Virtual Eye' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1729'>The Virtual Eye</a></strong><br>
+			<a href='/entry.php?id=50'>Paul Neumann</a>, R. Parshall, L. Sadler<br>
+			July 1, 1994 - July 15, 1994<br><br>
+			This project demonstrates the design of an anatomically realistic computer model of a human eye in a virtual environment. Users are able to explore&hellip; <a href='/entry.php?id=1729'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1735'><img src='/resizedImages/500x280-crop-jason.gif' alt='' title='Jason Interactive Mapper' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1735'>Jason Interactive Mapper</a></strong><br>
+			<a href='/entry.php?id=51'>Dave Pape</a>, G. Feldman, R. Haleblian, A. Maffei, M. Marra, C. Molyneaux, K. Stewart<br>
+			July 1, 1994 - July 15, 1994<br><br>
+			The JASON is an underwater remotely operated vehicle operated by the Woods Hole Oceanographic Institute. This virtual-reality demonstration re-enacts&hellip; <a href='/entry.php?id=1735'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1704'><img src='/resizedImages/500x280-crop-mesh.gif' alt='' title='Interactive Adaptive Mesh Refinement' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1704'>Interactive Adaptive Mesh Refinement</a></strong><br>
+			<a href='/entry.php?id=122'>Mike Papka</a>, <a href='/entry.php?id=72'>Steven Cohen</a>, Lori Freitag, Mark Jones, Paul Plassmann, John Rowlan <br>
+			July 1, 1994 - July 15, 1994<br><br>
+			Adaptive mesh refinement / derefinement techniques have been shown to be very successful in reducing the computational and storage requirements for&hellip; <a href='/entry.php?id=1704'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1705'><img src='/resizedImages/500x280-crop-radiosity.gif' alt='' title='Parallel Real-Time Radiosity' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1705'>Parallel Real-Time Radiosity</a></strong><br>
+			<a href='/entry.php?id=25'>Craig Barnes</a>, <a href='/entry.php?id=93'>Jon Goldman</a><br>
+			July 1, 1994 - July 15, 1994<br><br>
+			This application demonstrates how parallel architectures are being used to render scenes in real time or close-to-real-time using physically based&hellip; <a href='/entry.php?id=1705'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1707'><img src='/resizedImages/500x280-crop-evolution.gif' alt='' title='Evolution of Behavior in a Simulated Environment' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1707'>Evolution of Behavior in a Simulated Environment</a></strong><br>
+			<a href='/entry.php?id=122'>Mike Papka</a>, <a href='/entry.php?id=79'>Sumit Das</a>, <a href='/entry.php?id=88'>Terry Franguiadakis</a><br>
+			July 1, 1994 - July 15, 1994<br><br>
+			This application enables CAVE users to view and interact with the behavior of various animats, virtual animals that exhibit behaviors similar to&hellip; <a href='/entry.php?id=1707'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1710'><img src='/resizedImages/500x280-crop-vis5d.jpg' alt='' title='The SIGGRAPH 94 Daily Weather Forecast' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1710'>The SIGGRAPH 94 Daily Weather Forecast</a></strong><br>
+			<a href='/entry.php?id=282'>Bill Hibbard</a>, <a href='/entry.php?id=72'>Steven Cohen</a>, Brian Paul, Andre Battaiola, Gregory Tripoli, Peter Pokrant<br>
+			July 1, 1994 - July 15, 1994<br><br>
+			Interactive 3D visualization has proved its value for finding and understanding problems with numerical simulations of the atmosphere. Scientists are&hellip; <a href='/entry.php?id=1710'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1711'><img src='/resizedImages/500x280-crop-molecular.gif' alt='' title='Interactive Molecular Modeling Using Real-Time Molecular Dynamics Simulations and Virtual Reality Computer Graphics' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1711'>Interactive Molecular Modeling Using Real-Time Molecular Dynamics Simulations and Virtual Reality Computer Graphics</a></strong><br>
+			<a href='/entry.php?id=76'>Carolina Cruz-Neira</a>, Paul Bash;eorge Lent<br>
+			July 1, 1994 - July 14, 1994<br><br>
+			Using real-time interactive molecular modeling and molecular dynamics simulations, this project demonstrates the docking of a drug molecule to its&hellip; <a href='/entry.php?id=1711'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1712'><img src='/resizedImages/500x280-crop-grind.jpg' alt='' title='Simulation of a Grinding Process in Virtual Reality' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1712'>Simulation of a Grinding Process in Virtual Reality</a></strong><br>
+			<a href='/entry.php?id=122'>Mike Papka</a>, Thomas Canifield, William Jester, John Rowlan, Edward Plaskacz<br>
+			July 1, 1994 - July 15, 1994<br><br>
+			Simulation of a grinding process in the CAVE enables users to explore a commonly used manufacturing process from an entirely new vantage point. An&hellip; <a href='/entry.php?id=1712'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1716'><img src='/resizedImages/500x280-crop-sandbox.gif' alt='' title='SANDBOX: Scientists Accessing Necessary Data Based on eXperimentation' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1716'>SANDBOX: Scientists Accessing Necessary Data Based on eXperimentation</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, Farshad Fotouhi<br>
+			July 1, 1994 - July 15, 1994<br><br>
+			Scientific databases contain enormous amounts of data collected through experimentation. They are accessed by investigators from many disciplines&hellip; <a href='/entry.php?id=1716'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1717'><img src='/resizedImages/500x280-crop-crash.gif' alt='' title='Computational Modeling for Crashworthiness of Electric Vehicles Using Nonlinear Finite Element Methods' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1717'>Computational Modeling for Crashworthiness of Electric Vehicles Using Nonlinear Finite Element Methods</a></strong><br>
+			<a href='/entry.php?id=87'>Roger Engelman</a>, Bruce Engelmann, Robert Whirley<br>
+			July 1, 1994 - July 15, 1994<br><br>
+			This project uses transient nonlinear finite element analysis to model the crash-worthiness of a vehicle modified from gasoline to electric power&hellip; <a href='/entry.php?id=1717'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1719'><img src='/resizedImages/500x280-crop-41chapman.jpg' alt='' title='Using Virtual Reality For Machine Design' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1719'>Using Virtual Reality For Machine Design</a></strong><br>
+			<a href='/entry.php?id=111'>Gary Lindahl</a>, <a href='/entry.php?id=129'>Maggie Rawlings</a>, <a href='/entry.php?id=101'>Milana Huang</a>, R. Ingram, K. Ahlers, D. Stevenson, J. Bettner, D. Chapman, M. Novak, V. Lehner, M. VandeWiele, M. Larson, J. Lohmar<br>
+			July 1, 1994 - July 15, 1994<br><br>
+			Caterpillar, Inc. uses virtual reality as a tool for interactively evaluating new machine designs. Using virtual reality, the operator of a virtual&hellip; <a href='/entry.php?id=1719'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1720'><img src='/resizedImages/500x280-crop-40kerbel.gif' alt='' title='Scientific Visualization of Gyrofluid Tokamak Turbulence Simulation' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1720'>Scientific Visualization of Gyrofluid Tokamak Turbulence Simulation</a></strong><br>
+			<a href='/entry.php?id=23'>Alan Verlo</a>, G. Kerbel, R. Waltz, D. Shumaker, J. Milovich;. Hammett, M. Beer, The Numerical Tokamak Project Consortium<br>
+			July 1, 1994 - July 15, 1994<br><br>
+			High-performance algorithms for simulating and visualizing 3D plasma turbulence in magnetic fusion experiments have been developed as an aid in the&hellip; <a href='/entry.php?id=1720'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1721'><img src='/resizedImages/500x280-crop-02sandin.jpg' alt='' title='Getting Physical in Four Dimensions' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1721'>Getting Physical in Four Dimensions</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=114'>Joanna Mason</a>, <a href='/entry.php?id=13'>Louis H. Kauffman</a>, <a href='/entry.php?id=101'>Milana Huang</a>, George Francis<br>
+			July 1, 1994 - July 15, 1994<br><br>
+			The goal of this application is to provide a more intuitive understanding of hyperspace. It enabled users to physically interact with objects in four&hellip; <a href='/entry.php?id=1721'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1722'><img src='/resizedImages/500x280-crop-posteuclid_half.gif' alt='' title='Post-Euclidean Walkabout' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1722'>Post-Euclidean Walkabout</a></strong><br>
+			<a href='/entry.php?id=114'>Joanna Mason</a>, G. Francis, C. Hartman, U. Axen, A. Arias, P. McCreary;. Chappell<br>
+			July 1, 1994 - July 15, 1994<br><br>
+			This real-time interactive CAVE application takes you on a visit to the post-Euclidean geometry of Gauss, Riemann, Klein, Poincare, and Thurston&hellip; <a href='/entry.php?id=1722'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1725'><img src='/resizedImages/500x280-crop-14bower.jpg' alt='' title='Phase and Amplitude Maps of the Electric Organ Discharge of the Weakly Electric Fish' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1725'>Phase and Amplitude Maps of the Electric Organ Discharge of the Weakly Electric Fish</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, C. Assad, B. Rasnow, J. Bower<br>
+			July 1, 1994 - July 15, 1994<br><br>
+			This demonstration models the Apteronotus Leptorhynchus (commonly known as the Brown Ghost). It displays simulated data of the electric fields&hellip; <a href='/entry.php?id=1725'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1683'><img src='/resizedImages/500x280-crop-calvin_evl_large.png' alt='' title='CALVIN: Collaborative Architectural Layout Via Immersive Navigation' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1683'>CALVIN: Collaborative Architectural Layout Via Immersive Navigation</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=146'>Christina Vasilakis</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, Michael Kelley, Bruce Gibeson, Steve Grinavic<br>
+			January 1, 1994 - January 1, 1996<br><br>
+			One of the current long term goals at the Electronic Visualization Laboratory (EVL) is to create a persistent virtual environment enabling multiple&hellip; <a href='/entry.php?id=1683'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1764'><img src='/resizedImages/500x280-crop-foundries.gif' alt='' title='Visualization of Casting Process in Foundries' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1764'>Visualization of Casting Process in Foundries</a></strong><br>
+			<a href='/entry.php?id=122'>Mike Papka</a>, <a href='/entry.php?id=72'>Steven Cohen</a>, R. Schmitt, H. Domanus, J. Rowlan, T. Disz<br>
+			September 1, 1993 - August 1, 1994<br><br>
+			This application models the pouring of a fluidity spiral used to measure the distance metal can flow in a channel before being stopped by&hellip; <a href='/entry.php?id=1764'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1950'><img src='/resizedImages/500x280-crop-juliaset_vr.gif' alt='' title='Quaternion Julia Sets in Virtual Reality' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1950'>Quaternion Julia Sets in Virtual Reality</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=104'>Joe Insley</a>, <a href='/entry.php?id=13'>Louis H. Kauffman</a>, Yumei Dang<br>
+			January 15, 1993 - December 15, 1995<br><br>
+			A Julia Set is the map of the behavior of an equation when its output is fed back into its input (recursive). The equation mapped is z = z2 + k. In&hellip; <a href='/entry.php?id=1950'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1708'><img src='/resizedImages/500x280-crop-spacetime-2.gif' alt='' title='Spacetime Splashes: Catching the Wave of Einstein&rsquo;s Equations' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1708'>Spacetime Splashes: Catching the Wave of Einstein&rsquo;s Equations</a></strong><br>
+			<a href='/entry.php?id=93'>Jon Goldman</a>, <a href='/entry.php?id=135'>Trina Roy</a>, Joan Masso, Ed Seidel, Paul Walker, Dan Weber<br>
+			November 1, 1992 - July 15, 1994<br><br>
+			Astrophysicists are interested in applying virtual reality and scientific visualization to spacetime simulations to help them better understand and&hellip; <a href='/entry.php?id=1708'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1709'><img src='/resizedImages/500x280-crop-005bryan.gif' alt='' title='The Fluid Universe: Rayleigh-Taylor Instability in Fluid Flow' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1709'>The Fluid Universe: Rayleigh-Taylor Instability in Fluid Flow</a></strong><br>
+			<a href='/entry.php?id=93'>Jon Goldman</a>, <a href='/entry.php?id=135'>Trina Roy</a>, Greg Bryan, Mike Norman<br>
+			November 1, 1992 - July 15, 1994<br><br>
+			This interactive simulation of Rayleigh-Taylor instability shows what happens when a heavier fluid lies on top of a lighter fluid. The gravitational&hellip; <a href='/entry.php?id=1709'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1723'><img src='/resizedImages/500x280-crop-432verlo.gif' alt='' title='Topological Surface Deformation' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1723'>Topological Surface Deformation</a></strong><br>
+			<a href='/entry.php?id=23'>Alan Verlo</a>, <a href='/entry.php?id=13'>Louis H. Kauffman</a><br>
+			November 1, 1992 - July 15, 1994<br><br>
+			The CAVE&rsquo;s immersive virtual environment enables participants to walk around mathematical shapes, step through complex surfaces, or move a&hellip; <a href='/entry.php?id=1723'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1759'><img src='/resizedImages/500x280-crop-bigbang.gif' alt='' title='The Fluid Universe: Formation of Structures After the Big Bang' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1759'>The Fluid Universe: Formation of Structures After the Big Bang</a></strong><br>
+			<a href='/entry.php?id=93'>Jon Goldman</a>, <a href='/entry.php?id=135'>Trina Roy</a>, M. Norman, G. Bryan<br>
+			November 1, 1992 - November 1, 1993<br><br>
+			The physics of fluid flow coupled with gravity is of crucial importance to the understanding of many astrophysical phenomena. In this application&hellip; <a href='/entry.php?id=1759'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1760'><img src='/resizedImages/500x280-crop-snow.gif' alt='' title='Blowing Snow' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1760'>Blowing Snow</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a><br>
+			November 1, 1992 - November 1, 1993<br><br>
+			&ldquo;Blowing Snow&rdquo; is a simplified simulation of wind interacting with the person who is being tracked inside the CAVE. CAVE participants&hellip; <a href='/entry.php?id=1760'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1761'><img src='/resizedImages/500x280-crop-mathenautics.gif' alt='' title='Mathenautics: Three-Eighths of Thurston&rsquo;s Eight-Fold Way' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1761'>Mathenautics: Three-Eighths of Thurston&rsquo;s Eight-Fold Way</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=102'>Randy Hudson</a>, George Francis, Charlie Gunn, The Geometry Center<br>
+			November 1, 1992 - November 1, 1993<br><br>
+			Mathematicians study the behavior of lines and curves on the surfaces of different shapes, such as a sphere and a donut-shaped torus. While these&hellip; <a href='/entry.php?id=1761'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1762'><img src='/resizedImages/500x280-crop-vis5d2.gif' alt='' title='Distributed VIS-5D for Large Atmospheric Simulations' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1762'>Distributed VIS-5D for Large Atmospheric Simulations</a></strong><br>
+			<a href='/entry.php?id=282'>Bill Hibbard</a>, <a href='/entry.php?id=72'>Steven Cohen</a>, B. Paul, A. Battaiola, G. Tripoli, P. Pokrandt<br>
+			November 1, 1992 - November 1, 1993<br><br>
+			A simulation of Hurricane Gilbert, using VIS-5D software, lets CAVE participants stand inside the hurricane, experiencing such phenomena as wind&hellip; <a href='/entry.php?id=1762'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1763'><img src='/resizedImages/500x280-crop-genetic-2.gif' alt='' title='Evolution of Shape and Sound via Genetic Programming' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1763'>Evolution of Shape and Sound via Genetic Programming</a></strong><br>
+			<a href='/entry.php?id=122'>Mike Papka</a>, <a href='/entry.php?id=79'>Sumit Das</a>, <a href='/entry.php?id=88'>Terry Franguiadakis</a><br>
+			November 1, 1992 - November 1, 1993<br><br>
+			The ideas of genetic evolution combine with computer science and art to create aesthetically pleasing shapes and sounds. A gene is a symbolic&hellip; <a href='/entry.php?id=1763'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1706'><img src='/resizedImages/500x280-crop-virtualdir.jpg' alt='' title='The Virtual Director' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1706'>The Virtual Director</a></strong><br>
+			<a href='/entry.php?id=145'>Marcus Thiebaux</a>, Donna Cox, Robert Patterson<br>
+			September 1, 1992 - February 22, 1997<br><br>
+			&ldquo;The Virtual Director&rdquo; is a virtual reality interface that enables gestural motion capture and voice control of navigation, editing, and&hellip; <a href='/entry.php?id=1706'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1694'><img src='/resizedImages/500x280-crop-purkinje.gif' alt='' title='Realistic Modeling of Brain Structures with Remote Interaction between Simulations of the Inferior Olivary Neuron &amp; the Cerebellar Purkinje Cell' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1694'>Realistic Modeling of Brain Structures with Remote Interaction between Simulations of the Inferior Olivary Neuron &amp; the Cerebellar Purkinje Cell</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, Computational Neuroscience Lab at CALTECH<br>
+			August 1, 1991 - August 1, 1992<br><br>
+			Up until now, modeling of single neurons and neural networks has been relegated to single workstations or parallel computers. Our work involves the&hellip; <a href='/entry.php?id=1694'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1756'><img src='/resizedImages/500x280-crop-cosmicexplorer.gif' alt='' title='The Cosmic Explorer' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1756'>The Cosmic Explorer</a></strong><br>
+			<a href='/entry.php?id=76'>Carolina Cruz-Neira</a>, Michael Norman, Deyand Song<br>
+			August 1, 1991 - August 1, 1992<br><br>
+			&ldquo;The Cosmic Explorer&rdquo; is a research tool for exploring the stages of the evolution of the universe. We visualize the result of numerical&hellip; <a href='/entry.php?id=1756'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1754'><img src='/resizedImages/500x280-crop-embryo.gif' alt='' title='The Visible Embryo' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1754'>The Visible Embryo</a></strong><br>
+			<a href='/entry.php?id=155'>Rakesh Raju</a>, Cheong Ang, Michael Doyle, Adrian Noe<br>
+			August 1, 1991 - August 1, 1992<br><br>
+			A project is described (The Visible Embryo Project) to develop software strategies for the creation of large-scale databases of 3-dimensional image&hellip; <a href='/entry.php?id=1754'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1755'><img src='/resizedImages/500x280-crop-sensory.gif' alt='' title='Mapping of Cognitive Function with Subdural Electrodes &amp; Registration of Cerebral Evoked Potentials on 3-D MRI' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1755'>Mapping of Cognitive Function with Subdural Electrodes &amp; Registration of Cerebral Evoked Potentials on 3-D MRI</a></strong><br>
+			<a href='/entry.php?id=136'>Marty Ryan</a>, <a href='/entry.php?id=95'>Robert Grzeszczuk</a>, <a href='/entry.php?id=72'>Steven Cohen</a>, Vernon Towle<br>
+			August 1, 1991 - August 1, 1992<br><br>
+			This application is an example of sensory evoked potentials mapped onto a 3D surface model of a human head. Included in the model is a 3D brain&hellip; <a href='/entry.php?id=1755'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1757'><img src='/misc/default_500x280.png' alt='' title='Remote Visualization of XRay Diffraction Data from the X8C Beamline at NSLS' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1757'>Remote Visualization of XRay Diffraction Data from the X8C Beamline at NSLS</a></strong><br>
+			<a href='/entry.php?id=25'>Craig Barnes</a>, Ed Westbrook<br>
+			August 1, 1991 - July 1, 1992<br><br>
+			This project allows for crystallographic data to be remotely collected from the XC8 Beamline located at Brookhaven National Laboratory. This beamline&hellip; <a href='/entry.php?id=1757'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1758'><img src='/resizedImages/500x280-crop-pratico7.jpg' alt='' title='Visualization for the Management of Renewable Resources in an Uncertain Environment' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1758'>Visualization for the Management of Renewable Resources in an Uncertain Environment</a></strong><br>
+			<a href='/entry.php?id=126'>Chris Pratico</a>, A. Hanson, H.H. Xu, D.J. Jarvis, M.S. Vetter<br>
+			August 1, 1991 - August 1, 1992<br><br>
+			The management of renewable resources such as commercial and recreational fisheries can be difficult due to lack of data, environmental uncertainty&hellip; <a href='/entry.php?id=1758'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1935'><img src='/resizedImages/500x280-crop-grass_cuba_starwars.gif' alt='' title='GRASS (GRAphics Symbiosis System)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1935'>GRASS (GRAphics Symbiosis System)</a></strong><br>
+			<a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			January 1, 1973 - January 1, 1974<br><br>
+			GRASS (GRAphics Symbiosis System) was a programming language created to script vector graphics visual animations in 2D. The programing language was&hellip; <a href='/entry.php?id=1935'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2059'><img src='/resizedImages/500x280-crop-mosbie.png' alt='' title='MOSBIE: A Tool for Comparison and Analysis of Rule-Based Biochemical Models' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2059'>MOSBIE: A Tool for Comparison and Analysis of Rule-Based Biochemical Models</a></strong><br>
+			<a href='/entry.php?id=2052'>G. Elisabeta Marai</a>, John R. Wenskovitch, Leonard A. Harris, Jose-Juan Tapia, James R. Faeder<br>
+			Unknown - Ongoing<br><br>
+			Mechanistic models that describe the dynamical behaviors of biochemical systems are common in computational systems biology, especially in the realm&hellip; <a href='/entry.php?id=2059'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<!-- End Category List -->
+	</table>
+</div>
+<!-- End Category -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

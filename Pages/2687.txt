@@ -1,0 +1,1164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Category -->
+<!-- Begin Category Pagination -->
+<div class='category_area'>
+	<div class='category_content'>
+		<h3>VR Art</h3><br>
+		Over the past decade, the creation of virtual reality (VR) artwork has flourished, emerging as a primary focus for electronic artists / designers who enter and complete EVL&rsquo;s Master of Fine Arts, Electronic Visualization program. VR art environments have proven a fertile application area for the use and implementation of EVL&rsquo;s research developments; blending art, science, technology and research continues to be the focus of EVL&rsquo;s creative mission.<br><br> Current electronic art research focuses on the creation of art works that utilize the most recent advanced visualization display devices, software, and techniques that have been developed at EVL for the creation of interactive and collaborative projects.<br><br> EVL provides artists access to the latest advanced visualization tools and hardware to create high-resolution, immersive, interactive environments and to promote computer-based art. Examples of such work are interactive / shared-context / collaborative and remote-collaborative exhibition pieces that involve audiences in the creation of high-resolution visualization environments and the narrative structure of the projects.<br><br> EVLers actively display their artwork in international exhibitions and conferences; the annual <a href="http://www.siggraph.org">SIGGRAPH</a>, <a href="http://www.isea-web.org">ISEA</a> and Mediartech conferences and the <a href="http://www.aec.at/en/festival">Ars Electronica Festival</a> are among the more notable venues featuring the work of EVL&rsquo;s students and faculty. EVL VR art is also part of the permanent collection at the <a href="http://www.aec.at/en">Ars Electronica Center</a> in Linz, Austria, and has been exhibited at the InterCommmunication Center, Tokyo, Japan and <a href="http://www.walkerart.org">Walker Art Center</a>, <a href="http://www.sfai.org">Santa Fe Art Institute</a>, Ukranian Institute of Modern Art in the U.S.
+	</div>
+	<div class='category_content'>
+		<strong>Related:</strong>
+		<a href='/category.php?id=29&amp;related=1'><strong>Art</strong></a>&nbsp;&nbsp;
+		<a href='/category.php?id=29&amp;related=2'>Directory</a>&nbsp;&nbsp;
+		<a href='/category.php?id=29&amp;related=3'>Events</a>&nbsp;&nbsp;
+		<a href='/category.php?id=29&amp;related=4'>Papers</a>&nbsp;&nbsp;
+		<a href='/category.php?id=29&amp;related=5'>Research</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End Category Pagination -->
+<div class='category_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin Category List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2481'><img src='/resizedImages/500x280-crop-evl08.jpg' alt='' title='TRNQWRLD' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2481'>TRNQWRLD</a></strong><br>
+			<a href='/entry.php?id=2439'>Kyra Jones</a><br>
+			March 1, 2019 - May 4, 2019<br><br>
+			Kyra Jones, School of Design undergraduate student created a virtual reality environment for the CAVE2 &ldquo;TRNQWRLD&rdquo; under the supervision&hellip; <a href='/entry.php?id=2481'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2028'><img src='/resizedImages/500x280-crop-_ljl2781.jpg' alt='' title='StarTrek Enterprise' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2028'>StarTrek Enterprise</a></strong><br>
+			<a href='/entry.php?id=270'>Arthur Nishimoto</a><br>
+			January 1, 2011 - Ongoing<br><br>
+			In an homage to &ldquo;StarTrek,&rdquo; EVL graduate student Arthur Nishimoto spent his spare time over the past two years creating a 3D virtual&hellip; <a href='/entry.php?id=2028'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2039'><img src='/resizedImages/500x280-crop-particledreams_rev.jpg' alt='' title='Particle Dreams in Spherical Harmonics' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2039'>Particle Dreams in Spherical Harmonics</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=222'>Robert Kooima</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, Laurie Spiegel<br>
+			January 1, 2011 - Ongoing<br><br>
+			Content and application programming: Dan Sandin Content and systems programming: Robert Kooima Music and sound effects: Laurie Spiegel Driver: Tom&hellip; <a href='/entry.php?id=2039'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2003'><img src='/resizedImages/500x280-crop-meridianusdivinitus.png' alt='' title='Meridianus Divinitus' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2003'>Meridianus Divinitus</a></strong><br>
+			<a href='/entry.php?id=239'>Hubert Weldon</a><br>
+			May 1, 2009 - November 17, 2009<br><br>
+			Grav Weldon&rsquo;s MFA thesis research Meridianus Divinitus is an exploration of the body energetic. It is a set of dynamic reinterpretations of&hellip; <a href='/entry.php?id=2003'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1990'><img src='/resizedImages/500x280-crop-instantcopies.png' alt='' title='Instant Copies' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1990'>Instant Copies</a></strong><br>
+			<a href='/entry.php?id=264'>Andrew Oleksiuk</a><br>
+			March 8, 2009 - September 20, 2009<br><br>
+			Instant Copies is a virtual world immersive environment that plays with the anachronistic concept of xerographic copy machines in a virtual milieu&hellip; <a href='/entry.php?id=1990'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1986'><img src='/resizedImages/500x280-crop-theviewer.jpg' alt='' title='The Viewer' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1986'>The Viewer</a></strong><br>
+			<a href='/entry.php?id=244'>Julio Obelleiro</a>, Casilda Sanchez<br>
+			November 13, 2008 - Ongoing<br><br>
+			The Viewer consists on a virtual viewer situated in front of the real viewer, and deals with the visualization and comprehension strategies of the&hellip; <a href='/entry.php?id=1986'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1985'><img src='/resizedImages/500x280-crop-buildingmusic_sm2.png' alt='' title='Building Music' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1985'>Building Music</a></strong><br>
+			<a href='/entry.php?id=244'>Julio Obelleiro</a>, Alberto Garc&iacute;a, Jorge Cano, Pedro Enriquez<br><strong>thanks to:</strong> Carlos Cano, Eurico Moita, Sebastian Alvarez<br>
+			September 1, 2008 - Ongoing<br><br>
+			Building Music is a public large scale interactive installation that explores the musicality of different architectural features. By moving the light&hellip; <a href='/entry.php?id=1985'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1996'><img src='/resizedImages/500x280-crop-passingplacesgames_new.png' alt='' title='Passing Place for Games' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1996'>Passing <strong>Place for Games</strong></a></strong><br>
+			<a href='/entry.php?id=188'>Daria Tsoupikova</a>, University of Illinois at Chicago; Robert Kooima, Louisiana State University<br>
+			August 1, 2007 - August 1, 2009<br><br>
+			Passing &ldquo;Place for Games&rdquo; visualizes the world famous Kizhi site as high-resolution 3D environment. The goal of this project is to create&hellip; <a href='/entry.php?id=1996'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1924'><img src='/resizedImages/500x280-crop-kizhi5.jpg' alt='' title='Passing Excellence' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1924'>Passing Excellence</a></strong><br>
+			<a href='/entry.php?id=188'>Daria Tsoupikova</a>, <a href='/entry.php?id=222'>Robert Kooima</a><br>
+			June 1, 2006 - Ongoing<br><br>
+			&ldquo;Passing Excellence&rdquo; is an artistic visualization research project centered on the world famous architectural ensemble Kizhi. The Kizhi&hellip; <a href='/entry.php?id=1924'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1920'><img src='/resizedImages/500x280-crop-lee_pan_2.jpg' alt='' title='Pan' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1920'>Pan</a></strong><br>
+			<a href='/entry.php?id=207'>Sangyoon Lee</a><br>
+			January 1, 2006 - May 13, 2006<br><br>
+			Pan is an interactive visual installation that facilitates a collaborative performance among users. The title of the work is a Korean word that&hellip; <a href='/entry.php?id=1920'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1916'><img src='/resizedImages/500x280-crop-skin-2.jpg' alt='' title='skin' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1916'>skin</a></strong><br>
+			<a href='/entry.php?id=189'>Helen-Nicole Kostis</a>, Sound composition &amp; design: John Kannenberg,  The artist acknowledges Robert Kooima for his technical expertise, wonderful guidance and help, Lighting: Stephen Cady<br>
+			August 1, 2005 - November 1, 2006<br><br>
+			skin is a real-time interactive installation that visualizes a dialogue between physical and digital senses of &ldquo;touch&rdquo;. The installation&hellip; <a href='/entry.php?id=1916'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1900'><img src='/resizedImages/500x280-crop-rutopia2-2.gif' alt='' title='Rutopia 2' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1900'>Rutopia 2</a></strong><br>
+			<a href='/entry.php?id=188'>Daria Tsoupikova</a><br>
+			February 1, 2005 - October 1, 2005<br><br>
+			&ldquo;Rutopia 2&rdquo; is a collaborative virtual reality art project designed for interaction and display on the CAVE or CWall (configurable wall)&hellip; <a href='/entry.php?id=1900'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1887'><img src='/resizedImages/500x280-crop-synthecology-2.png' alt='' title='synthecology' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1887'>synthecology</a></strong><br>
+			<a href='/entry.php?id=161'>Geoffrey Allen Baum</a>, <a href='/entry.php?id=189'>Helen-Nicole Kostis</a>, <a href='/entry.php?id=202'>HyeYun Park</a>, <a href='/entry.php?id=37'>Marientina Gotsis</a>, <a href='/entry.php?id=2'>Todd Margolis</a>, Ben Chang, Dan St. Clair, Hyunjoo Oh, Robb Drinkwater, Jon Greene<br>
+			January 10, 2005 - June 24, 2005<br><br>
+			Compose, sculpt, and improvise with other musicians and artists in an ephemeral garden of sonic lifeforms. Synthecology invites visitors in this&hellip; <a href='/entry.php?id=1887'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1910'><img src='/resizedImages/500x280-crop-lmib-2.jpg' alt='' title='Loose Minds in a Box' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1910'>Loose Minds in a Box</a></strong><br>
+			<a href='/entry.php?id=189'>Helen-Nicole Kostis</a>, <a href='/entry.php?id=187'>Tina Shah</a><br>
+			December 1, 2004 - April 1, 2005<br><br>
+			InterPlay: Loose Minds in a Box was a collaborative work that explored the basic characteristics of the &ldquo;box&rdquo;. The box served as a&hellip; <a href='/entry.php?id=1910'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1894'><img src='/resizedImages/500x280-crop-unfoldingspace.jpg' alt='' title='UNFOLDING SPACE' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1894'>UNFOLDING SPACE</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=191'>Julieta Aguilera</a><br>
+			August 16, 2004 - March 10, 2006<br><br>
+			The form of space is used to evoke a sublime environment that dramatically transforms by expanding and contracting, according to the position of the&hellip; <a href='/entry.php?id=1894'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1870'><img src='/resizedImages/500x280-crop-virtual_set.jpg' alt='' title='Dinner at the Fairy Castle: A Virtual Set' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1870'>Dinner at the Fairy Castle: A Virtual Set</a></strong><br>
+			<a href='/entry.php?id=9'>Drew Browning</a>, <a href='/entry.php?id=189'>Helen-Nicole Kostis</a>, <a href='/entry.php?id=207'>Sangyoon Lee</a>, <a href='/entry.php?id=187'>Tina Shah</a>, Ruby Seniva<br>
+			March 1, 2004 - May 7, 2004<br><br>
+			Dinner at the Fairy Castle is an experimental project aimed at low cost alternatives to keying in actors in traditional movie sets. Using a virtual&hellip; <a href='/entry.php?id=1870'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1879'><img src='/resizedImages/500x280-crop-po-24.gif' alt='' title='P.O-2.4 [memory]' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1879'>P.O-2.4 [memory]</a></strong><br>
+			<a href='/entry.php?id=202'>HyeYun Park</a><br>
+			February 1, 2004 - February 1, 2005<br><br>
+			P.O - 2.4 is a 3D animation based on a traditional painting that was exhibited as part of my BFA thesis project in 2000. &ldquo;I am part of&hellip; <a href='/entry.php?id=1879'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1880'><img src='/resizedImages/500x280-crop-po24.gif' alt='' title='P.O 2.4' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1880'>P.O 2.4</a></strong><br>
+			<a href='/entry.php?id=202'>HyeYun Park</a><br>
+			January 1, 2004 - May 1, 2004<br><br>
+			P.O - 2.4 is a OpenGL / Inventor project based on a traditional painting that was exhibited as part of my BFA thesis project in 2000. P.O 2.4 is&hellip; <a href='/entry.php?id=1880'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1878'><img src='/resizedImages/500x280-crop-mb.gif' alt='' title='m.b : lively, unconventional and totally interactive' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1878'>m.b : lively, unconventional and totally interactive</a></strong><br>
+			<a href='/entry.php?id=202'>HyeYun Park</a><br>
+			September 1, 2003 - December 1, 2003<br><br>
+			m.b is an interactive VR project in the CAVE. Sound plays an increasingly varied and ubiquitous role in CAVE user interaction. In this VR project&hellip; <a href='/entry.php?id=1878'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1877'><img src='/resizedImages/500x280-crop-kapil_game.jpg' alt='' title='Instant Glory 2309' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1877'>Instant Glory 2309</a></strong><br>
+			<a href='/entry.php?id=206'>Kapil Arora</a>, Andrew Rogas, Shirley Sun<br>
+			September 1, 2003 - January 1, 2004<br><br>
+			Setting of Instant Glory 2309 is in the future of Earth, in the year 2309, where racecar driving had turned in Wind Sail Racing (cars have now turned&hellip; <a href='/entry.php?id=1877'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1872'><img src='/resizedImages/500x280-crop-the_creation2.jpg' alt='' title='The Creation - From Eight Signs of Divination to the World' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1872'>The Creation - From Eight Signs of Divination to the World</a></strong><br>
+			<a href='/entry.php?id=207'>Sangyoon Lee</a><br>
+			August 30, 2003 - December 5, 2003<br><br>
+			The Creation is a virtual reality art piece that simulates the very first stage of the Creation of the world. The user can interact with each of the&hellip; <a href='/entry.php?id=1872'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1850'><img src='/resizedImages/500x280-crop-floor_paints2-2.jpg' alt='' title='INSIDE_OUT Dance, Virtual Reality and Alternative Broadcast Explorations' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1850'><em>INSIDE_OUT</em> Dance, Virtual Reality and Alternative Broadcast Explorations</a></strong><br>
+			<a href='/entry.php?id=37'>Marientina Gotsis</a><br>
+			June 27, 2003 - June 28, 2003<br><br>
+			Marientina Gotsis&rsquo;s MFA thesis project Inside_Out is a networked dance application combining the physical space with the virtual space with a&hellip; <a href='/entry.php?id=1850'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1856'><img src='/resizedImages/500x280-crop-waitingsm.jpg' alt='' title='Waiting In Line' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1856'>Waiting In Line</a></strong><br>
+			<a href='/entry.php?id=9'>Drew Browning</a>, School of Art &amp; Design, University of Illinois at Chicago; Annette Barbier, Northwestern University<br>
+			May 1, 2003 - September 1, 2003<br><br>
+			Waiting In Line is an interactive computer installation of visually rich, graphical representations of waveforms. Participants interactively create a&hellip; <a href='/entry.php?id=1856'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1871'><img src='/resizedImages/500x280-crop-riverofmanysides-2.jpg' alt='' title='River of Many Sides: A Media Performance' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1871'>River of Many Sides: A Media Performance</a></strong><br>
+			<a href='/entry.php?id=9'>Drew Browning</a>, Annetter Barbier, Leif Krinkle, Nquyen Thi Minh Ngoc, Quoc Thao<br>
+			February 1, 2003 - June 11, 2004<br><br>
+			A year-long collaboration between artists from the US and Vietnam culminates in &ldquo;River of Many Sides&rdquo;. This interactive media performance&hellip; <a href='/entry.php?id=1871'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1858'><img src='/resizedImages/500x280-crop-daydreamer.gif' alt='' title='Daydreamer' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1858'><em>Daydreamer</em></a></strong><br>
+			<a href='/entry.php?id=189'>Helen-Nicole Kostis</a><br>
+			October 1, 2002 - December 1, 2002<br><br>
+			Daydreamer is a VR hybrid environment consisting of two worlds the Real and the Imaginary. The real world exists in the City of Chicago, and the&hellip; <a href='/entry.php?id=1858'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1842'><img src='/resizedImages/500x280-crop-perfectparlor_mfa-2.jpg' alt='' title='The Perfect Parlor' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1842'>The Perfect Parlor</a></strong><br>
+			<a href='/entry.php?id=2'>Todd Margolis</a><br>
+			October 1, 2002 - January 10, 2003<br><br>
+			A Perfect Parlor explores how technology can augment human communication, interaction and perceptions when incorporated into personal, social and&hellip; <a href='/entry.php?id=1842'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1844'><img src='/resizedImages/500x280-crop-animagina.gif' alt='' title='Animagina' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1844'>Animagina</a></strong><br>
+			<a href='/entry.php?id=174'>Damin Keenan</a>, <a href='/entry.php?id=188'>Daria Tsoupikova</a>, <a href='/entry.php?id=189'>Helen-Nicole Kostis</a>, <a href='/entry.php?id=191'>Julieta Aguilera</a>, <a href='/entry.php?id=42'>Seung Kang</a>, <a href='/entry.php?id=187'>Tina Shah</a>, in collaboration with Alex Hill, Geoffrey Baum, Franz Fischnaller<br>
+			October 1, 2002 - March 1, 2003<br><br>
+			Animagina :: (life+imagination) An experimental collaborative VR project which plays with techno-topian / technopocalypse symbols in a conceptual&hellip; <a href='/entry.php?id=1844'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1901'><img src='/resizedImages/500x280-crop-rutopia.gif' alt='' title='Rutopia' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1901'>Rutopia</a></strong><br>
+			<a href='/entry.php?id=188'>Daria Tsoupikova</a><br>
+			October 1, 2002 - March 1, 2003<br><br>
+			Rutopia is a virtual reality art project developed for the CAVE, GeoWall, passive and active stereo projection environments. It describes an ideal&hellip; <a href='/entry.php?id=1901'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1843'><img src='/resizedImages/500x280-crop-maya_single-2.jpg' alt='' title='Maya - Veil of Illusion' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1843'>Maya - Veil of Illusion</a></strong><br>
+			<a href='/entry.php?id=162'>Petra Gemeinboeck</a><br>
+			September 1, 2002 - March 28, 2003<br><br>
+			In Hindu-Buddhist concept, Maya stands for the constant movement of the universe, so powerfully masking the essence of all matter that the phenomenal&hellip; <a href='/entry.php?id=1843'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1852'><img src='/resizedImages/500x280-crop-cine_effects.jpg' alt='' title='Cinematic Effects for Virtual Enviroments' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1852'>Cinematic Effects for Virtual Enviroments</a></strong><br>
+			<a href='/entry.php?id=152'>Chris White</a><br>
+			September 1, 2002 - September 1, 2003<br><br>
+			The goal of this project is to produce cinematic quality effects in a real-time virtual enviroment. This required research and development to two&hellip; <a href='/entry.php?id=1852'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1832'><img src='/resizedImages/500x280-crop-confluxus_sm.jpg' alt='' title='Shared Spaces' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1832'>Shared Spaces</a></strong><br>
+			<a href='/entry.php?id=161'>Geoffrey Allen Baum</a>, <a href='/entry.php?id=165'>Keith Miller</a>, <a href='/entry.php?id=53'>Tim Portlock</a>, <a href='/entry.php?id=2'>Todd Margolis</a><br>
+			May 1, 2002 - August 31, 2002<br><br>
+			The Shared Spaces project is a collaborative virtual reality experience on a VR Portal installation system. The space is designed to be a community&hellip; <a href='/entry.php?id=1832'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1834'><img src='/resizedImages/500x280-crop-matisse_kineticart.jpg' alt='' title='Kites Flying In and Out of Space' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1834'>Kites Flying In and Out of Space</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=169'>Shalini Venkataraman</a>, <a href='/entry.php?id=73'>Tom Coffin</a>, Jacqueline Matisse-Monnier, Ray Kass, Ron Kriz, Rob Strouse, Francis Thompson, Paul Weilinga, Ulrike Kasper, Kukimoto Nobuyuki, Kurichi Kumar, Jie Wei, Brian Corrie<br>
+			May 1, 2002 - September 26, 2002<br><br>
+			Kites Flying In and Out of Space is a seminal work, as the first high bandwidth virtual-reality art piece ever created. The content is a study and&hellip; <a href='/entry.php?id=1834'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1833'><img src='/resizedImages/500x280-crop-city_cluster-2.jpg' alt='' title='CityCluster: From the Renaissance to the Gigabits Networking Age' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1833'>CityCluster: From the Renaissance to the Gigabits Networking Age</a></strong><br>
+			<a href='/entry.php?id=173'>Alex Hill</a>, <a href='/entry.php?id=175'>Franz Fischnaller</a>, <br><strong>collaborators:</strong> F.A.B.R.I.CATORS<br><strong>additional 3D environment modeling:</strong> Helen-Nicole Kostis<br>
+			April 1, 2002 - December 15, 2002<br><br>
+			CityCluster: From the Renaissance to the Gigabits Networking Age is a virtual reality and high-speed networking project that juxtaposes the&hellip; <a href='/entry.php?id=1833'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1830'><img src='/resizedImages/500x280-crop-liquidon.jpg' alt='' title='Liquidon' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1830'>Liquidon</a></strong><br>
+			<a href='/entry.php?id=60'>Joseph Tremonti</a><br>
+			September 1, 2001 - July 10, 2002<br><br>
+			Liquidon is an immersive, realtime, audio-visual composition that explores the field of ITC. ITC, an acronym for Instrumental Trans-Communication, is&hellip; <a href='/entry.php?id=1830'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1816'><img src='/resizedImages/500x280-crop-beatbox_dolinsky.jpg' alt='' title='Beat Box' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1816'>Beat Box</a></strong><br>
+			<a href='/entry.php?id=86'>Margaret Dolinsky</a>, Edward J. Dambik, Indiana University<br>
+			July 1, 2001 - September 1, 2002<br><br>
+			Beat Box presents networked CAVE&trade; participants with a playful arena of interactive virtual sound machines. Each of three machines has a unique&hellip; <a href='/entry.php?id=1816'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1824'><img src='/resizedImages/500x280-crop-yalu_id.jpg' alt='' title='ID:Illusion' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1824'>ID:Illusion</a></strong><br>
+			<a href='/entry.php?id=46'>Ya Lu Lin</a><br>
+			April 1, 2001 - May 11, 2002<br><br>
+			ID:Illusion is an artist&rsquo;s exploration of the subconscious as a metaphorical journey. <a href='/entry.php?id=1824'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1795'><img src='/resizedImages/500x280-crop-man+machine.gif' alt='' title='man+machine' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1795'>man+machine</a></strong><br>
+			<a href='/entry.php?id=2'>Todd Margolis</a><br>
+			February 1, 2001 - March 1, 2001<br><br>
+			Man+Machine is one in a series of ImmersaGrams that portray a clinical analysis of the evolution of the human species when aided by machine&hellip; <a href='/entry.php?id=1795'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1806'><img src='/resizedImages/500x280-crop-excavation.gif' alt='' title='Excavation' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1806'>Excavation</a></strong><br>
+			<a href='/entry.php?id=173'>Alex Hill</a>, <a href='/entry.php?id=60'>Joseph Tremonti</a>, <a href='/entry.php?id=162'>Petra Gemeinboeck</a><br>
+			January 1, 2001 - August 24, 2001<br><br>
+			Excavation is a networked virtual environment that explores the mediated surface of historiography. Excavation immerses its visitors in a metaphoric&hellip; <a href='/entry.php?id=1806'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1809'><img src='/resizedImages/500x280-crop-spectacular.gif' alt='' title='Super Spectacular' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1809'>Super Spectacular</a></strong><br>
+			<a href='/entry.php?id=53'>Tim Portlock</a><br>
+			September 1, 2000 - August 31, 2001<br><br>
+			Super Spectacular is an immersive virtual-reality environment that presents different spectator arenas for users to interact: sports stadium, art&hellip; <a href='/entry.php?id=1809'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1804'><img src='/resizedImages/500x280-crop-looking.jpg' alt='' title='Looking for Water' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1804'>Looking for Water</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, Laurie Spiegel (sound), Kayaking partner Dick Ainsworth, Electronic Visualization partner Tom DeFanti<br>
+			September 1, 2000 - September 1, 2001<br><br>
+			In this networked virtual environment, the user perspective begins in outer space, surrounded by sun and Earth images based on real-time satellite&hellip; <a href='/entry.php?id=1804'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1807'><img src='/resizedImages/500x280-crop-home.jpg' alt='' title='Home' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1807'>Home</a></strong><br>
+			<a href='/entry.php?id=9'>Drew Browning</a>, <a href='/entry.php?id=161'>Geoffrey Allen Baum</a>, Annette Barbier <br>
+			September 1, 2000 - January 1, 2001<br><br>
+			Home is an interactive, navigable virtual-reality environment that explores ideas about dwelling and its relation to the psyche. In it, a house&hellip; <a href='/entry.php?id=1807'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1808'><img src='/resizedImages/500x280-crop-paapab_new.jpg' alt='' title='PAAPAB' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1808'>PAAPAB</a></strong><br>
+			<a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=12'>Josephine Anstey</a>, Dan Neveu<br>
+			September 1, 2000 - September 1, 2002<br><br>
+			PAAPAB is a networked virtual dance floor with a steady dance beat. The user joins the dance by selecting one or more life-sized puppets whose&hellip; <a href='/entry.php?id=1808'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1810'><img src='/resizedImages/500x280-crop-synasthetic.gif' alt='' title='syn.aesthetic' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1810'>syn.aesthetic</a></strong><br>
+			<a href='/entry.php?id=161'>Geoffrey Allen Baum</a>, <a href='/entry.php?id=165'>Keith Miller</a><br>
+			September 1, 2000 - March 1, 2002<br><br>
+			syn.aesthetic is a virtual-reality environment where a 3D score is created by the sonic input of the participants. This &ldquo;objectified&rdquo;&hellip; <a href='/entry.php?id=1810'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1811'><img src='/resizedImages/500x280-crop-laboite.gif' alt='' title='La Bo&icirc;te' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1811'>La Bo&icirc;te</a></strong><br>
+			<a href='/entry.php?id=37'>Marientina Gotsis</a><br>
+			September 1, 2000 - January 1, 2001<br><br>
+			La Bo&icirc;te is a networked virtual environment where visitors are invited to see short dance performances on video screens. In the virtual dance&hellip; <a href='/entry.php?id=1811'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1797'><img src='/resizedImages/500x280-crop-whuon.jpg' alt='' title='[whu-on]' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1797'>[whu-on]</a></strong><br>
+			<a href='/entry.php?id=46'>Ya Lu Lin</a><br>
+			August 1, 2000 - May 15, 2001<br><br>
+			[whu-on] is comprised of four distinct, but interrelated virtual environments depicting pivotal moments from the artist&rsquo;s childhood and&hellip; <a href='/entry.php?id=1797'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1859'><img src='/resizedImages/500x280-crop-hydraflower.jpg' alt='' title='Hydra Flower' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1859'>Hydra Flower</a></strong><br>
+			<a href='/entry.php?id=189'>Helen-Nicole Kostis</a><br>
+			August 1, 2000 - May 20, 2001<br><br>
+			Hydra Flower is a 3-dimensional environment consisting of a baby monster flower, inspired by the Lernaean Hydra of Greek Mythology, a serpent-like&hellip; <a href='/entry.php?id=1859'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1861'><img src='/resizedImages/500x280-crop-inner_contact-2.jpg' alt='' title='Inner Contact' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1861'>Inner Contact</a></strong><br>
+			<a href='/entry.php?id=40'>Ka-Leung Jark</a><br>
+			May 5, 2000 - May 18, 2002<br><br>
+			Inner Contact is an imaginary world pushed beyond the envelope of reality, anchored deeply into the physics of these extreme systems. An abstraction&hellip; <a href='/entry.php?id=1861'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1812'><img src='/resizedImages/500x280-crop-malo.gif' alt='' title='MALO Drama' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1812'>MALO Drama</a></strong><br>
+			<a href='/entry.php?id=58'>Samroeng Thongrong</a><br>
+			May 1, 2000 - July 1, 2001<br><br>
+			MALO Drama is an interactive, immersive CAVE&trade; art application that allows users to communicate with a virtual wizard, a Magic Living Object&hellip; <a href='/entry.php?id=1812'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1788'><img src='/resizedImages/500x280-crop-infi-small.jpg' alt='' title='Infinite Studio' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1788'>Infinite Studio</a></strong><br>
+			<a href='/entry.php?id=2'>Todd Margolis</a><br>
+			January 7, 2000 - May 15, 2000<br><br>
+			Infinite Studio is a new paradigm of &ldquo;art-making,&rdquo; that allows the user to create, in real-time, interactive virtual reality artwork from&hellip; <a href='/entry.php?id=1788'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1805'><img src='/resizedImages/500x280-crop-lipuma-2.gif' alt='' title='Through the Looking Glass of Josephine Lipuma' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1805'>Through the Looking Glass of Josephine Lipuma</a></strong><br>
+			<a href='/entry.php?id=47'>Josephine Lipuma</a><br>
+			January 5, 2000 - May 15, 2001<br><br>
+			This networked virtual reality CAVE&trade; application explores a wonderland inspired by Lewis Carroll&rsquo;s popular story. The VR artist lures the&hellip; <a href='/entry.php?id=1805'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1798'><img src='/resizedImages/500x280-crop-fluers-2.jpg' alt='' title='Les Fleurs du Mal' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1798'>Les Fleurs du Mal</a></strong><br>
+			<a href='/entry.php?id=60'>Joseph Tremonti</a><br>
+			January 1, 2000 - May 15, 2000<br><br>
+			This virtual environment is the first of a planned series based on the works of French poet Charles Baudelaire. The poetry serves as a conceptual&hellip; <a href='/entry.php?id=1798'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1813'><img src='/resizedImages/500x280-crop-syna1-small.jpg' alt='' title='EVL: Alive on the Grid' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1813'>EVL: Alive on the Grid</a></strong><br>
+			<a href='/entry.php?id=173'>Alex Hill</a>, <a href='/entry.php?id=29'>Beth Cerny Pati&ntilde;o</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=9'>Drew Browning</a>, <a href='/entry.php?id=161'>Geoffrey Allen Baum</a>, <a href='/entry.php?id=12'>Josephine Anstey</a>, <a href='/entry.php?id=47'>Josephine Lipuma</a>, <a href='/entry.php?id=86'>Margaret Dolinsky</a>, <a href='/entry.php?id=37'>Marientina Gotsis</a>, <a href='/entry.php?id=162'>Petra Gemeinboeck</a>, <a href='/entry.php?id=46'>Ya Lu Lin</a>, Brenda Lopez Silva, Todd Margolis, Keith Miller, Dave Pape, Tim Portlock, Joseph Tremonti, Annette Barbier, Dan Neveu<br>
+			January 1, 2000 - September 1, 2001<br><br>
+			Networking, sound and interaction are all key elements of Dan Sandin&rsquo;s EVL: Alive on the Grid, a collection of virtual art worlds where local&hellip; <a href='/entry.php?id=1813'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1718'><img src='/resizedImages/500x280-crop-lockup2.jpg' alt='' title='LOCKUP' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1718'>LOCKUP</a></strong><br>
+			<a href='/entry.php?id=2'>Todd Margolis</a><br>
+			August 1, 1999 - January 1, 2000<br><br>
+			LOCKUP is an installation, performance and interactive narrative in Virtual Reality that explores the realm of possibilities open to us when we alter&hellip; <a href='/entry.php?id=1718'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1773'><img src='/resizedImages/500x280-crop-h_n.jpg' alt='' title='Historiae Naturalis' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1773'>Historiae Naturalis</a></strong><br>
+			<a href='/entry.php?id=51'>Dave Pape</a><br>
+			January 1, 1999 - May 1, 1999<br><br>
+			Historiae Naturalis is a visualization of the biological sciences of the 16th century and earlier. Specifically, it is based on the natural history&hellip; <a href='/entry.php?id=1773'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1784'><img src='/resizedImages/500x280-crop-dreambox.gif' alt='' title='Dreambox' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1784'>Dreambox</a></strong><br>
+			<a href='/entry.php?id=173'>Alex Hill</a>, <a href='/entry.php?id=29'>Beth Cerny Pati&ntilde;o</a>, <a href='/entry.php?id=4'>Brenda Lopez Silva</a>, <a href='/entry.php?id=2'>Todd Margolis</a>, <a href='/entry.php?id=46'>Ya Lu Lin</a><br>
+			January 1, 1999 - May 1, 1999<br><br>
+			The Dreambox project is a collaboration between digital media artists and scientists to create a dynamic virtual environment that reflects the&hellip; <a href='/entry.php?id=1784'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1799'><img src='/resizedImages/500x280-crop-uzume01s.jpg' alt='' title='Uzume' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1799'>Uzume</a></strong><br>
+			<a href='/entry.php?id=162'>Petra Gemeinboeck</a>, Roland Blach, Virtual Environments, Fraunhofer Institute Stuttgart, Germany;Nicolaj Kirisits, Interactive Audio Environment, Vienna, Austria<br>
+			January 1, 1999 - February 1, 2000<br><br>
+			&ldquo;Uzume&rdquo; is named after a Japanese Shinto goddess and means &ldquo;whirling&rdquo;. The story of Uzume tells of a dance with which she&hellip; <a href='/entry.php?id=1799'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1796'><img src='/resizedImages/500x280-crop-truth.gif' alt='' title='TRUTH' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1796'>TRUTH</a></strong><br>
+			<a href='/entry.php?id=2'>Todd Margolis</a><br>
+			August 1, 1998 - August 1, 1999<br><br>
+			An interactive 3D metaphor on metaphysical meanderings. This computer graphic experiment explores conspiracies between various subjects, ranging from&hellip; <a href='/entry.php?id=1796'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1698'><img src='/resizedImages/500x280-crop-tvrerun256.gif' alt='' title='Interiors (Blue Window Pane)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1698'>Interiors (Blue Window Pane)</a></strong><br>
+			<a href='/entry.php?id=121'>Carlos Orrego</a>, <a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=17'>Joe Reitzer</a>, <a href='/entry.php?id=86'>Margaret Dolinsky</a>, <a href='/entry.php?id=66'>Mohammed Dastagir Ali</a>, Markus Greunz<br>
+			January 1, 1998 - January 1, 1999<br><br>
+			Interiors is conceived and directed by Margaret Dolinsky, premiering at SIGGRAPH 98&rsquo;s Enhanced Realities Exhibition. &ldquo;Interiors&rdquo;&hellip; <a href='/entry.php?id=1698'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1829'><img src='/resizedImages/500x280-crop-postcard_front-2.jpg' alt='' title='sine::apsis experiments' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1829'>sine::apsis experiments</a></strong><br>
+			<a href='/entry.php?id=167'>Fernando Orellana</a>, <a href='/entry.php?id=2'>Todd Margolis</a>, Kevin Heisner, Daniel Miller, Amy Youngs, Valerie Fuchs, Andrea Polli<br>
+			January 1, 1998 - May 15, 1998<br><br>
+			sine::apsis experiments, based in Chicago, is a network of artists who take an unorthodox look at the role of technology in relation to human&hellip; <a href='/entry.php?id=1829'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1964'><img src='/resizedImages/500x280-crop-thing_growing_new2.jpg' alt='' title='The Thing Growing' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1964'>The Thing Growing</a></strong><br>
+			<a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=65'>Joseph Alexander</a>, <a href='/entry.php?id=12'>Josephine Anstey</a>, <a href='/entry.php?id=43'>Muhammad Ali Khan</a>, <a href='/entry.php?id=58'>Samroeng Thongrong</a><br>
+			January 1, 1998 - March 1, 2000<br><br>
+			The Thing Growing is a Virtual Reality Interactive Narrative. It&rsquo;s focus is the construction of the &ldquo;Thing&rdquo;, a virtual character&hellip; <a href='/entry.php?id=1964'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1743'><img src='/resizedImages/500x280-crop-grid09-s.jpg' alt='' title='Grid' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1743'>Grid</a></strong><br>
+			<a href='/entry.php?id=73'>Tom Coffin</a><br>
+			September 15, 1997 - September 27, 1997<br><br>
+			Grid is an endless cyberspace gallery of sculptural mandalas. The grid of &ldquo;jacks&rdquo; are portals into alternatives spaces where the&hellip; <a href='/entry.php?id=1743'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1699'><img src='/resizedImages/500x280-crop-straitdope-2.jpg' alt='' title='Strait Dope' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1699'>Strait Dope</a></strong><br>
+			<a href='/entry.php?id=113'>Deb Lowman (1966-2018)</a>, <a href='/entry.php?id=17'>Joe Reitzer</a>, <a href='/entry.php?id=86'>Margaret Dolinsky</a>, S. Melchionda, E. Zooma<br>
+			May 1, 1997 - August 1, 1997<br><br>
+			Strait Dope is a CAVE&trade; and ImmersaDesk&trade; virtual environment that emphasizes participant interaction. Strait Dope colors thought and&hellip; <a href='/entry.php?id=1699'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1740'><img src='/resizedImages/500x280-crop-scape2.jpg' alt='' title='Poverty Island' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1740'>Poverty Island</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, Laurie Spiegel, Dick Ainsworth<br>
+			May 1, 1997 - March 1, 1998<br><br>
+			&ldquo;Poverty Island with Video Skies&rdquo; is the beginning of an exploration of the integration of video images into a virtual environment. This&hellip; <a href='/entry.php?id=1740'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1752'><img src='/resizedImages/500x280-crop-frank.jpg' alt='' title='Disability Perspective #1' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1752'>Disability Perspective #1</a></strong><br>
+			<a href='/entry.php?id=9'>Drew Browning</a><br>
+			May 1, 1997 - October 1, 1997<br><br>
+			The newly built Franklin Delano Roosevelt National Monument serves as a focal point for this immersive experience, which addresses issues germane to&hellip; <a href='/entry.php?id=1752'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1670'><img src='/resizedImages/500x280-crop-igram-2.gif' alt='' title='ImmersaGrams' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1670'>ImmersaGrams</a></strong><br>
+			<a href='/entry.php?id=5'>Dana M. Plepys</a>, <a href='/entry.php?id=86'>Margaret Dolinsky</a>, <a href='/entry.php?id=66'>Mohammed Dastagir Ali</a>, <a href='/entry.php?id=2'>Todd Margolis</a>, (art)n Laboratory<br>
+			March 1, 1997 - February 28, 1998<br><br>
+			(art)n Laboratory and EVL have collaborated on the development of the first real-time, stereoscopic hardcopy output of virtual reality applications&hellip; <a href='/entry.php?id=1670'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1737'><img src='/resizedImages/500x280-crop-fount.gif' alt='' title='Liquid Meditation' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1737'>Liquid Meditation</a></strong><br>
+			<a href='/entry.php?id=151'>Margaret Watson</a>, Eric Butkus<br>
+			October 1, 1996 - May 1, 1997<br><br>
+			Liquid Meditation is a narrative virtual environment based on nature, philosophy and architecture. Constructed as a place of discovery, it was&hellip; <a href='/entry.php?id=1737'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1922'><img src='/resizedImages/500x280-crop-lasmeninasnew.jpg' alt='' title='Las Meninas' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1922'>Las Meninas</a></strong><br>
+			<a href='/entry.php?id=75'>Alan Cruz</a>, <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=146'>Christina Vasilakis</a>, <a href='/entry.php?id=70'>Hisham Bizri</a>, <a href='/entry.php?id=35'>Javier Girado</a>, <a href='/entry.php?id=104'>Joe Insley</a>, <a href='/entry.php?id=12'>Josephine Anstey</a>, <a href='/entry.php?id=52'>Kyoung Shin Park</a>, <a href='/entry.php?id=16'>Tom Moher</a>, Michael Gold<br>
+			September 1, 1996 - September 30, 1997<br><br>
+			&ldquo;Las Meninas&rdquo; is a painting about representation. Velasquez challenges the viewer by making the spectator the model to be viewed and vice&hellip; <a href='/entry.php?id=1922'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1961'><img src='/resizedImages/500x280-crop-mmb5_185.jpg' alt='' title='The Multi Mega Book in the CAVE&trade;' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1961'>The Multi Mega Book in the CAVE&trade;</a></strong><br>
+			<a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=175'>Franz Fischnaller</a>, <a href='/entry.php?id=12'>Josephine Anstey</a>, <a href='/entry.php?id=103'>Tomoko Imai</a>, Yesi Maharaj Singh, Alfredo Miti<br>
+			September 1, 1996 - December 1, 1997<br><br>
+			&ldquo;The Multi-Mega Book in the CAVE&trade;&rdquo; juxtaposes the Print Revolution and the Information Revolution, and consists of two cities, an&hellip; <a href='/entry.php?id=1961'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1948'><img src='/resizedImages/500x280-crop-drmgrls_07.jpg' alt='' title='Dream Grrrls' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1948'>Dream Grrrls</a></strong><br>
+			<a href='/entry.php?id=139'>Grit Sehmisch</a>, <a href='/entry.php?id=17'>Joe Reitzer</a>, <a href='/entry.php?id=86'>Margaret Dolinsky</a><br>
+			June 1, 1996 - May 15, 1997<br><br>
+			Dream Grrrls is a real-time interactive CAVE&trade; virtual art environment created by Margaret Dolinsky and Grit Sehmisch. Dream Grrrls debuted at&hellip; <a href='/entry.php?id=1948'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1731'><img src='/resizedImages/500x280-crop-avatar1.gif' alt='' title='Gallery of Motions' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1731'>Gallery of Motions</a></strong><br>
+			<a href='/entry.php?id=15'>Alan Millman</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=104'>Joe Insley</a>, <a href='/entry.php?id=13'>Louis H. Kauffman</a>, <a href='/entry.php?id=101'>Milana Huang</a>, <a href='/entry.php?id=95'>Robert Grzeszczuk</a>, <a href='/entry.php?id=79'>Sumit Das</a>, R. Barger, S. McGreevy<br>
+			February 1, 1996 - June 1, 1996<br><br>
+			A sculpture garden and gallery where even the plants and buildings move, with tours conducted by an animated guide. The garden is comprised of&hellip; <a href='/entry.php?id=1731'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1713'><img src='/resizedImages/500x280-crop-vomit.gif' alt='' title='Vomit Mountain' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1713'>Vomit Mountain</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a><br>
+			January 1, 1996 - April 1, 1996<br><br>
+			The CAVE&trade; virtual reality roller coaster ride called &ldquo;Vomit Mountain&rdquo; allows the user to design a roller coaster by first flying&hellip; <a href='/entry.php?id=1713'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1714'><img src='/resizedImages/500x280-crop-jaws.gif' alt='' title='Jaws of Death' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1714'>Jaws of Death</a></strong><br>
+			<a href='/entry.php?id=73'>Tom Coffin</a><br>
+			January 1, 1996 - April 1, 1996<br><br>
+			The &ldquo;Jaws of Death&rdquo; is a virtual reality torture chamber - a cacophony of sound and color which fully envelopes the participant in the&hellip; <a href='/entry.php?id=1714'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1715'><img src='/resizedImages/500x280-crop-psycho.gif' alt='' title='Psychotunnel' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1715'>Psychotunnel</a></strong><br>
+			<a href='/entry.php?id=134'>Maria Roussou</a><br>
+			January 1, 1996 - April 1, 1996<br><br>
+			&ldquo;Psychotunnel&rdquo;, a three-dimensional whirling vortex, transported participants to an abstract virtual world. It was one of a number of&hellip; <a href='/entry.php?id=1715'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1962'><img src='/resizedImages/500x280-crop-mitologies2.jpg' alt='' title='Mitologies 2' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1962'>Mitologies 2</a></strong><br>
+			<a href='/entry.php?id=75'>Alan Cruz</a>, <a href='/entry.php?id=15'>Alan Millman</a>, <a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=70'>Hisham Bizri</a>, <a href='/entry.php?id=65'>Joseph Alexander</a>, <a href='/entry.php?id=134'>Maria Roussou</a>, <a href='/entry.php?id=103'>Tomoko Imai</a><br>
+			January 1, 1996 - January 1, 1997<br><br>
+			Mitologies is a collaborative virtual reality artwork for the CAVE&trade;. It is loosely based on the Cretan myth of the Minotaur, Dante&rsquo;s&hellip; <a href='/entry.php?id=1962'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1733'><img src='/resizedImages/500x280-crop-tentuniv.gif' alt='' title='Orgworld' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1733'>Orgworld</a></strong><br>
+			<a href='/entry.php?id=113'>Deb Lowman (1966-2018)</a><br>
+			November 1, 1995 - March 1, 1996<br><br>
+			Orgworldis a virtual reality experience that is exhibited on EVL&rsquo;s ImmersaDesk&trade;. Orgworld brings static objects to life, in the process&hellip; <a href='/entry.php?id=1733'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1750'><img src='/resizedImages/500x280-crop-llpic01.jpg' alt='' title='Lucifer Lounge' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1750'>Lucifer Lounge</a></strong><br>
+			<a href='/entry.php?id=104'>Joe Insley</a><br>
+			November 1, 1995 - March 1, 1996<br><br>
+			&ldquo;Lucifer Lounge&rdquo; to a large extent deals with struggles, both internal and external. In some ways the viewers / participants, primarily&hellip; <a href='/entry.php?id=1750'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1697'><img src='/resizedImages/500x280-crop-aqua3.gif' alt='' title='Aquasphere' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1697'>Aquasphere</a></strong><br>
+			<a href='/entry.php?id=75'>Alan Cruz</a><br>
+			September 1, 1995 - October 1, 1996<br><br>
+			This application was an experiment in trying to create a very realistic environment by using complex models other than texture maps. The application&hellip; <a href='/entry.php?id=1697'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1732'><img src='/resizedImages/500x280-crop-rising_2.gif' alt='' title='Journey' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1732'>Journey</a></strong><br>
+			<a href='/entry.php?id=151'>Margaret Watson</a>, <a href='/entry.php?id=63'>Rita Addison</a><br>
+			May 1, 1995 - March 1, 1996<br><br>
+			Journey was initially produced in mid to late 1995 as the graphics for Synesthesia, a VR project directed by the artist Rita Addison. The graphics&hellip; <a href='/entry.php?id=1732'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1767'><img src='/resizedImages/500x280-crop-aec-cray2-small.jpg' alt='' title='Crayoland' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1767'>Crayoland</a></strong><br>
+			<a href='/entry.php?id=51'>Dave Pape</a><br>
+			January 1, 1995 - May 1, 1995<br><br>
+			Crayoland is an interactive virtual environment created for the CAVE&trade;. It was first shown at the EVE 4 art show in May 1995. The environment is&hellip; <a href='/entry.php?id=1767'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1982'><img src='/resizedImages/500x280-crop-fluidinfinity.png' alt='' title='Fluid Infinity' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1982'>Fluid Infinity</a></strong><br>
+			<a href='/entry.php?id=151'>Margaret Watson</a><br>
+			January 1, 1995 - May 15, 1995<br><br>
+			Fluid Infinity is a virtual reality artwork prototyped as a multi-layered abstract, 2D animation. The animation was initially programmed using the&hellip; <a href='/entry.php?id=1982'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1957'><img src='/resizedImages/500x280-crop-sandini_circus6.png' alt='' title='Leaky&rsquo;s Room' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1957'>Leaky&rsquo;s Room</a></strong><br>
+			<a href='/entry.php?id=69'>Keith Beu</a><br>
+			September 2, 1994 - April 3, 1995<br><br>
+			Leaky&rsquo;s Room is a virtual environment, developed by Keith Beu, that uses audience participation and real-time video and was created as a&hellip; <a href='/entry.php?id=1957'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1956'><img src='/resizedImages/500x280-crop-llcircus1.png' alt='' title='The Great Sandini Virtual Reality Circus of the CAVE&trade;' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1956'>The Great Sandini Virtual Reality Circus of the CAVE&trade;</a></strong><br>
+			<a href='/entry.php?id=113'>Deb Lowman (1966-2018)</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=68'>Jim Barr</a>, <a href='/entry.php?id=104'>Joe Insley</a>, <a href='/entry.php?id=108'>Johnny Lawson</a>, <a href='/entry.php?id=120'>Kathy OKeefe</a>, <a href='/entry.php?id=134'>Maria Roussou</a>, <a href='/entry.php?id=73'>Tom Coffin</a>, Keith Beu, Chris Stewart<br>
+			August 28, 1994 - April 15, 1995<br><br>
+			&ldquo;The Great Sandini Virtual Reality Circus of the CAVE&trade;&rdquo; was originally created for EVL&rsquo;s EVE4 presentation in Spring 1995;&hellip; <a href='/entry.php?id=1956'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1958'><img src='/resizedImages/500x280-crop-jack_in_box.png' alt='' title='Jack-in-the-Box' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1958'>Jack-in-the-Box</a></strong><br>
+			<a href='/entry.php?id=88'>Terry Franguiadakis</a><br>
+			August 28, 1994 - April 3, 1995<br><br>
+			The Jack-in-the-Box application grew out of a desire to create something fun and active in a virtual environment, and was originally designed as an&hellip; <a href='/entry.php?id=1958'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1730'><img src='/resizedImages/500x280-crop-gallerym.gif' alt='' title='Artica Intergalaxia' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1730'>Artica Intergalaxia</a></strong><br>
+			<a href='/entry.php?id=17'>Joe Reitzer</a>, <a href='/entry.php?id=151'>Margaret Watson</a><br>
+			August 20, 1994 - April 15, 1995<br><br>
+			Artica Intergalaxia is an intergalactic gallery containing an exhibition of virtual reality art entitled Amorphous Cubes. The idea behind the&hellip; <a href='/entry.php?id=1730'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1728'><img src='/resizedImages/500x280-crop-vandal1.jpg' alt='' title='Vandalism' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1728'>Vandalism</a></strong><br>
+			<a href='/entry.php?id=51'>Dave Pape</a><br>
+			August 15, 1994 - April 15, 1995<br><br>
+			Vandalism is an interactive virtual environment for the CAVE&trade; and ImmersaDesk&trade; VR systems. Vandalism was created as part of Neither Here&hellip; <a href='/entry.php?id=1728'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1724'><img src='/resizedImages/500x280-crop-detour.jpg' alt='' title='Detour: Brain Deconstruction Area Ahead' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1724'>Detour: Brain Deconstruction Area Ahead</a></strong><br>
+			<a href='/entry.php?id=142'>Dave Swoboda</a>, <a href='/entry.php?id=145'>Marcus Thiebaux</a>, <a href='/entry.php?id=63'>Rita Addison</a>, David Zeltzer<br>
+			July 1, 1994 - July 15, 1994<br><br>
+			This autobiographical account by artist Rita Addison describes perceptual changes she experienced subsequent to her head injury in a car accident&hellip; <a href='/entry.php?id=1724'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1953'><img src='/resizedImages/500x280-crop-pushpop_vrgallery.gif' alt='' title='Push / Pop' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1953'>Push / Pop</a></strong><br>
+			<a href='/entry.php?id=73'>Tom Coffin</a><br>
+			May 5, 1994 - January 15, 1996<br><br>
+			Computer graphics is on a quest, an obsessive mission, to perfectly replicate reality. This Michelangelo envy has resulted in the focus and&hellip; <a href='/entry.php?id=1953'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1952'><img src='/resizedImages/500x280-crop-aeromorph.jpg' alt='' title='Feature-Based 3D Metamorphosis' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1952'>Feature-Based 3D Metamorphosis</a></strong><br>
+			<a href='/entry.php?id=67'>Mihailo Alic</a><br>
+			January 7, 1994 - December 15, 1994<br><br>
+			Using feature-based 3D metamorphosis allows the operator to treat 3D geometry the same way as 2D image: identifying features of the object enables&hellip; <a href='/entry.php?id=1952'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1736'><img src='/resizedImages/500x280-crop-oort.jpg' alt='' title='The Oort Continuum' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1736'>The Oort Continuum</a></strong><br>
+			<a href='/entry.php?id=75'>Alan Cruz</a>, <a href='/entry.php?id=15'>Alan Millman</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=113'>Deb Lowman (1966-2018)</a>, <a href='/entry.php?id=40'>Ka-Leung Jark</a>, <a href='/entry.php?id=145'>Marcus Thiebaux</a>, <a href='/entry.php?id=86'>Margaret Dolinsky</a>, <a href='/entry.php?id=101'>Milana Huang</a>, <a href='/entry.php?id=73'>Tom Coffin</a>, Margaret Watson, Joe Insley, Bor Tyng Lin, Robert Grzeszczuk, Lou Kauffman, Gary Minnix<br>
+			January 1, 1994 - December 1, 1996<br><br>
+			The Oort Continuum is a virtual reality application designed for the CAVE&trade;, based on the CAT (CAVE All Terrain) shared context software&hellip; <a href='/entry.php?id=1736'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1954'><img src='/resizedImages/500x280-crop-cityspace2.jpg' alt='' title='CitySpace' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1954'>CitySpace</a></strong><br>
+			<a href='/entry.php?id=62'>Dave Adamczyk</a>, Coco Conn, Zane Vella, Jim Damian, Jim Thompson, Maria Rousssou, Mihailo Alic, Chris Cederwall<br>
+			January 1, 1994 - November 1, 1995<br><br>
+			CitySpace is an educational networking project that invites students to build a virtual city model made up of 3D objects and images from sites around&hellip; <a href='/entry.php?id=1954'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1691'><img src='/resizedImages/500x280-crop-fileroom.jpg' alt='' title='The File Room' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1691'>The File Room</a></strong><br>
+			<a href='/entry.php?id=108'>Johnny Lawson</a>, <a href='/entry.php?id=134'>Maria Roussou</a>, Antonio Muntadas, Paul Brenner, Elisabeth Subrin<br>
+			September 1, 1993 - August 31, 1996<br><br>
+			&ldquo;The File Room&rdquo; is an illustrated archive of cases of cultural censorship, conceived by artist Antonio Muntadas, and produced by Randolph&hellip; <a href='/entry.php?id=1691'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1951'><img src='/resizedImages/500x280-crop-bigsoblue2.gif' alt='' title='Alife' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1951'>Alife</a></strong><br>
+			<a href='/entry.php?id=122'>Mike Papka</a>, <a href='/entry.php?id=79'>Sumit Das</a>, <a href='/entry.php?id=88'>Terry Franguiadakis</a><br>
+			August 1, 1993 - May 15, 1994<br><br>
+			Alife centers around a Genetic Programming library, developed by Terry Franguiadakis in the summer of 1992. The GP library is a C++ implementation of&hellip; <a href='/entry.php?id=1951'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<!-- End Category List -->
+	</table>
+</div>
+<!-- End Category -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

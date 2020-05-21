@@ -1,0 +1,2083 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Category -->
+<!-- Begin Category Pagination -->
+<div class='category_area'>
+	<div class='category_content'>
+		<h3>VR</h3><br>
+		<strong>Related:</strong>
+		<a href='/category.php?id=28&amp;related=1'>Art</a>&nbsp;&nbsp;
+		<a href='/category.php?id=28&amp;related=2'>Directory</a>&nbsp;&nbsp;
+		<a href='/category.php?id=28&amp;related=3'><strong>Events</strong></a>&nbsp;&nbsp;
+		<a href='/category.php?id=28&amp;related=4'>Papers</a>&nbsp;&nbsp;
+		<a href='/category.php?id=28&amp;related=5'>Research</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End Category Pagination -->
+<div class='category_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin Category List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2484'><img src='/resizedImages/500x280-crop-anishimoto_prelim.jpg' alt='' title='Preliminary Examination Announcement: &ldquo;Collaborative Augmented Reality for Virtual Reality Display Wall Environments&rdquo;' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2484'>Preliminary Examination Announcement: &ldquo;Collaborative Augmented Reality for Virtual Reality Display Wall Environments&rdquo;</a></strong><br>
+			<a href='/entry.php?id=270'>Arthur Nishimoto</a><br>
+			December 2, 2019<br><br>
+			Ph.D. Student Name: Arthur Nishimoto Committee: Prof. Andrew Johnson, Chair and Advisor Prof. Debaleena Chattopadhyay Prof. Steve Jones Prof. Wei&hellip; <a href='/entry.php?id=2484'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2482'><img src='/resizedImages/500x280-crop-plepys_black_horiz-2.jpg' alt='' title='Dana Plepys receiving UIC CAPE Award at 2019 UIC Employee Recognition Award Ceremony and Reception' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2482'>Dana Plepys receiving UIC CAPE Award at 2019 UIC Employee Recognition Award Ceremony and Reception</a></strong><br>
+			<a href='/entry.php?id=5'>Dana M. Plepys</a><br>
+			November 19, 2019<br><br>
+			Dana Plepys is one of six people receiving the 2019 UIC Chancellor&rsquo;s Academic Professional Excellence Award (CAPE Award). This Award recognizes&hellip; <a href='/entry.php?id=2482'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2478'><img src='/resizedImages/500x280-crop-vr_student_show_sm.png' alt='' title='Virtual Reality Student Exposition at VGA' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2478'>Virtual Reality Student Exposition at VGA</a></strong><br>
+			<a href='/entry.php?id=4'>Brenda Lopez Silva</a>, <a href='/entry.php?id=188'>Daria Tsoupikova</a>, <a href='/entry.php?id=2454'>Jade Almaguer</a>, <a href='/entry.php?id=2439'>Kyra Jones</a><br>
+			October 25, 2019<br><br>
+			The Video Game Art Gallery hosts Electronic Visualization Laboratory and the School of the Art Institute of Chicago student virtual reality projects&hellip; <a href='/entry.php?id=2478'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2452'><img src='/resizedImages/500x280-crop-dtsoupikova.jpg' alt='' title='Daria Tsoupikova Recognized Among Leonardo's Outstanding Peer Reviewers' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2452'>Daria Tsoupikova Recognized Among Leonardo's Outstanding Peer Reviewers</a></strong><br>
+			<a href='/entry.php?id=188'>Daria Tsoupikova</a><br>
+			August 1, 2019<br><br>
+			Since 2017, Leonardo commenced a quarterly recognition of exceptional peer reviewers noted for their in-depth and deeply constructive feedback on&hellip; <a href='/entry.php?id=2452'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2414'><img src='/resizedImages/500x280-crop-2019-evl-uiarts-daria-p1020778-small.jpg' alt='' title='Tsoupikova&rsquo;s &ldquo;Transforming Storytelling: Multi-User Virtual Reality Theater for Collaborative Tele-Immersive Exploration&rdquo; Awarded' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2414'>Tsoupikova&rsquo;s &ldquo;Transforming Storytelling: Multi-User Virtual Reality Theater for Collaborative Tele-Immersive Exploration&rdquo; Awarded</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=270'>Arthur Nishimoto</a>, <a href='/entry.php?id=188'>Daria Tsoupikova</a>, <a href='/entry.php?id=49'>Lance Long</a>, Jo Cattell<br>
+			January 24, 2019 - December 31, 2020<br><br>
+			JANUARY 24, 2019 - Daria Tsoupikova, associate professor in the UIC School of Design and an affiliated faculty member of the UIC Electronic&hellip; <a href='/entry.php?id=2414'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2412'><img src='/resizedImages/500x280-crop-newmedia_reader.png' alt='' title='Reader reviews &ldquo;Chicago New Media 1973-1992&ldquo; exhibition featuring UIC Electronic Visualization Laboratory' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2412'>Reader reviews &ldquo;Chicago New Media 1973-1992&ldquo; exhibition featuring UIC Electronic Visualization Laboratory</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			November 29, 2018<br><br>
+			&lsquo;Chicago New Media 1973-1992&rsquo; pays tribute to the city&rsquo;s contribution to video games and digital art EDITOR&rsquo;S NOTE&hellip; <a href='/entry.php?id=2412'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2409'><img src='/resizedImages/500x280-crop-trina-coealumniaward-110718-edseidel-img_0180.jpg' alt='' title='UIC CS/EVL Alumna Trina Roy Receives Engineering Alumni Outstanding Achievement Award' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2409'>UIC CS/EVL Alumna Trina Roy Receives Engineering Alumni Outstanding Achievement Award</a></strong><br>
+			<a href='/entry.php?id=135'>Trina Roy</a><br>
+			November 7, 2018<br><br>
+			NOVEMBER 7, 2018 - Trina Roy, a UIC alumna who majored in Computer Science and worked as a research assistant at the Electronic Visualization&hellip; <a href='/entry.php?id=2409'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2407'><img src='/resizedImages/500x280-crop-llongselfportrait_sm.jpg' alt='' title='UIC CS/EVL Lance Long Receives UIC Award of Merit' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2407'>UIC CS/EVL Lance Long Receives UIC Award of Merit</a></strong><br>
+			<a href='/entry.php?id=49'>Lance Long</a><br>
+			November 1, 2018<br><br>
+			NOVEMBER 1, 2018 -- Lance Long, Senior Research Programmer for the Electronic Visualization Laboratory (EVL), which is part of the Computer Science&hellip; <a href='/entry.php?id=2407'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2405'><img src='/resizedImages/500x280-crop-nmf_herstoryposter.jpg' alt='' title='UIC Electronic Visualization Laboratory Graduates and Staff Participate in Symposium &ldquo;Herstory: Digital Innovations&rdquo;' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2405'>UIC Electronic Visualization Laboratory Graduates and Staff Participate in Symposium &ldquo;Herstory: Digital Innovations&rdquo;</a></strong><br>
+			<a href='/entry.php?id=76'>Carolina Cruz-Neira</a>, <a href='/entry.php?id=92'>Copper Giloth</a>, <a href='/entry.php?id=5'>Dana M. Plepys</a>, <a href='/entry.php?id=86'>Margaret Dolinsky</a>, <a href='/entry.php?id=195'>Mary Rasmussen</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, Barbara Sykes<br>
+			October 18, 2018<br><br>
+			OCTOBER 18, 2018 - &ldquo;Herstory: Digital Innovations Symposium and Book Signing,&rdquo; celebrates the book &ldquo;New Media Futures (NMF): The&hellip; <a href='/entry.php?id=2405'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2404'><img src='/resizedImages/500x280-crop-spiral5ptl_danielsandin.jpg' alt='' title='UIC Electronic Visualization Laboratory to be Featured in &ldquo;Chicago New Media 1973-1992&rdquo; Exhibition' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2404'>UIC Electronic Visualization Laboratory to be Featured in &ldquo;Chicago New Media 1973-1992&rdquo; Exhibition</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			October 15, 2018<br><br>
+			OCTOBER 15, 2018 - &ldquo;Chicago New Media 1973-1992&rdquo; is a public exhibition, to be held November 1 - December 15, 2018, that illuminates the&hellip; <a href='/entry.php?id=2404'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2387'><img src='/misc/default_500x280.png' alt='' title='Prelim Announcement:  &ldquo;Commonly Identified Feature-based Stitching System for Stereoscopic Panoramic Video Generation&rdquo;' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2387'>Prelim Announcement:  &ldquo;Commonly Identified Feature-based Stitching System for Stereoscopic Panoramic Video Generation&rdquo;</a></strong><br>
+			<a href='/entry.php?id=2191'>Haoyu Wang</a><br>
+			July 20, 2018<br><br>
+			Committee: Dan Schonfeld (Chair/Advisor) Daniel J. Sandin Andrew E. Johnson Hulya Seferoglu Mojtaba Soltanalian Date & Time: July 20th, 2018, 12:00PM&hellip; <a href='/entry.php?id=2387'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2369'><img src='/resizedImages/500x280-crop-cox18_email_rev.jpg' alt='' title='UIC/EVL Featured in new book: New Media Futures: The Rise of Women in the Digital Arts' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2369'>UIC/EVL Featured in new book: New Media Futures: The Rise of Women in the Digital Arts</a></strong><br>
+			<a href='/entry.php?id=76'>Carolina Cruz-Neira</a>, <a href='/entry.php?id=92'>Copper Giloth</a>, <a href='/entry.php?id=5'>Dana M. Plepys</a>, <a href='/entry.php?id=124'>Lucy Petrovich</a>, <a href='/entry.php?id=86'>Margaret Dolinsky</a>, <a href='/entry.php?id=195'>Mary Rasmussen</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=132'>Sally Rosenthal</a>, Barbara Sykes<br>
+			May 24, 2018<br><br>
+			MAY 24, 2018 - The 1980s and beyond were a pivotal time for the digital arts media in the Midwest, and many of the women who went to school or worked&hellip; <a href='/entry.php?id=2369'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2359'><img src='/resizedImages/500x280-crop-etna1_simoneamicothesis.png' alt='' title='MS Thesis Defense: &ldquo;ETNA: a Virtual Reality Game with Affective Dynamic Difficulty Adjustment based on Skin Conductance&rdquo;' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2359'>MS Thesis Defense: &ldquo;ETNA: a Virtual Reality Game with Affective Dynamic Difficulty Adjustment based on Skin Conductance&rdquo;</a></strong><br>
+			<a href='/entry.php?id=2358'>Simone Amico</a><br>
+			May 8, 2018<br><br>
+			Date & Time: May 8th, 2018, 10am Location: 1000 SEO Defense committee: Andrew Johnson, Chair and Advisor G. Elisabeta Marai Marco D. Santambrogio&hellip; <a href='/entry.php?id=2359'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2342'><img src='/resizedImages/500x280-crop-cnmpressreleasespiralptl.png' alt='' title='VGA Exhibition Tells Underrecognized Story Of New Media In Chicago' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2342'>VGA Exhibition Tells Underrecognized Story Of New Media In Chicago</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			December 12, 2017 - December 15, 2018<br><br>
+			CHICAGO - VGA announces its &rdquo;Chicago New Media 1973-1992&ldquo; exhibition, public program and catalogue, in partnership with Gallery 400 at&hellip; <a href='/entry.php?id=2342'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2341'><img src='/resizedImages/500x280-crop-mechdyne_cave2-112817.jpg' alt='' title='Mechdyne Open House at UIC/EVL Showcases expanded riverwalk concepts for Chicago' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2341'>Mechdyne Open House at UIC/EVL Showcases expanded riverwalk concepts for Chicago</a></strong><br>
+						November 28, 2017<br><br>
+			DECEMBER 4, 2017 - The evening of November 28, 2017, the Electronic Visualization Laboratory (EVL) at University of Illinois at Chicago was the&hellip; <a href='/entry.php?id=2341'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2332'><img src='/resizedImages/500x280-crop-pelp-2-evl-cave2-small.jpg' alt='' title='University of Illinois System 2017 PELP Program Visits the Electronic Visualization Laboratory (EVL)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2332'>University of Illinois System 2017 PELP Program Visits the Electronic Visualization Laboratory (EVL)</a></strong><br>
+						November 8, 2017<br><br>
+			WEDNESDAY, NOVEMBER 8, 2017 - The President of the University of Illinois System, Timothy Killeen, this week led a delegation of ~18 University&hellip; <a href='/entry.php?id=2332'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2337'><img src='/resizedImages/500x280-crop-caav2017.png' alt='' title='THE CAAV 2017 Conference Featured Keynote on EVL’&rsquo;s Visualization and Collaboration Technologies' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2337'>THE CAAV 2017 Conference Featured Keynote on EVL’&rsquo;s Visualization and Collaboration Technologies</a></strong><br>
+			<a href='/entry.php?id=178'>Maxine Brown</a><br>
+			October 25, 2017 - October 27, 2017<br><br>
+			OCTOBER 26, 2017 - Maxine Brown, director of the UIC Electronic Visualization Laboratory (EVL), participated in The Higher Education Campus Alliance&hellip; <a href='/entry.php?id=2337'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2328'><img src='/resizedImages/500x280-crop-uicopenhouse-evl_volunteers_sm.jpg' alt='' title='EVL hosts CAVE2 demos as part of Computer Science&rsquo;s activities for UIC Open House' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2328'>EVL hosts CAVE2 demos as part of Computer Science&rsquo;s activities for UIC Open House</a></strong><br>
+			<a href='/entry.php?id=2231'>Andrew Burks</a>, <a href='/entry.php?id=2315'>Bartosz Kupiec</a>, <a href='/entry.php?id=2076'>Chihua Ma</a>, <a href='/entry.php?id=2250'>Juan Trelles Trabucco</a>, <a href='/entry.php?id=300'>Krishna Bharadwaj</a>, <a href='/entry.php?id=2304'>Nina Sakhnini</a>, <a href='/entry.php?id=2189'>Timothy Luciani</a>, <a href='/entry.php?id=2303'>Vijayraj Mahida</a><br>
+			September 16, 2017<br><br>
+			Today&rsquo;s UIC Open House welcomed prospective students, their parents, and the general public to tour the campus and learn more about the many&hellip; <a href='/entry.php?id=2328'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2327'><img src='/resizedImages/500x280-crop-2017-imageofresearch-nishimoto_sm.jpg' alt='' title='UIC/EVL Student Recognized in 2017 UIC Image of Research Competition' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2327'>UIC/EVL Student Recognized in 2017 UIC Image of Research Competition</a></strong><br>
+			<a href='/entry.php?id=270'>Arthur Nishimoto</a><br>
+			September 14, 2017<br><br>
+			September 14, 2017 - This year, UIC Computer Science (CS) PhD student and Electronic Visualization Laboratory (EVL) research assistant Arthur&hellip; <a href='/entry.php?id=2327'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2308'><img src='/resizedImages/500x280-crop-reallifeholodeck.png' alt='' title='Inside a Real Life Holodeck' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2308'>Inside a Real Life Holodeck</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a><br>
+			June 13, 2017<br><br>
+			JUNE 13, 2017 - Ryan Wolff and David Wolff, producers of the documentary web series &ldquo;The Good Stuff,&rdquo; recently completed a program on&hellip; <a href='/entry.php?id=2308'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2284'><img src='/misc/default_500x280.png' alt='' title='CAVE2 comparison of 1st & 3rd user perspectives in virtual motor rehabilitation tasks' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2284'>CAVE2 comparison of 1st & 3rd user perspectives in virtual motor rehabilitation tasks</a></strong><br>
+			<a href='/entry.php?id=2250'>Juan Trelles Trabucco</a><br>
+			March 8, 2017<br><br>
+			EVL MS candidate Juan Trelles Trabucco presents his masters thesis research &ldquo;CAVE2 comparison of 1st & 3rd user perspectives in virtual motor&hellip; <a href='/entry.php?id=2284'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2281'><img src='/resizedImages/500x280-crop-afebrettithesis_omegalib.png' alt='' title='PhD Defense Announcement: &ldquo;Multiview Immersion in Hybrid Reality Environments&rdquo;' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2281'>PhD Defense Announcement: &ldquo;Multiview Immersion in Hybrid Reality Environments&rdquo;</a></strong><br>
+			<a href='/entry.php?id=272'>Alessandro Febretti</a><br>
+			March 3, 2017<br><br>
+			Alessandro Febretti presents his PhD research in developing a model of an operating system for Hybrid Reality Environments, called Omegalib. Friday&hellip; <a href='/entry.php?id=2281'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2256'><img src='/resizedImages/500x280-crop-newcity-cover-img_0762.jpeg' alt='' title='Newcity magazine rates UIC/EVL as &ldquo;Best place to get your geek on&rdquo;' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2256'>Newcity magazine rates UIC/EVL as &ldquo;Best place to get your geek on&rdquo;</a></strong><br>
+						November 6, 2016<br><br>
+			Newcity magazine is Chicago&rsquo;s only locally owned and operated cultural weekly, and has been covering Chicago&rsquo;s local scene for more than&hellip; <a href='/entry.php?id=2256'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2245'><img src='/resizedImages/500x280-crop-evl-startrek-enterprise_exterior_ljl1492-small.jpg' alt='' title='UIC/EVL Helps Kick Off NSF&rsquo;s Holodeck Social Media Campaign' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2245'>UIC/EVL Helps Kick Off NSF&rsquo;s Holodeck Social Media Campaign</a></strong><br>
+			<a href='/entry.php?id=270'>Arthur Nishimoto</a><br>
+			September 19, 2016<br><br>
+			Capitalizing on Star Trek&rsquo;s 50th anniversary, which debuted on September 8, 1966, the National Science Foundation (NSF) has developed a social&hellip; <a href='/entry.php?id=2245'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2243'><img src='/resizedImages/500x280-crop-lewis_landscape.jpg' alt='' title='UIC/EVL Alumnus Lewis Siegel Amasses an Impressive Computer Graphics Resume over Nearly 25 Year Career' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2243'>UIC/EVL Alumnus Lewis Siegel Amasses an Impressive Computer Graphics Resume over Nearly 25 Year Career</a></strong><br>
+			<a href='/entry.php?id=283'>Lewis Siegel</a><br>
+			September 12, 2016<br><br>
+			September 2016 - Since graduating from the University of Illinois at Chicago (UIC) in 1992, Lewis Siegel, a Computer Science (CS) Master of Science&hellip; <a href='/entry.php?id=2243'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2242'><img src='/resizedImages/500x280-crop-2016_imageofresearch_combined.png' alt='' title='UIC/EVL Students Recognized in 2016 UIC Image of Research Competition' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2242'>UIC/EVL Students Recognized in 2016 UIC Image of Research Competition</a></strong><br>
+			<a href='/entry.php?id=2217'>James Hwang</a>, <a href='/entry.php?id=285'>Jillian Aurisano</a>, <a href='/entry.php?id=281'>Victor Mateevitsi</a><br>
+			September 7, 2016<br><br>
+			This year, UIC Computer Science (CS) PhD student and Electronic Visualization Laboratory (EVL) research assistant Victor Mateevitsi received 1st&hellip; <a href='/entry.php?id=2242'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2238'><img src='/resizedImages/500x280-crop-musicvr_ar.png' alt='' title='Music Instruction in a Virtual/Augmented Reality Environment (CAVE2&trade; and HoloLens)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2238'>Music Instruction in a Virtual/Augmented Reality Environment (CAVE2&trade; and HoloLens)</a></strong><br>
+			<a href='/entry.php?id=2236'>Shreyas Mohan</a><br>
+			August 10, 2016<br><br>
+			EVL summer intern, Shreyas Mohan from Metea Valley High School, Aurora, IL presents the results of his efforts towards developing a robust music&hellip; <a href='/entry.php?id=2238'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2227'><img src='/resizedImages/500x280-crop-sensei-panamacave2.png' alt='' title='SENSEI-Panama: Visualizing Animal Movement Data on a Virtual Island in the CAVE2&trade;' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2227'>SENSEI-Panama: Visualizing Animal Movement Data on a Virtual Island in the CAVE2&trade;</a></strong><br>
+			<a href='/entry.php?id=2217'>James Hwang</a>, <a href='/entry.php?id=285'>Jillian Aurisano</a><br>
+			June 29, 2016<br><br>
+			June 29, 2016, 1 PM EVL Cyber-Commons, Room 2068 ERF EVL PhD candidate Jillian Aurisano and research experience undergraduate (REU) James Hwang&hellip; <a href='/entry.php?id=2227'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2225'><img src='/resizedImages/500x280-crop-elo_heartsminds.png' alt='' title='&ldquo;Hearts and Minds: The Interrogations Project&rdquo; Awarded Top Electronic Literature Prize' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2225'>&ldquo;Hearts and Minds: The Interrogations Project&rdquo; Awarded Top Electronic Literature Prize</a></strong><br>
+			<a href='/entry.php?id=270'>Arthur Nishimoto</a>, <a href='/entry.php?id=188'>Daria Tsoupikova</a>, <a href='/entry.php?id=49'>Lance Long</a>, Roderick Coover (Temple University), Scott Rettberg (University of Bergen, Norway), Mark Partridge, Mark Baratta, John Tsukyama, Dr. Jeffrey Stevenson Murer (St. Andrews University, Scotland)<br>
+			June 11, 2016<br><br>
+			On June 11, 2016, at the annual Electronic Literature Organization (ELO) Conference at University of Victoria in Canada, &ldquo;Hearts and Minds: The&hellip; <a href='/entry.php?id=2225'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2220'><img src='/resizedImages/500x280-crop-heartsmindsisea2016.png' alt='' title='&ldquo;Hearts and Minds&rdquo; Exhibited at ISEA2016' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2220'>&ldquo;Hearts and Minds&rdquo; Exhibited at ISEA2016</a></strong><br>
+			<a href='/entry.php?id=270'>Arthur Nishimoto</a>, <a href='/entry.php?id=188'>Daria Tsoupikova</a>, <a href='/entry.php?id=49'>Lance Long</a>, Arthur Nishimoto, Daria Tsoupikova, Lance Long, Arthur Nishimoto, Lance Long - University of Illinois at Chicago; Roderick Coover, Mark Partridge - Temple University; Scott Rettberg - University of Bergen, Norway<br>
+			May 16, 2016 - May 22, 2016<br><br>
+			The collaborative 3D virtual reality experience &ldquo;Hearts and Minds: The Interrogations Project&rdquo; was exhibited during 22nd International&hellip; <a href='/entry.php?id=2220'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2221'><img src='/resizedImages/500x280-crop-rehabjim.png' alt='' title='Andrea Rottigni Thesis Presentation: &ldquo;Serious Games for Virtual Rehabilitation in a Large Scale Virtual Reality Environment&rdquo;' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2221'>Andrea Rottigni Thesis Presentation: &ldquo;Serious Games for Virtual Rehabilitation in a Large Scale Virtual Reality Environment&rdquo;</a></strong><br>
+			<a href='/entry.php?id=2290'>Andrea Rottigni</a>, <a href='/entry.php?id=2156'>Marco Cavallo</a>, Andrea Rottigni<br>
+			May 6, 2016<br><br>
+			Wednesday, May 6, 2016, 11:00 AM Room 1000, Science & Engineering Office Building, UIC UIC Computer Science and EVL exchange student from the&hellip; <a href='/entry.php?id=2221'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2209'><img src='/resizedImages/500x280-crop-evl-fleetcommander-arthur_ljl4415-medium.jpg' alt='' title='UIC CS/EVL PhD student Arthur Nishimoto receives 2016 UIC Chancellor's Student Service Award' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2209'>UIC CS/EVL PhD student Arthur Nishimoto receives 2016 UIC Chancellor's Student Service Award</a></strong><br>
+			<a href='/entry.php?id=270'>Arthur Nishimoto</a><br>
+			April 14, 2016<br><br>
+			Arthur Nishimoto, a PhD student in the UIC Computer Science Department and a Research Assistant at the UIC Electronic Visualization Laboratory (EVL)&hellip; <a href='/entry.php?id=2209'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2192'><img src='/resizedImages/500x280-crop-sensei_hwangpresentation.jpg' alt='' title='360 X 180 panorama construction based on image stitching method' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2192'>360 X 180 panorama construction based on image stitching method</a></strong><br>
+			<a href='/entry.php?id=2191'>Haoyu Wang</a><br>
+			April 6, 2016<br><br>
+			Wednesday, April 6, 2016, 1:00 PM EVL Cyber-Commons (Room 2068 ERF) EVL research assistant and Electrical and Computer Engineering PhD student, Haoyu&hellip; <a href='/entry.php?id=2192'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2169'><img src='/resizedImages/500x280-crop-womeninnewmedia_symposium.png' alt='' title='Celebrating Women in New Media Arts' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2169'>Celebrating Women in New Media Arts</a></strong><br>
+			<a href='/entry.php?id=76'>Carolina Cruz-Neira</a>, <a href='/entry.php?id=92'>Copper Giloth</a>, <a href='/entry.php?id=5'>Dana M. Plepys</a>, <a href='/entry.php?id=177'>Ellen Sandor</a>, <a href='/entry.php?id=124'>Lucy Petrovich</a>, <a href='/entry.php?id=86'>Margaret Dolinsky</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, Donna Cox, Janine Fron<br>
+			March 18, 2016<br><br>
+			Friday, March 18, 2016 9:30am - 4:30pm SAIC Ballroom, 112 S. Michigan Ave., Chicago &ldquo;Celebrating Women in New Media Arts,&rdquo; a one-day&hellip; <a href='/entry.php?id=2169'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2168'><img src='/resizedImages/500x280-crop-anishimoto_starwars.png' alt='' title='Star Wars Death Star reborn in virtual reality at UIC' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2168'>Star Wars Death Star reborn in virtual reality at UIC</a></strong><br>
+			<a href='/entry.php?id=270'>Arthur Nishimoto</a><br>
+			March 11, 2016<br><br>
+			In January 2016, Siying Li, a graduate student at the Medill School of Journalism at Northwestern University covering technology innovations for&hellip; <a href='/entry.php?id=2168'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2146'><img src='/resizedImages/500x280-crop-microsoftinternship.png' alt='' title='Summer Internship Enables UIC/EVL Student to Work on Multi-Person Virtual Reality' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2146'>Summer Internship Enables UIC/EVL Student to Work on Multi-Person Virtual Reality</a></strong><br>
+			<a href='/entry.php?id=281'>Victor Mateevitsi</a><br>
+			November 10, 2015<br><br>
+			Victor Mateevitsi, a University of Illinois at Chicago (UIC) PhD student in the Computer Science (CS) Department and the Electronic Visualization&hellip; <a href='/entry.php?id=2146'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2145'><img src='/resizedImages/500x280-crop-utsdataarena_bensimons_indabrc.jpg' alt='' title='Presentation Ben Simons, University of Technology Sydney (UTS)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2145'>Presentation Ben Simons, University of Technology Sydney (UTS)</a></strong><br>
+						November 4, 2015<br><br>
+			ABSTRACT The University of Technology Sydney (UTS) opened the UTS Data Arena in July 2015. The Data Arena is an interactive 3D-Stereo Data Science&hellip; <a href='/entry.php?id=2145'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2144'><img src='/resizedImages/500x280-crop-cavewithstudents1999_sm.png' alt='' title='Innovative Discoveries From the University of Illinois' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2144'>Innovative Discoveries From the University of Illinois</a></strong><br>
+						October 27, 2015<br><br>
+			The Office of the Vice President for Research of the University of Illinois has published the report &ldquo;Innovative Discoveries From the&hellip; <a href='/entry.php?id=2144'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2140'><img src='/resizedImages/500x280-crop-carolina001-2.jpg' alt='' title='EVL Alumna Opens Emerging Analytics Center at University of Arkansas' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2140'>EVL Alumna Opens Emerging Analytics Center at University of Arkansas</a></strong><br>
+						October 16, 2015 - October 17, 2015<br><br>
+			EVL PhD alumna and director of the University of Arkansas Little Rock&rsquo;s Emerging Analytics Center, Carolina Cruz-Neira hosts the inaugural open&hellip; <a href='/entry.php?id=2140'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2131'><img src='/resizedImages/500x280-crop-evl_ctabus.jpg' alt='' title='UIC&rsquo;s CAVE2&trade; showcased on CTA buses' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2131'>UIC&rsquo;s CAVE2&trade; showcased on CTA buses</a></strong><br>
+						September 17, 2015<br><br>
+			As you walk through downtown Chicago, don&rsquo;t be surprised to advertisements for the University of Illinois at Chicago (UIC) popping up on city&hellip; <a href='/entry.php?id=2131'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2129'><img src='/resizedImages/500x280-crop-virtual_harlem.jpg' alt='' title='Virtual Harlem Lives On' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2129'>Virtual Harlem Lives On</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a><br>
+			August 23, 2015<br><br>
+			The Electronic Visualization Laboratory (EVL) at University of Illinois at Chicago was an early participant in the project &ldquo;Virtual&hellip; <a href='/entry.php?id=2129'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2118'><img src='/resizedImages/500x280-crop-evl-carlos-josh-brook.jpg' alt='' title='Computer Research Association Funds UIC Computer Science Undergrads to Pursue Careers in Research' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2118'>Computer Research Association Funds UIC Computer Science Undergrads to Pursue Careers in Research</a></strong><br>
+			<a href='/entry.php?id=2119'>Brook Habtegiorgis</a>, <a href='/entry.php?id=2120'>Carlos Uribe</a>, <a href='/entry.php?id=2052'>G. Elisabeta Marai</a>, <a href='/entry.php?id=2099'>Joshua Rodriguez</a><br>
+			August 6, 2015<br><br>
+			UIC Computer Science Undergraduate Students&rsquo; Potential Accelerates with a Special Mentorship August 6, 2015 UIC Computer Science (CS)&hellip; <a href='/entry.php?id=2118'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2100'><img src='/resizedImages/500x280-crop-nishimotouserinterfaceresearch.png' alt='' title='SAGE2 Multi-User Touch Centric Interface  and Unity3D in CAVE2: First Steps in a More Interactive Virtual World' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2100'>SAGE2 Multi-User Touch Centric Interface  and Unity3D in CAVE2: First Steps in a More Interactive Virtual World</a></strong><br>
+			<a href='/entry.php?id=270'>Arthur Nishimoto</a><br>
+			June 3, 2015<br><br>
+			EVL PhD candidate, Arthur Nishimoto presents his research in user-interface design for multi-user touch display environments, followed by an overview&hellip; <a href='/entry.php?id=2100'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2083'><img src='/resizedImages/500x280-crop-iitvis_articulateslide.jpg' alt='' title='In the Loop: Maxine D. Brown' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2083'>In the Loop: Maxine D. Brown</a></strong><br>
+			<a href='/entry.php?id=178'>Maxine Brown</a><br>
+			April 21, 2015<br><br>
+			EVL Director, Maxine D. Brown presents EVL's latest research in collaborative tools and technologies at Chicago's Illinois Institute of Technology&hellip; <a href='/entry.php?id=2083'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1191'><img src='/resizedImages/500x280-crop-sensei-whole_pi_geode.jpg' alt='' title='UIC / EVL is building a camera that sees 360 degrees in 3D' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1191'>UIC / EVL is building a camera that sees 360 degrees in 3D</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=2279'>Harlyn Baker</a><br>
+			November 24, 2014<br><br>
+			EDITOR&rsquo;S NOTE: UIC received a $3 million award from the National Science Foundation entitled &ldquo;Development of the Sensor Environment&hellip; <a href='/entry.php?id=1191'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1179'><img src='/resizedImages/500x280-crop-sensei.png' alt='' title='EVL of UIC Computer Science Department receives new $3 million grant from NSF' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1179'>EVL of UIC Computer Science Department receives new $3 million grant from NSF</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=2279'>Harlyn Baker</a>, PI: Maxine Brown, Director of EVL<br><br>
+Co-PIs: Robert V. Kenyon, Andrew E. Johnson, Tanya Berger-Wolf<br>
+			September 16, 2014<br><br>
+			UIC received a $3 million award from the National Science Foundation entitled &ldquo;Development of the Sensor Environment Imaging (SENSEI)&hellip; <a href='/entry.php?id=1179'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1166'><img src='/resizedImages/500x280-crop-paulbonningtoncave2monash_6-20-14.png' alt='' title='Monash: In the cave of high science' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1166'>Monash: In the cave of high science</a></strong><br>
+			Paul Bonnington, director; David Barnes, senior research fellow (Monash eResearch Centre)<br>
+			June 19, 2014<br><br>
+			The first customer to buy a CAVE2&trade; system from Mechdyne Corporation, the company that licensed the technology from the UIC Electronic&hellip; <a href='/entry.php?id=1166'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1162'><img src='/resizedImages/500x280-crop-heartsandminds.jpg' alt='' title='Battlefield Torture, Climate Change, and Immersive Narrative - EVL presents two provocative new artworks' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1162'>Battlefield Torture, Climate Change, and Immersive Narrative - EVL presents two provocative new artworks</a></strong><br>
+			<a href='/entry.php?id=270'>Arthur Nishimoto</a>, <a href='/entry.php?id=188'>Daria Tsoupikova</a>, <a href='/entry.php?id=49'>Lance Long</a>, Arthur Nishimoto, Lance Long - University of Illinois at Chicago; Roderick Coover, Mark Partridge - Temple University; Scott Rettberg - University of Bergen, Norway<br>
+			June 17, 2014 - July 7, 2014<br><br>
+			Tuesday, June 17th, 3-5 PM Monday, July 7th, 4-6 PM The Electronic Visualization Lab (EVL) at the University of Illinois Chicago (UIC) is pleased to&hellip; <a href='/entry.php?id=1162'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1158'><img src='/resizedImages/500x280-crop-sustainabilitywinner.png' alt='' title='UIC / EVL one of the &ldquo;Proud to be Sustainable&rdquo; Photo Contest winners' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1158'>UIC / EVL one of the &ldquo;Proud to be Sustainable&rdquo; Photo Contest winners</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a><br>
+			April 29, 2014<br><br>
+			April 29 2014, the UIC Office of Sustainability celebrated the results of its &ldquo;Proud to be Sustainable&rdquo; Photo Contest at the UIC African&hellip; <a href='/entry.php?id=1158'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1153'><img src='/resizedImages/500x280-crop-thecaveartists.png' alt='' title='The CAVE artists' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1153'>The CAVE artists</a></strong><br>
+						March 4, 2014<br><br>
+			The article &ldquo;The CAVE artists&rdquo; was recently published in Nature Medicine, Vol. 20, 2014, pp. 228-230, doi:10.1038/nm0314-228. The article&hellip; <a href='/entry.php?id=1153'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1147'><img src='/resizedImages/500x280-crop-starship_nytimes_1-26-14.png' alt='' title='NY TIMES: Disruptions: The Holodeck Begins to Take Shape' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1147'>NY TIMES: Disruptions: The Holodeck Begins to Take Shape</a></strong><br>
+						January 26, 2014<br><br>
+			Sunday, January 26, 2014, the New York Times had a blog / story entitled &ldquo;Disruptions: The Holodeck Begins to Take Shape,&rdquo; by journalist&hellip; <a href='/entry.php?id=1147'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1144'><img src='/resizedImages/500x280-crop-evl-cave2-simple-b_sm.png' alt='' title='EVL and NASA ENDURANCE on Al Jazeera America' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1144'>EVL and NASA ENDURANCE on Al Jazeera America</a></strong><br>
+			Electronic Visualization Laboratory &amp; Department of Earth and Environmental Sciences (University of Illinois at Chicago)<br>Stone Aerospace<br>NASA Ames Research Center<br>Montana State University<br>
+			December 8, 2013<br><br>
+			On December 8, 2013, the Al Jazeera America television station aired a science story on the NASA-funded ENDURANCE project, a collaboration of&hellip; <a href='/entry.php?id=1144'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1133'><img src='/resizedImages/500x280-crop-ciw2013-startrek.jpg' alt='' title='CHICAGO TRIBUNE highlights UIC EVL&rsquo;s participation in Chicago Ideas Week 2013' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1133'>CHICAGO TRIBUNE highlights UIC EVL&rsquo;s participation in Chicago Ideas Week 2013</a></strong><br>
+						October 21, 2013<br><br>
+			Chicago Ideas Week: Lab attendees visit Mars and Egypt with UIC&rsquo;s EVL On October 21, 2013, the CHICAGO TRIBUNE published an article&hellip; <a href='/entry.php?id=1133'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1134'><img src='/resizedImages/500x280-crop-monash-cave2.jpg' alt='' title='Australia&rsquo;s Monash University introduces world&rsquo;s second CAVE2&trade; System' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1134'>Australia&rsquo;s Monash University introduces world&rsquo;s second CAVE2&trade; System</a></strong><br>
+			Electronic Visualization Laboratory, Monash University, Mechdyne Corporations<br>
+			October 19, 2013<br><br>
+			Though not officially yet launched, the CAVE2&trade; Hybrid Reality Environment at Monash University is already a centerpiece of the new building&hellip; <a href='/entry.php?id=1134'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1131'><img src='/resizedImages/500x280-crop-nurail_cave2.jpg' alt='' title='Chicago Ideas Week (CIW) 2013' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1131'>Chicago Ideas Week (CIW) 2013</a></strong><br>
+						October 14, 2013<br><br>
+			Chicago Ideas Week (CIW) 2013 EVL TOUR SOLD OUT Date: Monday, October 14 Time: 1:00pm - 2:00pm Location of EVL CAVE2&trade; Tours: EVL TOUR SOLD OUT&hellip; <a href='/entry.php?id=1131'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1130'><img src='/resizedImages/500x280-crop-evl_cybercommons_openhouse.jpg' alt='' title='UIC Open House 2013' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1130'>UIC Open House 2013</a></strong><br>
+						October 5, 2013<br><br>
+			UIC Open House 2013 Date: Saturday, October 5 Time: Open House 9:00am - 2pm (EVL CAVE2&trade; Tours 10:00am - 2:00pm) Location of EVL CAVE2&trade;&hellip; <a href='/entry.php?id=1130'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1129'><img src='/resizedImages/500x280-crop-evl-connectome_sm.jpg' alt='' title='The art of numbers: Who knew Big Data could look so cool?' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1129'>The art of numbers: Who knew Big Data could look so cool?</a></strong><br>
+						September 18, 2013<br><br>
+			PCWorld&rsquo;s sister publication TechHive (1.2 million monthly unique visitors) published the story &ldquo;The art of numbers: Who knew Big Data&hellip; <a href='/entry.php?id=1129'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1112'><img src='/resizedImages/500x280-crop-uic-cave2-jason-andy-018-760-callielipkin.jpg' alt='' title='Visualizing Next-Generation Virtual Reality in Chicago' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1112'>Visualizing Next-Generation Virtual Reality in Chicago</a></strong><br>
+						May 22, 2013<br><br>
+			EdTech: Focus on Higher Education, a CDW*G publication, just released a video news story about the CAVE2&trade; Hybrid Reality Environment developed&hellip; <a href='/entry.php?id=1112'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1109'><img src='/resizedImages/500x280-crop-projectbatman.jpeg' alt='' title='WBEZ and WTTW promote UIC / EVL&rsquo;s Project Batman' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1109'>WBEZ and WTTW promote UIC / EVL&rsquo;s <em>Project Batman</em></a></strong><br>
+						April 30, 2013<br><br>
+			Project Batman is a UIC Electronic Visualization Laboratory (EVL) project being done in conjunction with the Civic Consulting Alliance (CCA) of&hellip; <a href='/entry.php?id=1109'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1108'><img src='/resizedImages/500x280-crop-cave2_signwttw.jpg' alt='' title='WTTW airs story on EVL and CAVE2&trade; System - Tuesday, April 23' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1108'>WTTW airs story on EVL and CAVE2&trade; System - Tuesday, April 23</a></strong><br>
+						April 23, 2013<br><br>
+			On Tuesday, April 23, 2013, the WTTW television news show &ldquo;Chicago Tonight&rdquo; aired an ~8 minute &ldquo;Scientific Chicago&rdquo; segment&hellip; <a href='/entry.php?id=1108'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1105'><img src='/resizedImages/500x280-crop-20bits-smarr-tmagarticle.jpg' alt='' title='UIC / EVL mentioned in New York Times: A Big Data Freeway for Scientists' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1105'>UIC / EVL mentioned in New York Times: A Big Data Freeway for Scientists</a></strong><br>
+			Electronic Visualization Laboratory, University of Illinois at Chicago, California Institute for Telecommunications and Information Technology (Calit2), University of California, San Diego<br>
+			March 20, 2013<br><br>
+			The article &ldquo;A &lsquo;Big Data&rsquo; Freeway for Scientists&rdquo; by John Markoff appeared the March 20, 2013 issue of the New York Times&hellip; <a href='/entry.php?id=1105'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1102'><img src='/resizedImages/500x280-crop-evl-openhouse2013-brain_ljl1256.jpg' alt='' title='Step into a Virtual World (UIC News)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1102'>Step into a Virtual World (UIC News)</a></strong><br>
+						March 5, 2013<br><br>
+			Matt O&rsquo;Connor &ldquo;We love science fiction, and we just want to live in the science fiction world,&rdquo; said computer scientist Jason&hellip; <a href='/entry.php?id=1102'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1103'><img src='/resizedImages/500x280-crop-evl-cave2-hybridenvironment_ljl1468-small.jpg' alt='' title='Mechdyne Corporation Licenses CAVE2&trade; Hybrid Reality Environment from the University of Illinois at Chicago' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1103'>Mechdyne Corporation Licenses CAVE2&trade; Hybrid Reality Environment from the University of Illinois at Chicago</a></strong><br>
+			Mechdyne Corporation<br>
+			March 5, 2013<br><br>
+			EDITOR&rsquo;S NOTE: The University of Illinois at Chicago (UIC) licensed the CAVE2&trade; Hybrid Reality Environment to Mechdyne Corporation&hellip; <a href='/entry.php?id=1103'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1096'><img src='/resizedImages/500x280-crop-leighcave2_ap.png' alt='' title='Associated Press releases print and video stories about UIC / EVL CAVE2&trade; System' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1096'>Associated Press releases print and video stories about UIC / EVL CAVE2&trade; System</a></strong><br>
+						February 20, 2013<br><br>
+			Today the Associated Press issued the following article, photographs and video about the UIC Electronic Visualization Laboratory&rsquo;s CAVE2&trade;&hellip; <a href='/entry.php?id=1096'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1099'><img src='/resizedImages/500x280-crop-nmvrconference2013.png' alt='' title='NextMed MMVR20 Conference' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1099'>NextMed MMVR20 Conference</a></strong><br>
+			<a href='/entry.php?id=188'>Daria Tsoupikova</a>, School of Art &amp; Design University of Illinois at Chicago<br>
+			February 20, 2013 - February 23, 2013<br><br>
+			EVL associate professor, Daria Tsoupikova presents her collaborative research at the 2013 NextMed NMVR20 Conference in San Diego, CA&hellip; <a href='/entry.php?id=1099'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1092'><img src='/resizedImages/500x280-crop-spie13paper_cave2hybridmode.png' alt='' title='SPIE 2013, The Engineering Reality of Virtual Reality' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1092'>SPIE 2013, The Engineering Reality of Virtual Reality</a></strong><br>
+			<a href='/entry.php?id=272'>Alessandro Febretti</a><br>
+			February 4, 2013 - February 5, 2013<br><br>
+			EVL PhD candidate Alessandro Febretti discusses the CAVE2&trade; instrumentation research and developed at the annual IS&amp;T / SPIE Electronic&hellip; <a href='/entry.php?id=1092'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1093'><img src='/resizedImages/500x280-crop-edtechmagazine_cave2.png' alt='' title='University of Illinois at Chicago: Virtual Reality&rsquo;s CAVE&trade; Pioneer' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1093'>University of Illinois at Chicago: Virtual Reality&rsquo;s CAVE&trade; Pioneer</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a><br>
+			February 4, 2013<br><br>
+			The CAVE2&trade; Hybrid Reality Environment, developed by the University of Illinois at Chicago&rsquo;s Electronic Visualization Laboratory (EVL), is&hellip; <a href='/entry.php?id=1093'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1088'><img src='/resizedImages/500x280-crop-evl-brain-neurosurgeons-110112_ljl5277-small.jpg' alt='' title='State-of-the-Art Virtual Reality System Is Key to Medical Discovery' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1088'>State-of-the-Art Virtual Reality System Is Key to Medical Discovery</a></strong><br>
+			<a href='/entry.php?id=290'>Thomas Marrinan</a>, Bioengineering Laboratory for Product and Process Design (LPPD), UIC College of Medicine<br>
+			December 12, 2012<br><br>
+			UIC&rsquo;s new CAVE2&trade; Hybrid Reality Environment is only two months old, and is already helping UIC neurosurgeons and bioengineering&hellip; <a href='/entry.php?id=1088'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1087'><img src='/resizedImages/500x280-crop-evl-enterprise-interior-sreenshot.png' alt='' title='Move over, Holodeck' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1087'>Move over, Holodeck</a></strong><br>
+			<a href='/entry.php?id=270'>Arthur Nishimoto</a><br>
+			November 28, 2012<br><br>
+			EDITOR&rsquo;S NOTE: Here are excerpts from a recent article by Northwestern University journalism student Mitch Smith on standing on the bridge of&hellip; <a href='/entry.php?id=1087'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1082'><img src='/resizedImages/500x280-crop-cave2+mars.jpg' alt='' title='Move over NASA: Explore the surface of Mars with virtual reality' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1082'>Move over NASA: Explore the surface of Mars with virtual reality</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, UIC Associate Professor; David Hofman, UIC Professor / Acting Head, UIC Physics Department; Mark SubbaRao, Astronomer / Director, Space Visualization Laboratory, Adler Planetarium<br>
+			October 30, 2012<br><br>
+			The UIC Electronic Visualization Laboratory (EVL) CAVE2&trade; Virtual-Reality System is profiled in a recent news article by a Northwestern&hellip; <a href='/entry.php?id=1082'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1084'><img src='/resizedImages/500x280-crop-visweek2012_marrinan.png' alt='' title='VisWeek 2012' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1084'>VisWeek 2012</a></strong><br>
+			<a href='/entry.php?id=290'>Thomas Marrinan</a>, Ian Gould, Chih-Yang Hsu, Andreas Linninger<br>
+			October 14, 2012 - October 19, 2012<br><br>
+			EVL PhD candidate Thomas Marrinan presents Whole-Brain Vascular Reconstruction, Simulation, and Visualization at VisWeek 2012 in Seattle, Washington&hellip; <a href='/entry.php?id=1084'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1078'><img src='/resizedImages/500x280-crop-evl-chemistry_ljl2368-small.png' alt='' title='CAVE2&trade; - An Advanced Cyberworld for Data Exploration' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1078'>CAVE2&trade; - An Advanced Cyberworld for Data Exploration</a></strong><br>
+			EVL faculty, staff, and students<br>
+			October 3, 2012<br><br>
+			CHICAGO, OCTOBER 3, 2012 - Today, most professions rely on computers to capture, filter, analyze and visualize data. When studying phenomena too&hellip; <a href='/entry.php?id=1078'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1075'><img src='/resizedImages/500x280-crop-jillianaurisano-2.jpg' alt='' title='UIC NEWS profiles CS student Jillian Aurisano: bridging the gender gap' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1075'>UIC NEWS profiles CS student Jillian Aurisano: bridging the gender gap</a></strong><br>
+			<a href='/entry.php?id=285'>Jillian Aurisano</a><br>
+			September 2, 2012<br><br>
+			The September 2, 2012 issue of UIC NEWS profiles Computer Science MS student Jillian Aurisano. She&rsquo;s a woman who is working in a field where&hellip; <a href='/entry.php?id=1075'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1067'><img src='/resizedImages/500x280-crop-hida.jpg' alt='' title='Hirofumi Ida, Virtual-reality in health and sports science' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1067'>Hirofumi Ida, Virtual-reality in health and sports science</a></strong><br>
+						May 30, 2012<br><br>
+			Dr. Hirofumi Ida, Research Associate, Department of Physical Therapy, University of Illinois at Chicago and Research Fellow, Department of Human&hellip; <a href='/entry.php?id=1067'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1054'><img src='/resizedImages/500x280-crop-vre_madhatterdtsoupikova.jpg' alt='' title='Innovative virtual reality technology revolutionizes stroke therapy' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1054'>Innovative virtual reality technology revolutionizes stroke therapy</a></strong><br>
+			<a href='/entry.php?id=188'>Daria Tsoupikova</a><br>
+			March 1, 2012<br><br>
+			EDITOR&rsquo;S NOTE: Two Northwestern University Medill School journalism students spent a week at the UIC Electronic Visualization Laboratory (EVL)&hellip; <a href='/entry.php?id=1054'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1052'><img src='/resizedImages/500x280-crop-tidecombo2.jpg' alt='' title='1998 research paper wins an award!' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1052'>1998 research paper wins an award!</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a><br>
+			February 25, 2012<br><br>
+			February 25, 2012 Jason Leigh and Andy Johnson of the UIC Electronic Visualization Laboratory (EVL) recently learned that a paper they helped&hellip; <a href='/entry.php?id=1052'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1041'><img src='/resizedImages/500x280-crop-_ljl5111-3-4-cyber-commons3d-small.jpg' alt='' title='LEARNING IN 3D' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1041'>LEARNING IN 3D</a></strong><br>
+						November 16, 2011<br><br>
+			EDITOR&rsquo;S NOTE: Last week the UIC Electronic Visualization Laboratory introduced a 3D version of its popular Cyber-Commons&rsquo;&hellip; <a href='/entry.php?id=1041'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1042'><img src='/resizedImages/500x280-crop-sc11_sagebof_audience.jpg' alt='' title='SAGE HIGHLIGHTS @ SC11' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1042'>SAGE HIGHLIGHTS @ SC11</a></strong><br>
+			EVL faculty, staff, and students<br>
+			November 14, 2011 - November 18, 2011<br><br>
+			SAGE, the Scalable Adaptive Graphics Environment, is a graphics streaming architecture that enables users to interactively access, display and share&hellip; <a href='/entry.php?id=1042'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1039'><img src='/resizedImages/500x280-crop-cyber-commons2.jpg' alt='' title='New UIC &lsquo;Cyber-Commons&rsquo; Wall Pops with 3-D Imagery' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1039'>New UIC &lsquo;Cyber-Commons&rsquo; Wall Pops with 3-D Imagery</a></strong><br>
+						November 9, 2011<br><br>
+			by Paul Francuch, UIC NEWS November 9, 2011 Seamlessly-tiled LCD flat-screen displays stretching floor-to-ceiling and wall-to-wall at the University&hellip; <a href='/entry.php?id=1039'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1030'><img src='/resizedImages/500x280-crop-dylanmenzies.jpg' alt='' title='Virtual Audio Reality, Dylan Menzies' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1030'>Virtual Audio Reality, Dylan Menzies</a></strong><br>
+						October 19, 2011<br><br>
+			Dr. Dylan Menzies (Department of Media Technology, De Montfort University, UK) presents his research in audio signal processing, physical acoustics&hellip; <a href='/entry.php?id=1030'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1034'><img src='/resizedImages/500x280-crop-last_day_varrier_smaller.jpg' alt='' title='VARRIER IS RETIRED: SPACE RENOVATION FOR NEXT-GENERATION INNOVATION' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1034'>VARRIER IS RETIRED: SPACE RENOVATION FOR NEXT-GENERATION INNOVATION</a></strong><br>
+			EVL faculty, staff, and students<br>
+			September 14, 2011<br><br>
+			September 14, 2011 - Today, the UIC Electronic Visualization Laboratory (EVL) retired and dismantled Varrier, a unique tiled-display, head-tracked&hellip; <a href='/entry.php?id=1034'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1029'><img src='/resizedImages/500x280-crop-james_prelim_pic_8-11.jpg' alt='' title='Supervised Hybrid Expression Control Framework for a Lifelike Affective Avatar' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1029'>Supervised Hybrid Expression Control Framework for a Lifelike Affective Avatar</a></strong><br>
+			<a href='/entry.php?id=207'>Sangyoon Lee</a>, Advisor: Andrew Johnson, Committee: Jason Leigh, Luc Renambot, Barbara Eugenio, Steve Jones<br>
+			September 2, 2011<br><br>
+			EVL PhD candidate Sangyoon Lee presents his preliminary examination for doctoral dissertation: Friday, September 2, 2011, 10AM, EVL Cyber-Commons&hellip; <a href='/entry.php?id=1029'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1010'><img src='/resizedImages/500x280-crop-infinitereality.jpg' alt='' title='Infinite Reality: Avatars, Eternal Life, New Worlds, and&hellip;' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1010'>Infinite Reality: Avatars, Eternal Life, New Worlds, and&hellip;</a></strong><br>
+			<em>Project LifeLike</em> research team<br>
+			April 19, 2011<br><br>
+			In the new book Infinite Reality: Avatars, Eternal Life, New Worlds, and the Dawn of the Virtual Revolution, Jim Blascovich and Jeremy Bailenson take&hellip; <a href='/entry.php?id=1010'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1004'><img src='/resizedImages/500x280-crop-sandinmedill_3-11.png' alt='' title='Visualization pioneer creates virtual worlds' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1004'>Visualization pioneer creates virtual worlds</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a><br>
+			March 16, 2011<br><br>
+			Dan Sandin may be Co-founder and Director Emeritus of the UIC Electronic Visualization Laboratory (EVL) and Professor Emeritus of the UIC School of&hellip; <a href='/entry.php?id=1004'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=983'><img src='/resizedImages/500x280-crop-hapticscourse.png' alt='' title='IE 494: Haptics &amp; Augmented Reality' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=983'>IE 494: Haptics &amp; Augmented Reality</a></strong><br>
+			<a href='/entry.php?id=182'>Cristian J. Luciano</a><br>
+			January 11, 2011 - May 7, 2011<br><br>
+			Are you interested in learning a cool 3D-touch technology? EVL collaborator, Research Assistant Professor Cristian Luciano (MIE) introduces&hellip; <a href='/entry.php?id=983'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=980'><img src='/resizedImages/500x280-crop-lifelike_iva2010.png' alt='' title='IVA 2010' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=980'>IVA 2010</a></strong><br>
+			<a href='/entry.php?id=207'>Sangyoon Lee</a><br>
+			September 20, 2010 - September 22, 2010<br><br>
+			Ph.D. candidate, Sangyoon Lee presents EVL&rsquo;s research on creating LifeLike avatars at the 10th International Conference on Intelligent Virtual&hellip; <a href='/entry.php?id=980'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=977'><img src='/resizedImages/500x280-crop-autostereovarrier.png' alt='' title='A New Vision for 3D Takes Shape in Pennsylvania' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=977'>A New Vision for 3D Takes Shape in Pennsylvania</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a><br>
+			September 2, 2010<br><br>
+			The human head contains two eyes. When we step into the real world, the ability to use our eyes to perceive length, width and depth is as essential&hellip; <a href='/entry.php?id=977'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=971'><img src='/resizedImages/500x280-crop-uicminorityeng_chgst.jpg' alt='' title='EVL Education &amp; Outreach: Chicago State University' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=971'>EVL Education &amp; Outreach: Chicago State University</a></strong><br>
+			EVL faculty, staff, and students<br>
+			July 9, 2010<br><br>
+			On July 9, 2010, University of Illinois at Chicago (UIC) Associate Professor Andy Johnson of the Electronic Visualization Laboratory (EVL) and&hellip; <a href='/entry.php?id=971'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=967'><img src='/resizedImages/500x280-crop-ng-cave.png' alt='' title='Medicine&rsquo;s Next Frontier' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=967'>Medicine&rsquo;s Next Frontier</a></strong><br>
+			EVL faculty, staff, and students<br>
+			June 26, 2010<br><br>
+			The article Medicine&rsquo;s Next Frontier by Sandra Guy appeared in the June 26, 2010 issue of the Chicago Sun-Times. It reports on a major new&hellip; <a href='/entry.php?id=967'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=965'><img src='/resizedImages/500x280-crop-luciandissertation.png' alt='' title='PhD Dissertation: Open Surgery Training Simulator' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=965'>PhD Dissertation: Open Surgery Training Simulator</a></strong><br>
+			<a href='/entry.php?id=182'>Cristian J. Luciano</a>, Chairperson: Professor Pat Banerjee<br>
+			June 24, 2010<br><br>
+			Open Surgery Training Simulator Using Haptics and Augmented Reality Technologies This thesis focuses on the R&amp;D of a novel Haptics-based&hellip; <a href='/entry.php?id=965'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=963'><img src='/resizedImages/500x280-crop-alex_model_20070529_sm.jpg' alt='' title='Immortal Avatars: Back Up Your Brain, Never Die' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=963'>Immortal Avatars: Back Up Your Brain, Never Die</a></strong><br>
+			EVL faculty, staff, and students<br>
+			June 7, 2010<br><br>
+			The June 7, 2010 issue of &ldquo;New Scientist&rdquo; magazine has an article by Linda Geddes on current research to create lifelike digital&hellip; <a href='/entry.php?id=963'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=957'><img src='/resizedImages/500x280-crop-ng-cavesimulation.png' alt='' title='EVL Awarded NSF MRI (NG-CAVE)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=957'>EVL Awarded NSF MRI (NG-CAVE)</a></strong><br>
+			Andrew Johnson, Jason Leigh, Thomas Peterka, Maxine Brown<br>
+			May 1, 2010 - April 30, 2013<br><br>
+			The National Science Foundation has awarded UIC&rsquo;s Electronic Visualization Laboratory a Major Research Instrumentation grant MRI-R2&hellip; <a href='/entry.php?id=957'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=958'><img src='/resizedImages/500x280-crop-bvis_barrow.png' alt='' title='CBS news profiles UIC&rsquo;s BVis (and EVL technologies)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=958'>CBS news profiles UIC&rsquo;s BVis (and EVL technologies)</a></strong><br>
+			<a href='/entry.php?id=192'>Luc Renambot</a>, EVL faculty, staff, and students<br>
+			April 21, 2010<br><br>
+			CBS Chicago evening news recently profiled UIC&rsquo;s Biomedical Visualization (BVis) program, part of the College of Applied Health Sciences and a&hellip; <a href='/entry.php?id=958'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=955'><img src='/resizedImages/500x280-crop-leecomputerscience.jpg' alt='' title='Project LifeLike Received First Place in the UIC Image of Research 2010 Competition' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=955'>Project LifeLike Received First Place in the UIC Image of Research 2010 Competition</a></strong><br>
+			<a href='/entry.php?id=207'>Sangyoon Lee</a><br>
+			April 6, 2010<br><br>
+			Sanyoon Lee, a PhD student in the UIC Department of Computer Science and a Research Assistant in the Electronic Visualization Laboratory (EVL), won&hellip; <a href='/entry.php?id=955'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=945'><img src='/resizedImages/500x280-crop-gallery400.jpg' alt='' title='2010 MFA Thesis Exhibitions' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=945'>2010 MFA Thesis Exhibitions</a></strong><br>
+			<a href='/entry.php?id=263'>Alejandro Borsani</a>, <a href='/entry.php?id=264'>Andrew Oleksiuk</a>, <a href='/entry.php?id=266'>Arunan Rabindran</a>, <a href='/entry.php?id=251'>Benjamin Thorp</a>, <a href='/entry.php?id=240'>Heejoo Kim</a>, <a href='/entry.php?id=2375'>Joseph Baldwin</a>, <a href='/entry.php?id=244'>Julio Obelleiro</a>, <a href='/entry.php?id=247'>Tesia Kosmalski</a>, Jeremy Tubbs<br>
+			March 16, 2010 - April 17, 2010<br><br>
+			The 2010 Masters of Fine Arts (MFA) exhibitions for Electronic Visualization (EV) students will be held co-jointly with Visual Art, Photography and&hellip; <a href='/entry.php?id=945'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=950'><img src='/resizedImages/500x280-crop-ajohnson_medill.png' alt='' title='Andy Johnson Feature (Medill School)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=950'>Andy Johnson Feature (Medill School)</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, Northwestern University&rsquo;s Medill School<br>
+			March 16, 2010<br><br>
+			In January, EVL hosted a class of journalism students from Northwestern University&rsquo;s Medill School; their visit consisted of an overview of&hellip; <a href='/entry.php?id=950'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=956'><img src='/misc/default_500x280.png' alt='' title='Glasses-free 3D' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=956'>Glasses-free 3D</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, EVL faculty, staff, and students<br>
+			March 9, 2010<br><br>
+			by Thomas Forrest, Medill Reports - Chicago, Northwestern University MARCH 9, 2010 - You&rsquo;re in the far depths of space and turn your head to&hellip; <a href='/entry.php?id=956'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=954'><img src='/resizedImages/500x280-crop-impact_maxine.png' alt='' title='UIC&rsquo;s Impact Magazine' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=954'>UIC&rsquo;s Impact Magazine</a></strong><br>
+			EVL faculty, staff, and students<br>
+			March 1, 2010 - March 31, 2010<br><br>
+			In March 2010, UIC published Impact magazine, showcasing UIC&rsquo;s endeavors, &ldquo;?&hellip;that have made and will continue to make lasting&hellip; <a href='/entry.php?id=954'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=941'><img src='/resizedImages/500x280-crop-sungwon_sage2_sm.jpg' alt='' title='Multimedia Systems 2010' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=941'>Multimedia Systems 2010</a></strong><br>
+			<a href='/entry.php?id=248'>Sungwon Nam</a>, Venkat Vishwanath (Argonne National Laboratory), Sachin Deshpande (Sharp Laboratories of America), Byungil Jeong (Texas Advanced Computing Center)<br>
+			February 22, 2010 - February 23, 2010<br><br>
+			EVL PhD candidate, Sungwon Nam presents the results of the latest research and improvements for intertile synchronization of ultra-high resolution&hellip; <a href='/entry.php?id=941'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=943'><img src='/resizedImages/500x280-crop-sa09logo_centered.jpg' alt='' title='Virtual Reality Environment Assisting Recovery from Stroke' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=943'>Virtual Reality Environment Assisting Recovery from Stroke</a></strong><br>
+			<a href='/entry.php?id=188'>Daria Tsoupikova</a>, Nikolay Stoykov, Bioengineering,  Rehabilitation Institute of Chicago (RIC), Randy Vick, Art Therapy, School of Art Institute of Chicago (SAIC)<br>
+			December 19, 2009<br><br>
+			A networked demonstration of the collaborative project Virtual Reality Environment Assisting Recovery from Stroke premiered at the SIGGRAPH ASIA 2009&hellip; <a href='/entry.php?id=943'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=938'><img src='/resizedImages/500x280-crop-sage_sc09.png' alt='' title='SAGE HIGHLIGHTS @ SC09' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=938'>SAGE HIGHLIGHTS @ SC09</a></strong><br>
+			EVL faculty, staff, and students<br>
+			November 17, 2009<br><br>
+			Want to create &ldquo;cyber-mashups&rdquo; and easily juxtapose information on tiled display walls? SAGE is the answer. SAGE provides a common&hellip; <a href='/entry.php?id=938'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=937'><img src='/resizedImages/500x280-crop-aao09.gif' alt='' title='Teaching Doctors Using Stereoscopic Imaging at AAO 2009' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=937'>Teaching Doctors Using Stereoscopic Imaging at AAO 2009</a></strong><br>
+			<a href='/entry.php?id=192'>Luc Renambot</a>, EVL, Rick Fiscella, UIC Department of Pharmacy Practice (PHARM)<br>
+			October 24, 2009 - October 27, 2009<br><br>
+			October 30, 2009 - Teaching doctors about eye diseases using stereoscopic computer-graphics imaging was well received at this week&rsquo;s American&hellip; <a href='/entry.php?id=937'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=932'><img src='/resizedImages/500x280-crop-lifelikeimage.jpg' alt='' title='The High-Tech Future of Body Language' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=932'>The High-Tech Future of Body Language</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=268'>Gordon Carlson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=207'>Sangyoon Lee</a>, and collaborators at the University of Central Florida (UCF) Intelligent Systems Laboratory and Computer Architecture Laboratory<br>
+			October 22, 2009<br><br>
+			The October 22, 2009 edition of the WASHINGTON POST has an article by Carol Kinsey Goman on &ldquo;The High-Tech Future of Body Language&rdquo;&hellip; <a href='/entry.php?id=932'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=931'><img src='/resizedImages/500x280-crop-lifelike_astronaut_baratunde_20091020sm.jpg' alt='' title='Popular Science&rsquo;s Future Of Immortality' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=931'>Popular Science&rsquo;s Future Of Immortality</a></strong><br>
+			<a href='/entry.php?id=268'>Gordon Carlson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=207'>Sangyoon Lee</a>, <a href='/entry.php?id=11'>Steve Jones</a>, and collaborators at the University of Central Florida (UCF) Intelligent Systems Laboratory and Computer Architecture Laboratory<br>
+			October 19, 2009<br><br>
+			October 19, 2009 - The Discovery Network&rsquo;s Science Channel airs the series &ldquo;POPULAR SCIENCE&rsquo;S FUTURE OF.&rdquo; Hosted by author&hellip; <a href='/entry.php?id=931'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=930'><img src='/resizedImages/500x280-crop-evlers_stci.jpg' alt='' title='Ultra-high-speed, made ultra-easy' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=930'>Ultra-high-speed, made ultra-easy</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, EVL research staff<br>
+			October 14, 2009<br><br>
+			The University of Illinois at Chicago (UIC) Electronic Visualization Laboratory (EVL) was recently awarded a three-year, $1.9-Million grant from the&hellip; <a href='/entry.php?id=930'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=926'><img src='/resizedImages/500x280-crop-maxine-1_sm.jpg' alt='' title='Maxine Brown Newman Lecture Keynote Speaker' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=926'>Maxine Brown Newman Lecture Keynote Speaker</a></strong><br>
+			<a href='/entry.php?id=178'>Maxine Brown</a><br>
+			October 13, 2009<br><br>
+			The Chicago Community Trust&rsquo;s 8th annual Newman Lecture and Dinner will feature Maxine Brown as the event&rsquo;s keynote speaker, Tuesday&hellip; <a href='/entry.php?id=926'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=925'><img src='/resizedImages/500x280-crop-lifelike_astronaut_baratunde_sm.jpg' alt='' title='Popular Science&rsquo;s: Future of Immortality program features EVL&rsquo;s LifeLike Avatar Research' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=925'>Popular Science&rsquo;s: Future of Immortality program features EVL&rsquo;s LifeLike Avatar Research</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=268'>Gordon Carlson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=207'>Sangyoon Lee</a>, <a href='/entry.php?id=11'>Steve Jones</a>, (EVL), Avelino J Gonzalez, Ronald F DeMara (University of Central Florida)<br>
+			October 12, 2009 - October 14, 2009<br><br>
+			Popular Science&rsquo;s: Future of Immortality program that airs October 12th through 14th on Discovery&rsquo;s &ldquo;The Science Channel&rdquo;&hellip; <a href='/entry.php?id=925'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=928'><img src='/resizedImages/500x280-crop-crsa_or-concept_sm.jpg' alt='' title='Advancing Robotic Surgery Using High-Performance Visualization and Networking Technologies' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=928'>Advancing Robotic Surgery Using High-Performance Visualization and Networking Technologies</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=159'>Patrick Hallihan</a><br>
+			October 9, 2009 - October 10, 2009<br><br>
+			The Clinical Robotic Surgery Association (CRSA) will hold its first meeting October 9-10, 2009, just prior to the 95th annual meeting of the American&hellip; <a href='/entry.php?id=928'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=924'><img src='/resizedImages/500x280-crop-cenic_optiportal_sm.jpg' alt='' title='Calit2 and EVL: CAVEwave, OptIPuter as Catalysts for Wide-Ranging Innovations' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=924'>Calit2 and EVL: CAVEwave, OptIPuter as Catalysts for Wide-Ranging Innovations</a></strong><br>
+			EVL researchers and California Institute for Telecommunications and Information Technology (Calit2) at the University of California, San Diego collaborators<br>
+			September 29, 2009<br><br>
+			Read the complete article on the National LambdaRail website. The California Institute for Telecommunications and Information Technology (Calit2) at&hellip; <a href='/entry.php?id=924'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=923'><img src='/resizedImages/500x280-crop-kaustoptiportal.jpg' alt='' title='New Saudi University Opens Its Doors - and Stunning Visualization Facilities' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=923'>New Saudi University Opens Its Doors - and Stunning Visualization Facilities</a></strong><br>
+			California Institute for Telecommunications and Information Technology (Calit2) at the University of California, San Diego and EVL research staff<br>
+			September 25, 2009<br><br>
+			Read the full press release on the Calit2 website New Saudi University Opens Its Doors - and Stunning Visualization Facilities Display and VR Systems&hellip; <a href='/entry.php?id=923'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=922'><img src='/resizedImages/500x280-crop-istc_sept09.jpg' alt='' title='UIC&rsquo;s EVL Makes Global Science Networking More User Friendly' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=922'>UIC&rsquo;s EVL Makes Global Science Networking More User Friendly</a></strong><br>
+			EVL faculty, staff, and students<br>
+			September 23, 2009<br><br>
+			The September 2009 issue of the Illinois Science &amp; Technology Coalition&rsquo;s online ISTC Catalyst newsletter features examples of technology&hellip; <a href='/entry.php?id=922'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=927'><img src='/resizedImages/500x280-crop-cybercommons.jpg' alt='' title='Immersive Education article highlights UIC EVL Cyber-Commons' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=927'>Immersive Education article highlights UIC EVL Cyber-Commons</a></strong><br>
+			EVL faculty, staff, and students<br>
+			September 1, 2009<br><br>
+			Jason Leigh and UIC are cited in the article &ldquo;Best of Both Worlds&rdquo; by author Rama Ramaswami in the September 2009 issue of Campus&hellip; <a href='/entry.php?id=927'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=918'><img src='/resizedImages/500x280-crop-jason_lv2q.jpg' alt='' title='NSF STCI Proposal Awarded to UIC / EVL' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=918'>NSF STCI Proposal Awarded to UIC / EVL</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a><br>
+			August 18, 2009<br><br>
+			The National Science Foundation has awarded the Electronic Visualization Laboratory&rsquo;s proposal STCI: OptIPlanet Cyber-Mashup: Persistent&hellip; <a href='/entry.php?id=918'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=920'><img src='/resizedImages/500x280-crop-s2009_3dpanel.jpg' alt='' title='Scientific and BioMedical Visualization panels for the Computer Animation Festival at the SIGGRAPH 2009' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=920'>Scientific and BioMedical Visualization panels for the Computer Animation Festival at the SIGGRAPH 2009</a></strong><br>
+			<a href='/entry.php?id=221'>Cole Krumbholz</a>, <a href='/entry.php?id=188'>Daria Tsoupikova</a>, <a href='/entry.php?id=189'>Helen-Nicole Kostis</a>, NASA / GSFC-Scientific Visualization Studio, MITRE Corp., NCSA University of IL, Adler Planetarium &amp; Astronomy Museum, California Institute of Technology, Harvard Medical School &amp; Digizyme, Inc., Institute for Creative Technologies &amp; School of Cinematic Arts, University of Southern CA, University of MD Baltimore County &amp; Scientific Visualization Studio, NASA / GSFC, Universities Space Research Assoc., SARL IMA Solutions, University of CA, San Francisco School of Medicine<br>
+			August 5, 2009 - August 6, 2009<br><br>
+			EVL alumnae Helen-Nicole Kostis and Cole Krumbholz join Daria Tsoupikova, EVL Associate Professor to curate two new panels on Scientific and&hellip; <a href='/entry.php?id=920'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=919'><img src='/resizedImages/500x280-crop-passingexcellences2009sm.jpg' alt='' title='SIGGRAPH 2009 Information Aesthetics Showcase' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=919'>SIGGRAPH 2009 Information Aesthetics Showcase</a></strong><br>
+			<a href='/entry.php?id=188'>Daria Tsoupikova</a>, <a href='/entry.php?id=222'>Robert Kooima</a><br>
+			August 3, 2009 - August 7, 2009<br><br>
+			EVL Associate Professor, Daria Tsoupikova in collaboration with EVL PhD alumni, Robert Kooima, Louisiana State University exhibit Passing Place for&hellip; <a href='/entry.php?id=919'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=907'><img src='/resizedImages/500x280-crop-tactilemedill.jpg' alt='' title='Chicago programs teach collaboration as the newest trend in gaming' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=907'>Chicago programs teach collaboration as the newest trend in gaming</a></strong><br>
+						June 10, 2009<br><br>
+			To read the complete article and see a related video visit the Medill webiste. by Kathryn Murphy June 10, 2009 Gamer&rsquo;s obsessions vary. It&hellip; <a href='/entry.php?id=907'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=908'><img src='/resizedImages/500x280-crop-anatomyclass.jpg' alt='' title='From pictures to pixels: interactive visualization explained' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=908'>From pictures to pixels: interactive visualization explained</a></strong><br>
+			EVL faculty, staff, and students<br>
+			May 20, 2009<br><br>
+			To read the full article and see a related video visit the Medill Reports Chicago. by Kathryn Murphy May 20, 2009 Since helping to digitize the&hellip; <a href='/entry.php?id=908'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=897'><img src='/resizedImages/500x280-crop-lifelike_20090529.jpg' alt='' title='The Next Best Thing to You' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=897'>The Next Best Thing to You</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, EVL research staff, Avelino Gonzalez, Intelligent Systems Laboratory, University of Central Florida<br>
+			May 15, 2009<br><br>
+			Link to the full NSF press release Also posted to U.S. News &amp; World Report May 15, 2009 New avatar technology combines advances in artificial&hellip; <a href='/entry.php?id=897'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=877'><img src='/resizedImages/500x280-crop-scichicago-anima.gif' alt='' title='Science Chicago Visits EVL' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=877'>Science Chicago Visits EVL</a></strong><br>
+			EVL faculty, staff, and students<br>
+			February 21, 2009<br><br>
+			Science Chicago is a year-long initiative that brings together more than 80 of the area&rsquo;s leading academic, scientific, corporate and&hellip; <a href='/entry.php?id=877'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=884'><img src='/resizedImages/500x280-crop-aaas_nsf_tactile_sm.png' alt='' title='EVL Demonstrates Hands-On Display Technology at AAAS 2009' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=884'>EVL Demonstrates Hands-On Display Technology at AAAS 2009</a></strong><br>
+			<a href='/entry.php?id=23'>Alan Verlo</a>, <a href='/entry.php?id=5'>Dana M. Plepys</a>, <a href='/entry.php?id=265'>Ed Kahler</a>, <a href='/entry.php?id=245'>Hyejung Hur</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=259'>Khairi Reda</a>, <a href='/entry.php?id=49'>Lance Long</a>, <a href='/entry.php?id=157'>Laura Wolf</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=159'>Patrick Hallihan</a>, <a href='/entry.php?id=227'>Ratko Jagodic</a>, <a href='/entry.php?id=209'>Venkatram Vishwanath</a>, <a href='/entry.php?id=228'>Yu-Chung Chen</a><br>
+			February 13, 2009 - February 15, 2009<br><br>
+			The Electronic Visualization Laboratory demonstrated its TacTile multi-touch system in the National Science Foundation&rsquo;s booth at the 2009&hellip; <a href='/entry.php?id=884'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=881'><img src='/resizedImages/500x280-crop-powerofimage.png' alt='' title='The Power of Image, Brain, and Hand in Rehabilitation' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=881'>The Power of Image, Brain, and Hand in Rehabilitation</a></strong><br>
+			<a href='/entry.php?id=188'>Daria Tsoupikova</a>, (UIC / EVL), Nikolay Stoykov. PhD. (RIC), Randy M. Vick. MS. ATR-BC. LCPC. (SAIC)<br>
+			January 31, 2009<br><br>
+			The development of the current phase of the ongoing research project Virtual Reality Environment Assisting Recovery from Stroke that employs the use&hellip; <a href='/entry.php?id=881'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=879'><img src='/resizedImages/500x280-crop-corewall_1-09.png' alt='' title='Immersive Empathic Design for Interdisciplinary Collaborations' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=879'>Immersive Empathic Design for Interdisciplinary Collaborations</a></strong><br>
+			<a href='/entry.php?id=228'>Yu-Chung Chen</a>, Major advisor: Andrew Johnson, Committee members: Andrew Johnson, Jason Leigh, Luc Renambot, Tom Moher and Emi Ito<br>
+			January 26, 2009<br><br>
+			EVL / CS PhD Candidate Yu-Chung Chen presents his preliminary proposal Immersive Empathic Design for Interdisciplinary Collaborations, January 26&hellip; <a href='/entry.php?id=879'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=878'><img src='/resizedImages/500x280-crop-bdavis_cason.png' alt='' title='UIC Technology Aids Obama Inaugural Security' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=878'>UIC Technology Aids Obama Inaugural Security</a></strong><br>
+			EVL researchers in collaboration with Brian Davis, USGS EROS Data Center, Sioux Falls, S.D.<br>
+			January 13, 2009<br><br>
+			Pictured Right: Brian Davis, a contractor for the USGS EROS Data Center in Sioux Falls, S.D., and James Cason, Deputy Secretary of the Department of&hellip; <a href='/entry.php?id=878'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=876'><img src='/resizedImages/500x280-crop-lifelike_20090107.png' alt='' title='Project LifeLike at NSF I/UCRC Meeting 2009' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=876'>Project LifeLike at NSF I/UCRC Meeting 2009</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=268'>Gordon Carlson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=207'>Sangyoon Lee</a><br>
+			January 7, 2009 - January 9, 2009<br><br>
+			EVL demonstrates Project LifeLike at the National Science Foundation&rsquo;s (NSF) annual Industry &amp; University Cooperative Research (I/UCRC)&hellip; <a href='/entry.php?id=876'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=873'><img src='/resizedImages/500x280-crop-inauguration.gif' alt='' title='OptIPortal Facilitates Logistics &amp; Security Planning for Inauguration' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=873'>OptIPortal Facilitates Logistics &amp; Security Planning for Inauguration</a></strong><br>
+			<a href='/entry.php?id=219'>Dmitri Svistula</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=259'>Khairi Reda</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, Brian Davis, U.S. Geological Survey (USGS), Earth Resources Observation and Science (EROS) Center<br>
+			December 22, 2008<br><br>
+			Logistics and security planning for the 2009 Presidential inauguration is being facilitated by EVL&rsquo;s OptIPortal display technology. In&hellip; <a href='/entry.php?id=873'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=868'><img src='/resizedImages/500x280-crop-spike.png' alt='' title='SPIKE, a network performance event' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=868'>SPIKE, a network performance event</a></strong><br>
+			<a href='/entry.php?id=264'>Andrew Oleksiuk</a>, <a href='/entry.php?id=17'>Joe Reitzer</a><br>
+			December 11, 2008<br><br>
+			Date: Thursday, December 11, 2009 Time: Afternoon SPIKE is a collaborative network performance event by Andrew Oleksiuk at the University of Illinois&hellip; <a href='/entry.php?id=868'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=869'><img src='/resizedImages/500x280-crop-makemeanoffer.jpg' alt='' title='Make Me an Offer' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=869'>Make Me an Offer</a></strong><br>
+			<a href='/entry.php?id=264'>Andrew Oleksiuk</a>, <a href='/entry.php?id=243'>Lindsay Grace</a>, Alex Jovanovich, Caroline Anderson, Christian Rieben, Clare Rosean, David Opie, Derek Haverland, Diana Baumbac, Francine LeClercq, Jessica Westbrook, Karissa Lang, Matthew Metzger, Paul Sedan, Phil McCollam, Susan Adame<br>
+			December 9, 2008 - January 23, 2009<br><br>
+			Make Me an Offer is a themed gallery exhibition seeking to emphasize the growing ambiguity between commercial arts and fine arts. It seeks to&hellip; <a href='/entry.php?id=869'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=861'><img src='/resizedImages/500x280-crop-globalvisualcasting.png' alt='' title='Global Visualcasting - Collaborative Remote Visualization Over High Speed Networks' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=861'>Global Visualcasting - Collaborative Remote Visualization Over High Speed Networks</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, SHARP Laboratories of America, OptIPlanet Collaboratory partners<br>
+			November 18, 2008<br><br>
+			SC08 Bandwidth Challenge Session Unleashing the Power of the Network Tuesday, 01:45PM - 02:00PM Room 17A/17B Abstract Advanced networks are giving&hellip; <a href='/entry.php?id=861'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=864'><img src='/resizedImages/500x280-crop-sc08_austincc.png' alt='' title='SDSC Partners with Calit2, EVL, UC San Diego Sustainability Program and CENIC to Highlight &ldquo;Green&rdquo; Technologies and Applications' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=864'>SDSC Partners with Calit2, EVL, UC San Diego Sustainability Program and CENIC to Highlight &ldquo;Green&rdquo; Technologies and Applications</a></strong><br>
+			EVL / UIC, collaborators from the University of San Diego and CENIC<br>
+			November 14, 2008<br><br>
+			UC San Diego Goes &ldquo;Green&rdquo; at SC08 The San Diego Supercomputer Center and two other UC San Diego entities are combining forces to showcase&hellip; <a href='/entry.php?id=864'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=858'><img src='/resizedImages/500x280-crop-kooima_terra4.png' alt='' title='Planetary-scale Terrain Composition, PhD Dissertation Robert L. Kooima' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=858'>Planetary-scale Terrain Composition, PhD Dissertation Robert L. Kooima</a></strong><br>
+			<a href='/entry.php?id=222'>Robert Kooima</a><br>
+			October 23, 2008<br><br>
+			Many inter-related planetary height map and surface image map data sets exist, and more data are collected each day. Broad communities of scientists&hellip; <a href='/entry.php?id=858'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=857'><img src='/resizedImages/500x280-crop-cenic_evl_350.jpg' alt='' title='California Scientists Demonstrate How to Use Advanced Fiber-Optic Backbone for Research' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=857'>California Scientists Demonstrate How to Use Advanced Fiber-Optic Backbone for Research</a></strong><br>
+			<a href='/entry.php?id=157'>Laura Wolf</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, conference organizers, EVL research team<br>
+			October 9, 2008<br><br>
+			Read Calit2&rsquo;s complete press release at: www.calit2.net/newsroom/article.php?id=1396 San Diego, Oct. 9, 2008 - How can super-fast networking&hellip; <a href='/entry.php?id=857'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=847'><img src='/resizedImages/500x280-crop-lambdatable_hawaii.png' alt='' title='September 2008 Issue of Campus Technology Showcases EVL&rsquo;s LambdaTable' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=847'>September 2008 Issue of Campus Technology Showcases EVL&rsquo;s LambdaTable</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=219'>Dmitri Svistula</a>, <a href='/entry.php?id=245'>Hyejung Hur</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=227'>Ratko Jagodic</a><br>
+			September 1, 2008 - September 30, 2008<br><br>
+			The September 2008 issue of Campus Technology carries a higher education brief of EVL&rsquo;s recently awarded National Science Foundation major&hellip; <a href='/entry.php?id=847'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=843'><img src='/resizedImages/500x280-crop-wallscope.png' alt='' title='Darshan Bhatt Presents Computer Science Masters Thesis WallCology' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=843'>Darshan Bhatt Presents Computer Science Masters Thesis <em>WallCology</em></a></strong><br>
+			<a href='/entry.php?id=246'>Darshan Bhatt</a>, <a href='/entry.php?id=16'>Tom Moher</a><br>
+			August 28, 2008<br><br>
+			Darshan Bhatt defends his master&rsquo;s thesis Thursday, August 28, at 11am in the EVL presentation space Room 2068. WallCology: Design of a&hellip; <a href='/entry.php?id=843'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=837'><img src='/resizedImages/500x280-crop-portrait_leigh_prius.png' alt='' title='Pacific Rim International University lecture at Osaka University' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=837'>Pacific Rim International University lecture at Osaka University</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a><br>
+			July 1, 2008 - July 2, 2008<br><br>
+			Jason Leigh delivers a lecture to Osaka University students titled: Global Cyber-Commons: Supporting Global Collaborative Research, Development and&hellip; <a href='/entry.php?id=837'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=833'><img src='/resizedImages/500x280-crop-ips2008.png' alt='' title='IPS2008: Explore the Edge' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=833'>IPS2008: Explore the Edge</a></strong><br>
+			<a href='/entry.php?id=222'>Robert Kooima</a><br>
+			June 27, 2008 - July 2, 2008<br><br>
+			EVL PhD candidate and researcher Robert Kooima participates in the 19th International Planetarium Society Conference (Adler Planetarium &amp;&hellip; <a href='/entry.php?id=833'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=830'><img src='/resizedImages/500x280-crop-ellismansmarr300b.jpg' alt='' title='Optical Network is Key to Next-Generation Research Cyberinfrastructure' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=830'>Optical Network is Key to Next-Generation Research Cyberinfrastructure</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, Luc Renambot<br>
+			June 11, 2008<br><br>
+			At TeraGrid &rsquo;08 Conference, UC San Diego&rsquo;s Smarr Urges University Campuses to Remove Network Bottlenecks to Supercomputer Users San&hellip; <a href='/entry.php?id=830'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=823'><img src='/resizedImages/500x280-crop-03-08giradocalit2.jpg' alt='' title='EVL Alumni Javier Girado Helps QUALCOMM Develop Tomorrow&rsquo;s Cell' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=823'>EVL Alumni Javier Girado Helps QUALCOMM Develop Tomorrow&rsquo;s Cell</a></strong><br>
+			<a href='/entry.php?id=35'>Javier Girado</a><br>
+			March 31, 2008<br><br>
+			UC SAN DIEGO NEWS March 31, 2008 Argentine Researcher Helps Leading U.S. Wireless Company Develop Tomorrow&rsquo;s Cell Phones Please click this link&hellip; <a href='/entry.php?id=823'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=815'><img src='/resizedImages/500x280-crop-bag2.jpg' alt='' title='5th Brown Bag Interdisciplinary Lunch: Visualization' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=815'>5th Brown Bag Interdisciplinary Lunch: Visualization</a></strong><br>
+			<a href='/entry.php?id=233'>Daniel Sauter</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, Annette Valenta<br>
+			March 10, 2008<br><br>
+			EVL faculty Jason Leigh, Associate Professor of Computer Science and co-Director of EVL, and Daniel Sauter, Assistant Professor School of Art &amp;&hellip; <a href='/entry.php?id=815'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=838'><img src='/resizedImages/500x280-crop-jgn2_fixed.png' alt='' title='EVL Receives JGN2 Award' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=838'>EVL Receives JGN2 Award</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, EVL faculty, staff, and students<br>
+			January 17, 2008<br><br>
+			NICT (National Institute of Information and Communications Technology) has awarded the University of Illinois at Chicago, Electronic Visualization&hellip; <a href='/entry.php?id=838'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=796'><img src='/resizedImages/500x280-crop-leigh-evlgameclass2.jpg' alt='' title='UIC Researchers Probing New Modes of Creative Instruction and Collaboration Enabled by Gigabit R&amp;E Networks' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=796'>UIC Researchers Probing New Modes of Creative Instruction and Collaboration Enabled by Gigabit R&amp;E Networks</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a><br>
+			November 7, 2007 - January 7, 2008<br><br>
+			November 7, 2007 Broadcasting Live from Chicago in High-Definition, It&rsquo;s Video Game Design Class! UIC Researchers Probing New Modes of Creative&hellip; <a href='/entry.php?id=796'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=788'><img src='/resizedImages/500x280-crop-davidson.jpg' alt='' title='Visualizing Networks of Innovation - Cathy N. Davidson, Duke University' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=788'>Visualizing Networks of Innovation - Cathy N. Davidson, Duke University</a></strong><br>
+			EVL faculty, staff, and students<br>
+			October 24, 2007<br><br>
+			Investigators: Tim Lenoir (PI), John Madden, Cathy Davidson Senior Personnel: Rachael Brady Knowledge of how to support the growth and diffusion of&hellip; <a href='/entry.php?id=788'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=783'><img src='/resizedImages/500x280-crop-interpersonalvirtualhumans.png' alt='' title='Virtual Humans for Interpersonal Interaction Education' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=783'>Virtual Humans for Interpersonal Interaction Education</a></strong><br>
+			Andrew B. Raij, Computer and Information Sciences and Engineering Department, University of Florida<br>
+			October 18, 2007<br><br>
+			Thursday, October 18, 2007 11:00a.m. - 12:00p.m. Andrew B. Raij will discuss the development and recent advances of the Virtual OSCE (VOSCE). The&hellip; <a href='/entry.php?id=783'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=787'><img src='/resizedImages/500x280-crop-lambdatable.png' alt='' title='EVL&rsquo;s Lambda Table puts science at your fingertips' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=787'>EVL&rsquo;s Lambda Table puts science at your fingertips</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=219'>Dmitri Svistula</a>, <a href='/entry.php?id=245'>Hyejung Hur</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=49'>Lance Long</a>, <a href='/entry.php?id=157'>Laura Wolf</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=213'>Nicholas Schwarz</a>, <a href='/entry.php?id=199'>Tom Peterka</a><br>
+			October 15, 2007<br><br>
+			by Eli Ortiz Chicago Flame On-line Issue date: 10/15/07 Section: Features The Electronic Visualization Laboratory (EVL) hosted an open house for&hellip; <a href='/entry.php?id=787'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=784'><img src='/resizedImages/500x280-crop-corelyzerapple.png' alt='' title='Visualization for Geoscientists' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=784'>Visualization for Geoscientists</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=207'>Sangyoon Lee</a>, <a href='/entry.php?id=228'>Yu-Chung Chen</a><br>
+			October 8, 2007<br><br>
+			Apple :: Science :: Profiles The Electronic Visualization Laboratory at the University of Illinois at Chicago has been the source of many widely used&hellip; <a href='/entry.php?id=784'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=782'><img src='/resizedImages/500x280-crop-winthinwindow.png' alt='' title='Withindows: A Unified Framework for the Development of Desktop and Immersive User Interfaces (Dissertation Defense, Alex Hill)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=782'>Withindows: A Unified Framework for the Development of Desktop and Immersive User Interfaces (Dissertation Defense, Alex Hill)</a></strong><br>
+			<a href='/entry.php?id=173'>Alex Hill</a><br>
+			October 1, 2007<br><br>
+			Withindows: A Unified Framework for the Development of Desktop and Immersive User Interfaces Prior 3D user interface research has been strongly&hellip; <a href='/entry.php?id=782'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=771'><img src='/resizedImages/500x280-crop-virtualeye2.jpg' alt='' title='The Virtual Eye / Virtual House Project Wins the Netter Award' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=771'>The Virtual Eye / Virtual House Project Wins the Netter Award</a></strong><br>
+			<a href='/entry.php?id=221'>Cole Krumbholz</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=195'>Mary Rasmussen</a>, <a href='/entry.php?id=222'>Robert Kooima</a>, Richard Fiscella, Zhuming Ai, Bei Jin, Scott Dixon, Kaitlyn Hwang, Elina Mer, Andrea Stevenson, Angela Brady, Ray Evenhouse, Sam Shlomo Spaeth, Robert Parshall<br>
+			July 18, 2007 - July 21, 2007<br><br>
+			The Virtual Reality in Medicine Lab (VRMedLab) is very pleased to announce that the Virtual Reality application, &ldquo;The Virtual Eye / Virtual&hellip; <a href='/entry.php?id=771'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=768'><img src='/resizedImages/500x280-crop-telepresworldlogo.gif' alt='' title='Universal Communication: Unifying Ubiquitous Communication, Telepresence and Tele-immersion' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=768'>Universal Communication: Unifying Ubiquitous Communication, Telepresence and Tele-immersion</a></strong><br>
+						June 4, 2007 - June 6, 2007<br><br>
+			Telepresence and virtual reality technologies invented in university laboratories over a decade ago, are now being commercialized and adopted by&hellip; <a href='/entry.php?id=768'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=775'><img src='/resizedImages/500x280-crop-lifelike1.png' alt='' title='UIC Working on Making Virtual Chats a Reality' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=775'>UIC Working on Making Virtual Chats a Reality</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a><br>
+			June 4, 2007<br><br>
+			Chicago Tribune INSIDE TECHNOLOGY UIC Working on Making Virtual Chats a Reality By Jon Van June 4, 2007 In five or six years, you probably will be&hellip; <a href='/entry.php?id=775'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=773'><img src='/resizedImages/500x280-crop-lambdatable.jpg' alt='' title='EVL Director Discusses Advanced Techniques In LSU Center For Computation &amp; Technology Distinguished Lecture' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=773'>EVL Director Discusses Advanced Techniques In LSU Center For Computation &amp; Technology Distinguished Lecture</a></strong><br>
+						May 29, 2007<br><br>
+			2007-May-29 Baton Rouge - Sight is a person&rsquo;s primary sense, and one-third of a person&rsquo;s brainpower is spent processing visual images&hellip; <a href='/entry.php?id=773'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=776'><img src='/resizedImages/500x280-crop-svr2007-minicourse.jpg' alt='' title='Producing High-Definition Hyperstereoscopic Video at SVR2007' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=776'>Producing High-Definition Hyperstereoscopic Video at SVR2007</a></strong><br>
+			<a href='/entry.php?id=189'>Helen-Nicole Kostis</a><br>
+			May 28, 2007 - May 31, 2007<br><br>
+			EVL alumna, Helen-Nicole Kostis presented an invited 4 hour minicourse at the SVR 2007 - IX Symposium of Virtual and Augmented Reality 2007, on&hellip; <a href='/entry.php?id=776'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=767'><img src='/resizedImages/500x280-crop-jason.png' alt='' title='Emerging From The CAVE: Advanced Visualization And Collaboration Research At The Electronic Visualization Laboratory' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=767'>Emerging From The CAVE: Advanced Visualization And Collaboration Research At The Electronic Visualization Laboratory</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a><br>
+			May 24, 2007<br><br>
+			EVL Director, Jason Leigh presents EVL&rsquo;s latest research in advanced visualization techniques and technologies to the Center for Computation&hellip; <a href='/entry.php?id=767'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=772'><img src='/resizedImages/500x280-crop-personalvarriertelecon.png' alt='' title='Videoconferencing goes high-definition Long-distance meetings are being held using full-size images of people whose expressions and body language can be read' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=772'>Videoconferencing goes high-definition <em>Long-distance meetings are being held using full-size images of people whose expressions and body language can be read</em></a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a><br>
+			May 14, 2007<br><br>
+			By Jon Van Tribune staff reporter Published May 14, 2007 Hiring someone based solely on a phone interview or a videoconference meeting is something&hellip; <a href='/entry.php?id=772'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=759'><img src='/resizedImages/500x280-crop-jason_ucsb_talk.jpg' alt='' title='Jason Leigh presents EVL Research to UC Santa Barbara&rsquo;s Interative Digital Multimedia IGERT Members' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=759'>Jason Leigh presents EVL Research to UC Santa Barbara&rsquo;s Interative Digital Multimedia IGERT Members</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a><br>
+			April 27, 2007<br><br>
+			Title of the Talk: &ldquo;Emerging from the CAVE: Advanced Visualization and Collaboration Research at the Electronic Visualization Laboratory&rdquo;&hellip; <a href='/entry.php?id=759'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=761'><img src='/resizedImages/500x280-crop-ipass_sign.jpg' alt='' title='EVL in Chicago Tribune: Toll signs take new direction' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=761'>EVL in Chicago Tribune: Toll signs take new direction</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a><br>
+			April 23, 2007<br><br>
+			Toll signs take new direction: Experiment aims to boost safety by Jon Hilkevitch, Chicago Tribune Getting Around column&hellip; <a href='/entry.php?id=761'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=760'><img src='/resizedImages/500x280-crop-sharp_logo.gif' alt='' title='EVL Demo Presentation for Sharp Labs' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=760'>EVL Demo Presentation for Sharp Labs</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, EVL Staff and Students<br>
+			April 19, 2007<br><br>
+			Dr. Yasuhiro Yoshida from Sharp Japan and Dr. Ibrahim Sezan from Sharp Labs US visited EVL to get an overview of the lab&rsquo;s advanced&hellip; <a href='/entry.php?id=760'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=743'><img src='/resizedImages/500x280-crop-ieeevr2007.jpg' alt='' title='IEEE Virtual Reality 2007' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=743'>IEEE Virtual Reality 2007</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=188'>Daria Tsoupikova</a>, <a href='/entry.php?id=189'>Helen-Nicole Kostis</a>, <a href='/entry.php?id=35'>Javier Girado</a>, <a href='/entry.php?id=222'>Robert Kooima</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, <a href='/entry.php?id=199'>Tom Peterka</a>, <a href='/entry.php?id=232'>Xun Luo</a><br>
+			March 10, 2007 - March 14, 2007<br><br>
+			EVLers participate at the IEEE Virtual Reality 2007 Conference (IEEE VR&rsquo;07) with the following presentations: Sunday, March 11, 2007 WORKSHOP&hellip; <a href='/entry.php?id=743'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=752'><img src='/resizedImages/500x280-crop-defanti_cruzniera_sandin3.gif' alt='' title='CAVE Inventors Receive IEEE Virtual Reality Technical Achievement Award' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=752'>CAVE Inventors Receive IEEE Virtual Reality Technical Achievement Award</a></strong><br>
+			<a href='/entry.php?id=76'>Carolina Cruz-Neira</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			March 10, 2007 - March 14, 2007<br><br>
+			The inventors of the CAVE - Thomas DeFanti, Daniel Sandin, and Carolina Cruz-Neira have been named by the IEEE VGTC VR Awards Committee as the 2007&hellip; <a href='/entry.php?id=752'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=753'><img src='/resizedImages/500x280-crop-ieeevr2007_logo.jpg' alt='' title='Tom Peterka Wins Best Paper at IEEE VR2007' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=753'>Tom Peterka Wins Best Paper at IEEE VR2007</a></strong><br>
+			<a href='/entry.php?id=199'>Tom Peterka</a>, Robert Kooima, Javier Girado, Jinghua Ge, Daniel Sandin,  Andrew Johnson, Jason Leigh, Jurgen Schulze, Thomas DeFanti<br>
+			March 10, 2007 - March 14, 2007<br><br>
+			EVL computer science doctoral candidate Tom Peterka received the Best Paper Award at the IEEE Virtual Reality Conference 2007 (IEEE VR2007), for&hellip; <a href='/entry.php?id=753'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=754'><img src='/resizedImages/500x280-crop-dynallax_javier.jpg' alt='' title='EVL and Calit2 Researchers Share in Two IEEE Virtual Reality Awards' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=754'>EVL and Calit2 Researchers Share in Two IEEE Virtual Reality Awards</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=76'>Carolina Cruz-Neira</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=35'>Javier Girado</a>, <a href='/entry.php?id=163'>Jinghua Ge</a>, <a href='/entry.php?id=222'>Robert Kooima</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, <a href='/entry.php?id=199'>Tom Peterka</a>, Jurgen Schulze (Calit2)<br>
+			March 10, 2007 - March 14, 2007<br><br>
+			Please click on this link for the full text of this article San Diego, CA and Chicago, IL, March 16, 2007 - Researchers from the University of&hellip; <a href='/entry.php?id=754'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=735'><img src='/resizedImages/500x280-crop-sandinvarrierspie2007_dark.jpg' alt='' title='IS&amp;T / SPIE International Symposium 2007' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=735'>IS&amp;T / SPIE International Symposium 2007</a></strong><br>
+			<a href='/entry.php?id=4'>Brenda Lopez Silva</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=188'>Daria Tsoupikova</a>, <a href='/entry.php?id=189'>Helen-Nicole Kostis</a>, <a href='/entry.php?id=222'>Robert Kooima</a>, <a href='/entry.php?id=199'>Tom Peterka</a><br>
+			January 28, 2007 - February 1, 2007<br><br>
+			EVLers participate at the IS&amp;T / SPIE 19th Annual Symposium: Electronic Imaging / Science and Technology with the following paper presentations&hellip; <a href='/entry.php?id=735'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=738'><img src='/resizedImages/500x280-crop-portrait_renambot2.jpg' alt='' title='Advanced Visualization and Collaboration Research over High-Speed Networks' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=738'>Advanced Visualization and Collaboration Research over High-Speed Networks</a></strong><br>
+			<a href='/entry.php?id=192'>Luc Renambot</a><br>
+			December 13, 2006 - December 14, 2006<br><br>
+			EVL Visiting Research Assistant Professor, Luc Renambot presented EVL&rsquo;s advanced visualiztion and networking research to colleagues and&hellip; <a href='/entry.php?id=738'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=730'><img src='/resizedImages/500x280-crop-fixednavigation1.jpg' alt='' title='StarFlight Astronomy Visualization Exhibit Opens in Mexico City&rsquo;s Laboratorio Arte Alameda' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=730'>StarFlight Astronomy Visualization Exhibit Opens in Mexico City&rsquo;s <em>Laboratorio Arte Alameda</em></a></strong><br>
+			<a href='/entry.php?id=4'>Brenda Lopez Silva</a>, <a href='/entry.php?id=157'>Laura Wolf</a>, <a href='/entry.php?id=213'>Nicholas Schwarz</a>, <a href='/entry.php?id=222'>Robert Kooima</a>, Timothy Donaghy, Keith Vanderlinde, Staci Willis, James Sweitzer<br>
+			November 28, 2006 - February 11, 2007<br><br>
+			StarFlight, an interactive virtual reality application that explores the three-dimensional nature of constellations, opens in Mexico City&rsquo;s&hellip; <a href='/entry.php?id=730'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=723'><img src='/resizedImages/500x280-crop-thomas_a_defanti.jpg' alt='' title='DeFanti Recognized with Outstanding Research Achievement Award' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=723'>DeFanti Recognized with Outstanding Research Achievement Award</a></strong><br>
+			<a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			November 2, 2006<br><br>
+			Distinguished Professor of Computer Science and EVL co-director Tom DeFanti is being honored with an Outstanding Research Achievement award by&hellip; <a href='/entry.php?id=723'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=722'><img src='/resizedImages/500x280-crop-unfoldingevent.gif' alt='' title='LiveBox Gallery presents UNFOLDING SPACE by Julieta Aguilera in collaboration with Andy Johnson' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=722'>LiveBox Gallery presents UNFOLDING SPACE by Julieta Aguilera in collaboration with Andy Johnson</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=191'>Julieta Aguilera</a><br>
+			October 20, 2006 - November 25, 2006<br><br>
+			UNFOLDING SPACE The tridimensional shadow of a four dimensional textured grid unfolds in a virtual reality environment. Julieta Aguilera places the&hellip; <a href='/entry.php?id=722'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=716'><img src='/resizedImages/500x280-crop-team_dynallax.jpg' alt='' title='EVL&rsquo;s Varrier Technology Advances' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=716'>EVL&rsquo;s Varrier Technology Advances</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=222'>Robert Kooima</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, <a href='/entry.php?id=199'>Tom Peterka</a><br>
+			September 27, 2006<br><br>
+			EVL researchers, PhD candidates Robert Kooima and Tom Peterka complete advancements in EVL&rsquo;s Varrier&trade; Autostereo display system research&hellip; <a href='/entry.php?id=716'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=719'><img src='/resizedImages/500x280-crop-ff_portrait.jpg' alt='' title='e-Art&hellip; Art&hellip; Net&hellip; Technology&hellip; Society&hellip; Democracy&hellip;' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=719'>e-Art&hellip; Art&hellip; Net&hellip; Technology&hellip; Society&hellip; Democracy&hellip;</a></strong><br>
+			<a href='/entry.php?id=9'>Drew Browning</a>, <a href='/entry.php?id=175'>Franz Fischnaller</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=206'>Kapil Arora</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, <a href='/entry.php?id=46'>Ya Lu Lin</a>, Prof. Franz Fischnaller, Editori Riuniti (Rome, Italy), Daniela Voto, F.A.B.R.I.CATORS, Manuel Vi&ntilde;as Limonchi, Engineering - Ingegneria Informatica S.p.A. (Rome, Italy)<br>
+			September 1, 2006<br><br>
+			September, 2006, e-Art&hellip; Art&hellip; Net&hellip; Technology&hellip; Society&hellip; Democracy? &hellip;book by Franz Fischnaller will be&hellip; <a href='/entry.php?id=719'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=702'><img src='/resizedImages/500x280-crop-brazilgeowall.jpg' alt='' title='Presentations on Advanced Visualization and Collaboration at universities in Rio De Janeiro' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=702'>Presentations on Advanced Visualization and Collaboration at universities in Rio De Janeiro</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, Paul Morin, Department of Geology and Geophysics, University of Minnesota and National Center for Earth Surface Dynamics<br>
+			August 14, 2006 - September 18, 2006<br><br>
+			Dr. Frederico Pereira Laier of the Universidade Federal do Rio De Janeiro (UFRJ) invited Jason Leigh and Paul Morin to give presentations on&hellip; <a href='/entry.php?id=702'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=705'><img src='/resizedImages/500x280-crop-sub_fest.jpg' alt='' title='Rutopia 2 Presented at the Virtual Reality SubFest, Buffalo, NY' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=705'>Rutopia 2 Presented at the Virtual Reality SubFest, Buffalo, NY</a></strong><br>
+			<a href='/entry.php?id=188'>Daria Tsoupikova</a><br>
+			August 3, 2006 - August 6, 2006<br><br>
+			The virtual reality art project Rutopia 2 was presented at the Virtual Reality SubFest organized by Dave Pape and presented by Virtual Reality&hellip; <a href='/entry.php?id=705'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=720'><img src='/resizedImages/500x280-crop-virtuualplaygroundmr.jpg' alt='' title='Dr. Maria Roussou' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=720'>Dr. Maria Roussou</a></strong><br>
+			<a href='/entry.php?id=134'>Maria Roussou</a>, Department of Computer Science, University College London<br>
+			July 18, 2006<br><br>
+			EVL graduate Maria Roussou completed requirements for a Doctorate of Philosophy from the University College of London, Department of Computer&hellip; <a href='/entry.php?id=720'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=704'><img src='/resizedImages/500x280-crop-5cgiv06.jpg' alt='' title='Rutopia 2 - Virtual Walk-Through Presented at the IV06, London' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=704'>Rutopia 2 - Virtual Walk-Through Presented at the IV06, London</a></strong><br>
+			<a href='/entry.php?id=188'>Daria Tsoupikova</a><br>
+			July 5, 2006 - July 7, 2006<br><br>
+			Rutopia 2, virtual walk-through video animation was presented at the 7th International Symposium of Computer Animation and Visual Effects, IV06-CAVE&hellip; <a href='/entry.php?id=704'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=693'><img src='/resizedImages/500x280-crop-newberrylibrary2-2.jpg' alt='' title='Chicago Map Society Visits EVL' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=693'>Chicago Map Society Visits EVL</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a><br>
+			May 23, 2006<br><br>
+			Andrew Johnson gave a presentation and series of demonstrations on EVL&rsquo;s high resolution and 3D display technology to the Chicago Map Society&hellip; <a href='/entry.php?id=693'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=680'><img src='/resizedImages/500x280-crop-drawingmfa.jpg' alt='' title='DRAWING CURRENT - MFA Thesis Exhibition' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=680'>DRAWING CURRENT - MFA Thesis Exhibition</a></strong><br>
+			<a href='/entry.php?id=189'>Helen-Nicole Kostis</a>, <a href='/entry.php?id=202'>HyeYun Park</a>, <a href='/entry.php?id=36'>Melissa Golter</a>, <a href='/entry.php?id=203'>Poliana Tassini</a>, <a href='/entry.php?id=207'>Sangyoon Lee</a>, <a href='/entry.php?id=187'>Tina Shah</a><br>
+			May 12, 2006 - May 15, 2006<br><br>
+			DRAWING CURRENT is the first large group MFA thesis exhibitions featurning a broad range of electronic visualization mediated artwork by six&hellip; <a href='/entry.php?id=680'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=681'><img src='/resizedImages/500x280-crop-tom-guitar.gif' alt='' title='Professor Tom Moher named UIC Great Cities Scholar for 2006 - 2007' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=681'>Professor Tom Moher named UIC Great Cities Scholar for 2006 - 2007</a></strong><br>
+			<a href='/entry.php?id=16'>Tom Moher</a><br>
+			May 1, 2006 - April 30, 2007<br><br>
+			UIC College of Engineering News Professor Tom Moher has been named a UIC Great Cities Scholar for the academic year 2006-2007. Moher, the first&hellip; <a href='/entry.php?id=681'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=675'><img src='/resizedImages/500x280-crop-peterka.jpg' alt='' title='EVL PhD Student Tom Peterka Awarded the University Fellowship for 2006-7' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=675'>EVL PhD Student Tom Peterka Awarded the University Fellowship for 2006-7</a></strong><br>
+			<a href='/entry.php?id=199'>Tom Peterka</a><br>
+			April 20, 2006 - May 15, 2007<br><br>
+			EVL congratulates PhD student, Tom Peterka on being awarded the University&rsquo;s Fellowship for the academic year 2006-7. Tom was chosen for this&hellip; <a href='/entry.php?id=675'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=650'><img src='/resizedImages/500x280-crop-geowall2.jpg' alt='' title='EVL Showcases Research in NLR Exhibit at SC &rsquo;05' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=650'>EVL Showcases Research in NLR Exhibit at SC &rsquo;05</a></strong><br>
+			<a href='/entry.php?id=23'>Alan Verlo</a>, <a href='/entry.php?id=208'>Byungil Jeong</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=35'>Javier Girado</a>, <a href='/entry.php?id=163'>Jinghua Ge</a>, <a href='/entry.php?id=157'>Laura Wolf</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=213'>Nicholas Schwarz</a>, <a href='/entry.php?id=222'>Robert Kooima</a>, <a href='/entry.php?id=199'>Tom Peterka</a>, <a href='/entry.php?id=209'>Venkatram Vishwanath</a><br>
+			November 12, 2005 - November 18, 2005<br><br>
+			EVL participates at SC|05 as an OptIPuter partner in the National LambdaRail booth (#6003), showcasing hardware and software developed with major&hellip; <a href='/entry.php?id=650'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=651'><img src='/resizedImages/500x280-crop-teravisionstreams.jpeg' alt='' title='OptIPuter Exhibited at SC05' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=651'>OptIPuter Exhibited at SC05</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=208'>Byungil Jeong</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=35'>Javier Girado</a>, <a href='/entry.php?id=163'>Jinghua Ge</a>, <a href='/entry.php?id=49'>Lance Long</a>, <a href='/entry.php?id=157'>Laura Wolf</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=227'>Ratko Jagodic</a>, <a href='/entry.php?id=222'>Robert Kooima</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, <a href='/entry.php?id=199'>Tom Peterka</a>, <a href='/entry.php?id=209'>Venkatram Vishwanath</a><br>
+			November 12, 2005 - November 18, 2005<br><br>
+			RESEARCH EXHIBITS Calit2 and Center for Earth Observations and Applications (booth 6107) Transforming Scientific Discovery Through Telecom and IT&hellip; <a href='/entry.php?id=651'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=689'><img src='/resizedImages/500x280-crop-newberrylibrary2.jpg' alt='' title='EVL Participates in Newberry Library&rsquo;s Teachers and Scholars Program' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=689'>EVL Participates in Newberry Library&rsquo;s Teachers and Scholars Program</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a><br>
+			October 2, 2003 - October 27, 2003<br><br>
+			Andrew Johnson gave a tutorial &ldquo;Towards the Holodeck: Advanced Visualization and Collaboration Environments&rdquo; at UIC as part of the&hellip; <a href='/entry.php?id=689'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=694'><img src='/resizedImages/500x280-crop-rndearthpostcard.jpg' alt='' title='Round Earth Video Shown During SIGGRAPH 99 Evening Show' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=694'>Round Earth Video Shown During SIGGRAPH 99 Evening Show</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=74'>Jim Costigan</a>, <a href='/entry.php?id=65'>Joseph Alexander</a>, <a href='/entry.php?id=16'>Tom Moher</a>, Stellan Ohlsson, Mark Gillingham<br>
+			August 8, 1999 - August 13, 1999<br><br>
+			A video documenting the Round Earth Project was selected to be part of the Electronic Theater at SIGGRAPH 99, and was shown at Mann&rsquo;s Chinese&hellip; <a href='/entry.php?id=694'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<!-- End Category List -->
+	</table>
+</div>
+<!-- End Category -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin List -->
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Page:</strong>
+		<a href='/list.php?id=5&amp;page=1'>1</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=2'>2</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=3'>3</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=4'>4</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=5'>5</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=6'><strong>6</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=7'>7</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=8'>8</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=9'>9</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=10'>10</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=11'>11</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=12'>12</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=13'>13</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=14'>14</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=15'>15</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=16'>16</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=17'>17</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<div id='list_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin List List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1925'><img src='/resizedImages/500x280-crop-sageweb_gui.jpg' alt='' title='SAGE Display Controller' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1925'>SAGE Display Controller</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=212'>Javid Alimohideen</a>, <a href='/entry.php?id=227'>Ratko Jagodic</a><br>
+			June 1, 2006 - Ongoing<br><br>
+			SAGE Display Controller is a web based user-interface application designed to access and control the SAGE environment. SAGE, the Scalable Adaptive&hellip; <a href='/entry.php?id=1925'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1923'><img src='/resizedImages/500x280-crop-cytoviz.jpg' alt='' title='CytoViz' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1923'>CytoViz</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=4'>Brenda Lopez Silva</a>, <a href='/entry.php?id=192'>Luc Renambot</a><br>
+			May 1, 2006 - Ongoing<br><br>
+			CytoViz is an artistic, real-time information visualization driven by statistical information gathered during gigabit network transfers to the&hellip; <a href='/entry.php?id=1923'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1926'><img src='/resizedImages/500x280-crop-variercombiner.jpg' alt='' title='Varrier Combiner' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1926'>Varrier Combiner</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=222'>Robert Kooima</a>, Tom Peterka<br>
+			March 1, 2006 - March 1, 2007<br><br>
+			Autostereoscopic displays enable unencumbered immersive virtual reality, but at a significant computational expense. This expense impacts the&hellip; <a href='/entry.php?id=1926'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1968'><img src='/resizedImages/500x280-crop-roomquake-2.jpg' alt='' title='RoomQuake' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1968'>RoomQuake</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=16'>Tom Moher</a><br>
+			January 2, 2006 - April 1, 2006<br><br>
+			Roomquake is a distributed simulation of a series of earthquakes using PDAs as simulated (position-dependent) seismographs. Roomquake was designed to&hellip; <a href='/entry.php?id=1968'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1915'><img src='/resizedImages/500x280-crop-dynallax.jpg' alt='' title='Dynallax: Dynamic Parallax Barrier Autostereoscopic Display' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1915'>Dynallax: Dynamic Parallax Barrier Autostereoscopic Display</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=35'>Javier Girado</a>, <a href='/entry.php?id=163'>Jinghua Ge</a>, <a href='/entry.php?id=222'>Robert Kooima</a>, <a href='/entry.php?id=199'>Tom Peterka</a>, Jason Leigh, Andrew Johnson, Jurgen Schulze (UCSD), Thomas A. DeFanti<br>
+			January 1, 2006 - Ongoing<br><br>
+			Parallax barrier strip autostereoscopic virtual reality displays such as Varrier&trade; have been constructed by placing a barrier of lines in front&hellip; <a href='/entry.php?id=1915'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1928'><img src='/resizedImages/500x280-crop-visualcasting-3.jpg' alt='' title='Visualcasting' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1928'>Visualcasting</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=208'>Byungil Jeong</a><br>
+			January 1, 2006 - Ongoing<br><br>
+			Visualcasting is a new SAGE network service that supports global collaboration by enabling two or more users to share application content, sending&hellip; <a href='/entry.php?id=1928'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1946'><img src='/resizedImages/500x280-crop-lambdatable_schwarzthesis.jpg' alt='' title='Distributed Volume Rendering of Very Large Data on High-Resolution Scalable Displays' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1946'>Distributed Volume Rendering of Very Large Data on High-Resolution Scalable Displays</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=213'>Nicholas Schwarz</a><br>
+			January 1, 2006 - December 31, 2007<br><br>
+			Scientific instruments increasing collect higher spatial resolution samples providing scientists with larger volumetric datasets. For example&hellip; <a href='/entry.php?id=1946'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1902'><img src='/resizedImages/500x280-crop-pavispdasm.jpg' alt='' title='PAVIS: Pervasive Adaptive Visualization and Interaction Service' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1902'>PAVIS: Pervasive Adaptive Visualization and Interaction Service</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=216'>Arun Rao</a>, <a href='/entry.php?id=4'>Brenda Lopez Silva</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=212'>Javid Alimohideen</a>, <a href='/entry.php?id=191'>Julieta Aguilera</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, Robert Grossman, Mike Sabala<br>
+			December 10, 2005 - May 15, 2007<br><br>
+			PAVIS: Pervasive Adaptive Visualization and Interaction Service is an adaptive system intended to automatically generate resource-aware&hellip; <a href='/entry.php?id=1902'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1930'><img src='/resizedImages/500x280-crop-netlassologosm.jpg' alt='' title='netLasso' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1930'>netLasso</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=248'>Sungwon Nam</a>, <a href='/entry.php?id=231'>Xi Wang</a>, Scott Behrens, Jonathan Ronchetti<br>
+			September 1, 2005 - Ongoing<br><br>
+			netLasso is an intuitive software tool for multi-site network performance testing. It helps clarify the best protocol and rate to send data over a&hellip; <a href='/entry.php?id=1930'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1895'><img src='/resizedImages/500x280-crop-magiccarpetnew2.jpg' alt='' title='Magic Carpet' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1895'>Magic Carpet</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=219'>Dmitri Svistula</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, Paul Morin, Science Museum of Minnesota<br>
+			August 16, 2005 - August 15, 2006<br><br>
+			MagicCarpet is a cluster-based ultra-high-resolution image viewer for scalable tiled displays. Unlike JuxtaView, MagicCarpet uses pre-processed&hellip; <a href='/entry.php?id=1895'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1979'><img src='/resizedImages/500x280-crop-pace.png' alt='' title='Personal Augmented Computing Environment (PACE)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1979'>Personal Augmented Computing Environment (PACE)</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=14'>Robert V. Kenyon</a>, <a href='/entry.php?id=232'>Xun Luo</a><br>
+			August 16, 2005 - May 1, 2008<br><br>
+			Personal Augmented Computing Environment (PACE) focuses upon the research challenges affecting the development of applications for personal mobile&hellip; <a href='/entry.php?id=1979'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1919'><img src='/resizedImages/500x280-crop-starflightsm.jpg' alt='' title='StarFlight: An Interactive VR Exploration of the Three-Dimensional Nature of Constellations' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1919'>StarFlight: An Interactive VR Exploration of the Three-Dimensional Nature of Constellations</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=4'>Brenda Lopez Silva</a>, <a href='/entry.php?id=49'>Lance Long</a>, <a href='/entry.php?id=213'>Nicholas Schwarz</a>, <a href='/entry.php?id=222'>Robert Kooima</a><br>
+			July 1, 2005 - June 30, 2006<br><br>
+			&ldquo;StarFlight&rdquo; developed by the University of Chicago&rsquo;s Center for the Presentation of Science in collaboration with EVL is an&hellip; <a href='/entry.php?id=1919'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2105'><img src='/resizedImages/500x280-crop-undercontrol.png' alt='' title='Under control / In controlDeveloped by Lucy Petrovic and Johnie Hugh Horn&copy;2005' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2105'>Under control / In control<br>Developed by Lucy Petrovic and Johnie Hugh Horn<br>&copy;2005</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=124'>Lucy Petrovich</a><br>
+			May 1, 2005<br><br>
+			The issue of control in human culture permeates every aspect of our existence. While, as individuals, we seem determined to control everything and&hellip; <a href='/entry.php?id=2105'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1889'><img src='/resizedImages/500x280-crop-geowall2sm_darker.jpg' alt='' title='GeoWall2 for Informal Science Education in Museums' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1889'>GeoWall2 for Informal Science Education in Museums</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, Patrick Hamilton, Science Museum of Minnesota, Paul Morin, Geology and Geophysics, University of Minnesota<br>
+			May 1, 2005 - January 13, 2009<br><br>
+			The GeoWall2 is a tiled advanced visualization system (5x3 array of LCD panels) designed to cost-effectively serve Geoscience applications that&hellip; <a href='/entry.php?id=1889'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1913'><img src='/resizedImages/500x280-crop-idesk4.jpg' alt='' title='ImmersaDesk4&trade;' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1913'>ImmersaDesk4&trade;</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=182'>Cristian J. Luciano</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			April 15, 2005 - May 1, 2007<br><br>
+			A Passive Stereo Virtual Reality System Using Circularly Polarized High Resolution LCD Panels The ImmersaDesk4&trade; (IDesk4&trade;) is built from 2&hellip; <a href='/entry.php?id=1913'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<!-- End List List -->
+	</table>
+</div>
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Page:</strong>
+		<a href='/list.php?id=5&amp;page=1'>1</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=2'>2</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=3'>3</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=4'>4</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=5'>5</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=6'><strong>6</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=7'>7</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=8'>8</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=9'>9</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=10'>10</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=11'>11</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=12'>12</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=13'>13</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=14'>14</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=15'>15</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=16'>16</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=17'>17</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<!-- End List -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

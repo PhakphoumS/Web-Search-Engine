@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Entry -->
+<table id='entry_area' class='fixedTable'>
+	<tr>
+		<td style='width:676px;'>
+			<div id='entry_info'>
+<!-- Begin Entry Info -->
+<h3>SENSEI: Sensor Environment Imaging (SENSEI) Instrument</h3>
+<div id='entry_image_large'><img style='left:45px;' src='/resizedImages/1280x720-senseicamerarenderingcu.png' alt='' title='SENSEI: Sensor Environment Imaging (SENSEI) Instrument' width='549' height='360'></div>
+<span class='smallText'>Close-up rendition of SENSEI camera prototype - G. Dawe, Calit2-QI/UCSD</span><br><br>
+<div class='entry_content'>
+	<strong>Researchers:</strong> <a href='/entry.php?id=2366'>Ahmad Atra</a>, <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=2315'>Bartosz Kupiec</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=2321'>Dimitar Kirilov</a>, <a href='/entry.php?id=2279'>Harlyn Baker</a>, <a href='/entry.php?id=2422'>Hayley Christianson</a>, <a href='/entry.php?id=2439'>Kyra Jones</a>, <a href='/entry.php?id=49'>Lance Long</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=14'>Robert V. Kenyon</a>, Tanya Berger-Wolf<br><br>
+	<strong>Funding:</strong> NSF Award #CNS-1456638<br><br>
+<!-- Begin Entry Description -->
+SENSEI will be a reconfigurable, ultra-high-resolution, spherical (4π steradian), photometric, radiometric and photogrammetric real-time data-acquisition, sensor-based, camera system capable of capturing 3D stereo and still images for viewing in collaboration-enabled, nationally networked, virtual-reality systems.<br><br>
+The ultimate goal of SENSEI will be to capture ultra-high-resolution still and motion 3D stereoscopic video and images of real-world
+scenes, that can be viewed in 3D high-performance virtual-reality systems, and can be used to extract objects&rsquo; sizes, shapes and distances within a scene.<br><br>
+SENSEI, given its ~terapixel/minute flood of imagery, presents big data challenges as well. Specifically, SENSEI will be an integrated, distributed cyber-collaboration instrument with big attributes:<br><br>
+- <strong>&ldquo;Big Resolution,&rdquo;</strong> configurable, portable, sensor-based camera systems: Sensor-based, dynamic 3D stereoscopic motion/video and/or multi-spectral data camera systems will be developed. They will be flexibly configurable to capture geometries such as: outside-in, inside-out, light field arrays, photogrammetry, macroscopy and microscopy. SENSEI will have an optional weatherproof transport container for field use and underwater cases developed by partners. SENSEI will create images that are ~9 times IMAX resolution. Open source software and wikis will encourage adoption and modification by other domain scientists, as with our OptIPortals and CAVEs from prior MRIs.<br><br>
+- <strong>&ldquo;Big data&rdquo;</strong> computational and storage systems: Graphics processing unit (GPU) computing with RDMA, fast storage systems, and software development are needed to perform the necessary image processing calibration, stitching, synchronization, partitioning, and video serving/streaming.<br><br>
+- <strong>&ldquo;Big displays&rdquo;</strong> for 3D stereoscopic viewing: Virtual-reality displays, such as the CAVE2, WAVE,
+and similar technologies, are ideal for end-user viewing and multi-user, multi-site collaboration. The next generation of 4K 3D OLED TVs and LCD TVs, singly or in small arrays, will also be supported.<br><br>
+- <strong>&ldquo;Big networks&rdquo;</strong> for an end-to-end, tightly coupled, distributed system: The distributed system -
+cameras, computational and storage systems, and display technologies - will use 10/40/100Gbps optical networks at/between partner institutions to share and correlate data in useful time frames.<br><br>
+SENSEI can advance computer science and electrical engineering disciplines in the development of image capture systems, display technologies, image processing, visualization, and image creation, and advance scientific domain disciplines such as archaeology, architecture, astronomy, biology, cultural heritage, digital arts, earth science, emergency preparedness, engineering, geographic information systems, manufacturing, oceanography, planetary science, and science education.<br><br>
+SENSEI partner institutions are:<br>
+- University of Illinois at Chicago (UIC), Electronic Visualization Laboratory (EVL)<br>
+- Jackson State University (JSU), College of Science, Engineering and Technology<br>
+- Louisiana State University (LSU), Computer Science Department (Beginning in Year 2)
+- Scripps Institution of Oceanography (SIO), Jaffe Laboratory for Underwater Imaging<br>
+- University of California, San Diego (UCSD), Calit2-Qualcomm Institute (Calit2-QI)<br>
+- University of Hawaii at Manoa (UHM), Lab for Advanced Visualization &amp; Applications (LAVA)<br><br>
+UIC, UCSD, LSU and SIO are the primary technology developers of SENSEI. JSU and UHM, as well as the developer sites, have application teams who will be early adopters of SENSEI and provide feedback on the workflow, operation, and use.<br><br>
+<!-- End Entry Description -->
+	<strong>Email:</strong> <a href='mailto:maxine@uic.edu'>maxine@uic.edu</a><br><br>
+	<strong>Date:</strong> October 1, 2014 - September 30, 2019
+</div>
+<!-- End Entry Info -->
+			</div>
+		</td>
+		<td style='width:374px;'>
+			<div id='entry_sidebar'>
+<!-- Begin Entry Sidebar -->
+<div class='entry_content'>
+	<h3>Related Entries</h3>
+	<strong>Directory:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2366'>Ahmad Atra</a></li>
+		<li><a href='/entry.php?id=2315'>Bartosz Kupiec</a></li>
+		<li><a href='/entry.php?id=7'>Daniel J. Sandin</a></li>
+		<li><a href='/entry.php?id=2439'>Kyra Jones</a></li>
+		<li><a href='/entry.php?id=2279'>Harlyn Baker</a></li>
+		<li><a href='/related.php?id=2229&amp;related=2'><strong>View more&hellip;</strong></a></li>
+	</ul><br>
+	<strong>Events:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2387'>Prelim Announcement:  &ldquo;Commonly Identified Feature-based Stitching System for Stereoscopic Panoramic Video Generation&rdquo;</a></li>
+		<li><a href='/entry.php?id=2227'>SENSEI-Panama: Visualizing Animal Movement Data on a Virtual Island in the CAVE2&trade;</a></li>
+		<li><a href='/entry.php?id=2192'>360 X 180 panorama construction based on image stitching method</a></li>
+		<li><a href='/entry.php?id=1191'>UIC / EVL is building a camera that sees 360 degrees in 3D</a></li>
+		<li><a href='/entry.php?id=1179'>EVL of UIC Computer Science Department receives new $3 million grant from NSF</a></li>
+		<li><a href='/related.php?id=2229&amp;related=3'><strong>View more&hellip;</strong></a></li>
+	</ul><br>
+	<strong>Papers:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2489'>Bringing the Field into the Lab: Large-Scale Visualization of Animal Movement Trajectories within a Virtual Island</a></li>
+		<li><a href='/entry.php?id=2418'>StarCAM - A 16K stereo panoramic video camera with a novel parallel interleaved arrangement of sensors</a></li>
+		<li><a href='/entry.php?id=2419'>The Quality of Stereo Disparity in the Polar Regions of a Stereo Panorama</a></li>
+		<li><a href='/entry.php?id=2420'>EPIModules on a geodesic: Toward 360-degree light-field imaging</a></li>
+		<li><a href='/entry.php?id=2416'>Saliency-Based Feature Selection Strategy in Stereoscopic Panoramic Video Generation</a></li>
+		<li><a href='/related.php?id=2229&amp;related=4'><strong>View more&hellip;</strong></a></li>
+	</ul><br>
+	<strong>Research:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2401'>COMPaaS DLV: Composable Platform as a Service Instrument for Deep Learning & Visualization</a></li>
+		<li><a href='/entry.php?id=2228'>SENSEI-Panama</a></li>
+	</ul><br>
+	<h3>Related Categories</h3>
+	<ul>
+		<li><a href='/category.php?id=3&amp;related=5'>Applications</a></li>
+		<li><a href='/category.php?id=9&amp;related=5'>Devices</a></li>
+		<li><a href='/category.php?id=17&amp;related=5'>Multimedia</a></li>
+		<li><a href='/category.php?id=19&amp;related=5'>Networking</a></li>
+		<li><a href='/category.php?id=20&amp;related=5'>Software</a></li>
+		<li><a href='/category.php?id=24&amp;related=5'>User Groups</a></li>
+		<li><a href='/category.php?id=25&amp;related=5'>Video / Film</a></li>
+		<li><a href='/category.php?id=28&amp;related=5'>VR</a></li>
+	</ul>
+</div>
+<!-- End Entry Sidebar-->
+			</div>
+		</td>
+	</tr>
+</table>
+<!-- End Entry -->
+<script>
+	// Making both divs the same height is much easier in JavaScript
+	var entryInfo = document.getElementById("entry_info");
+	var entrySidebar = document.getElementById("entry_sidebar");
+	
+	if (entryInfo && entrySidebar) {
+		var maxHeight = Math.max(entryInfo.offsetHeight, entrySidebar.offsetHeight)-20;
+		entryInfo.style.height = maxHeight+"px";
+		entrySidebar.style.height = maxHeight+"px";
+	}
+</script>
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

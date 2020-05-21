@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin List -->
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Page:</strong>
+		<a href='/list.php?id=5&amp;page=1'>1</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=2'>2</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=3'>3</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=4'>4</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=5'><strong>5</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=6'>6</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=7'>7</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=8'>8</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=9'>9</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=10'>10</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=11'>11</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=12'>12</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=13'>13</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=14'>14</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=15'>15</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=16'>16</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=17'>17</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<div id='list_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin List List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1997'><img src='/resizedImages/500x280-crop-mars_project_10-09.png' alt='' title='Virtual Reality Environment Assisting Recovery from Stroke' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1997'>Virtual Reality Environment Assisting Recovery from Stroke</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=188'>Daria Tsoupikova</a>, Nikolay Stoykov, Bioengineering,  Rehabilitation Institute of Chicago (RIC), Randy Vick, Art Therapy, School of Art Institute of Chicago (SAIC)<br>
+			October 1, 2009 - Ongoing<br><br>
+			Virtual Reality Environment Assisting Recovery from Stroke is a research collaboration between the Rehabilitation Institute of Chicago, UIC / EVL&hellip; <a href='/entry.php?id=1997'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1994'><img src='/resizedImages/500x280-crop-lv2_andyjason.jpg' alt='' title='OptIPlanet Cyber-Mashup' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1994'>OptIPlanet Cyber-Mashup</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a><br>
+			September 1, 2009 - August 31, 2012<br><br>
+			STCI: OptIPlanet Cyber-Mashup: Persistent Visualization and Collaboration Services for Global Cyber Infrastructure The goal of this project is to&hellip; <a href='/entry.php?id=1994'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2013'><img src='/resizedImages/500x280-crop-ngcave_jt_9-11_cropped2.png' alt='' title='Next-Generation CAVE' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2013'>Next-Generation CAVE</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=199'>Tom Peterka</a>, Luc Renambot, Lance Long, Jonas Talandis, Daniel Sandin, Alan Verlo<br>
+			May 1, 2009 - April 30, 2013<br><br>
+			The Next-Generation CAVE Virtual Environment, or NG-CAVE, is a scientific instrument that enables researchers to visualize data in a fully immersive&hellip; <a href='/entry.php?id=2013'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2016'><img src='/resizedImages/500x280-crop-_ljl1499.jpg' alt='' title='CAVE2: Next-Generation Virtual-Reality and Visualization Hybrid Environment for Immersive Simulation and Information Analysis' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2016'>CAVE2: Next-Generation Virtual-Reality and Visualization Hybrid Environment for Immersive Simulation and Information Analysis</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=23'>Alan Verlo</a>, <a href='/entry.php?id=272'>Alessandro Febretti</a>, <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=5'>Dana M. Plepys</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=273'>JD Pirtle</a>, <a href='/entry.php?id=24'>Jonas Talandis</a>, <a href='/entry.php?id=49'>Lance Long</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=199'>Tom Peterka</a><br>
+			May 1, 2009 - Ongoing<br><br>
+			CAVE2&trade;, the next-generation large-scale virtual-reality environment, is a hybrid system that combines the benefits of both scalable-resolution&hellip; <a href='/entry.php?id=2016'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2002'><img src='/resizedImages/500x280-crop-articulate-yiwen_sm-2.png' alt='' title='Articulate: a Semi-automated System for Translating Natural Language Queries into Meaningful Visualizations' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2002'>Articulate: a Semi-automated System for Translating Natural Language Queries into Meaningful Visualizations</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=2306'>Abeer Alsaiari</a>, <a href='/entry.php?id=2472'>Abhinav Kumar</a>, <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=285'>Jillian Aurisano</a>, <a href='/entry.php?id=2322'>Joe Borowicz</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=2303'>Vijayraj Mahida</a>, <a href='/entry.php?id=250'>Yiwen Sun</a>, Barbara DiEugenio<br>
+			March 1, 2009 - Ongoing<br><br>
+			While many visualization tools exist that offer sophisticated functions for charting complex data, they still expect users to possess a high degree&hellip; <a href='/entry.php?id=2002'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1989'><img src='/resizedImages/500x280-crop-zebrascreenshot.png' alt='' title='Visual Analysis of Social Behavior of Wild Animals' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1989'>Visual Analysis of Social Behavior of Wild Animals</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=259'>Khairi Reda</a><br>
+			August 16, 2008 - August 16, 2009<br><br>
+			Understanding the social interaction of wild animals in the context of their ecology is imperative to the conservation of endangered species. Our&hellip; <a href='/entry.php?id=1989'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1978'><img src='/resizedImages/500x280-crop-4kmegatable.jpg' alt='' title='4 Megapixel Multi-Touch LCD Table Prototype' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1978'>4 Megapixel Multi-Touch LCD Table Prototype</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=259'>Khairi Reda</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, Ed Kahler (EVL REU)<br>
+			May 16, 2008 - November 15, 2008<br><br>
+			The 4 Megapixel multi-touch LCD table prototype developed by EVL researchers focuses upon seamless and intuitive user interaction with the device&hellip; <a href='/entry.php?id=1978'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1983'><img src='/resizedImages/500x280-crop-merra_lamdaram.png' alt='' title='MERRA Computation Using LambdaRAM' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1983'>MERRA Computation Using LambdaRAM</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=209'>Venkatram Vishwanath</a>, Software Integration and Visualization Office (SIVO), NASA Goddard Space Flight Center<br>
+			May 16, 2008 - November 4, 2008<br><br>
+			Data-intensive scientific applications require rapid access to local and geographically distributed data, however, there are significant I/O latency&hellip; <a href='/entry.php?id=1983'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1987'><img src='/resizedImages/500x280-crop-planetaryscaleterrain.png' alt='' title='Planetary-scale Terrain Composition' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1987'>Planetary-scale Terrain Composition</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=222'>Robert Kooima</a><br>
+			August 1, 2007 - October 23, 2008<br><br>
+			Planetary-scale Terrain Composition is a GPU-centric real-time approach to generating and rendering planetary bodies composed of arbitrary quantities&hellip; <a href='/entry.php?id=1987'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1993'><img src='/resizedImages/500x280-crop-endurance.jpg' alt='' title='NASA Environmentally Non-Disturbing Under-ice Robotic ANtarctiC Explorer (ENDURANCE)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1993'>NASA Environmentally Non-Disturbing Under-ice Robotic ANtarctiC Explorer (ENDURANCE)</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=272'>Alessandro Febretti</a>, <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=227'>Ratko Jagodic</a>, <a href='/entry.php?id=257'>Shriram Iyer</a>, Peter Doran (PI UIC); John Priscu (Montana State University); Christopher McKay (NASA Ames Research Center); Bill Stone (Stone Aerospace)<br>
+			May 1, 2007 - April 30, 2010<br><br>
+			NASA&rsquo;s Astrobiology Science and Technology for Exploring Planets (ASTEP) Program is supporting ENDURANCE - the Environmentally Non-Disturbing&hellip; <a href='/entry.php?id=1993'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1947'><img src='/resizedImages/500x280-crop-evl_tellurion.jpg' alt='' title='Tellurion' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1947'>Tellurion</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=222'>Robert Kooima</a><br>
+			January 1, 2007 - December 30, 2008<br><br>
+			Tellurion is a real-time planetary-scale data visualization. It uses a GPU-based algorithm to adaptively tessellate the sphere and apply terrain&hellip; <a href='/entry.php?id=1947'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1980'><img src='/resizedImages/500x280-crop-rtk.png' alt='' title='RTK: The Rails Toolkit' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1980'>RTK: The Rails Toolkit</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=248'>Sungwon Nam</a>, <a href='/entry.php?id=209'>Venkatram Vishwanath</a><br>
+			January 1, 2007 - Ongoing<br><br>
+			RTK is an open source API that enables applications to co-schedule CPU cores, GPUs, Memory and Network resources within multi- and many- core&hellip; <a href='/entry.php?id=1980'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2033'><img src='/resizedImages/500x280-crop-_ljl2712.jpg' alt='' title='Constellations' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2033'>Constellations</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=222'>Robert Kooima</a><br>
+			January 1, 2007 - October 1, 2012<br><br>
+			Individuals standing in the CAVE2&trade; System interactively fly through Earth&rsquo;s galaxy to observe constellations from different viewpoints&hellip; <a href='/entry.php?id=2033'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2034'><img src='/resizedImages/500x280-crop-_ljl2747.jpg' alt='' title='Mars' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2034'>Mars</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=222'>Robert Kooima</a><br>
+			January 1, 2007 - October 1, 2012<br><br>
+			Participants interactively fly around a 3D representation of Mars in the CAVE2&trade; System. The 3D model was originally created by EVL graduate&hellip; <a href='/entry.php?id=2034'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1896'><img src='/resizedImages/500x280-crop-optistore.jpeg' alt='' title='OptiStore' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1896'>OptiStore</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=170'>Charles Zhang</a>, <a href='/entry.php?id=21'>Jason Leigh</a><br>
+			August 16, 2006 - Ongoing<br><br>
+			The OptIPuter is a powerful distributed cyber-infrastructure to support data-intensive scientific research and collaboration. The OptiStore Project&hellip; <a href='/entry.php?id=1896'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<!-- End List List -->
+	</table>
+</div>
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Page:</strong>
+		<a href='/list.php?id=5&amp;page=1'>1</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=2'>2</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=3'>3</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=4'>4</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=5'><strong>5</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=6'>6</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=7'>7</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=8'>8</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=9'>9</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=10'>10</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=11'>11</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=12'>12</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=13'>13</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=14'>14</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=15'>15</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=16'>16</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=17'>17</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<!-- End List -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Category -->
+<!-- Begin Category Pagination -->
+<div class='category_area'>
+	<div class='category_content'>
+		<h3>Visual Informatics</h3><br>
+		<strong>Related:</strong>
+		<a href='/category.php?id=36&amp;related=2'>Directory</a>&nbsp;&nbsp;
+		<a href='/category.php?id=36&amp;related=3'><strong>Events</strong></a>&nbsp;&nbsp;
+		<a href='/category.php?id=36&amp;related=4'>Papers</a>&nbsp;&nbsp;
+		<a href='/category.php?id=36&amp;related=5'>Research</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End Category Pagination -->
+<div class='category_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin Category List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2471'><img src='/resizedImages/500x280-crop-akumar_nlp_prelim.png' alt='' title='Preliminary Examination Announcement: &ldquo;Towards a Natural Language Interface for Exploring Data Visualization&rdquo;' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2471'>Preliminary Examination Announcement: &ldquo;Towards a Natural Language Interface for Exploring Data Visualization&rdquo;</a></strong><br>
+			<a href='/entry.php?id=2472'>Abhinav Kumar</a><br>
+			September 27, 2019<br><br>
+			PhD Student: Abhinav Kumar Date: September 27, 2019 Time: 1:00 PM to 3:00 PM Location: Room 2068, Engineering Research Facility Committee: Barbara Di&hellip; <a href='/entry.php?id=2471'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2411'><img src='/resizedImages/500x280-crop-lmarai_tluciani_jtrabucco-2.jpg' alt='' title='UIC Computer Science/EVL Marai Developing Computer Programs to Aid Cancer Patients' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2411'>UIC Computer Science/EVL Marai Developing Computer Programs to Aid Cancer Patients</a></strong><br>
+			<a href='/entry.php?id=2052'>G. Elisabeta Marai</a>, <a href='/entry.php?id=2250'>Juan Trelles Trabucco</a>, <a href='/entry.php?id=2251'>Peter Hanula</a>, <a href='/entry.php?id=2189'>Timothy Luciani</a><br>
+			November 27, 2018 - Ongoing<br><br>
+			A November 27, 2018 story on the University of Illinois Cancer Center&rsquo;s website profiles leading-edge cancer and computer science research&hellip; <a href='/entry.php?id=2411'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2379'><img src='/resizedImages/500x280-crop-lmarai_dagstuhl.jpg' alt='' title='Prof. Marai co-organizes Dagstuhl meeting on visualization of biological data' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2379'>Prof. Marai co-organizes Dagstuhl meeting on visualization of biological data</a></strong><br>
+			<a href='/entry.php?id=2052'>G. Elisabeta Marai</a><br>
+			April 15, 2018 - April 20, 2018<br><br>
+			Professors J. Aerts (Leuven University, Belgium), N. Gehlenborg (Harvard), G.E. Marai (UIC), and K. Nieselt (University of Tuebingen, Germany)&hellip; <a href='/entry.php?id=2379'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2345'><img src='/resizedImages/500x280-crop-cma_defense_2:5:18.jpg' alt='' title='Doctoral Defense Announcement: &ldquo;Visual Analysis Techniques for Dynamic Biological Networks&rdquo;' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2345'>Doctoral Defense Announcement: &ldquo;Visual Analysis Techniques for Dynamic Biological Networks&rdquo;</a></strong><br>
+			<a href='/entry.php?id=2076'>Chihua Ma</a><br>
+			February 5, 2018<br><br>
+			Committee: G. Elisabeta Marai (Chair) Robert Kenyon Andrew Johnson Angus Forbes (University of California, Santa Cruz) Tamara Munzner (University of&hellip; <a href='/entry.php?id=2345'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2323'><img src='/resizedImages/500x280-crop-evl_ieee_vast_2017_sm.jpg' alt='' title='UIC/EVL Receives Two Honorable Mentions in IEEE VIS 2017 VAST Challenge' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2323'>UIC/EVL Receives Two Honorable Mentions in IEEE VIS 2017 VAST Challenge</a></strong><br>
+			<a href='/entry.php?id=2231'>Andrew Burks</a>, <a href='/entry.php?id=2315'>Bartosz Kupiec</a>, <a href='/entry.php?id=2076'>Chihua Ma</a>, <a href='/entry.php?id=2321'>Dimitar Kirilov</a>, <a href='/entry.php?id=2052'>G. Elisabeta Marai</a>, <a href='/entry.php?id=2322'>Joe Borowicz</a>, <a href='/entry.php?id=2302'>Joshua Lagunda Castor</a>, <a href='/entry.php?id=2248'>Manu Mathew Thomas</a>, <a href='/entry.php?id=2189'>Timothy Luciani</a>, <a href='/entry.php?id=2303'>Vijayraj Mahida</a>, Isabel Lindmae<br>
+			September 11, 2017<br><br>
+			SEPTEMBER 11, 2017 - UIC Computer Science (CS) Associate Professor G. Elisabeta (Liz) Marai loves to inspire and educate next-generation computer&hellip; <a href='/entry.php?id=2323'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2312'><img src='/misc/default_500x280.png' alt='' title='&ldquo;Contextual Similarity Abstraction Techniques for Spatial Data Analysis&rdquo;' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2312'>&ldquo;Contextual Similarity Abstraction Techniques for Spatial Data Analysis&rdquo;</a></strong><br>
+			<a href='/entry.php?id=2189'>Timothy Luciani</a><br>
+			July 13, 2017<br><br>
+			EVL PhD Candidate, Timothy Luciani presents his research &ldquo;Contextual Similarity Abstraction Techniques for Spatial Data Analysis&rdquo; during&hellip; <a href='/entry.php?id=2312'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2286'><img src='/resizedImages/500x280-crop-charleseivesaward.png' alt='' title='EVL PhD Candidate Chihua Ma Receives Charles E. Ives Journal Award' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2286'>EVL PhD Candidate Chihua Ma Receives Charles E. Ives Journal Award</a></strong><br>
+			<a href='/entry.php?id=2473'>Angus Forbes</a>, <a href='/entry.php?id=2076'>Chihua Ma</a>, <a href='/entry.php?id=14'>Robert V. Kenyon</a><br>
+			March 13, 2017<br><br>
+			&ldquo;SwordPlots: Exploring Neuron Behavior within Dynamic Communities of Brain Networks,&rdquo; authored by Ma, C., Forbes, A. G., Llano, D. A&hellip; <a href='/entry.php?id=2286'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2283'><img src='/misc/default_500x280.png' alt='' title='CS/EVL Associate Professor Marai awarded NIH R01 from the National Cancer Institute' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2283'>CS/EVL Associate Professor Marai awarded NIH R01 from the National Cancer Institute</a></strong><br>
+			<a href='/entry.php?id=2052'>G. Elisabeta Marai</a><br>
+			March 3, 2017 - February 29, 2020<br><br>
+			UIC Computer Science Associate Professor and Electronic Visualization Laboratory faculty member, G. Elisabeta Marai with collaborators from the&hellip; <a href='/entry.php?id=2283'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2247'><img src='/resizedImages/500x280-crop-ieeevis_honorablemention2016.jpg' alt='' title='UIC/EVL Receives Honorable Mention in IEEE VIS 2016’s VGTC VPG Data Visualization Contest' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2247'>UIC/EVL Receives Honorable Mention in IEEE VIS 2016’s VGTC VPG Data Visualization Contest</a></strong><br>
+			<a href='/entry.php?id=2231'>Andrew Burks</a>, <a href='/entry.php?id=2076'>Chihua Ma</a>, <a href='/entry.php?id=2052'>G. Elisabeta Marai</a>, <a href='/entry.php?id=2250'>Juan Trelles Trabucco</a>, <a href='/entry.php?id=300'>Krishna Bharadwaj</a>, <a href='/entry.php?id=2248'>Manu Mathew Thomas</a>, <a href='/entry.php?id=2251'>Peter Hanula</a>, <a href='/entry.php?id=2249'>Shiwangi Singh</a>, <a href='/entry.php?id=2189'>Timothy Luciani</a>, Lei Di<br>
+			October 24, 2016<br><br>
+			While most academic conferences attract people who want to learn, the annual IEEE Visualization (VIS) conference attracts people who want to be&hellip; <a href='/entry.php?id=2247'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2233'><img src='/resizedImages/500x280-crop-jist-jan2016-cover.png' alt='' title='Cover art of JIST January/February 2016 issue features EVL research' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2233'>Cover art of JIST January/February 2016 issue features EVL research</a></strong><br>
+			<a href='/entry.php?id=2473'>Angus Forbes</a>, <a href='/entry.php?id=2076'>Chihua Ma</a>, <a href='/entry.php?id=2052'>G. Elisabeta Marai</a>, <a href='/entry.php?id=14'>Robert V. Kenyon</a>, <a href='/entry.php?id=2189'>Timothy Luciani</a><br>
+			July 18, 2016<br><br>
+			Images from two articles by EVL&rsquo;ers made the cover of the January/February issue of JIST (Journal of Imaging Science and Technology)! COVER&hellip; <a href='/entry.php?id=2233'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2241'><img src='/resizedImages/500x280-crop-andreapurgato_presentation.png' alt='' title='Andrea Purgato Thesis Presentation: &ldquo;GPU Acceleration and Interactive Visualization for Spatio-Temporal Network&ldquo;' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2241'>Andrea Purgato Thesis Presentation: &ldquo;GPU Acceleration and Interactive Visualization for Spatio-Temporal Network&ldquo;</a></strong><br>
+			<a href='/entry.php?id=2155'>Andrea Purgato</a><br>
+			May 2, 2016<br><br>
+			Monday, May 2, 2016, 9:30 AM Room 1000, Science & Engineering Office Building, UIC UIC Computer Science and EVL exchange student from the Politecnico&hellip; <a href='/entry.php?id=2241'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2141'><img src='/resizedImages/500x280-crop-darksky.png' alt='' title='EVL has leadership roles in international IEEE Visualization 2015 conference' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2141'>EVL has leadership roles in international IEEE Visualization 2015 conference</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=2473'>Angus Forbes</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=188'>Daria Tsoupikova</a>, <a href='/entry.php?id=2052'>G. Elisabeta Marai</a>, <a href='/entry.php?id=285'>Jillian Aurisano</a>, <a href='/entry.php?id=302'>Kyle Almryde</a>, <a href='/entry.php?id=157'>Laura Wolf</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=122'>Mike Papka</a><br>
+			October 25, 2015 - October 30, 2015<br><br>
+			The week of October 25, 2015, the international IEEE Visualization (VIS) 2015 conference is being held in downtown Chicago, and the Electronic&hellip; <a href='/entry.php?id=2141'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2140'><img src='/resizedImages/500x280-crop-carolina001-2.jpg' alt='' title='EVL Alumna Opens Emerging Analytics Center at University of Arkansas' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2140'>EVL Alumna Opens Emerging Analytics Center at University of Arkansas</a></strong><br>
+						October 16, 2015 - October 17, 2015<br><br>
+			EVL PhD alumna and director of the University of Arkansas Little Rock&rsquo;s Emerging Analytics Center, Carolina Cruz-Neira hosts the inaugural open&hellip; <a href='/entry.php?id=2140'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2130'><img src='/resizedImages/500x280-crop-alibabagroup_logo.png' alt='' title='When Big Data Meets Cyber-Crime' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2130'>When Big Data Meets Cyber-Crime</a></strong><br>
+						September 15, 2015<br><br>
+			Senior data analyst, Wei Xie in the Alibaba Safety and Security Intelligence Center will present Alibaba's work on large-scale data visualization and&hellip; <a href='/entry.php?id=2130'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2107'><img src='/resizedImages/500x280-crop-linked-view-screenshot.png' alt='' title='Exploring BioPax and the Pathway Commons API Using Linked Views' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2107'>Exploring BioPax and the Pathway Commons API Using Linked Views</a></strong><br>
+			<a href='/entry.php?id=303'>Paul Murray</a><br>
+			June 10, 2015<br><br>
+			PhD candidate Paul Murray presents his research in biological data visualization techniques. The Pathway Commons web service brings together several&hellip; <a href='/entry.php?id=2107'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<!-- End Category List -->
+	</table>
+</div>
+<!-- End Category -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

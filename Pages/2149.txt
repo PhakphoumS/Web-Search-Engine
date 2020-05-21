@@ -1,0 +1,412 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+  <title>Marian L. Fitzgibbon, PhD | Institute for Health Research and Policy | University of Illinois at Chicago</title>
+
+  <meta name="verify-v1" content="M3D7RktfZuClXLKtfBxpnsbmXcHxs+8um0cJ6n3SKFE=" />
+<meta name="description" content="Professor Marian Fitzgibbon is an associate director of the Institute for Health Research and Policy." />
+
+  
+  <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/researcher/marian-l-fitzgibbon-phd" />
+<link rel="shortlink" href="/node/1255" />
+<link rel="shortcut icon" href="https://www.ihrp.uic.edu/files/favicon.ico" type="image/vnd.microsoft.icon" />
+  <style>
+@import url("https://www.ihrp.uic.edu/modules/system/system.base.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/system/system.messages.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/system/system.theme.css?q8vwl2");
+</style>
+<style>
+@import url("https://www.ihrp.uic.edu/modules/aggregator/aggregator.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/comment/comment.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/date/date_api/date.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/field/theme/field.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/node/node.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/search/search.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/user/user.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/views/css/views.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/ckeditor/css/ckeditor.css?q8vwl2");
+</style>
+<style>
+@import url("https://www.ihrp.uic.edu/sites/all/modules/ctools/css/ctools.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/forward/forward.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/print/print_ui/css/print_ui.theme.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/css/nice_menus.css?q8vwl2");
+</style>
+<style>
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/tabs.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/print.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/style.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/zen.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/html-elements.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/ihrp_menu.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/ihrp_researcher.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/ihrp_study.css?q8vwl2");
+</style>
+  
+    <link rel="stylesheet" href="/sites/all/themes/ihrp/css/ihrp_main.css" type="text/css"/>
+  
+
+
+  <!--[if IE]>
+    <link rel="stylesheet" href="sites/all/themes/ihrp/css/ie.css" type="text/css"/>
+   
+    <style type="text/css">
+      /* place css fixes for all versions of IE in this conditional comment */
+      .thrColFixHdr #sidebar2, .thrColFixHdr #sidebar1 { padding-top: 30px; }
+      .thrColFixHdr #mainContent { zoom: 1; }
+      /* the above proprietary zoom property gives IE the hasLayout it needs to avoid several bugs */
+    </style>
+  <![endif]-->
+
+  <!--[if IE 5]>
+    <style type="text/css">
+      /* place css box model fixes for IE 5* in this conditional comment */
+      .thrColFixHdr #sidebar1 { width: 180px; }
+      .thrColFixHdr #sidebar2 { width: 190px; }
+    </style>
+  <![endif]-->
+
+  <script src="https://www.ihrp.uic.edu/misc/jquery.js?v=1.4.4"></script>
+<script src="https://www.ihrp.uic.edu/misc/jquery-extend-3.4.0.js?v=1.4.4"></script>
+<script src="https://www.ihrp.uic.edu/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.ihrp.uic.edu/misc/drupal.js?q8vwl2"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/js/jquery.bgiframe.js?v=2.1"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/js/jquery.hoverIntent.js?v=0.5"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/js/superfish.js?v=1.4.8"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/js/nice_menus.js?v=1.0"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/google_analytics/googleanalytics.js?q8vwl2"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-4417342-1", {"cookieDomain":"auto"});ga("send", "pageview");</script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/field_group/field_group.js?q8vwl2"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/themes/ihrp/js/script.js?q8vwl2"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"ihrp","theme_token":"POj-mlWZFQayRqyayw1gKrLjqiA1egKI3S8SCNt4Wi8","js":{"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/mimedetect\/nice_menus\/js\/jquery.bgiframe.js":1,"sites\/all\/modules\/mimedetect\/nice_menus\/js\/jquery.hoverIntent.js":1,"sites\/all\/modules\/mimedetect\/nice_menus\/js\/superfish.js":1,"sites\/all\/modules\/mimedetect\/nice_menus\/js\/nice_menus.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/field_group\/field_group.js":1,"sites\/all\/themes\/ihrp\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/forward\/forward.css":1,"sites\/all\/modules\/print\/print_ui\/css\/print_ui.theme.css":1,"sites\/all\/modules\/mimedetect\/nice_menus\/css\/nice_menus.css":1,"sites\/all\/themes\/zen\/ihrp\/ihrp_menu.css":1,"sites\/all\/themes\/ihrp\/system.menus.css":1,"sites\/all\/themes\/ihrp\/css\/tabs.css":1,"sites\/all\/themes\/ihrp\/css\/print.css":1,"sites\/all\/themes\/ihrp\/css\/style.css":1,"sites\/all\/themes\/ihrp\/css\/zen.css":1,"sites\/all\/themes\/ihrp\/css\/html-elements.css":1,"sites\/all\/themes\/ihrp\/css\/ihrp_menu.css":1,"sites\/all\/themes\/ihrp\/css\/ihrp_researcher.css":1,"sites\/all\/themes\/ihrp\/css\/ihrp_study.css":1}},"nice_menus_options":{"delay":"0","speed":"fast"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/researcher\/marian-l-fitzgibbon-phd":true},"field_group":{"no_style":"full","fieldset":"full"}});</script>
+</head>
+
+<body class="thrColFixHdr html not-front not-logged-in no-sidebars page-node page-node- page-node-1255 node-type-researcher section-researcher not-front not-logged-in page-node page-node- page-node-1255 node-type-researcher 
+ not-logged-in not-front type-researcher">
+
+  
+  <div id="page"><div id="page-inner">
+    <a name="top" id="navigation-top"></a>
+    <div role="banner" id="header"><div id="header-inner" class="clear-block" role="navigation" aria-label="Top Menu">
+      <a href="/"><img src="/sites/all/themes/ihrp/images/IHRP_Logo.png" alt="Institute for Health Research and Policy" title="I H R P home page" /></a>
+
+      <!-- the following is the code for the little blue top menu  -->
+      <span class="littleBlueMenu">
+        <a href="/people/list">People</a>
+        <a href="/content/contact-us">Contact Us</a>
+         
+            <a href="/print/1255">Print this page</a>		        <a href="/forward/?path=node/1255">E-mail to a Colleague</a>		          </span>
+      
+	             <div id="primary">
+        </div> <!-- /#primary -->
+      
+      
+    </div></div> <!-- /#header-inner, /#header -->
+
+    <div role="main" id="main"><div id="main-inner" class="clear-block with-navbar">
+      <div id="content"><div id="content-inner">
+                  <div id="search-box">
+              <div class="region region-search-form">
+    <div id="block-search-form" class="block block-search first last odd" role="search">
+
+      
+  <form action="/researcher/marian-l-fitzgibbon-phd" method="post" id="search-block-form" accept-charset="UTF-8"><div>
+<div class="container-inline">
+  <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-X5bj_Pk5ml-2ePY_lz1sex2zr-RhG0_6533Xv_VNDTA" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+</div>
+  </div>
+          </div> <!-- /#search-box -->
+                          <div id="content-top">
+              <div class="region region-content-top">
+    <div id="block-nice-menus-1" class="block block-nice-menus first last odd">
+
+        <h2 class="block__title block-title"><span class="nice-menu-hide-title">Main menu</span></h2>
+    
+  <ul class="nice-menu nice-menu-down nice-menu-main-menu" id="nice-menu-1"><li class="menu__item menu-11518 menuparent  menu-path-node-4984 first odd "><a href="/content/institute-welcome-intro" title="" class="menu__link">About</a><ul><li class="menu__item menu-11516 menu-path-node-4984 first odd "><a href="/content/institute-welcome-intro" class="menu__link">Welcome</a></li>
+<li class="menu__item menu-11514 menu-path-node-4983  even "><a href="/content/about-mission-social-health-sciences-research" class="menu__link">Mission</a></li>
+<li class="menu__item menu-11524 menu-path-node-4996  odd "><a href="/content/admin-IHRP-snapshot" class="menu__link">IHRP Snapshot</a></li>
+<li class="menu__item menu-7001 menu-path-node-2873  even "><a href="/content/about-our-fellows-affiliates" class="menu__link">Fellows &amp; Affiliates</a></li>
+<li class="menu__item menu-2114 menu-path-node-1357  odd "><a href="/content/employment-ihrp" class="menu__link">Jobs</a></li>
+<li class="menu__item menu-11585 menu-path-node-5034  even last"><a href="/content/media-professionals" class="menu__link">For Media Professionals</a></li>
+</ul></li>
+<li class="menu__item menu-11523 menuparent  menu-path-node-5036  even "><a href="/content/about-advantages-UIC-researchers" title="" class="menu__link">Why IHRP? </a><ul><li class="menu__item menu-11588 menu-path-node-5036 first odd "><a href="/content/about-advantages-UIC-researchers" title="" class="menu__link">Advantages</a></li>
+<li class="menu__item menu-11521 menu-path-node-18  even "><a href="/content/why-ihrp-research-faqs" class="menu__link">FAQs</a></li>
+<li class="menu__item menu-11515 menu-path-node-4982  odd last"><a href="/content/learn-more-join-us" class="menu__link">Affiliate with IHRP</a></li>
+</ul></li>
+<li class="menu__item menu-11533 menuparent  menu-path-node-5027  odd "><a href="/content/scientific-resources-intro" class="menu__link">Scientific Resources</a><ul><li class="menu__item menu-11582 menu-path-node-5027 first odd "><a href="/content/scientific-resources-intro" title="" class="menu__link">Overview</a></li>
+<li class="menu__item menu-11522 menu-path-node-23  even "><a href="/content/institute-leadership" class="menu__link">Leadership</a></li>
+<li class="menu__item menu-11052 menu-path-node-4683  odd "><a href="/center/data-management-core-for-all-UIC-researchers" class="menu__link">Data Management Core</a></li>
+<li class="menu__item menu-2054 menu-path-node-1584  even "><a href="/center/methodology-research-core-for-all-UIC-researchers" class="menu__link">Methodology Research Core</a></li>
+<li class="menu__item menu-2064 menu-path-node-39  odd last"><a href="/content/training-every-stage-research-careers" class="menu__link">Training</a></li>
+</ul></li>
+<li class="menu__item menu-11532 menuparent  menu-path-node-4999  even "><a href="/content/admin-resources-intro" title="" class="menu__link">Administrative Resources</a><ul><li class="menu__item menu-11531 menu-path-node-4999 first odd "><a href="/content/admin-resources-intro" class="menu__link">Overview</a></li>
+<li class="menu__item menu-11584 menu-path-node-4979  even "><a href="/content/admin-grants-finance" class="menu__link">Grants &amp; Finance</a></li>
+<li class="menu__item menu-11507 menu-path-node-4978  odd "><a href="/content/admin-human-resources-team" class="menu__link">Human Resources</a></li>
+<li class="menu__item menu-11505 menu-path-node-4977  even "><a href="/content/admin-computing-environment" class="menu__link">Data Tech and Security</a></li>
+<li class="menu__item menu-11508 menu-path-node-4825  odd "><a href="/content/admin-communications" class="menu__link">Communications</a></li>
+<li class="menu__item menu-11511 menu-path-node-4980  even last"><a href="/content/resources-facilities" class="menu__link">Facilities</a></li>
+</ul></li>
+<li class="menu__item menu-11535 menuparent  menu-path-node-4803  odd last"><a href="/content/our-research-focus" title="" class="menu__link">Research</a><ul><li class="menu__item menu-11534 menu-path-node-4803 first odd "><a href="/content/our-research-focus" class="menu__link">Scientific Focus</a></li>
+<li class="menu__item menu-2130 menu-path-studies-list-current-all  even "><a href="/studies/list/current/all" title="" class="menu__link">Studies</a></li>
+<li class="menu__item menu-11408 menu-path-researchers-list-all  odd "><a href="/researchers/list/all" title="" class="menu__link">Researchers</a></li>
+<li class="menu__item menu-2030 menuparent  menu-path-node-1563  even "><a href="/content/centers" class="menu__link">Centers</a><ul><li class="menu__item menu-2086 menu-path-node-7 first odd "><a href="/center/center-research-health-and-aging" class="menu__link">Center for Research on Health and Aging</a></li>
+<li class="menu__item menu-2087 menu-path-node-8  even last"><a href="/center/health-policy-center" class="menu__link">Health Policy Center</a></li>
+</ul></li>
+<li class="menu__item menu-11504 menuparent  menu-path-node-4975  odd "><a href="/content/project-websites" class="menu__link">Project Websites</a><ul><li class="menu__item menu-10646 menu-path-gouicedu-asthmaaction first odd "><a href="http://go.uic.edu/AsthmaAction" title="" class="menu__link">Asthma Action</a></li>
+<li class="menu__item menu-2079 menu-path-scecdp-ihrpuicedu-  even "><a href="https://cecdp-ihrp.uic.edu/" title="" class="menu__link">Cancer Education and Career Development Program</a></li>
+<li class="menu__item menu-10737 menu-path-co-opchicagoihrpuicedu-  odd "><a href="http://co-opchicago.ihrp.uic.edu/" title="" class="menu__link">CO-OP Chicago</a></li>
+<li class="menu__item menu-10499 menu-path-fitandstrongorg-  even "><a href="http://fitandstrong.org/" title="" class="menu__link">Fit &amp; Strong!</a></li>
+<li class="menu__item menu-10548 menu-path-node-79  odd "><a href="/center/center-research-health-and-aging/midwest-roybal-center" title="IHRP is the home of the Midwest Roybal Center, funded continuously by the National Institute on Aging since 1998." class="menu__link">Midwest Roybal Center</a></li>
+<li class="menu__item menu-10501 menu-path-tobacconomicsorg-  even last"><a href="http://tobacconomics.org/" title="" class="menu__link">Tobacconomics</a></li>
+</ul></li>
+<li class="menu__item menu-11517 menu-path-news-list  even last"><a href="/news/list" title="" class="menu__link">News</a></li>
+</ul></li>
+</ul>
+
+</div>
+  </div>
+          </div> <!-- /#content-top -->
+        
+        
+		
+		<div id="content-area">
+                      <div class="tabs"></div>
+          
+          
+          							<h1 class="title">Marian L. Fitzgibbon, PhD</h1>
+			          
+	        
+          
+
+
+
+<div style="position: relative; width: 63%; float: left;">
+
+      <div class="field-field-researcher-photo">
+      <img src="https://www.ihrp.uic.edu/files/mlf2015-150X200.png" />
+    </div>
+  
+  <h2>
+      Professor of Pediatrics and Health Policy and Administration  </h2>
+
+  <p>
+    <p>Dr. Marian Fitzgibbon is a professor in the Department of Pediatrics in the UIC College of Medicine and the Division of Health Policy and Administration in the UIC School of Public Health. She also serves as an IHRP associate director and, in the University of Illinois Cancer Center, she is the associate director for cancer prevention and control.</p>
+<p>Dr. Fitzgibbon&#39;s research has focused primarily on health risk reduction interventions in minority and underserved populations. Her work has been supported by the NIH continually for more than a dozen years and she regularly publishes in peer-reviewed journals. She serves as an ad hoc reviewer on a number of journals, including Health Psychology, The Journal of Consulting and Clinical Psychology, American Journal of Public Health, The Journal of The American Medical Association, and Ethnicity and Disease.</p>
+<p>Dr. Fitzgibbon has mentored pre-doctoral, postdoctoral, and junior faculty for more than a decade. She has chaired 12 dissertation committees and is the primary mentor for two recipients of career development K awards through the National Cancer Institute (NCI). She recently received a minority supplement for a grant awarded from the NCI and is a mentor for a Career Development Awardee.</p>
+<p>Dr. Fitzgibbon is a member of the NIH <a href="http://public.csr.nih.gov/StudySections/IntegratedReviewGroups/RPHBIRG/BMIO/Pages/default.aspx">Behavioral Medicine: Interventions and Outcomes Study Section</a> and has served on a number of NIH Special Emphasis Panels. She was the president of the <a href="http://www.sbm.org/">Society of Behavioral Medicine</a> in 2015&ndash;2016 and chairs that organization&#39;s Health Policy Committee. She is recognized as a <a href="/content/about-our-fellows-affiliates">Fellow</a> at the Institute for Health Research and Policy.&nbsp;</p>
+  </p>
+
+  <p>
+    <h2>Research Interests</h2>
+  </p>
+  <p>
+    <p>Dr. Fitzgibbon&rsquo;s research focuses primarily on health risk reduction in minority and underserved populations. She has conducted obesity prevention trials with preschool children and their parents as well as obesity treatment interventions with women.</p>
+  </p>
+
+  <p>
+    <h2>Recent and Noteworthy Publications</h2>
+  </p>
+  <p>
+    <p>For a more publications by Dr. Marian Fitzgibbon, see <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=fitzgibbon+ml">this edited list</a> on PubMed.</p>
+<p>Behrman P, Fitzgibbon M, Buscemi J, Sanchez-Johnsen L, Laroche H, Yanez B, Gonzales R, Gwede CK, Raja S, Jacobson L, Gil-Rivas V, Tam-Ashing K. Society of Behavioral Medicine Position Statement: Congress should protect immigrants seeking health care. Transl Behav Med. 2019 Nov 25;9(6):1244-1247. doi: 10.1093/tbm/ibz119.</p>
+<p>Hynes DM, Fischer M, Fitzgibbon M, Porter AC, Berbaum M, Schiffer L, et al. Integrating a Medical Home in an Outpatient Dialysis Setting: Effects on Health-Related Quality of Life. J Gen Intern Med. 2019 Jul 24. doi: 10.1007/s11606-019-05154-9.</p>
+<p>Simon MA, Fitzgibbon M, Ciecierski C, Cooper JM, Martinez E, Tom L, et al. Building Cross-Institutional Collaborative Infrastructure and Processes: Early Lessons From the Chicago Cancer Health Equity Collaborative. Prog Community Health Partnersh. 2019;13(5):5-13. doi: 10.1353/cpr.2019.0030.</p>
+<p>Buscemi J, Odoms-Young A, Stolley MR, et al. Comparative Effectiveness Trial of an Obesity Prevention Intervention in EFNEP and SNAP-ED: Primary Outcomes. Nutrients. 2019 May 5;11(5). pii: E1012. doi: 10.3390/nu11051012.</p>
+<p>Watson K, Buscemi J, Fitzgibbon M, et al. Society of Behavior Medicine (SBM) Urges Congress to Ensure Affordable Care Act Coverage of Prostate Cancer Screening Support Services for High-Risk Men. Transl Behav Med. 2019 Mar 11. pii: ibz034. doi: 10.1093/tbm/ibz034.</p>
+<p>Hughes SL, Tussing-Humphreys L, Schiffer L, et al. Fit &amp; Strong! Plus Trial Outcomes for Obese Older Adults with Osteoarthritis [published online ahead of print, 2018 Nov 26]. Gerontologist. 2018;10.1093/geront/gny146. doi:10.1093/geront/gny146.</p>
+<p>Fitzgibbon ML, Tussing-Humphreys L, Schiffer L, et al. Fit &amp; Strong! Plus: descriptive demographic and risk characteristics in a comparative effectiveness trial for older African-American adults with osteoarthritis. J Aging Res Clin Pract. 2018;7(1):9&ndash;16. doi:10.14283/jarcp.2018.3</p>
+<p>Peterson CE, Gordon SC, Le Hew CW, et al. Society of Behavioral Medicine position statement: Society of Behavioral Medicine supports oral cancer early detection by all healthcare providers [published online ahead of print, 2018 Jul 11]. Transl Behav Med. 2018;10.1093/tbm/iby075. doi:10.1093/tbm/iby075.</p>
+<p>Chukwudozie IB, Fitzgibbon ML, Schiffer L, et al. Facilitating primary care provider use in a patient-centered medical home intervention study for chronic hemodialysis patients. Transl Behav Med. ;8(3):341&ndash;350. doi:10.1093/tbm/iby021.</p>
+<p>Vergis S, Schiffer L, White T, et al. Diet Quality and Nutrient Intake of Urban Overweight and Obese Primarily African American Older Adults with Osteoarthritis. Nutrients. 2018;10(4):485. Published 2018 Apr 13. doi:10.3390/nu10040485.</p>
+<p>Kong A, Schiffer L, Antonic M, Braunschweig C, Odoms-Young A, Fitzgibbon M. The relationship between home- and individual-level diet quality among African American and Hispanic/Latino households with young children. Int J Behav Nutr Phys Act. 2018;15(1):5. Published 2018 Jan 15. doi:10.1186/s12966-018-0645-9.</p>
+<p>Zenk SN, Tarlov E, Powell LM, et al. Weight and Veterans&#39; Environments Study (WAVES) I and II: Rationale, Methods, and Cohort Characteristics. Am J Health Promot. 2018;32(3):779&ndash;794. doi:10.1177/0890117117694448.</p>
+<p>Tussing-Humphreys L, Lamar M, Blumenthal JA, et al. Building research in diet and cognition: The BRIDGE randomized controlled trial. Contemp Clin Trials. 2017;59:87&ndash;97. doi:10.1016/j.cct.2017.06.003.</p>
+<p>Peterson CE, Khosla S, Jefferson GD, et al. Measures of economic advantage associated with HPV-positive head and neck cancers among non-Hispanic black and white males identified through the National Cancer Database. Cancer Epidemiol. 2017;48:1&ndash;7. doi:10.1016/j.canep.2017.02.011.</p>
+<p>Hynes DM, Fischer MJ, Schiffer LA, Gallardo R, Chukwudozie IB, Porter A, Berbaum M, Earheart J, Fitzgibbon ML.&nbsp;Evaluating a novel health system intervention for chronic kidney disease care using the RE-AIM framework: Insights after two years.&nbsp;Contemp Clin Trials. 2016 Oct 18;52:20-26. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/27769897">See abstract.</a>]</p>
+<p>Peterson CE, Khosla S, Chen LF, Joslin CE, Davis FG, Fitzgibbon ML, Freels S, Hoskins K. Racial differences in head and neck squamous cell carcinomas among non-Hispanic black and white males identified through the National Cancer Database (1998-2012). J Cancer Res Clin Oncol. 2016 Aug;142(8):1715-26. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/27251759">See abstract.</a>]</p>
+<p>Buscemi J, Berlin KS, Rybak TM, Schiffer LA, Kong A, Stolley MR, Blumstein L, Odoms-Young A, Fitzgibbon ML. Health Behavior and Weight Changes Among Ethnic and Racial Minority Preschoolers and Their Parents: Associations Across 1 Year. J Pediatr Psychol. 2016 Aug;41(7):777-85. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/26717958">See abstract.</a>]</p>
+<p>Becker EA, Buscemi J, Fitzgibbon ML, Watson K, Matthews KL, Winn RA; Society of Behavioral Medicine Health Policy Committee. Society of Behavioral Medicine (SBM) position statement: SBM supports the National Colorectal Cancer Roundtable&#39;s (NCCRT) call to action to reach 80% colorectal cancer screening rates by 2018. Transl Behav Med. 2016 Jun;6(2):306-8. <a href="http://www.ncbi.nlm.nih.gov/pubmed/27357000">See statement.</a></p>
+<p>Kong A, Buscemi J, Stolley MR, Schiffer LA, Kim Y, Braunschweig CL, Gomez-Perez SL, Blumstein LB, Van Horn L, Dyer AR, Fitzgibbon ML. Hip-Hop to Health Jr. Randomized Effectiveness Trial: 1-Year Follow-up Results. Am J Prev Med. 2016 Feb;50(2):136-44. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/26385162">See abstract.</a>]</p>
+<p>Springfield S, Buscemi J, Fitzgibbon ML, Stolley MR, Zenk SN, Schiffer L, et al. A randomized pilot study of a community-based weight loss intervention for African-American women: Rationale and study design of Doing Me! Sisters Standing Together for a Healthy Mind and Body. Contemp Clin Trials. 2015 Jul;43:200-8. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/26079196">See abstract.</a>]</p>
+<p>Kong A, Vijayasiri G, Fitzgibbon ML, Schiffer LA, Campbell RT.&nbsp;Confirmatory factor analysis and measurement invariance of the child feeding questionnaire in low-income Hispanic and African-American mothers with preschool-age children. Appetite. 2015 Jul;90:16-22.&nbsp;[<a href="https://www.ncbi.nlm.nih.gov/pubmed/25728882">See abstract.</a>]</p>
+<p>Buscemi J, Blumstein L, Kong A, Stolley ML, Schiffer L, Odoms-Young A, Bittner C, Fitzgibbon ML.&nbsp;Retaining traditionally hard to reach participants: lessons learned from three childhood obesity studies. Contemp Clin Trials. 2015 Apr 3;42:98-104. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/25847577">See abstract.</a>]</p>
+<p>Buscemi J, Kanwischer K, Becker AB, Ward DS, Fitzgibbon ML.&nbsp;Society of behavioral medicine position statement: early care and education (ECE) policies can impact obesity prevention among preschool-aged children. Transl Behav Med. 2015 Mar;5(1):122-5. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/25729461">See abstract.</a>]</p>
+<p>Porter AC, Fitzgibbon ML, Fischer MJ, Gallardo R, Berbaum ML, Lash JP, Castillo S, Schiffer L, Sharp LK, Tulley J, Arruda JA, Hynes DM. Rationale and design of a patient-centered medical home intervention for patients with end-stage renal disease on hemodialysis.Contemp Clin Trials. 2015 Feb 28;42:1-8. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/25735489">See abstract.</a>]</p>
+<p>Peterson CE, Rauscher GH, Johnson TP, Kirschner CV, Freels S, Barrett RE, Kim S, Fitzgibbon ML, Joslin CE, Davis FG. The effect of neighborhood disadvantage on the racial disparity in ovarian cancer-specific survival in a large hospital-based study in cook county, Illinois. Front Public Health. 2015 Jan 22;3:8. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/25657992">See abstract</a>.]</p>
+<p>Buscemi J, Kong A, Fitzgibbon ML, Bustamante EE, Davis CL, Pate RR, Wilson DK. Society of behavioral medicine position statement: elementary school-based physical activity supports academic achievement. Transl Behav Med. 2014 Dec;4(4):436-8. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/25584093">See abstract</a>.]</p>
+<p>Buscemi J, Odoms-Young A, Stolley ML, Blumstein L, Schiffer L, Berbaum ML, McCaffrey J, Montoya AM, Braunschweig C, Fitzgibbon ML. Adaptation and dissemination of an evidence-based obesity prevention intervention: design of a comparative effectiveness trial. Contemp Clin Trials. 2014 Jul;38(2):355-60. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/24952282">See abstract.</a>]</p>
+<p>Kong A,&nbsp;Odoms-Young AM, Schiffer LA,&nbsp;Kim Y,&nbsp;Berbaum ML, Porter SJ, Blumstein LB, Bess SL,&nbsp;Fitzgibbon ML. The 18-month impact of special supplemental nutrition program for women, infants, and children food package revisions on diets of recipient families.&nbsp;Am J Prev Med.&nbsp;2014 Jun;46(6):543-51. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/24842730">See abstract.</a>]</p>
+<p>Peterson CE, Rauscher GH, Johnson TP, Kirschner CV, Barrett RE, Kim S, Fitzgibbon ML, Joslin CE, Davis FG.The association between neighborhood socioeconomic status and ovarian cancer tumor characteristics. Cancer Causes Control. 2014 May;25(5):633-7. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/24532025">See abstract.</a>]</p>
+<p>Smith-Ray RL, Fitzgibbon ML, Tussing-Humphreys L, Schiffer L, Shah A, Huber GM, Braunschweig C, Campbell RT, Hughes SL. Fit and Strong! Plus: design of a comparative effectiveness evaluation of a weight management program for older adults with osteoarthritis. Contemp Clin Trials. 2014 Mar;37(2):178-88. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/24316240">See abstract.</a>]</p>
+<p>Kong A, Jones BL, Fiese BH, Schiffer LA, Odoms-Young A, Kim Y, Bailey L, Fitzgibbon ML. Parent-child mealtime interactions in racially/ethnically diverse families with preschool-age children. Eat Behav. 2013 Dec;14(4):451-5. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/24183134">See abstract.</a>]</p>
+<p>Zenk SN, Powell LM, Odoms-Young AM, Krauss R, Fitzgibbon ML, Block D, Campbell RT. Impact of the revised Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) food package policy on fruit and vegetable prices. J Acad Nutr Diet. 2014 Feb;114(2):288-96. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/24183996">See abstract</a>.]</p>
+<p>Odoms-Young AM, Kong A, Schiffer LA, Porter SJ, Blumstein L, Bess S, Berbaum ML, Fitzgibbon ML. Evaluating the initial impact of the revised Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) food packages on dietary intake and home food availability in African-American and Hispanic families. Public Health Nutr. 2014 Jan;17(1):83-93. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/23544992">See abstract.</a>]</p>
+<p>Joo MJ, Sharp LK, Au DH, Lee TA, Fitzgibbon ML. Use of spirometry in the diagnosis of COPD: a qualitative study in primary care. COPD. 2013 Aug;10(4):444-9.&nbsp;[<a href="https://www.ncbi.nlm.nih.gov/pubmed/23537230">See abstract.</a>]</p>
+<p>Fitzgibbon ML, Stolley MR, Schiffer L, Kong A, Braunschweig CL, Gomez-Perez SL, Odoms-Young A, Van Horn L, Kaufer Christoffel K, Dyer AR. Family-based Hip-Hop to Health: outcome results. Obesity (Silver Spring). 2013 Feb;21(2):274-83. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/23532990">See abstract.</a>]</p>
+<p>Kong A, Odoms-Young AM, Schiffer LA, Berbaum ML, Porter SJ, Blumstein L, Fitzgibbon ML. Racial/ethnic differences in dietary intake among WIC families prior to food package revisions. J Nutr Educ Behav. 2013 Jan;45(1):39-46. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/23073175">See abstract.</a>]</p>
+<p>Tussing-Humphreys LM, Fitzgibbon ML, Kong A, Odoms-Young A. Weight loss maintenance in African American women: a systematic review of the behavioral lifestyle intervention literature. J Obes. 2013;2013:437369. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/23691286">See abstract.</a>]</p>
+<p>Fitzgibbon ML, Tussing-Humphreys LM, Porter JS, Martin IK, Odoms-Young A, Sharp LK. Weight loss and African-American women: a systematic review of the behavioural weight loss intervention literature. Obes Rev. 2012 Mar;13(3):193-213. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/23691286">See abstract.</a>]</p>
+<p>Nutescu EA, Bathija S, Sharp LK, Gerber BS, Schumock GT, Fitzgibbon ML. Anticoagulation patient self-monitoring in the United States: considerations for clinical practice adoption. Pharmacotherapy. 2011 Dec;31(12):1161-74. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/22122179">See abstract.</a>]</p>
+<p>Joo MJ, Au DH, Fitzgibbon ML, McKell J, Lee TA. Determinants of spirometry use and accuracy of COPD diagnosis in primary care. J Gen Intern Med. 2011 Nov;26(11):1272-7.&nbsp; [<a href="https://www.ncbi.nlm.nih.gov/pubmed/21713542">See abstract.</a>]</p>
+<p>Fisher EB, Fitzgibbon ML, Glasgow RE, Haire-Joshu D, Hayman LL, Kaplan RM, Nanney MS, Ockene JK. Behavior matters. Am J Prev Med. 2011 May;40(5):e15-30. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/21496745">See abstract.</a>]</p>
+<p>Lown DA, Fitzgibbon ML, Dyer A, Schiffer L, Gomez S, Braunschweig CL. Effect of variable energy served on 24-hour energy intake in 16 preschools, Chicago, Illinois, 2007. Prev Chronic Dis. 2011 May;8(3):A58. [<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3103563/">See abstract.</a>]</p>
+<p>Fitzgibbon ML, Stolley MR, Schiffer LA, Braunschweig CL, Gomez SL, Van Horn L, Dyer AR. Hip-Hop to Health Jr. Obesity Prevention Effectiveness Trial: Postintervention Results. Obesity (Silver Spring). 2011 May;19(5):994-1003. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/21193852">See abstract.</a>]</p>
+<p>Fitzgibbon ML, Stolley MR, Schiffer L, Sharp LK, Singh V, Dyer A. Obesity Reduction Black Intervention Trial (ORBIT): 18-month results. Obesity (Silver Spring). 2010 Dec;18(12):2317-2325. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/20300081">See abstract.</a>]</p>
+<p>Joo MJ, Au DH, Fitzgibbon ML, Lee TA. Inhaled corticosteroids and risk of pneumonia in newly diagnosed COPD. Respir Med. 2010 Feb;104(2):246-52. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/19879745">See abstract.</a>]&nbsp;</p>
+<p>Fitzgibbon ML, Beech BM. The role of culture in the context of school-based BMI screening. Pediatrics. 2009 Sep;124 Suppl 1:S50-62. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/19720668">See abstract.</a>]</p>
+<p>Gerber BS, Stolley MR, Thompson AL, Sharp LK, Fitzgibbon ML. Mobile phone text messaging to promote healthy behaviors and weight loss maintenance: a feasibility study. Health Informatics J. 2009 Mar;15(1):17-25. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/19218309">See abstract.</a>]</p>
+<p>Stolley MR, Fitzgibbon ML, Schiffer L, Sharp LK, Singh V, Van Horn L, Dyer A. Obesity Reduction Black Intervention Trial (ORBIT): Six-month Results. Obesity (Silver Spring). 2009 Jan;17(1):100-6. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/18997671">See abstract.</a>]</p>
+<p>Lee TA, Au DS, Fitzgibbon ML, Weiss KB. Medication use patterns associated with spirometry in diagnosing COPD. COPD. 2008 Dec;5(6):360-368. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/19353350">See abstract.</a>]</p>
+<p>Sharp LK, Fitzgibbon ML, Schiffer L. Recruitment of obese black women into a physical activity and nutrition intervention trial. J Phys Act Health. 2008 Nov;5(6):870-81. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/19164821">See abstract.</a>]</p>
+<p>Pulvers KM, Kaur H, Nollen NL, Greiner KA, Befort CA, Hall S, Born W, Fitzgibbon ML, Ahluwalia JS. Comparison of body perceptions between obese primary care patients and physicians: implications for practice. Patient Educ Couns. 2008 Oct;73(1):73-81. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/18583089">See abstract.</a>]</p>
+<p>Fitzgibbon ML, Stolley M, Schiffer L, Sharp L, Singh V, Van Horn L, Dyer A. Obesity Reduction Black Intervention Trial (ORBIT): design and baseline characteristics. J Womens Health (Larchmt). 2008 Sep;17(7):1099-110. [<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2944416/">See abstract.</a>]</p>
+<p>Fitzgibbon ML, Hayman LL, and Haire-Joshu D. Childhood obesity: can policy changes affect this epidemic? Society of Behavioral Medicine, July 2008. Available from: <a href="http://www.sbm.org/about/public-policy/statements/childhood-obesity">http://www.sbm.org/about/public-policy/statements/childhood-obesity</a></p>
+<p>Banitt AA, Kaur H, Pulvers KM, Nollen NL, Ireland M, Fitzgibbon ML. BMI percentiles and body image discrepancy in black and white adolescents. Obesity. 2008 May;16(5): 987-991. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/18292750">See abstract.</a>]</p>
+<p>Sanchez-Johnsen, L, Hogan K, Wilkens LR, Fitzgibbon ML. Correlates of problematic eating behaviors in less acculturated Latinas. Eat Behav. 2008 Apr;9(2):181-189. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/18329596">See abstract.</a>]</p>
+<p>Fitzgibbon ML, Ferreira MR, Dolan NC, Davis TC, Rademaker AW, Wolf MS, Liu D, Gorby N, Schmitt BP, and Bennett CL. Process evaluation in an intervention designed to improve rates of colorectal cancer screening in a VA medical center. Health Promot Pract. 2007;8(3):273-281. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/17606952">See abstract.</a>]</p>
+<p>Fitzgibbon ML, Gans KM, Evans WD, Viswanath K, Johnson-Taylor WL, Krebs-Smith SM, Rodgers AB, Yaroch AL. Communicating healthy eating: lessons learned and future directions. J Nutr Educ Behav. 2006;39:S63-S71. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/17336811">See abstract.</a>]</p>
+<p>Fitzgibbon ML, Stolley MR, Schiffer L, Van Horn L, KauferKristoffel K, Dyer A. Hip-Hop to Health Jr. for Latino preschool children. Obes Res. 2006;14(9):1616-1625. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/17030973">See abstract.</a>]</p>
+<p>Fitzgibbon ML, Stolley MR. Commentary: Promoting health in an unhealthful environment: lifestyle challenges for children and adolescents. J Am Diet Assoc. 2006;106(4):518-522. [<a href="http://www.andjrnl.org/article/S0002-8223(06)00284-7/abstract">See abstract.</a>]</p>
+<p>Nollen N, Kaur H, Pulvers K, Choi W, Fitzgibbon ML, Li C, Nazir N, Ahluwalia, JS. Correlates of ideal body size among Black and White adolescents. J Youth Adol. 2006;35(2):276-284. [<a href="http://link.springer.com/article/10.1007%2Fs10964-005-9024-3#/page-1">See abstract.</a>]</p>
+  </p>
+
+  <p>
+    <h2>Honors and Awards</h2>
+  </p>
+  <p>
+    <p>Fellow, ELAM Program of Drexel University, 2012&ndash;2013</p>
+  </p>
+</div>
+
+
+<div style="float:right; width: 32%;" class="right-sidebar">
+<p><strong>Contact Info</strong></p>
+
+<p>
+  Phone: (312) 996-0146<br />
+
+  Fax: (312) 413-8950<br />
+
+
+  E-mail: <a href="mailto:mlf@uic.edu">mlf@uic.edu</a><br />
+</p>
+
+  <p><p>&nbsp;</p>
+<p><strong>Institute for Health Research and Policy</strong><br />
+	University of Illinois at Chicago (MC 275)<br />
+	486 Westside Research Office Bldg.<br />
+	1747 West Roosevelt Road<br />
+	Chicago, IL 60608</p>
+</p>
+
+<br />
+
+  <strong>Other Title(s)</strong><br />
+	<p>Associate Director for Cancer Prevention and Control of the <a href="https://cancer.uillinois.edu/">UI Cancer Center</a></p>
+  <br />
+
+
+
+  <p>
+    <strong>Current IHRP Research Studies (PI)</strong>
+  </p>
+  <ul>
+        	    	<li><a href="../study/cancer-education-and-career-development-program-2013-2018">Cancer Education and Career Development Program </a></li>
+        	    	<li><a href="../study/mediterranean-diet-weight-loss-and-cognition-obese-older-adults">Mediterranean Diet, Weight Loss, and Cognition in Obese Older Adults</a></li>
+      </ul>
+  <br />
+
+
+  <p>
+    <strong>Other Research (Non-IHRP)</strong>
+  </p>
+  <p>
+    <p>Dissemination of a Weight Management Program among US Veterans (MOVE*VETS)<br />
+	Feasibility Study of Modified &quot;Life Over Cancer&quot; Intervention in Breast Cancer Patients<br />
+	Illinois Prevention Research Center<br />
+	Impact of a New WIC Food Package Fruit and Vegetable Cash-Voucher on Vendor Participation and Fruit and Vegetable Supply Characteristics<br />
+	Weight Loss Maintenance in Black Women</p>
+  </p>
+  <br />
+
+
+  <p>
+    <strong>Recently Completed Research</strong>
+  </p>
+  <p>
+    <ul>
+	<li>
+		<a href="/study/adaptation-and-dissemination-evidence-based-obesity-prevention-intervention">Adaptation and Dissemination of an Evidence-Based Obesity Prevention Intervention</a></li>
+	<li>
+		<a href="http://www.ihrp.uic.edu/study/adiposity-and-outcomes-clinically-localized-prostate-cancer">Adiposity and Outcomes of Clinically Localized Prostate Cancer</a></li>
+	<li>
+		<a href="/study/comparative-effectiveness-customary-fit-and-strong-vs-fit-and-strong-plus">Comparative Effectiveness of Customary Fit and Strong! vs. Fit and Strong! Plus</a></li>
+	<li>
+		<a href="http://www.ihrp.uic.edu/study/center-excellence-eliminating-disparities">Center of Excellence in Eliminating Disparities</a></li>
+	<li>
+		<a href="/study/illinois-prevention-research-center-supporting-policy-and-environmental-change">Illinois PRC: Supporting Policy &amp; Environmental Change</a></li>
+	<li>
+		<a href="/study/technology-based-measurement-home-food-availability-low-income-households">Technology-Based Measurement of Home Food Availability in Low-Income Households</a></li>
+</ul>
+<p>&nbsp;</p>
+  </p>
+
+</div>
+        </div>
+
+        		
+      </div></div> <!-- /#content-inner, /#content -->
+
+              <div id="navbar"><div id="navbar-inner">
+
+          <a name="navigation" id="navigation"></a>
+
+          
+        </div></div> <!-- /#navbar-inner, /#navbar -->
+      
+
+    </div></div> <!-- /#main-inner, /#main -->
+
+    <div id="footer"><div id="footer-inner">
+      <div id="footer-message">  <footer id="footer" class="region region-footer">
+    <div id="block-block-43" class="block block-block first last odd">
+
+      
+  <p><strong>Institute for Health Research and Policy of the University of Illinois at Chicago</strong><br />
+	Multidisciplinary Home of UIC Researchers Collaborating in the Social and Health Sciences</p>
+<p>1747 W. Roosevelt Road, MC 275, Westside Research Office Bldg., Chicago, IL 60608<br />
+	T: <a href="tel:(312) 996-7222">(312) 996-7222</a> · F: (312) 996-2703</p>
+<p><a href="http://www.uic.edu/">UIC.edu</a> · <a href="https://www.uic.edu/apps/find-people/search">Campus Directory</a> · <a href="http://disabilityresources.uic.edu/">Disability Resources</a> · <a href="/content/employment-ihrp">Job Openings</a> · <a href="https://maps.uic.edu/">Maps</a> · <a href="/content/contact-us">Contact Us</a></p>
+<p>© 2020 <a href="http://www.uillinois.edu/trustees/">The Board of Trustees of the University of Illinois</a> · Privacy Policy · Webmaster: <a href="mailto:IHRP-webfix@uic.edu">IHRP-webfix@uic.edu</a></p>
+
+</div>
+  </footer>
+</div>
+
+    </div></div> <!-- /#footer-inner, /#footer -->
+
+    
+    
+  </div></div> <!-- /#page-inner, /#page -->
+    <script src="sites/all/themes/ihrp/js/customize-twitter-1.1/customize-twitter-1.1.min.js" type="text/javascript"></script>
+  <script>
+	var options = {
+    	"url": "sites/all/themes/ihrp/css/twitter.css",
+		"timeout_length": 1800
+	};
+	CustomizeTwitterWidget(options);
+</script>
+</body>
+</html>

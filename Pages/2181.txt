@@ -1,0 +1,114 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+    <base href='https://www.ihrp.uic.edu/content/why-ihrp-research-faqs' />
+    <title>FAQs about the Institute</title>
+    <script src="https://www.ihrp.uic.edu/misc/jquery.js?v=1.4.4"></script>
+<script src="https://www.ihrp.uic.edu/misc/jquery-extend-3.4.0.js?v=1.4.4"></script>
+<script src="https://www.ihrp.uic.edu/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.ihrp.uic.edu/misc/drupal.js?q8vwl2"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/field_group/field_group.js?q8vwl2"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/themes/ihrp/js/script.js?q8vwl2"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"ihrp","theme_token":"3nG16wTryKAlFO0kB_ctR57NZXVTvhQ5-Xt_zuQFIgw","js":{"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/field_group\/field_group.js":1,"sites\/all\/themes\/ihrp\/js\/script.js":1}},"field_group":{"fieldset":"print"}});</script>
+    <script type="text/javascript">(function ($) { Drupal.behaviors.print = {attach: function() {$(window).load(function() {window.print();})}}})(jQuery);</script>    <meta name="robots" content="noindex, nofollow" />          <link rel='shortcut icon' href='https://www.ihrp.uic.edu/files/favicon.ico' type='image/x-icon' />
+        <style>
+@import url("https://www.ihrp.uic.edu/modules/system/system.base.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/system/system.menus.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/system/system.messages.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/system/system.theme.css?q8vwl2");
+</style>
+<style>
+@import url("https://www.ihrp.uic.edu/modules/aggregator/aggregator.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/comment/comment.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/date/date_api/date.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/field/theme/field.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/node/node.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/search/search.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/user/user.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/views/css/views.css?q8vwl2");
+</style>
+<style>
+@import url("https://www.ihrp.uic.edu/sites/all/modules/ctools/css/ctools.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/print/css/print.css?q8vwl2");
+</style>
+  </head>
+  <body>
+            <div class="print-site_name">Published on <em class="placeholder">Institute for Health Research and Policy | University of Illinois at Chicago</em> (<a href="https://www.ihrp.uic.edu">https://www.ihrp.uic.edu</a>)</div>
+    <p />
+    <div class="print-breadcrumb"><a href="/">Home</a> &gt; <a href="/content/about-advantages-UIC-researchers" title="">Why IHRP? </a> &gt; FAQs</div>
+    <hr class="print-hr" />
+        <div class="print-content">
+<article class="node-18 node node-page node-promoted view-mode-print clearfix" about="/content/why-ihrp-research-faqs" typeof="sioc:Item foaf:Document">
+
+      <header>
+                    <h2 class="node__title node-title"><a href="https://www.ihrp.uic.edu/content/why-ihrp-research-faqs">FAQs about the Institute</a> <span class="print-footnote">[1]</span></h2>
+            <span property="dc:title" content="FAQs about the Institute" class="rdf-meta element-hidden"></span>
+      
+          </header>
+  
+	
+  <p>Since the University established the Institute in 1997, the Institute for Health Research and Policy has grown, developed new strengths, and evolved.</p>
+<h2>
+	Here we answer questions about the Institute for UIC researchers and department heads in social and health sciences.</h2>
+<h3>
+	What kinds of research is conducted at the Institute?</h3>
+<p>The Institute welcomes research that addresses questions about the promotion of health, well-being, the reduction of health disparities, and the promotion of health equity &mdash; all broadly defined. IHRP embraces research that addresses the root causes and prevention of poor health, interventions to enhance health and well-being, and treatments designed to reduce the effects of chronic illness on well-being.</p>
+<p>We believe that cities and environments play a large role in promoting good health, as do policies and regulations, as well as individual behaviors, assets, and vulnerabilities, both biological and psychological. Researchers from multiple disciplines, especially from the social and health sciences, address these complex issues at IHRP.&nbsp;</p>
+<p>Learn more about <a href="https://www.ihrp.uic.edu/content/our-research-focus">research conducted at IHRP</a> <span class="print-footnote">[2]</span>.</p>
+<h3>
+	What kinds of sponsors fund researchers at the Institute?</h3>
+<p>Our scientific and administrative teams support scientists with funding from multiple federal agencies, foundations, professional organizations, and other entities.</p>
+<p>In addition to many years of work with grants from the National Institutes of Health and the Centers for Disease Control and Prevention, our team&rsquo;s expertise includes other federal agencies, including the National Science Foundation, the U.S. Departments of Justice, Education and Defense.</p>
+<p>In addition, we often work with nonprofit and philanthropic organizations, such as the William T. Grant Foundation, the Retirement Research Foundation, and American Cancer Society. The Institute has supported research funded by the Robert Wood Johnson Foundation itself for over 20 years, and the Institute is the only unit on campus that administers grants from Bloomberg Philanthropies.</p>
+<p>We are confident we can support a grant from any sponsor &mdash; our team is a quick study.</p>
+<p>Learn more about <a href="https://www.ihrp.uic.edu/content/admin-resources-intro">our Admin Team</a> <span class="print-footnote">[3]</span>.</p>
+<h3>
+	How large must a researcher&rsquo;s grant portfolio before s/he can join the Institute?</h3>
+<p>Doctoral candidates, postdocs, early scientists, academic-professional researchers, new faculty, and tenured faculty members &mdash; all call the Institute their research home.&nbsp;</p>
+<p>We support researchers at all stages of their careers in obtaining and working on their first grants, from proposal development to submission, through the funding period and the life of the study, to the grant&rsquo;s fiscal closeout, and the next grant. The Institute fosters an environment where researchers continually secure funding as they advance their scholarly inquiry throughout their career.</p>
+<h3>
+	Can IHRP help me prepare and submit a grant application if my home department administers other grants for me?</h3>
+<p>Researchers do not need to base their entire grant portfolios at the Institute. Principal investigators with grants not at IHRP still can begin working with our grants managers to prepare a proposal. Researchers often find greater efficiency and administrative cohesion to keep their grant portfolios in one place.</p>
+<p>Our expectation for all applications we support &mdash; whether or not the researcher has funding somewhere else &mdash; is that, if our team supports the proposal, our team is in the best position to administer the funded grant until its closes. If the proposal is not funded, we will work with the researcher to support the resubmission.</p>
+<p>Learn more about <a href="https://www.ihrp.uic.edu/content/admin-grants-finance">IHRP grants management</a> <span class="print-footnote">[4]</span>.</p>
+<h3>
+	How is intellectual credit distributed for research administered by the Institute?</h3>
+<p>We believe that the intellectual credit for a grant resides with the researcher&rsquo;s academic home unit.</p>
+<p>We will work with scientists and their home departments to ensure that their academic unit gets acknowledgement and intellectual credit for their faculty&#39;s work.</p>
+<h3>
+	Can researchers work with the IHRP scientific cores &mdash; the Methodology Research Core and the Data Management Core &mdash; if the Institute does not administer their research?</h3>
+<p>Yes, any UIC researcher can work with the Institute&rsquo;s Methodology Research Core or Data Management Core, but the Core may require a fee for service if the work is not part of a grant administered by the IHRP. Researchers whose grants are administered through the IHRP have priority for service from the cores, and thus availability to non IHRP researchers may be more limited.&nbsp;&nbsp;</p>
+<p>Learn more about the <a href="https://www.ihrp.uic.edu/content/scientific-resources-intro">Institute&#39;s Scientific Cores</a> <span class="print-footnote">[5]</span>.</p>
+
+  
+</article><!-- /.node -->
+</div>
+    <div class="print-footer">
+<div id="block-block-43" class="block block-block first odd">
+
+      
+  <p><strong>Institute for Health Research and Policy of the University of Illinois at Chicago</strong><br />
+	Multidisciplinary Home of UIC Researchers Collaborating in the Social and Health Sciences</p>
+<p>1747 W. Roosevelt Road, MC 275, Westside Research Office Bldg., Chicago, IL 60608<br />
+	T: <a href="tel:(312) 996-7222">(312) 996-7222</a> · F: (312) 996-2703</p>
+<p><a href="http://www.uic.edu/">UIC.edu</a> · <a href="https://www.uic.edu/apps/find-people/search">Campus Directory</a> · <a href="http://disabilityresources.uic.edu/">Disability Resources</a> · <a href="/content/employment-ihrp">Job Openings</a> · <a href="https://maps.uic.edu/">Maps</a> · <a href="/content/contact-us">Contact Us</a></p>
+<p>© 2020 <a href="http://www.uillinois.edu/trustees/">The Board of Trustees of the University of Illinois</a> · Privacy Policy · Webmaster: <a href="mailto:IHRP-webfix@uic.edu">IHRP-webfix@uic.edu</a></p>
+
+</div>
+</div>
+    <hr class="print-hr" />
+          <div class="print-source_url">
+        <strong>Source URL (modified on 07/16/2019 - 8:28pm):</strong> https://www.ihrp.uic.edu/content/why-ihrp-research-faqs      </div>
+        <div class="print-links"><p><strong>Links</strong><br />[1] https://www.ihrp.uic.edu/content/why-ihrp-research-faqs<br />
+[2] https://www.ihrp.uic.edu/content/our-research-focus<br />
+[3] https://www.ihrp.uic.edu/content/admin-resources-intro<br />
+[4] https://www.ihrp.uic.edu/content/admin-grants-finance<br />
+[5] https://www.ihrp.uic.edu/content/scientific-resources-intro<br />
+</p></div>
+      </body>
+</html>

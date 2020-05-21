@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin List -->
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Page:</strong>
+		<a href='/list.php?id=1&amp;page=1'>1</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=2'>2</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=3'>3</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=4'>4</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=5'>5</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=6'>6</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=7'><strong>7</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=8'>8</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=9'>9</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=10'>10</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<div id='list_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin List List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1745'><img src='/resizedImages/500x280-crop-silkroad.jpg' alt='' title='The Silk Road Cave Shrines' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1745'>The Silk Road Cave Shrines</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=129'>Maggie Rawlings</a>, <a href='/entry.php?id=43'>Muhammad Ali Khan</a>, <a href='/entry.php?id=58'>Samroeng Thongrong</a>, <a href='/entry.php?id=46'>Ya Lu Lin</a>, Sarah Fraser, Bill Parod, Jim Chen, Dennis Glenn, Harlan Wallach<br>
+			May 1, 1998 - December 1, 1998<br><br>
+			This project involved a collaboration between historians, artists and computer scientists to create a virtual cultural and artistic exhibit of the&hellip; <a href='/entry.php?id=1745'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1693'><img src='/resizedImages/500x280-crop-grey.jpg' alt='' title='Grey' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1693'>Grey</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=65'>Joseph Alexander</a><br>
+			February 1, 1998 - April 30, 1998<br><br>
+			Grey is a black and white computer generated and animated short film. It is loosely based on &ldquo;The Good Samaritan&rdquo; storyline (Luke&hellip; <a href='/entry.php?id=1693'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1793'><img src='/resizedImages/500x280-crop-construction.gif' alt='' title='Interactive Web Works' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1793'>Interactive Web Works</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=2'>Todd Margolis</a><br>
+			January 1, 1998 - January 1, 1999<br><br>
+			These are experiments with dynamic html and javascript. Submerged Construction is intended to be a metaphore about the frustrations of web surfing;&hellip; <a href='/entry.php?id=1793'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1829'><img src='/resizedImages/500x280-crop-postcard_front-2.jpg' alt='' title='sine::apsis experiments' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1829'>sine::apsis experiments</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=167'>Fernando Orellana</a>, <a href='/entry.php?id=2'>Todd Margolis</a>, Kevin Heisner, Daniel Miller, Amy Youngs, Valerie Fuchs, Andrea Polli<br>
+			January 1, 1998 - May 15, 1998<br><br>
+			sine::apsis experiments, based in Chicago, is a network of artists who take an unorthodox look at the role of technology in relation to human&hellip; <a href='/entry.php?id=1829'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1698'><img src='/resizedImages/500x280-crop-tvrerun256.gif' alt='' title='Interiors (Blue Window Pane)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1698'>Interiors (Blue Window Pane)</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=121'>Carlos Orrego</a>, <a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=17'>Joe Reitzer</a>, <a href='/entry.php?id=86'>Margaret Dolinsky</a>, <a href='/entry.php?id=66'>Mohammed Dastagir Ali</a>, Markus Greunz<br>
+			January 1, 1998 - January 1, 1999<br><br>
+			Interiors is conceived and directed by Margaret Dolinsky, premiering at SIGGRAPH 98&rsquo;s Enhanced Realities Exhibition. &ldquo;Interiors&rdquo;&hellip; <a href='/entry.php?id=1698'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1964'><img src='/resizedImages/500x280-crop-thing_growing_new2.jpg' alt='' title='The Thing Growing' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1964'>The Thing Growing</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=65'>Joseph Alexander</a>, <a href='/entry.php?id=12'>Josephine Anstey</a>, <a href='/entry.php?id=43'>Muhammad Ali Khan</a>, <a href='/entry.php?id=58'>Samroeng Thongrong</a><br>
+			January 1, 1998 - March 1, 2000<br><br>
+			The Thing Growing is a Virtual Reality Interactive Narrative. It&rsquo;s focus is the construction of the &ldquo;Thing&rdquo;, a virtual character&hellip; <a href='/entry.php?id=1964'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1743'><img src='/resizedImages/500x280-crop-grid09-s.jpg' alt='' title='Grid' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1743'>Grid</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=73'>Tom Coffin</a><br>
+			September 15, 1997 - September 27, 1997<br><br>
+			Grid is an endless cyberspace gallery of sculptural mandalas. The grid of &ldquo;jacks&rdquo; are portals into alternatives spaces where the&hellip; <a href='/entry.php?id=1743'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1699'><img src='/resizedImages/500x280-crop-straitdope-2.jpg' alt='' title='Strait Dope' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1699'>Strait Dope</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=113'>Deb Lowman (1966-2018)</a>, <a href='/entry.php?id=17'>Joe Reitzer</a>, <a href='/entry.php?id=86'>Margaret Dolinsky</a>, S. Melchionda, E. Zooma<br>
+			May 1, 1997 - August 1, 1997<br><br>
+			Strait Dope is a CAVE&trade; and ImmersaDesk&trade; virtual environment that emphasizes participant interaction. Strait Dope colors thought and&hellip; <a href='/entry.php?id=1699'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1740'><img src='/resizedImages/500x280-crop-scape2.jpg' alt='' title='Poverty Island' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1740'>Poverty Island</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, Laurie Spiegel, Dick Ainsworth<br>
+			May 1, 1997 - March 1, 1998<br><br>
+			&ldquo;Poverty Island with Video Skies&rdquo; is the beginning of an exploration of the integration of video images into a virtual environment. This&hellip; <a href='/entry.php?id=1740'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1752'><img src='/resizedImages/500x280-crop-frank.jpg' alt='' title='Disability Perspective #1' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1752'>Disability Perspective #1</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=9'>Drew Browning</a><br>
+			May 1, 1997 - October 1, 1997<br><br>
+			The newly built Franklin Delano Roosevelt National Monument serves as a focal point for this immersive experience, which addresses issues germane to&hellip; <a href='/entry.php?id=1752'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1670'><img src='/resizedImages/500x280-crop-igram-2.gif' alt='' title='ImmersaGrams' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1670'>ImmersaGrams</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=5'>Dana M. Plepys</a>, <a href='/entry.php?id=86'>Margaret Dolinsky</a>, <a href='/entry.php?id=66'>Mohammed Dastagir Ali</a>, <a href='/entry.php?id=2'>Todd Margolis</a>, (art)n Laboratory<br>
+			March 1, 1997 - February 28, 1998<br><br>
+			(art)n Laboratory and EVL have collaborated on the development of the first real-time, stereoscopic hardcopy output of virtual reality applications&hellip; <a href='/entry.php?id=1670'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1692'><img src='/resizedImages/500x280-crop-cleanse.jpg' alt='' title='Cleanse' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1692'>Cleanse</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=134'>Maria Roussou</a><br>
+			January 1, 1997 - September 1, 1997<br><br>
+			Cleanse is an interactive video installation addressing issues of technological and visual literacy. Literacy is fundamental to the shape and form of&hellip; <a href='/entry.php?id=1692'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1765'><img src='/resizedImages/500x280-crop-alan3d.gif' alt='' title='Divided We Speak' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1765'>Divided We Speak</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=75'>Alan Cruz</a>, Miroslaw Rogala, Stephan Meyer, Ellen Sandor, Janine Fron <br>
+			January 1, 1997 - November 1, 1997<br><br>
+			The &ldquo;Divided We Speak&rdquo; PHSCologram tryptich is a unique collaborative study in sculpture, photography, sound and poetry, based on an&hellip; <a href='/entry.php?id=1765'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1737'><img src='/resizedImages/500x280-crop-fount.gif' alt='' title='Liquid Meditation' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1737'>Liquid Meditation</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=151'>Margaret Watson</a>, Eric Butkus<br>
+			October 1, 1996 - May 1, 1997<br><br>
+			Liquid Meditation is a narrative virtual environment based on nature, philosophy and architecture. Constructed as a place of discovery, it was&hellip; <a href='/entry.php?id=1737'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1922'><img src='/resizedImages/500x280-crop-lasmeninasnew.jpg' alt='' title='Las Meninas' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1922'>Las Meninas</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=75'>Alan Cruz</a>, <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=146'>Christina Vasilakis</a>, <a href='/entry.php?id=70'>Hisham Bizri</a>, <a href='/entry.php?id=35'>Javier Girado</a>, <a href='/entry.php?id=104'>Joe Insley</a>, <a href='/entry.php?id=12'>Josephine Anstey</a>, <a href='/entry.php?id=52'>Kyoung Shin Park</a>, <a href='/entry.php?id=16'>Tom Moher</a>, Michael Gold<br>
+			September 1, 1996 - September 30, 1997<br><br>
+			&ldquo;Las Meninas&rdquo; is a painting about representation. Velasquez challenges the viewer by making the spectator the model to be viewed and vice&hellip; <a href='/entry.php?id=1922'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<!-- End List List -->
+	</table>
+</div>
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Page:</strong>
+		<a href='/list.php?id=1&amp;page=1'>1</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=2'>2</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=3'>3</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=4'>4</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=5'>5</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=6'>6</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=7'><strong>7</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=8'>8</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=9'>9</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=10'>10</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<!-- End List -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

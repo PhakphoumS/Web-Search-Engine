@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Entry -->
+<table id='entry_area' class='fixedTable'>
+	<tr>
+		<td style='width:676px;'>
+			<div id='entry_info'>
+<!-- Begin Entry Information -->
+<div style='margin-top:0;' id='entry_image_large'><img style='left:98px;' src='/resizedImages/1280x720-mbrown_2017cropped.jpg' alt='' title='Maxine Brown' width='443' height='360'></div>
+<div class='entry_content'>
+	<h3>Related Entries</h3>
+	<strong>Events:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2493'>UIC Computer Science/EVL awarded $2.25 Million from NSF for SAGE3</a></li>
+		<li><a href='/entry.php?id=2496'>Liqid publishes a case study on how EVL is using their GPU-based system COMPaaS DLV</a></li>
+		<li><a href='/entry.php?id=2483'>SAGE2 11th Annual International SC BOF @ SC19 - Tuesday, November 19, 12:15 - 1:15pm</a></li>
+		<li><a href='/entry.php?id=2486'>SAGE2 @ SC19: Demonstrations, Birds of a Feather, and SCinet Participation</a></li>
+		<li><a href='/entry.php?id=2403'>SAVE THE DATE: SAGE2 10th Annual International SC BOF @ SC18 - Tuesday, November 13, 12:15 - 1:15pm</a></li>
+		<li><a href='/related.php?id=178&amp;related=3'><strong>View more&hellip;</strong></a></li>
+	</ul><br>
+	<strong>Research:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2494'>Collaborative Research: CSSI Frameworks: SAGE3: Smart Amplified Group Environment for Harnessing the Data Revolution</a></li>
+		<li><a href='/entry.php?id=2401'>COMPaaS DLV: Composable Platform as a Service Instrument for Deep Learning & Visualization</a></li>
+		<li><a href='/entry.php?id=2316'>MRI - Development of Continuum: A Virtualized Attentive Environment for Amplified Collaboration</a></li>
+		<li><a href='/entry.php?id=2229'>SENSEI: Sensor Environment Imaging (SENSEI) Instrument</a></li>
+		<li><a href='/entry.php?id=1994'>OptIPlanet Cyber-Mashup</a></li>
+		<li><a href='/related.php?id=178&amp;related=5'><strong>View more&hellip;</strong></a></li>
+	</ul>
+</div>
+<!-- End Entry Information -->
+			</div>
+		</td>
+		<td style='width:374px;'>
+			<div id='entry_sidebar'>
+<!-- Begin Entry Sidebar -->
+<div class='entry_content'>
+	<h3>Maxine Brown</h3>
+	Director, EVL<br>
+	Computer Science Department<br>
+	<a href='mailto:maxine@uic.edu'>maxine@uic.edu</a><br><br>
+	<a href='http://www.evl.uic.edu/maxine' target='_blank'>http://www.evl.uic.edu/maxine</a><br><br>
+	<h3>Bibliography</h3>
+	<ul>
+		<li><a href='/entry.php?id=2495'>Liqid, Case Study: UIC Utilizes Liqid Composable Infrastructure for Uneven Applications in Scientific Research, <em>Liqid Case Study</em>, Chicago, IL, April 23, 2020</a></li>
+		<li><a href='/entry.php?id=2491'>Brown, M., Leigh, J., Renambot, L., SAGE2 Scalable Amplified Group Environment (poster 2020), <em>2020 NSF Cyberinfrastructure for Sustained Scientific Innovation (CSSI) Principal Investigator Meeting (poster)</em>, Seattle, WA, February 13, 2020</a></li>
+		<li><a href='/entry.php?id=2488'>Brown, M., Johnson, A., Long, L., Renambot, L., Visual Data Science: Advanced Cyberinfrastructure Systems (poster session), <em>UIC Foundations of Data Science Institute (an NSF Harnessing the Data Revolution (HDR) TRIPODS grant), Open House</em>, Discovery Partners Institute, Chicago, IL, January 17, 2020</a></li>
+		<li><a href='/bibliography.php?id=178'><strong>View more&hellip;</strong></a></li>
+	</ul>
+</div>
+<!-- End Entry Sidebar-->
+			</div>
+		</td>
+	</tr>
+</table>
+<!-- End Entry -->
+<script>
+	// Making both divs the same height is much easier in JavaScript
+	var entryInfo = document.getElementById("entry_info");
+	var entrySidebar = document.getElementById("entry_sidebar");
+	
+	if (entryInfo && entrySidebar) {
+		var maxHeight = Math.max(entryInfo.offsetHeight, entrySidebar.offsetHeight)-20;
+		entryInfo.style.height = maxHeight+"px";
+		entrySidebar.style.height = maxHeight+"px";
+	}
+</script>
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

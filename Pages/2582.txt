@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin List -->
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Page:</strong>
+		<a href='/list.php?id=5&amp;page=1'>1</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=2'>2</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=3'>3</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=4'>4</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=5'>5</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=6'>6</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=7'>7</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=8'>8</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=9'>9</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=10'>10</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=11'>11</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=12'>12</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=13'>13</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=14'>14</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=15'>15</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=16'><strong>16</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=17'>17</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<div id='list_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin List List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1778'><img src='/resizedImages/500x280-crop-vomitmt.jpg' alt='' title='CAVE&trade; Library' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1778'>CAVE&trade; Library</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=76'>Carolina Cruz-Neira</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=62'>Dave Adamczyk</a>, <a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=98'>Hiroshi Hayakawa</a>, <a href='/entry.php?id=78'>Marek Czernuszenko</a>, <a href='/entry.php?id=91'>Morteza Ghazisaedy</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, Bill Nickless, Bill Sherman<br>
+			September 1, 1991 - September 30, 2001<br><br>
+			The CAVE&trade; Library is an Application Programmers Interface (API) that provides the software environment / toolkit for developing virtual reality&hellip; <a href='/entry.php?id=1778'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1781'><img src='/resizedImages/500x280-crop-glass.jpg' alt='' title='LCD Shutter Glasses for Stereo Imagery in VR' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1781'>LCD Shutter Glasses for Stereo Imagery in VR</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			September 1, 1991 - Unknown<br><br>
+			The CAVE, ImmersaDesks, I-Wall and PARIS virtual reality (VR) systems developed at EVL display active stereo images by use of StereoGraphics Liquid&hellip; <a href='/entry.php?id=1781'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1786'><img src='/resizedImages/500x280-crop-space3.jpg' alt='' title='The Spacepad' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1786'>The Spacepad</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=38'>Eric He</a>, <a href='/entry.php?id=48'>Fu Hu Liu</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, <a href='/entry.php?id=98'>Hiroshi Hayakawa</a>, <a href='/entry.php?id=78'>Marek Czernuszenko</a>, <a href='/entry.php?id=26'>Michael Bogucki</a>, <a href='/entry.php?id=91'>Morteza Ghazisaedy</a>, <a href='/entry.php?id=34'>Ray Fang</a><br>
+			September 1, 1991 - Unknown<br><br>
+			The Spacepad magnetic tracking system used with the ImmersaDesk is a plug-in PC ISA bus system and has the following components: Antenna, which&hellip; <a href='/entry.php?id=1786'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1787'><img src='/resizedImages/500x280-crop-pcibird.jpg' alt='' title='The pcBIRD' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1787'>The pcBIRD</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=38'>Eric He</a>, <a href='/entry.php?id=48'>Fu Hu Liu</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, <a href='/entry.php?id=98'>Hiroshi Hayakawa</a>, <a href='/entry.php?id=78'>Marek Czernuszenko</a>, <a href='/entry.php?id=26'>Michael Bogucki</a>, <a href='/entry.php?id=34'>Ray Fang</a><br>
+			September 1, 1991 - December 1, 1991<br><br>
+			The pcBIRD is a 6 DOF pc-based tracking device that measures the position and orientation of a small body-mounted receiver when located within +/- 4&hellip; <a href='/entry.php?id=1787'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1694'><img src='/resizedImages/500x280-crop-purkinje.gif' alt='' title='Realistic Modeling of Brain Structures with Remote Interaction between Simulations of the Inferior Olivary Neuron &amp; the Cerebellar Purkinje Cell' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1694'>Realistic Modeling of Brain Structures with Remote Interaction between Simulations of the Inferior Olivary Neuron &amp; the Cerebellar Purkinje Cell</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=21'>Jason Leigh</a>, Computational Neuroscience Lab at CALTECH<br>
+			August 1, 1991 - August 1, 1992<br><br>
+			Up until now, modeling of single neurons and neural networks has been relegated to single workstations or parallel computers. Our work involves the&hellip; <a href='/entry.php?id=1694'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1754'><img src='/resizedImages/500x280-crop-embryo.gif' alt='' title='The Visible Embryo' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1754'>The Visible Embryo</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=155'>Rakesh Raju</a>, Cheong Ang, Michael Doyle, Adrian Noe<br>
+			August 1, 1991 - August 1, 1992<br><br>
+			A project is described (The Visible Embryo Project) to develop software strategies for the creation of large-scale databases of 3-dimensional image&hellip; <a href='/entry.php?id=1754'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1755'><img src='/resizedImages/500x280-crop-sensory.gif' alt='' title='Mapping of Cognitive Function with Subdural Electrodes &amp; Registration of Cerebral Evoked Potentials on 3-D MRI' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1755'>Mapping of Cognitive Function with Subdural Electrodes &amp; Registration of Cerebral Evoked Potentials on 3-D MRI</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=136'>Marty Ryan</a>, <a href='/entry.php?id=95'>Robert Grzeszczuk</a>, <a href='/entry.php?id=72'>Steven Cohen</a>, Vernon Towle<br>
+			August 1, 1991 - August 1, 1992<br><br>
+			This application is an example of sensory evoked potentials mapped onto a 3D surface model of a human head. Included in the model is a 3D brain&hellip; <a href='/entry.php?id=1755'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1756'><img src='/resizedImages/500x280-crop-cosmicexplorer.gif' alt='' title='The Cosmic Explorer' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1756'>The Cosmic Explorer</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=76'>Carolina Cruz-Neira</a>, Michael Norman, Deyand Song<br>
+			August 1, 1991 - August 1, 1992<br><br>
+			&ldquo;The Cosmic Explorer&rdquo; is a research tool for exploring the stages of the evolution of the universe. We visualize the result of numerical&hellip; <a href='/entry.php?id=1756'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1757'><img src='/misc/default_500x280.png' alt='' title='Remote Visualization of XRay Diffraction Data from the X8C Beamline at NSLS' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1757'>Remote Visualization of XRay Diffraction Data from the X8C Beamline at NSLS</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=25'>Craig Barnes</a>, Ed Westbrook<br>
+			August 1, 1991 - July 1, 1992<br><br>
+			This project allows for crystallographic data to be remotely collected from the XC8 Beamline located at Brookhaven National Laboratory. This beamline&hellip; <a href='/entry.php?id=1757'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1758'><img src='/resizedImages/500x280-crop-pratico7.jpg' alt='' title='Visualization for the Management of Renewable Resources in an Uncertain Environment' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1758'>Visualization for the Management of Renewable Resources in an Uncertain Environment</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=126'>Chris Pratico</a>, A. Hanson, H.H. Xu, D.J. Jarvis, M.S. Vetter<br>
+			August 1, 1991 - August 1, 1992<br><br>
+			The management of renewable resources such as commercial and recreational fisheries can be difficult due to lack of data, environmental uncertainty&hellip; <a href='/entry.php?id=1758'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1785'><img src='/resizedImages/500x280-crop-fob5.jpg' alt='' title='Flock of Birds Tracking System' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1785'>Flock of Birds Tracking System</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=38'>Eric He</a>, <a href='/entry.php?id=48'>Fu Hu Liu</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, <a href='/entry.php?id=98'>Hiroshi Hayakawa</a>, <a href='/entry.php?id=78'>Marek Czernuszenko</a>, <a href='/entry.php?id=26'>Michael Bogucki</a>, <a href='/entry.php?id=91'>Morteza Ghazisaedy</a><br>
+			September 1, 1990 - August 31, 2000<br><br>
+			The Flock of Birds (FOB) is a stand alone system and has the following components: A 1 foot cube transmitting antenna, which is mounted above the&hellip; <a href='/entry.php?id=1785'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1789'><img src='/resizedImages/500x280-crop-tracksys.jpg' alt='' title='Tracking Systems' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1789'>Tracking Systems</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=38'>Eric He</a>, <a href='/entry.php?id=48'>Fu Hu Liu</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, <a href='/entry.php?id=98'>Hiroshi Hayakawa</a>, <a href='/entry.php?id=78'>Marek Czernuszenko</a>, <a href='/entry.php?id=26'>Michael Bogucki</a>, <a href='/entry.php?id=91'>Morteza Ghazisaedy</a><br>
+			September 1, 1990 - Unknown<br><br>
+			The Tracking System provides information about the user&rsquo;s position and orientation to CAVE applications. The tracking data is gathered by&hellip; <a href='/entry.php?id=1789'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2162'><img src='/resizedImages/500x280-crop-sayreglove_sm.png' alt='' title='Sayre Glove (first wired data glove)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2162'>Sayre Glove (first wired data glove)</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, Richard Sayre<br>
+			January 1, 1977<br><br>
+			In 1977 Daniel J. Sandin and Thomas DeFanti created the first wired data glove based on an idea by Richard Sayre as a project for the National&hellip; <a href='/entry.php?id=2162'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1935'><img src='/resizedImages/500x280-crop-grass_cuba_starwars.gif' alt='' title='GRASS (GRAphics Symbiosis System)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1935'>GRASS (GRAphics Symbiosis System)</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			January 1, 1973 - January 1, 1974<br><br>
+			GRASS (GRAphics Symbiosis System) was a programming language created to script vector graphics visual animations in 2D. The programing language was&hellip; <a href='/entry.php?id=1935'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1934'><img src='/resizedImages/500x280-crop-s_ip1.jpg' alt='' title='Sandin Image Processor (IP)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1934'>Sandin Image Processor (IP)</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=7'>Daniel J. Sandin</a><br>
+			January 1, 1971 - January 1, 1973<br><br>
+			Between 1971 and 1973, Dan Sandin designed and built the Sandin Image Processor (IP) a patch programmable analog computer for real-time manipulation&hellip; <a href='/entry.php?id=1934'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<!-- End List List -->
+	</table>
+</div>
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Page:</strong>
+		<a href='/list.php?id=5&amp;page=1'>1</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=2'>2</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=3'>3</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=4'>4</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=5'>5</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=6'>6</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=7'>7</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=8'>8</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=9'>9</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=10'>10</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=11'>11</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=12'>12</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=13'>13</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=14'>14</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=15'>15</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=16'><strong>16</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=17'>17</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<!-- End List -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

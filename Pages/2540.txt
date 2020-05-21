@@ -1,0 +1,554 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin List -->
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Year:</strong>
+		<a href='/list.php?id=4&amp;year=2020'>2020</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2019'>2019</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2018'>2018</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2017'>2017</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2016'>2016</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2015'>2015</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2014'>2014</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2013'>2013</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2012'>2012</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2011'>2011</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2010'>2010</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2009'>2009</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2008'><strong>2008</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2007'>2007</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2006'>2006</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2005'>2005</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2004'>2004</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2003'>2003</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2002'>2002</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2001'>2001</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2000'>2000</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1999'>1999</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1998'>1998</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1997'>1997</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1996'>1996</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1995'>1995</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1994'>1994</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1993'>1993</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1992'>1992</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1991'>1991</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1990'>1990</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1989'>1989</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1987'>1987</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1985'>1985</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1984'>1984</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1977'>1977</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1976'>1976</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<div id='list_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin List List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1569'><img src='/resizedImages/500x280-crop-lambdaram_dissertation.png' alt='' title='LambdaRAM: A High-Performance, Multi-Dimensional, Distributed Cache Over Ultra-High Speed Networks' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=209'>Vishwanath, V.</a><br>
+			<strong><a href='/entry.php?id=1569'>LambdaRAM: A High-Performance, Multi-Dimensional, Distributed Cache Over Ultra-High Speed Networks</a></strong><br>
+			<em>Submitted as partial fulfillment of the requirements for the degree of Doctor of Philosophy in Computer Science in the Graduate College</em>, University of Illinois at Chicago<br>
+			December 15, 2008<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1548'><img src='/resizedImages/500x280-crop-rtk_escience-2.png' alt='' title='The Rails Toolkit (RTK) - Enabling End-System Topology-Aware High End Computing' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=209'>Vishwanath, V.</a>, <a href='/entry.php?id=21'>Leigh, J.</a>, Shimizu, T., <a href='/entry.php?id=248'>Nam, S.</a>, <a href='/entry.php?id=192'>Renambot, L.</a>, Takahashi, H., Takizawa, M., Kamatani, O.<br>
+			<strong><a href='/entry.php?id=1548'>The Rails Toolkit (RTK) - Enabling End-System Topology-Aware High End Computing</a></strong><br>
+			<em>IEEE Fourth International Conference on e-Science</em>, eScience, 2008, pp. 309-316<br>
+			December 7, 2008<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1570'><img src='/resizedImages/500x280-crop-iitsec_2008sm.jpg' alt='' title='Towards Interactive Training with an Avatar-based Human-Computer Interface' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			R. DeMara, Gonzalez, A., Hung, V., Leon-Barth, C., Dookhoo, R., <a href='/entry.php?id=11'>Jones, S.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=192'>Renambot, L.</a>, <a href='/entry.php?id=181'>Lee, S.</a>, <a href='/entry.php?id=268'>Carlson, G.</a><br>
+			<strong><a href='/entry.php?id=1570'>Towards Interactive Training with an Avatar-based Human-Computer Interface</a></strong><br>
+			<em>Proceedings of the Interservice / Industry Training, Simulation and Education Conference (I/ITSEC)</em>, Orlando, Florida<br>
+			December 1, 2008<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1567'><img src='/misc/default_500x280.png' alt='' title='Scalable Adaptive Graphics middleware for visualization streaming and collaboration in ultra resolution display environments' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=192'>Renambot, L.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=227'>Jagodic, R.</a>, <a href='/entry.php?id=245'>Hur, H.</a>, Hofer, E., <a href='/entry.php?id=181'>Lee, D.</a><br>
+			<strong><a href='/entry.php?id=1567'>Scalable Adaptive Graphics middleware for visualization streaming and collaboration in ultra resolution display environments</a></strong><br>
+			<em>Proceedings of the Workshop on Ultrascale Visualization, 2008. UltraVis 2008</em>, Austin, TX, pp. 47-54, IEEE Xplore Digital Library<br>
+			November 16, 2008<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1550'><img src='/resizedImages/500x280-crop-planetaryscale_phd.png' alt='' title='Planetary-scale Terrain Composition' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=222'>Kooima, Robert L.</a><br>
+			<strong><a href='/entry.php?id=1550'>Planetary-scale Terrain Composition</a></strong><br>
+			<em>Submitted as partial fulfillment of the requirements of the degree of Doctor of Philosophy in Computer Science</em>, Graduate College, University of Illinois at Chicago<br>
+			October 23, 2008<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1547'><img src='/resizedImages/500x280-crop-optiportal.png' alt='' title='The OptIPortal, a scalable visualization, storage, and computing interface device for the OptiPuter' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=6'>DeFanti, T.</a>, <a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=192'>Renambot, L.</a>, <a href='/entry.php?id=208'>Jeong, B.</a>, <a href='/entry.php?id=23'>Verlo,A.</a>, <a href='/entry.php?id=49'>Long,L.</a>, <a href='/entry.php?id=178'>Brown,M.</a>, <a href='/entry.php?id=7'>Sandin, D.</a>, <a href='/entry.php?id=209'>Vishwanath, V.</a>, Liu, Q., Katz, M., Papadopoulos, P., Keefe,  J., Hidley, G., <a href='/entry.php?id=20'>Dawe, G.</a>, Kaufman, I, Glogowski, B., Doerr, K, <a href='/entry.php?id=183'>Singh, R.</a>, <a href='/entry.php?id=35'>Girado, ,J.</a>, Schulze, J, Kuester, F., Smarr, L.<br>
+			<strong><a href='/entry.php?id=1547'>The OptIPortal, a scalable visualization, storage, and computing interface device for the OptiPuter</a></strong><br>
+			<em>Future Generation Computer Systems 25 (2009)</em>, DOI information: 10.1016/j.future.2008.06.016, pp. 114-123<br>
+			September 26, 2008<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1543'><img src='/resizedImages/500x280-crop-lram_nasa_elsevier.png' alt='' title='Accelerating tropical cyclone analysis using LambdaRAM, a distributed data cache over wide-area ultra-fast networks' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=209'>Vishwanath, V.</a>, Burns, R., <a href='/entry.php?id=21'>Leigh, J.</a>, Seablom, M.<br>
+			<strong><a href='/entry.php?id=1543'>Accelerating tropical cyclone analysis using LambdaRAM, a distributed data cache over wide-area ultra-fast networks</a></strong><br>
+			<em>Future Generation of Computer Science, The International Journal of Grid Computing: Theory, Methods and Applications</em>, Elsevier Science B.V.<br>
+			September 15, 2008<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1542'><img src='/resizedImages/500x280-crop-wallcology_bhattthesis.jpg' alt='' title='WallCology: Design of a Simulation Engine for Learners&rsquo; Embodied Inquiry in Population Ecology' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=246'>Bhatt, D. S.</a><br>
+			<strong><a href='/entry.php?id=1542'>WallCology: Design of a Simulation Engine for Learners&rsquo; Embodied Inquiry in Population Ecology</a></strong><br>
+			<em>Submitted as partial fulfillment of the requirements for the degree of Master of Science in Computer Science</em>, Graduate College, University of Illinois at Chicago, Chicago, IL<br>
+			August 28, 2008<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1536'><img src='/resizedImages/500x280-crop-chiasmusthesisdoc.png' alt='' title='Chiasmus' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=38'>Cady, Stephen</a><br>
+			<strong><a href='/entry.php?id=1536'>Chiasmus</a></strong><br>
+			<em>Submitted as partial fulfillment of the requirements for the degree of Master of Fine Arts in Electronic Visualization</em>, Graduate College, University of Illinois at Chicago, Chicago, IL<br>
+			July 25, 2008<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1537'><img src='/resizedImages/500x280-crop-replicationsystem.png' alt='' title='Replication of System: explorations in kinetic sculpture' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=230'>Cernoch, A.</a><br>
+			<strong><a href='/entry.php?id=1537'>Replication of System: explorations in kinetic sculpture</a></strong><br>
+			<em>Submitted as partial fulfillment of the requirements for the degree of Master of Fine Arts in Electronic Visualization</em>, Graduate College, University of Illinois at Chicago, Chicago, IL<br>
+			July 25, 2008<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1544'><img src='/resizedImages/500x280-crop-isea08_tsoupikova.png' alt='' title='Aesthetics as a Medium' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=188'>Tsoupikova, D.</a><br>
+			<strong><a href='/entry.php?id=1544'>Aesthetics as a Medium</a></strong><br>
+			<em>Proceedings of the International Symposium on Electronic Art (ISEA) 2008</em>, Singapore Management University, Singapore<br>
+			July 25, 2008<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1546'><img src='/resizedImages/500x280-crop-pic-fgcs-renambot-2008_sm.png' alt='' title='Enabling High Resolution Collaborative Visualization in Display Rich Virtual Organizations' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=192'>Renambot, L.</a>, <a href='/entry.php?id=208'>Jeong, B.</a>, <a href='/entry.php?id=245'>Hur, H.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=21'>Leigh, J.</a><br>
+			<strong><a href='/entry.php?id=1546'>Enabling High Resolution Collaborative Visualization in Display Rich Virtual Organizations</a></strong><br>
+			<em>Future Generation Computer Systems 25 (2009)</em>, Elsevier B.V., doi:10.1016/j.future.2008.07.004, pp. 161-168<br>
+			July 24, 2008<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1552'><img src='/resizedImages/500x280-crop-idc2008_malcom.png' alt='' title='Embodying Scientific Concepts in the Physical Space of the Classroom' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=253'>Malcolm, P.</a>, <a href='/entry.php?id=16'>Moher, T.</a>, <a href='/entry.php?id=246'>Bhatt, D.</a>, <a href='/entry.php?id=252'>Uphoff, B.</a>, Lopez-Silva, B.<br>
+			<strong><a href='/entry.php?id=1552'>Embodying Scientific Concepts in the Physical Space of the Classroom</a></strong><br>
+			<em>Proceedings of the 7th International Conference on Interaction Design and Children</em>, Chicago, IL; ISBN:978-1-59593-994-4, ACM  New York, NY, USA, pp. 234-241<br>
+			July 11, 2008<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1532'><img src='/resizedImages/500x280-crop-anr_sm.jpg' alt='' title='Verification of Data Intensive High Performance Computing Middleware' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=209'>Vishwanath, V.</a>, Zuck, L.<br>
+			<strong><a href='/entry.php?id=1532'>Verification of Data Intensive High Performance Computing Middleware</a></strong><br>
+			<em>Exploiting Concurrency Efficiently &amp; Correctly, (EC)2 Workshop held with 20th International Conference on Computer Aided Verification</em>, Princeton, NJ<br>
+			July 7, 2008<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1533'><img src='/resizedImages/500x280-crop-globalcybercommons.png' alt='' title='Global Cyber-Commons: Collaborative, Instructional Environments for the Virtual School of Computational Science and Engineering' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=178'>Brown, M.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=192'>Renambot, L.</a>, <a href='/entry.php?id=11'>Jones, S.</a>, <a href='/entry.php?id=16'>Moher, T.</a><br>
+			<strong><a href='/entry.php?id=1533'>Global Cyber-Commons: Collaborative, Instructional Environments<br> for the Virtual School of Computational Science and Engineering</a></strong><br>
+			<em>Virtual School of Computational Science &amp; Engineering</em>, Great Lakes Consortium for Petascale Computation<br>
+			June 28, 2008<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1534'><img src='/resizedImages/500x280-crop-digitaldomerendering.png' alt='' title='Real-time Digital Dome Rendering Techniques and Technologies' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=222'>Kooima, R.</a>, Roberts, D., <a href='/entry.php?id=216'>SubbaRao, M.</a><br>
+			<strong><a href='/entry.php?id=1534'>Real-time Digital Dome Rendering Techniques and Technologies</a></strong><br>
+			<em>Proceedings of IPS2008</em>, Chicago, IL, International Planetarium Society<br>
+			June 27, 2008<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1515'><img src='/misc/default_500x280.png' alt='' title='Learning And Participation In A Persistent Whole-Classroom Seismology Simulation' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=16'>Moher, T.</a><br>
+			<strong><a href='/entry.php?id=1515'>Learning And Participation In A Persistent Whole-Classroom Seismology Simulation</a></strong><br>
+			<em>Proceedings of the International Conference of the Learning Sciences (ICLS 2008)</em>, Utrecht, Netherlands<br>
+			June 24, 2008<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1566'><img src='/misc/default_500x280.png' alt='' title='Embodying scientific concepts in the physical space of the classroom' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=253'>Malcolm, P.</a>, <a href='/entry.php?id=16'>Moher, T.</a>, <a href='/entry.php?id=246'>Bhatt, D.</a>, <a href='/entry.php?id=252'>Uphoff, B.</a>, L&oacute;pez-Silva, B.<br>
+			<strong><a href='/entry.php?id=1566'>Embodying scientific concepts in the physical space of the classroom</a></strong><br>
+			<em>Proceedings of the 7th international Conference on interaction Des (IDC2008)</em>, Chicago, IL<br>
+			June 11, 2008<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1525'><img src='/resizedImages/500x280-crop-corelyzer_sm-2.png' alt='' title='Enhancing Core Drilling Workflows through Advanced Visualization Technology' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=38'>Chen, Y. C.</a>, <a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=192'>Renambot, L.</a>, Ito, E., Morin, P., Higgins, S., Rack, F., Levy, R., Reed, J.<br>
+			<strong><a href='/entry.php?id=1525'>Enhancing Core Drilling Workflows through Advanced Visualization Technology</a></strong><br>
+			<em>Poster for the Proceedings of Geoinformatics 2008</em>, GFZ Potsdam, Germany<br>
+			June 11, 2008<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1522'><img src='/resizedImages/500x280-crop-v_vishwanath_memocode08.gif' alt='' title='Specification and Verification of LambdaRAM - A Wide-Area Distributed Cache for High Performance Computing' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=209'>Vishwanath,  V.</a>, Zuck, L., <a href='/entry.php?id=21'>Leigh, J.</a><br>
+			<strong><a href='/entry.php?id=1522'>Specification and Verification of LambdaRAM - A Wide-Area Distributed Cache for High Performance Computing</a></strong><br>
+			<em>Sixth ACM-IEEE International Conference on Formal Methods and Models for Codesign (MEMOCODE &rsquo;2008)</em>, Anaheim, CA<br>
+			June 5, 2008<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1530'><img src='/resizedImages/500x280-crop-evl_mfathesis.gif' alt='' title='EV MFA Thesis Documentation Requirements' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=30'>School of Art &amp; Design, Graduate College</a><br>
+			<strong><a href='/entry.php?id=1530'>EV MFA Thesis Documentation Requirements</a></strong><br>
+			<em>Electronic Visualization Program</em>, University of Illinois at Chicago<br>
+			May 15, 2008<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1540'><img src='/resizedImages/500x280-crop-pace_xunluothesis.png' alt='' title='PACE: A Framework for Personalized Visualization and Scalable Human Computer Interaction' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=232'>Luo, X.</a><br>
+			<strong><a href='/entry.php?id=1540'>PACE: A Framework for Personalized Visualization and Scalable Human Computer Interaction</a></strong><br>
+			<em>Submitted as partial fulfillment of the requirements of the degree of Doctor of Philosophy in Computer Science</em>, Graduate College of the University of Illinois at Chicago, Chicago, IL<br>
+			May 1, 2008<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1541'><img src='/resizedImages/500x280-crop-advancesdynallax.png' alt='' title='Advances in the Dynallax Solid-State Dynamic Parallax Barrier Autostereoscopic Visualization Display System' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=199'>Peterka, T.</a>, <a href='/entry.php?id=222'>Kooima, R.</a>, <a href='/entry.php?id=7'>Sandin, D.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=6'>DeFanti, T.</a><br>
+			<strong><a href='/entry.php?id=1541'>Advances in the Dynallax Solid-State Dynamic Parallax Barrier Autostereoscopic Visualization Display System</a></strong><br>
+			<em>IEEE Transactions on Visualization and Computer Graphics</em>, vol 14, no 3, ACM Portal, pp. 487-499<br>
+			May 1, 2008<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1523'><img src='/resizedImages/500x280-crop-raintablems.png' alt='' title='Rain Table: Scalable Architecture for Group-Oriented Visualization of Real-Time Geoscience Phenomena' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=219'>Svistula, D. N.</a><br>
+			<strong><a href='/entry.php?id=1523'>Rain Table: Scalable Architecture for Group-Oriented Visualization of Real-Time Geoscience Phenomena</a></strong><br>
+			<em>Submitted as partial fulfillment of the requirements for the degree of Master of Computer Science</em>, Graduate College, University of Illinois, Chicago, IL<br>
+			May 1, 2008<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1524'><img src='/resizedImages/500x280-crop-optistorethesis.png' alt='' title='OptiStore: An On-Demand Data Processing Middleware for Very Large Scale Interactive Visualization' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=170'>Zhang, C.</a><br>
+			<strong><a href='/entry.php?id=1524'>OptiStore: An On-Demand Data Processing Middleware for Very Large Scale Interactive Visualization</a></strong><br>
+			<em>Submitted as partial fulfillment of the requirements of the degree of Doctor of Philosophy in Computer Science</em>, Graduate College, University of Illinois, Chicago, IL<br>
+			May 1, 2008<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1516'><img src='/resizedImages/500x280-crop-wallcologychi08.png' alt='' title='WallCology: Designing Interaction Affordances for Learner Engagement in Authentic Science Inquiry' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=16'>Moher, T.</a>, <a href='/entry.php?id=252'>Uphoff, B.</a>, <a href='/entry.php?id=246'>Bhatt, D.</a>, Lopez-Silva, B., <a href='/entry.php?id=253'>Malcolm, P.</a><br>
+			<strong><a href='/entry.php?id=1516'>WallCology: Designing Interaction Affordances for Learner Engagement in Authentic Science Inquiry</a></strong><br>
+			<em>Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI 2008)</em>, Florence, Italy<br>
+			April 5, 2008<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1517'><img src='/misc/default_500x280.png' alt='' title='How to &lsquo;Catch&rsquo; a Virus: Representational Affordances in a Middle-School Introduction to Nanoscale Self-Assembly' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			Lopez-Silva, B., Anggoro, F., <a href='/entry.php?id=254'>Bernasconi, M.</a>, <a href='/entry.php?id=16'>Moher, T.</a><br>
+			<strong><a href='/entry.php?id=1517'>How to &lsquo;Catch&rsquo; a Virus: Representational Affordances in a Middle-School Introduction to Nanoscale Self-Assembly</a></strong><br>
+			<em>Paper presented at the Annual Conference of the American Educational Research Association</em>, New York, NY<br>
+			March 25, 2008<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1518'><img src='/resizedImages/500x280-crop-wallcologyarea.png' alt='' title='WallCology: Studying Ecology using a Distributed, Persistent Virtual Ecosystem in the Classroom' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=252'>Uphoff, B.</a>, <a href='/entry.php?id=246'>Bhatt, D.</a>, Lopez, B., <a href='/entry.php?id=253'>Frack, Malcolm, P.</a>, Cain, V., <a href='/entry.php?id=16'>Moher, T.</a><br>
+			<strong><a href='/entry.php?id=1518'>WallCology: Studying Ecology using a Distributed, Persistent Virtual Ecosystem in the Classroom</a></strong><br>
+			<em>Paper Proposal for the 2008 Annual Conference of the American Education Research Association</em><br>
+			March 25, 2008<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1519'><img src='/misc/default_500x280.png' alt='' title='Instructional Framing for Nanoscale Self-Assembly Design in Middle School: A Pilot Study' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			Shipley, E., <a href='/entry.php?id=16'>Moher, T.</a>, Lopez-Silva, B.<br>
+			<strong><a href='/entry.php?id=1519'>Instructional Framing for Nanoscale Self-Assembly Design in Middle School: A Pilot Study</a></strong><br>
+			<em>Paper presented at the Annual Conference of the American Educational Research Association</em><br>
+			March 25, 2008<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1510'><img src='/resizedImages/500x280-crop-camccyber-commons-2.jpg' alt='' title='Cyber-Commons: Merging Real and Virtual Worlds' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=21'>J. Leigh</a>, <a href='/entry.php?id=178'>M. D. Brown</a><br>
+			<strong><a href='/entry.php?id=1510'>Cyber-Commons: Merging Real and Virtual Worlds</a></strong><br>
+			<em>Communications of the ACM</em>, vol 51, no 1, pp. 82-85<br>
+			January 1, 2008<br>
+		</div>
+	</td>
+</tr>
+<!-- End List List -->
+	</table>
+</div>
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Year:</strong>
+		<a href='/list.php?id=4&amp;year=2020'>2020</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2019'>2019</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2018'>2018</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2017'>2017</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2016'>2016</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2015'>2015</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2014'>2014</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2013'>2013</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2012'>2012</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2011'>2011</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2010'>2010</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2009'>2009</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2008'><strong>2008</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2007'>2007</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2006'>2006</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2005'>2005</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2004'>2004</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2003'>2003</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2002'>2002</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2001'>2001</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2000'>2000</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1999'>1999</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1998'>1998</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1997'>1997</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1996'>1996</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1995'>1995</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1994'>1994</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1993'>1993</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1992'>1992</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1991'>1991</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1990'>1990</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1989'>1989</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1987'>1987</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1985'>1985</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1984'>1984</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1977'>1977</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1976'>1976</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<!-- End List -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

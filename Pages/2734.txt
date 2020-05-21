@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Entry -->
+<table id='entry_area' class='fixedTable'>
+	<tr>
+		<td style='width:676px;'>
+			<div id='entry_info'>
+<!-- Begin Entry Info -->
+<h3>GPU Acceleration and Interactive Visualization for Spatio-Temporal Networks</h3>
+<div id='entry_image_large'><img style='left:0;' src='/resizedImages/1280x720-andreapurgato_thesis.png' alt='' title='GPU Acceleration and Interactive Visualization for Spatio-Temporal Networks' width='640' height='360'></div>
+<span class='smallText'>Network comparison, it shows the comparison between two different data session loaded in the system, each one is represented by a color in the network. - A. Purgato, EVL</span><br><br>
+<div class='entry_content'>
+	<strong>Authors:</strong> <a href='/entry.php?id=2155'>Purgato, A.</a><br><br>
+	<strong>Publication:</strong> <em>Submitted in partial fulfillment of the requirements for the degree of Master of Science in Computer Science</em>, Graduate College of the University of Illinois at Chicago<br><br>
+<!-- Begin Entry Description -->
+The thesis work presented here focuses on the optimization of the similarity computation among nodes for spatio-temporal networks. The study case in this work is the computation of spatio-temporal networks on brain. The aim of the first part of the work presented is to built a GPU-based computation system able to speed up the networks definition. In the second part of the work we developed an interactive tool to visualize the networks computed using the GPU-based method developed in this first part.<br><br>
+Nowadays, with the increase of computational analysis in sciences such as biology and neuroscience, the computational aspect is the most challenging one. Scientists need tools able to process large amounts of data simultaneously. Previously, scientific computations were performed using clusters of computers, but this type of infrastructure is very expensive and complex to build. The work in this thesis is part of a greater project that has the aim to apply spatio-temporal networks inference techniques to perform network analysis studies in different fields. One of the problems of spatio-temporal network applications is the computational time, and it becomes impractical to keep developing studies when it takes a long time to analyze and compute the results. We aim to help the researchers to get results in a reasonable amount of time, so they can be focused more on their studies. There are many ways to speed up the computation process, one of these is to exploit the paradigm of parallel computation using Graphic Processor Unit (GPU). GPUs represent a low-cost solution to this problem since the level of parallelization they have is really high and GPUs hardware match exactly the requirements for the problem addressed. With the first part of this thesis work we present a GPU solution and we evaluate the performance of spatio-temporal networks definition.<br><br>
+The second part of the thesis work uses the results computed in the first part to propose an interactive visualization tool for the spatio-temporal networks computed. With a decrease in computation time, it is easier to achieve a comparison between the results. The proposed visualization tool allows for the changing of parameters at run-time and visualizing the differences in the resulting networks. This process is made possible thanks to a great work of pre-computation of all the data that must to be visualized using the GPU-based system developed. This second part of the work goals to improve the understanding of the results computed by the algorithm. In this study, we focus on brain network computation and visualization.<br><br>
+We mentioned that this thesis work is composed by two different parts. One of them is used to compute the similarity measure needed to define the DN. While, the other aims to visualize interactively the DN computed, leaving one degree of freedom to the
+final user. One of the goals of this work is the creation of a pipeline that goes from the collected data to the visualization of the result, which in our case are the networks computed previously. In fact the two piece of software developed are part of the pipeline that defines the framework we present. This framework want to avoid the dependability problem given by that the different software are not able to communicate among each others.<br><br>
+<!-- End Entry Description -->
+	<strong>Date:</strong> August 15, 2016<br><br>
+	<strong>Document:</strong> <a href='/documents/andreapurgato_thesis_v5.pdf'>View PDF</a>
+</div>
+<!-- End Entry Info -->
+			</div>
+		</td>
+		<td style='width:374px;'>
+			<div id='entry_sidebar'>
+<!-- Begin Entry Sidebar -->
+<div class='entry_content'>
+	<h3>Related Entries</h3>
+	<strong>Directory:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2155'>Andrea Purgato</a></li>
+	</ul><br>
+	<strong>Events:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2241'>Andrea Purgato Thesis Presentation: &ldquo;GPU Acceleration and Interactive Visualization for Spatio-Temporal Network&ldquo;</a></li>
+	</ul><br>
+	<h3>Related Categories</h3>
+	<ul>
+		<li><a href='/category.php?id=3&amp;related=4'>Applications</a></li>
+		<li><a href='/category.php?id=16&amp;related=4'>MS / PhD Thesis</a></li>
+		<li><a href='/category.php?id=20&amp;related=4'>Software</a></li>
+		<li><a href='/category.php?id=35&amp;related=4'>Visual Analytics</a></li>
+		<li><a href='/category.php?id=36&amp;related=4'>Visual Informatics</a></li>
+		<li><a href='/category.php?id=27&amp;related=4'>Visualization</a></li>
+	</ul>
+</div>
+<!-- End Entry Sidebar-->
+			</div>
+		</td>
+	</tr>
+</table>
+<!-- End Entry -->
+<script>
+	// Making both divs the same height is much easier in JavaScript
+	var entryInfo = document.getElementById("entry_info");
+	var entrySidebar = document.getElementById("entry_sidebar");
+	
+	if (entryInfo && entrySidebar) {
+		var maxHeight = Math.max(entryInfo.offsetHeight, entrySidebar.offsetHeight)-20;
+		entryInfo.style.height = maxHeight+"px";
+		entrySidebar.style.height = maxHeight+"px";
+	}
+</script>
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

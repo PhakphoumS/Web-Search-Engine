@@ -1,0 +1,501 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin List -->
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Year:</strong>
+		<a href='/list.php?id=3&amp;year=2020'>2020</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2019'>2019</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2018'>2018</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2017'><strong>2017</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2016'>2016</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2015'>2015</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2014'>2014</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2013'>2013</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2012'>2012</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2011'>2011</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2010'>2010</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2009'>2009</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2008'>2008</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2007'>2007</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2006'>2006</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2005'>2005</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2004'>2004</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2003'>2003</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2002'>2002</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2001'>2001</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2000'>2000</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1999'>1999</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1998'>1998</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1997'>1997</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1996'>1996</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1995'>1995</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1994'>1994</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1993'>1993</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1992'>1992</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1987'>1987</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1979'>1979</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1976'>1976</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1975'>1975</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1974'>1974</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1973'>1973</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<div id='list_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin List List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2343'><img src='/resizedImages/500x280-crop-vmateevitsiphddefence.jpeg' alt='' title='Doctoral Defense Announcement: &ldquo;Supporting Navigation with a Torso Wearable Tactile Display&rdquo;' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2343'>Doctoral Defense Announcement: &ldquo;Supporting Navigation with a Torso Wearable Tactile Display&rdquo;</a></strong><br>
+			<a href='/entry.php?id=281'>Victor Mateevitsi</a><br>
+			December 18, 2017<br><br>
+			Committee: Andrew Johnson (Chair and Advisor), Steve Jones, Robert Kenyon, Jason Leigh (University of Hawaiʻi at Manoa), Luc Renambot December 18&hellip; <a href='/entry.php?id=2343'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2342'><img src='/resizedImages/500x280-crop-cnmpressreleasespiralptl.png' alt='' title='VGA Exhibition Tells Underrecognized Story Of New Media In Chicago' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2342'>VGA Exhibition Tells Underrecognized Story Of New Media In Chicago</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			December 12, 2017 - December 15, 2018<br><br>
+			CHICAGO - VGA announces its &rdquo;Chicago New Media 1973-1992&ldquo; exhibition, public program and catalogue, in partnership with Gallery 400 at&hellip; <a href='/entry.php?id=2342'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2341'><img src='/resizedImages/500x280-crop-mechdyne_cave2-112817.jpg' alt='' title='Mechdyne Open House at UIC/EVL Showcases expanded riverwalk concepts for Chicago' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2341'>Mechdyne Open House at UIC/EVL Showcases expanded riverwalk concepts for Chicago</a></strong><br>
+						November 28, 2017<br><br>
+			DECEMBER 4, 2017 - The evening of November 28, 2017, the Electronic Visualization Laboratory (EVL) at University of Illinois at Chicago was the&hellip; <a href='/entry.php?id=2341'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2335'><img src='/resizedImages/500x280-crop-sc17fullcolor.png' alt='' title='SAGE2 9th Annual International SC BOF @ SC17' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2335'>SAGE2 9th Annual International SC BOF @ SC17</a></strong><br>
+						November 16, 2017<br><br>
+			For those attending SC17 in Denver, Colorado, we will hold the &ldquo;SAGE2 9th Annual International SC BOF: Scalable Amplified Group Environment for&hellip; <a href='/entry.php?id=2335'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2336'><img src='/resizedImages/500x280-crop-sage2-1400-green1.png' alt='' title='New, Advanced SAGE2 Features Being Demonstrated at SC17' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2336'>New, Advanced SAGE2 Features Being Demonstrated at SC17</a></strong><br>
+						November 14, 2017 - November 16, 2017<br><br>
+			The SAGE2 team is demo&rsquo;ing SAGE2 during the SC17 research exhibition, booth #1653 (Center for Data Intensive Science/Open Commons Consortium&hellip; <a href='/entry.php?id=2336'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2340'><img src='/resizedImages/500x280-crop-sc17-sage2-bof2017-7-medium.jpg' alt='' title='SC17 SAGE2 BOF materials now posted online' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2340'>SC17 SAGE2 BOF materials now posted online</a></strong><br>
+			<a href='/entry.php?id=2231'>Andrew Burks</a>, <a href='/entry.php?id=49'>Lance Long</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a><br>
+			November 12, 2017 - November 16, 2017<br><br>
+			The SC17 SAGE2&trade; BOF presentation material is now posted online. * * * * * * * * * * * SAGE2 @ SC17: Demonstrations, Birds of a Feather, and&hellip; <a href='/entry.php?id=2340'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2332'><img src='/resizedImages/500x280-crop-pelp-2-evl-cave2-small.jpg' alt='' title='University of Illinois System 2017 PELP Program Visits the Electronic Visualization Laboratory (EVL)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2332'>University of Illinois System 2017 PELP Program Visits the Electronic Visualization Laboratory (EVL)</a></strong><br>
+						November 8, 2017<br><br>
+			WEDNESDAY, NOVEMBER 8, 2017 - The President of the University of Illinois System, Timothy Killeen, this week led a delegation of ~18 University&hellip; <a href='/entry.php?id=2332'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2337'><img src='/resizedImages/500x280-crop-caav2017.png' alt='' title='THE CAAV 2017 Conference Featured Keynote on EVL’&rsquo;s Visualization and Collaboration Technologies' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2337'>THE CAAV 2017 Conference Featured Keynote on EVL’&rsquo;s Visualization and Collaboration Technologies</a></strong><br>
+			<a href='/entry.php?id=178'>Maxine Brown</a><br>
+			October 25, 2017 - October 27, 2017<br><br>
+			OCTOBER 26, 2017 - Maxine Brown, director of the UIC Electronic Visualization Laboratory (EVL), participated in The Higher Education Campus Alliance&hellip; <a href='/entry.php?id=2337'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2328'><img src='/resizedImages/500x280-crop-uicopenhouse-evl_volunteers_sm.jpg' alt='' title='EVL hosts CAVE2 demos as part of Computer Science&rsquo;s activities for UIC Open House' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2328'>EVL hosts CAVE2 demos as part of Computer Science&rsquo;s activities for UIC Open House</a></strong><br>
+			<a href='/entry.php?id=2231'>Andrew Burks</a>, <a href='/entry.php?id=2315'>Bartosz Kupiec</a>, <a href='/entry.php?id=2076'>Chihua Ma</a>, <a href='/entry.php?id=2250'>Juan Trelles Trabucco</a>, <a href='/entry.php?id=300'>Krishna Bharadwaj</a>, <a href='/entry.php?id=2304'>Nina Sakhnini</a>, <a href='/entry.php?id=2189'>Timothy Luciani</a>, <a href='/entry.php?id=2303'>Vijayraj Mahida</a><br>
+			September 16, 2017<br><br>
+			Today&rsquo;s UIC Open House welcomed prospective students, their parents, and the general public to tour the campus and learn more about the many&hellip; <a href='/entry.php?id=2328'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2327'><img src='/resizedImages/500x280-crop-2017-imageofresearch-nishimoto_sm.jpg' alt='' title='UIC/EVL Student Recognized in 2017 UIC Image of Research Competition' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2327'>UIC/EVL Student Recognized in 2017 UIC Image of Research Competition</a></strong><br>
+			<a href='/entry.php?id=270'>Arthur Nishimoto</a><br>
+			September 14, 2017<br><br>
+			September 14, 2017 - This year, UIC Computer Science (CS) PhD student and Electronic Visualization Laboratory (EVL) research assistant Arthur&hellip; <a href='/entry.php?id=2327'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2323'><img src='/resizedImages/500x280-crop-evl_ieee_vast_2017_sm.jpg' alt='' title='UIC/EVL Receives Two Honorable Mentions in IEEE VIS 2017 VAST Challenge' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2323'>UIC/EVL Receives Two Honorable Mentions in IEEE VIS 2017 VAST Challenge</a></strong><br>
+			<a href='/entry.php?id=2231'>Andrew Burks</a>, <a href='/entry.php?id=2315'>Bartosz Kupiec</a>, <a href='/entry.php?id=2076'>Chihua Ma</a>, <a href='/entry.php?id=2321'>Dimitar Kirilov</a>, <a href='/entry.php?id=2052'>G. Elisabeta Marai</a>, <a href='/entry.php?id=2322'>Joe Borowicz</a>, <a href='/entry.php?id=2302'>Joshua Lagunda Castor</a>, <a href='/entry.php?id=2248'>Manu Mathew Thomas</a>, <a href='/entry.php?id=2189'>Timothy Luciani</a>, <a href='/entry.php?id=2303'>Vijayraj Mahida</a>, Isabel Lindmae<br>
+			September 11, 2017<br><br>
+			SEPTEMBER 11, 2017 - UIC Computer Science (CS) Associate Professor G. Elisabeta (Liz) Marai loves to inspire and educate next-generation computer&hellip; <a href='/entry.php?id=2323'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2314'><img src='/resizedImages/500x280-crop-evl_mari-debaleena-taylor-0726`7_lance_1010792.jpg' alt='' title='Understanding Accessibility of Smartphone Map Applications for Older Adults' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2314'>Understanding Accessibility of Smartphone Map Applications for Older Adults</a></strong><br>
+			<a href='/entry.php?id=2278'>Debaleena Chattopadhyay</a><br>
+			July 27, 2017<br><br>
+			UIC Computer Science mentors two DREU undergraduates to work on summer research project JULY 27, 2017 - Undergraduate students Taylor Day, from Texas&hellip; <a href='/entry.php?id=2314'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2312'><img src='/misc/default_500x280.png' alt='' title='&ldquo;Contextual Similarity Abstraction Techniques for Spatial Data Analysis&rdquo;' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2312'>&ldquo;Contextual Similarity Abstraction Techniques for Spatial Data Analysis&rdquo;</a></strong><br>
+			<a href='/entry.php?id=2189'>Timothy Luciani</a><br>
+			July 13, 2017<br><br>
+			EVL PhD Candidate, Timothy Luciani presents his research &ldquo;Contextual Similarity Abstraction Techniques for Spatial Data Analysis&rdquo; during&hellip; <a href='/entry.php?id=2312'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2338'><img src='/resizedImages/500x280-crop-sbsc-maxine_amandareias17-750x350.jpg' alt='' title='SAGE2 Keynote at Brazilian Symposium on Collaborative Systems' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2338'>SAGE2 Keynote at Brazilian Symposium on Collaborative Systems</a></strong><br>
+			<a href='/entry.php?id=178'>Maxine Brown</a><br>
+			July 2, 2017 - January 6, 1970<br><br>
+			JULY 3, 2017 - Maxine Brown, director of the UIC Electronic Visualization Laboratory (EVL), participated in the Brazilian Symposium on Collaborative&hellip; <a href='/entry.php?id=2338'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2308'><img src='/resizedImages/500x280-crop-reallifeholodeck.png' alt='' title='Inside a Real Life Holodeck' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2308'>Inside a Real Life Holodeck</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a><br>
+			June 13, 2017<br><br>
+			JUNE 13, 2017 - Ryan Wolff and David Wolff, producers of the documentary web series &ldquo;The Good Stuff,&rdquo; recently completed a program on&hellip; <a href='/entry.php?id=2308'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2339'><img src='/resizedImages/500x280-crop-marrinan_perdis2017-720x350.jpg' alt='' title='Pervasive Displays 2017' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2339'>Pervasive Displays 2017</a></strong><br>
+			<a href='/entry.php?id=2291'>Davide Tantillo</a>, <a href='/entry.php?id=2052'>G. Elisabeta Marai</a>, <a href='/entry.php?id=300'>Krishna Bharadwaj</a>, <a href='/entry.php?id=290'>Thomas Marrinan</a><br>
+			June 7, 2017 - June 9, 2017<br><br>
+			June 7-9, 2017 - Tommy Marrinan, EVL graduate and a postdoc at Argonne National Laboratory who has worked on SAGE2, attended the Pervasive Displays&hellip; <a href='/entry.php?id=2339'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2297'><img src='/resizedImages/500x280-crop-evlstar-wars010-20170523.jpg' alt='' title='Blueprints for 'Star Wars' Death Star were created at UIC' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2297'>Blueprints for 'Star Wars' Death Star were created at UIC</a></strong><br>
+			<a href='/entry.php?id=295'>Steve Heminover</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, Larry Cuba<br>
+			May 24, 2017<br><br>
+			May 25, 2017 marks the 40th anniversary of the theatrical release of the first &ldquo;Star Wars&rdquo; movie. To celebrate the occasion, and to&hellip; <a href='/entry.php?id=2297'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2293'><img src='/resizedImages/500x280-crop-kevintrina_2017.jpg' alt='' title='No One Ever Leaves EVL' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2293'>No One Ever Leaves EVL</a></strong><br>
+			<a href='/entry.php?id=135'>Trina Roy</a><br>
+			May 15, 2017<br><br>
+			May 15, 2017 - Though students graduate, faculty retires, and staff moves on to new jobs, we have an expression that &ldquo;No one ever leaves&hellip; <a href='/entry.php?id=2293'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2289'><img src='/resizedImages/500x280-crop-mlewis_2017.jpg' alt='' title='A Distributed Graph Approach for Retrieving Linked RDF Data Using Supercomputing systems' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2289'>A Distributed Graph Approach for Retrieving Linked RDF Data Using Supercomputing systems</a></strong><br>
+			<a href='/entry.php?id=45'>Michael Lewis</a><br>
+			April 21, 2017<br><br>
+			EVL PhD Candidate, Michael J. Lewis defends his thesis &ldquo;A Distributed Graph Approach for Retrieving Linked RDF Data Using Supercomputing&hellip; <a href='/entry.php?id=2289'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2287'><img src='/resizedImages/500x280-crop-uic-coe-crains-032717-img_1031.jpg' alt='' title='Crain&rsquo;s newspaper features &ldquo;How UIC is making room for a computer science boom&rdquo;' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2287'>Crain&rsquo;s newspaper features &ldquo;How UIC is making room for a computer science boom&rdquo;</a></strong><br>
+						March 27, 2017<br><br>
+			EDITOR&rsquo;S NOTE: The March 27, 2017 edition of Crain&rsquo;s Chicago Business has a front page article featuring Dr. Pete Nelson, Dean of the UIC&hellip; <a href='/entry.php?id=2287'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2286'><img src='/resizedImages/500x280-crop-charleseivesaward.png' alt='' title='EVL PhD Candidate Chihua Ma Receives Charles E. Ives Journal Award' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2286'>EVL PhD Candidate Chihua Ma Receives Charles E. Ives Journal Award</a></strong><br>
+			<a href='/entry.php?id=2473'>Angus Forbes</a>, <a href='/entry.php?id=2076'>Chihua Ma</a>, <a href='/entry.php?id=14'>Robert V. Kenyon</a><br>
+			March 13, 2017<br><br>
+			&ldquo;SwordPlots: Exploring Neuron Behavior within Dynamic Communities of Brain Networks,&rdquo; authored by Ma, C., Forbes, A. G., Llano, D. A&hellip; <a href='/entry.php?id=2286'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2284'><img src='/misc/default_500x280.png' alt='' title='CAVE2 comparison of 1st & 3rd user perspectives in virtual motor rehabilitation tasks' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2284'>CAVE2 comparison of 1st & 3rd user perspectives in virtual motor rehabilitation tasks</a></strong><br>
+			<a href='/entry.php?id=2250'>Juan Trelles Trabucco</a><br>
+			March 8, 2017<br><br>
+			EVL MS candidate Juan Trelles Trabucco presents his masters thesis research &ldquo;CAVE2 comparison of 1st & 3rd user perspectives in virtual motor&hellip; <a href='/entry.php?id=2284'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2282'><img src='/resizedImages/500x280-crop-defanti_cenic.png' alt='' title='Tom DeFanti, EVL Director Emeritus Awarded CENIC&rsquo;s 2017 Innovations in Networking Award' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2282'>Tom DeFanti, EVL Director Emeritus Awarded CENIC&rsquo;s 2017 Innovations in Networking Award</a></strong><br>
+			<a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			March 6, 2017<br><br>
+			In recognition of his work to develop next generation networks, advance the mission of Calit2 and shape collaborations across organizations, CENIC&hellip; <a href='/entry.php?id=2282'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2281'><img src='/resizedImages/500x280-crop-afebrettithesis_omegalib.png' alt='' title='PhD Defense Announcement: &ldquo;Multiview Immersion in Hybrid Reality Environments&rdquo;' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2281'>PhD Defense Announcement: &ldquo;Multiview Immersion in Hybrid Reality Environments&rdquo;</a></strong><br>
+			<a href='/entry.php?id=272'>Alessandro Febretti</a><br>
+			March 3, 2017<br><br>
+			Alessandro Febretti presents his PhD research in developing a model of an operating system for Hybrid Reality Environments, called Omegalib. Friday&hellip; <a href='/entry.php?id=2281'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2283'><img src='/misc/default_500x280.png' alt='' title='CS/EVL Associate Professor Marai awarded NIH R01 from the National Cancer Institute' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2283'>CS/EVL Associate Professor Marai awarded NIH R01 from the National Cancer Institute</a></strong><br>
+			<a href='/entry.php?id=2052'>G. Elisabeta Marai</a><br>
+			March 3, 2017 - February 29, 2020<br><br>
+			UIC Computer Science Associate Professor and Electronic Visualization Laboratory faculty member, G. Elisabeta Marai with collaborators from the&hellip; <a href='/entry.php?id=2283'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2288'><img src='/misc/default_500x280.png' alt='' title='EVL & Collaborators Receive NSF Funds to Build a High-Performance Research Network for UIC' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2288'>EVL & Collaborators Receive NSF Funds to Build a High-Performance Research Network for UIC</a></strong><br>
+			<a href='/entry.php?id=178'>Maxine Brown</a><br>
+			January 25, 2017<br><br>
+			Project Title: &ldquo;CC* Networking Infrastructure: Building HPRNet (High‐Performance Research Network) for Advancement of Data Intensive Research&hellip; <a href='/entry.php?id=2288'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<!-- End List List -->
+	</table>
+</div>
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Year:</strong>
+		<a href='/list.php?id=3&amp;year=2020'>2020</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2019'>2019</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2018'>2018</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2017'><strong>2017</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2016'>2016</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2015'>2015</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2014'>2014</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2013'>2013</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2012'>2012</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2011'>2011</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2010'>2010</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2009'>2009</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2008'>2008</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2007'>2007</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2006'>2006</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2005'>2005</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2004'>2004</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2003'>2003</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2002'>2002</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2001'>2001</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2000'>2000</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1999'>1999</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1998'>1998</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1997'>1997</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1996'>1996</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1995'>1995</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1994'>1994</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1993'>1993</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1992'>1992</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1987'>1987</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1979'>1979</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1976'>1976</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1975'>1975</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1974'>1974</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1973'>1973</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<!-- End List -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

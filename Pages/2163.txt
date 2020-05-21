@@ -1,0 +1,378 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+  <title>David X. Marquez, PhD | Institute for Health Research and Policy | University of Illinois at Chicago</title>
+
+  <meta name="verify-v1" content="M3D7RktfZuClXLKtfBxpnsbmXcHxs+8um0cJ6n3SKFE=" />
+<meta name="description" content="Dr. David X. Marquez is an associate professor of kinesiology in the UIC College of Applied Health Sciences, and an IHRP Fellow. " />
+
+  
+  <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/researcher/david-x-marquez-phd" />
+<link rel="shortlink" href="/node/2249" />
+<link rel="shortcut icon" href="https://www.ihrp.uic.edu/files/favicon.ico" type="image/vnd.microsoft.icon" />
+  <style>
+@import url("https://www.ihrp.uic.edu/modules/system/system.base.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/system/system.messages.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/system/system.theme.css?q8vwl2");
+</style>
+<style>
+@import url("https://www.ihrp.uic.edu/modules/aggregator/aggregator.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/comment/comment.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/date/date_api/date.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/field/theme/field.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/node/node.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/search/search.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/user/user.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/views/css/views.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/ckeditor/css/ckeditor.css?q8vwl2");
+</style>
+<style>
+@import url("https://www.ihrp.uic.edu/sites/all/modules/ctools/css/ctools.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/forward/forward.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/print/print_ui/css/print_ui.theme.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/css/nice_menus.css?q8vwl2");
+</style>
+<style>
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/tabs.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/print.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/style.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/zen.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/html-elements.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/ihrp_menu.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/ihrp_researcher.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/ihrp_study.css?q8vwl2");
+</style>
+  
+    <link rel="stylesheet" href="/sites/all/themes/ihrp/css/ihrp_main.css" type="text/css"/>
+  
+
+
+  <!--[if IE]>
+    <link rel="stylesheet" href="sites/all/themes/ihrp/css/ie.css" type="text/css"/>
+   
+    <style type="text/css">
+      /* place css fixes for all versions of IE in this conditional comment */
+      .thrColFixHdr #sidebar2, .thrColFixHdr #sidebar1 { padding-top: 30px; }
+      .thrColFixHdr #mainContent { zoom: 1; }
+      /* the above proprietary zoom property gives IE the hasLayout it needs to avoid several bugs */
+    </style>
+  <![endif]-->
+
+  <!--[if IE 5]>
+    <style type="text/css">
+      /* place css box model fixes for IE 5* in this conditional comment */
+      .thrColFixHdr #sidebar1 { width: 180px; }
+      .thrColFixHdr #sidebar2 { width: 190px; }
+    </style>
+  <![endif]-->
+
+  <script src="https://www.ihrp.uic.edu/misc/jquery.js?v=1.4.4"></script>
+<script src="https://www.ihrp.uic.edu/misc/jquery-extend-3.4.0.js?v=1.4.4"></script>
+<script src="https://www.ihrp.uic.edu/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.ihrp.uic.edu/misc/drupal.js?q8vwl2"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/js/jquery.bgiframe.js?v=2.1"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/js/jquery.hoverIntent.js?v=0.5"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/js/superfish.js?v=1.4.8"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/js/nice_menus.js?v=1.0"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/google_analytics/googleanalytics.js?q8vwl2"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-4417342-1", {"cookieDomain":"auto"});ga("send", "pageview");</script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/field_group/field_group.js?q8vwl2"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/themes/ihrp/js/script.js?q8vwl2"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"ihrp","theme_token":"LQKNNIIED-cCWwIljkaKdryhM6Y8aHuIIYijIR5Z08I","js":{"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/mimedetect\/nice_menus\/js\/jquery.bgiframe.js":1,"sites\/all\/modules\/mimedetect\/nice_menus\/js\/jquery.hoverIntent.js":1,"sites\/all\/modules\/mimedetect\/nice_menus\/js\/superfish.js":1,"sites\/all\/modules\/mimedetect\/nice_menus\/js\/nice_menus.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/field_group\/field_group.js":1,"sites\/all\/themes\/ihrp\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/forward\/forward.css":1,"sites\/all\/modules\/print\/print_ui\/css\/print_ui.theme.css":1,"sites\/all\/modules\/mimedetect\/nice_menus\/css\/nice_menus.css":1,"sites\/all\/themes\/zen\/ihrp\/ihrp_menu.css":1,"sites\/all\/themes\/ihrp\/system.menus.css":1,"sites\/all\/themes\/ihrp\/css\/tabs.css":1,"sites\/all\/themes\/ihrp\/css\/print.css":1,"sites\/all\/themes\/ihrp\/css\/style.css":1,"sites\/all\/themes\/ihrp\/css\/zen.css":1,"sites\/all\/themes\/ihrp\/css\/html-elements.css":1,"sites\/all\/themes\/ihrp\/css\/ihrp_menu.css":1,"sites\/all\/themes\/ihrp\/css\/ihrp_researcher.css":1,"sites\/all\/themes\/ihrp\/css\/ihrp_study.css":1}},"nice_menus_options":{"delay":"0","speed":"fast"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/researcher\/david-x-marquez-phd":true},"field_group":{"no_style":"full","fieldset":"full"}});</script>
+</head>
+
+<body class="thrColFixHdr html not-front not-logged-in no-sidebars page-node page-node- page-node-2249 node-type-researcher section-researcher not-front not-logged-in page-node page-node- page-node-2249 node-type-researcher 
+ not-logged-in not-front type-researcher">
+
+  
+  <div id="page"><div id="page-inner">
+    <a name="top" id="navigation-top"></a>
+    <div role="banner" id="header"><div id="header-inner" class="clear-block" role="navigation" aria-label="Top Menu">
+      <a href="/"><img src="/sites/all/themes/ihrp/images/IHRP_Logo.png" alt="Institute for Health Research and Policy" title="I H R P home page" /></a>
+
+      <!-- the following is the code for the little blue top menu  -->
+      <span class="littleBlueMenu">
+        <a href="/people/list">People</a>
+        <a href="/content/contact-us">Contact Us</a>
+         
+            <a href="/print/2249">Print this page</a>		        <a href="/forward/?path=node/2249">E-mail to a Colleague</a>		          </span>
+      
+	             <div id="primary">
+        </div> <!-- /#primary -->
+      
+      
+    </div></div> <!-- /#header-inner, /#header -->
+
+    <div role="main" id="main"><div id="main-inner" class="clear-block with-navbar">
+      <div id="content"><div id="content-inner">
+                  <div id="search-box">
+              <div class="region region-search-form">
+    <div id="block-search-form" class="block block-search first last odd" role="search">
+
+      
+  <form action="/researcher/david-x-marquez-phd" method="post" id="search-block-form" accept-charset="UTF-8"><div>
+<div class="container-inline">
+  <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-OTCdHtqIMyVG7oYsJJC_rdwHp7uIfydqwILpQYteJ0Q" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+</div>
+  </div>
+          </div> <!-- /#search-box -->
+                          <div id="content-top">
+              <div class="region region-content-top">
+    <div id="block-nice-menus-1" class="block block-nice-menus first last odd">
+
+        <h2 class="block__title block-title"><span class="nice-menu-hide-title">Main menu</span></h2>
+    
+  <ul class="nice-menu nice-menu-down nice-menu-main-menu" id="nice-menu-1"><li class="menu__item menu-11518 menuparent  menu-path-node-4984 first odd "><a href="/content/institute-welcome-intro" title="" class="menu__link">About</a><ul><li class="menu__item menu-11516 menu-path-node-4984 first odd "><a href="/content/institute-welcome-intro" class="menu__link">Welcome</a></li>
+<li class="menu__item menu-11514 menu-path-node-4983  even "><a href="/content/about-mission-social-health-sciences-research" class="menu__link">Mission</a></li>
+<li class="menu__item menu-11524 menu-path-node-4996  odd "><a href="/content/admin-IHRP-snapshot" class="menu__link">IHRP Snapshot</a></li>
+<li class="menu__item menu-7001 menu-path-node-2873  even "><a href="/content/about-our-fellows-affiliates" class="menu__link">Fellows &amp; Affiliates</a></li>
+<li class="menu__item menu-2114 menu-path-node-1357  odd "><a href="/content/employment-ihrp" class="menu__link">Jobs</a></li>
+<li class="menu__item menu-11585 menu-path-node-5034  even last"><a href="/content/media-professionals" class="menu__link">For Media Professionals</a></li>
+</ul></li>
+<li class="menu__item menu-11523 menuparent  menu-path-node-5036  even "><a href="/content/about-advantages-UIC-researchers" title="" class="menu__link">Why IHRP? </a><ul><li class="menu__item menu-11588 menu-path-node-5036 first odd "><a href="/content/about-advantages-UIC-researchers" title="" class="menu__link">Advantages</a></li>
+<li class="menu__item menu-11521 menu-path-node-18  even "><a href="/content/why-ihrp-research-faqs" class="menu__link">FAQs</a></li>
+<li class="menu__item menu-11515 menu-path-node-4982  odd last"><a href="/content/learn-more-join-us" class="menu__link">Affiliate with IHRP</a></li>
+</ul></li>
+<li class="menu__item menu-11533 menuparent  menu-path-node-5027  odd "><a href="/content/scientific-resources-intro" class="menu__link">Scientific Resources</a><ul><li class="menu__item menu-11582 menu-path-node-5027 first odd "><a href="/content/scientific-resources-intro" title="" class="menu__link">Overview</a></li>
+<li class="menu__item menu-11522 menu-path-node-23  even "><a href="/content/institute-leadership" class="menu__link">Leadership</a></li>
+<li class="menu__item menu-11052 menu-path-node-4683  odd "><a href="/center/data-management-core-for-all-UIC-researchers" class="menu__link">Data Management Core</a></li>
+<li class="menu__item menu-2054 menu-path-node-1584  even "><a href="/center/methodology-research-core-for-all-UIC-researchers" class="menu__link">Methodology Research Core</a></li>
+<li class="menu__item menu-2064 menu-path-node-39  odd last"><a href="/content/training-every-stage-research-careers" class="menu__link">Training</a></li>
+</ul></li>
+<li class="menu__item menu-11532 menuparent  menu-path-node-4999  even "><a href="/content/admin-resources-intro" title="" class="menu__link">Administrative Resources</a><ul><li class="menu__item menu-11531 menu-path-node-4999 first odd "><a href="/content/admin-resources-intro" class="menu__link">Overview</a></li>
+<li class="menu__item menu-11584 menu-path-node-4979  even "><a href="/content/admin-grants-finance" class="menu__link">Grants &amp; Finance</a></li>
+<li class="menu__item menu-11507 menu-path-node-4978  odd "><a href="/content/admin-human-resources-team" class="menu__link">Human Resources</a></li>
+<li class="menu__item menu-11505 menu-path-node-4977  even "><a href="/content/admin-computing-environment" class="menu__link">Data Tech and Security</a></li>
+<li class="menu__item menu-11508 menu-path-node-4825  odd "><a href="/content/admin-communications" class="menu__link">Communications</a></li>
+<li class="menu__item menu-11511 menu-path-node-4980  even last"><a href="/content/resources-facilities" class="menu__link">Facilities</a></li>
+</ul></li>
+<li class="menu__item menu-11535 menuparent  menu-path-node-4803  odd last"><a href="/content/our-research-focus" title="" class="menu__link">Research</a><ul><li class="menu__item menu-11534 menu-path-node-4803 first odd "><a href="/content/our-research-focus" class="menu__link">Scientific Focus</a></li>
+<li class="menu__item menu-2130 menu-path-studies-list-current-all  even "><a href="/studies/list/current/all" title="" class="menu__link">Studies</a></li>
+<li class="menu__item menu-11408 menu-path-researchers-list-all  odd "><a href="/researchers/list/all" title="" class="menu__link">Researchers</a></li>
+<li class="menu__item menu-2030 menuparent  menu-path-node-1563  even "><a href="/content/centers" class="menu__link">Centers</a><ul><li class="menu__item menu-2086 menu-path-node-7 first odd "><a href="/center/center-research-health-and-aging" class="menu__link">Center for Research on Health and Aging</a></li>
+<li class="menu__item menu-2087 menu-path-node-8  even last"><a href="/center/health-policy-center" class="menu__link">Health Policy Center</a></li>
+</ul></li>
+<li class="menu__item menu-11504 menuparent  menu-path-node-4975  odd "><a href="/content/project-websites" class="menu__link">Project Websites</a><ul><li class="menu__item menu-10646 menu-path-gouicedu-asthmaaction first odd "><a href="http://go.uic.edu/AsthmaAction" title="" class="menu__link">Asthma Action</a></li>
+<li class="menu__item menu-2079 menu-path-scecdp-ihrpuicedu-  even "><a href="https://cecdp-ihrp.uic.edu/" title="" class="menu__link">Cancer Education and Career Development Program</a></li>
+<li class="menu__item menu-10737 menu-path-co-opchicagoihrpuicedu-  odd "><a href="http://co-opchicago.ihrp.uic.edu/" title="" class="menu__link">CO-OP Chicago</a></li>
+<li class="menu__item menu-10499 menu-path-fitandstrongorg-  even "><a href="http://fitandstrong.org/" title="" class="menu__link">Fit &amp; Strong!</a></li>
+<li class="menu__item menu-10548 menu-path-node-79  odd "><a href="/center/center-research-health-and-aging/midwest-roybal-center" title="IHRP is the home of the Midwest Roybal Center, funded continuously by the National Institute on Aging since 1998." class="menu__link">Midwest Roybal Center</a></li>
+<li class="menu__item menu-10501 menu-path-tobacconomicsorg-  even last"><a href="http://tobacconomics.org/" title="" class="menu__link">Tobacconomics</a></li>
+</ul></li>
+<li class="menu__item menu-11517 menu-path-news-list  even last"><a href="/news/list" title="" class="menu__link">News</a></li>
+</ul></li>
+</ul>
+
+</div>
+  </div>
+          </div> <!-- /#content-top -->
+        
+        
+		
+		<div id="content-area">
+                      <div class="tabs"></div>
+          
+          
+          							<h1 class="title">David X. Marquez, PhD</h1>
+			          
+	        
+          
+
+
+
+<div style="position: relative; width: 63%; float: left;">
+
+      <div class="field-field-researcher-photo">
+      <img src="https://www.ihrp.uic.edu/files/MarquezDavid2012_page.jpg" />
+    </div>
+  
+  <h2>
+      Associate Professor, Kinesiology and Nutrition  </h2>
+
+  <p>
+    <p>Dr. David X. Marquez is an associate professor of kinesiology in the UIC College of Applied Health Sciences. In addition to his independent research conducted in his home department, Dr. Marquez collaborates in multidisiplinary research at IHRP, which recognizes him as a <a href="/content/about-our-fellows-affiliates">Fellow</a>.</p>
+<p>Dr. Marquez specializes in exercise psychology and behavioral medicine. He currently chairs the Minority Health and Research Special Interest Group of the <a href="http://www.acsm.org">American College of Sports Medicine</a> and is an advisor in the <a href="http://www.ahs.uic.edu/uaha/">Urban Allied Health Academy</a> at UIC.</p>
+<p>Dr. Marquez obtained his bachelor of science degree in psychology from Loyola University Chicago (1997) and his master&#39;s (2000) and doctoral (2004) degrees in kinesiology from the University of Illinois at Urbana-Champaign. From 2004 to 2007, he was an assistant professor in the Departments of Kinesiology and Public Health at the University of Massachusetts, Amherst.</p>
+  </p>
+
+  <p>
+    <h2>Research Interests</h2>
+  </p>
+  <p>
+    <p>Dr. Marquez&rsquo;s research focuses on disparities in physical activity and disease/disability among Latinos. He is interested in using physical activity interventions towards the prevention of disability and the maintenance of cognitive function and quality of life in older Latino adults. Moreover, he is interested in the interaction between the physical/cultural environment and behavior among underserved populations.</p>
+  </p>
+
+  <p>
+    <h2>Recent and Noteworthy Publications</h2>
+  </p>
+  <p>
+    <p>Find more articles by Dr. Marquez on this <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=Marquez+DX%5BAU%5D">PubMed list</a>.</p>
+<p>Montoya Y, Balbim GM, Glover CM, Marquez DX. "My Parent's Body Is Sacred": Perspectives From Adult Latino Children About Brain Donation for Alzheimer Disease Research. Alzheimer Dis Assoc Disord. 2020 Mar 24. doi: 10.1097/WAD.0000000000000377.</p>
+<p>Nyenhuis SM, Balbim GM, Ma J, Marquez DX, Wilbur J, Sharp LK, Kitsiou S. A Walking Intervention Supplemented With Mobile Health Technology in Low-Active Urban African American Women With Asthma: Proof-of-Concept Study. JMIR Form Res. 2020 Mar 11;4(3):e13900. doi: 10.2196/13900.</p>
+<p>Nyenhuis SM, Shah N, Ma J, Marquez DX, Wilbur J, Cattamanchi A, Sharp LK. Identifying Barriers to Physical Activity Among African American Women with Asthma. Cogent Med. 2019;6(1). pii: 1582399.</p>
+<p>Balbim GM, Marques IG, Cortez C, Magallanes M, Rocha J, Marquez DX. Coping Strategies Utilized by Middle-Aged and Older Latino Caregivers of Loved Ones with Alzheimer's Disease and Related Dementia. J Cross Cult Gerontol. 2019 Dec;34(4):355-371. doi: 10.1007/s10823-019-09390-8.</p>
+<p>Balbim GM, Magallanes M, Marques IG, Ciruelas K, Aguiñaga S, Guzman J, Marquez DX. Sources of Caregiving Burden in Middle-Aged and Older Latino Caregivers. J Geriatr Psychiatry Neurol. 2019 Sep 11:891988719874119. doi: 10.1177/0891988719874119.</p>
+<p>Marquez DX, Aguiñaga S, Castillo A, Hughes SL, Der Ananian C, Whitt-Glover MC. ¡Ojo! What to expect in recruiting and retaining older Latinos in physical activity programs. Transl Behav Med. 2019 Aug 19. pii: ibz127. doi: 10.1093/tbm/ibz127.</p>
+<p>Vásquez PM, Durazo-Arvizu RA, Marquez DX, Argos M, Lamar M, Odoms-Young A, Wu D, González HM, Tarraf W, Sotres-Alvarez D, Vidot D, Murillo R, Perreira KM, Castañeda SF, Mossavar-Rahmani Y, Cai J, Gellman M, Daviglus ML. Moderate-vigorous physical activity and health-related quality of life among Hispanic/Latino adults in the Hispanic Community Health Study/Study of Latinos (HCHS/SOL). J Patient Rep Outcomes. 2019 Jul 24;3(1):45. doi: 10.1186/s41687-019-0129-y.</p><p>Erickson KI, Hillman C, Stillman CM, Ballard RM, Bloodgood B, Conroy DE, Macko R, Marquez DX, Petruzzello SJ, Powell KE. Physical Activity, Cognition, and Brain Outcomes: A Review of the 2018 Physical Activity Guidelines.Med Sci Sports Exerc. 2019 Jun;51(6):1242-1251.doi: 10.1249/MSS.0000000000001936. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/31095081">See abstract</a>]</p>
+<p>Powell KE, King AC, Buchner DM, Campbell WW, DiPietro L, Erickson KI, Hillman CH, Jakicic JM, Janz KF, Katzmarzyk PT, Kraus WE, Macko RF, Marquez DX, McTiernan A, Pate RR, Pescatello LS, Whitt-Glover MC. The Scientific Foundation for the Physical Activity Guidelines for Americans, 2nd Edition. J Phys Act Health. 2018 Dec 17:1-11. doi: 10.1123/jpah.2018-0618. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/30558473">See abstract</a>]</p>
+<p>Hughes SL, Tussing-Humphreys L, Schiffer L, Smith-Ray R, Marquez DX, DeMott AD, Berbaum ML, Fitzgibbon ML. Fit &amp; Strong! Plus Trial Outcomes for Obese Older Adults with Osteoarthritis. Gerontologist. 2018 Nov 26. doi: 10.1093/geront/gny146. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/30476065">See abstract</a>]</p>
+<p>Agui&ntilde;aga S, Marquez DX. Feasibility of a Latin Dance Program for Older Latinos With Mild Cognitive Impairment. Am J Alzheimers Dis Other Demen. 2017 Dec;32(8):479-488. doi: 10.1177/1533317517719500. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/28683560">See abstract</a>]</p>
+<p>Fern&aacute;ndez-Villa JM, M&aacute;rquez DX, S&aacute;nchez-Garrido N, P&eacute;rez-Zepeda MU, Gonz&aacute;lez-Lara M. Association of Healthy Habits Beliefs and Mortality in Older Adults: A Longitudinal Analysis of the Mexican Health and Aging Study. J Aging Health. 2017 Sep;29(6):973-985. doi: 10.1177/0898264317719130. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/28679303">See abstract</a>]</p>
+<p>Perez LG, Chavez A, Marquez DX, Soto SC, Haughton J, Arredondo EM. Associations of Acculturation With Self-Report and Objective Physical Activity and Sedentary Behaviors Among Latinas. Health Educ Behav. 2017 Jun;44(3):431-438. doi: 10.1177/1090198116669802.</p>
+<p>Wilson RS, Capuano AW, Marquez DX, Amofa P, Barnes LL, Bennett DA. Change in Cognitive Abilities in Older Latinos. J Int Neuropsychol Soc. 2016 Jan;22(1):58-65. doi: 10.1017/S1355617715001058.</p>
+<p>Schwingel A, Linares DE, G&aacute;lvez P, Adamson B, Aguayo L, Bobitt J, Casta&ntilde;eda Y, Sebasti&atilde;o E, Marquez DX. Developing a culturally sensitive lifestyle behavior change program for older Latinas. Qual Health Res. 2015 Dec;25(12):1733-46. doi: 10.1177/1049732314568323.</p>
+<p>Marquez DX, Wilbur J, Hughes S, Berbaum ML, Wilson R, Buchner DM, McAuley E. B.A.I.L.A. -- A Latin dance randomized controlled trial for older Spanish-speaking Latinos: rationale, design, and methods. Contemp Clin Trials. 2014 Jul;38(2):397-408. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/24969395">See abstract.</a>]</p>
+<p>Marquez DX, Agui&ntilde;aga S, Campa J, Pinsker EC, Bustamante EE, Hernandez R. A qualitative exploration of factors associated with walking and physical activity in community-dwelling older Latino adults. J Appl Gerontol. 2016 Jun;35(6):664-77. doi: 10.1177/0733464814533819.</p>
+<p>Carrion IV, Nedjat-Haiem FR, Marquez DX. Examining cultural factors that influence treatment decisions: a pilot study of Latino men with cancer. J Cancer Educ. 2013;28(4):729-737. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/23881820">See abstract.</a>]</p>
+  </p>
+
+  <p>
+    <h2>Honors and Awards</h2>
+  </p>
+  <p>
+    <p>UIC 2009 Research Funds for Minority Faculty<br />
+	IHRP Fellow<br />
+	<span style="font-size: 1.1em;">Fellow, American College of Sports Medicine Fellow, Gerontological Society of America</span></p>
+  </p>
+</div>
+
+
+<div style="float:right; width: 32%;" class="right-sidebar">
+<p><strong>Contact Info</strong></p>
+
+<p>
+  Phone: (312) 996-1209<br />
+
+  Fax: (312) 413-0319<br />
+
+
+  E-mail: <a href="mailto:marquezd@uic.edu">marquezd@uic.edu</a><br />
+</p>
+
+  <p><p>At IHRP: 350 WROB</p>
+<p>&nbsp;</p>
+<p><strong>Mailing Address:</strong></p>
+<p>Department of Kinesiology and Nutrition<br />
+	University of Illinois at Chicago (MC 994)<br />
+	632 Applied Health Sciences Bldg.<br />
+	1919 W. Taylor Street<br />
+	Chicago, IL 60612</p>
+</p>
+
+<br />
+
+
+  <strong>Other Website</strong><br />
+  <p><a href="http://www.uic.edu/labs/epl/staff.html">UIC Exercise Psychology Laboratory</a></p>
+  <br />
+
+  <p>
+    <strong>IHRP Affiliation(s)</strong>
+  </p>
+  <ul>
+        	      <li><a href="../center/center-research-health-and-aging">Center for Research on Health and Aging</a></li>
+      </ul>
+  <br />
+
+
+  <p>
+    <strong>Current IHRP Research Studies (Co-I)</strong>
+  </p>
+  <ul>
+          <li><a href="../study/midwest-roybal-center-health-promotion-and-translation-2014-2019">Midwest Roybal Center for Health Promotion and Translation</a></li>
+          <li><a href="../study/promoting-seniors-health-home-care-aides-randomized-controlled-trial">Promoting Seniors' Health with Home Care Aides: A Randomized Controlled Trial</a></li>
+      </ul>
+  <br />
+
+  <p>
+    <strong>Other Research (Non-IHRP)</strong>
+  </p>
+  <p>
+    <p>BAILA: Being Active, Increasing Latinos, Healthy Aging (NR013151)</p>
+  </p>
+  <br />
+
+
+  <p>
+    <strong>Recently Completed Research</strong>
+  </p>
+  <p>
+    <ul>
+	<li>
+		<a href="/study/bailamos-balance-activity-latinos-addressing-mobility-older-adults">BAILAMOS: Balance &amp; Activity In Latinos, Addressing Mobility in Older Adults</a></li>
+	<li>
+		<div>
+			<a href="/study/illinois-prc-healthy-brain-research-network">Illinois PRC - Healthy Brain Research Network</a></div>
+	</li>
+	<li>
+		<div>
+			<a href="/study/iprc-physical-activity-policy-research-network-collaborating-center">Illinois PRC - Physical Activity Policy Research Network</a></div>
+	</li>
+	<li>
+		<a href="/study/midwest-roybal-center-health-promotion-and-translation">Midwest Roybal Center for Health Promotion and Translation</a></li>
+	<li>
+		<a href="/study/project-wel-walking-environment-older-latinos">Project WEL: Walking &amp; Environment in Older Latinos</a></li>
+	<li>
+		<a href="/study/promoting-seniors-health-home-care-aides-pilot">Promoting Seniors&#39; Health with Home Care Aides: A Pilot</a></li>
+</ul>
+  </p>
+
+</div>
+        </div>
+
+        		
+      </div></div> <!-- /#content-inner, /#content -->
+
+              <div id="navbar"><div id="navbar-inner">
+
+          <a name="navigation" id="navigation"></a>
+
+          
+        </div></div> <!-- /#navbar-inner, /#navbar -->
+      
+
+    </div></div> <!-- /#main-inner, /#main -->
+
+    <div id="footer"><div id="footer-inner">
+      <div id="footer-message">  <footer id="footer" class="region region-footer">
+    <div id="block-block-43" class="block block-block first last odd">
+
+      
+  <p><strong>Institute for Health Research and Policy of the University of Illinois at Chicago</strong><br />
+	Multidisciplinary Home of UIC Researchers Collaborating in the Social and Health Sciences</p>
+<p>1747 W. Roosevelt Road, MC 275, Westside Research Office Bldg., Chicago, IL 60608<br />
+	T: <a href="tel:(312) 996-7222">(312) 996-7222</a> · F: (312) 996-2703</p>
+<p><a href="http://www.uic.edu/">UIC.edu</a> · <a href="https://www.uic.edu/apps/find-people/search">Campus Directory</a> · <a href="http://disabilityresources.uic.edu/">Disability Resources</a> · <a href="/content/employment-ihrp">Job Openings</a> · <a href="https://maps.uic.edu/">Maps</a> · <a href="/content/contact-us">Contact Us</a></p>
+<p>© 2020 <a href="http://www.uillinois.edu/trustees/">The Board of Trustees of the University of Illinois</a> · Privacy Policy · Webmaster: <a href="mailto:IHRP-webfix@uic.edu">IHRP-webfix@uic.edu</a></p>
+
+</div>
+  </footer>
+</div>
+
+    </div></div> <!-- /#footer-inner, /#footer -->
+
+    
+    
+  </div></div> <!-- /#page-inner, /#page -->
+    <script src="sites/all/themes/ihrp/js/customize-twitter-1.1/customize-twitter-1.1.min.js" type="text/javascript"></script>
+  <script>
+	var options = {
+    	"url": "sites/all/themes/ihrp/css/twitter.css",
+		"timeout_length": 1800
+	};
+	CustomizeTwitterWidget(options);
+</script>
+</body>
+</html>

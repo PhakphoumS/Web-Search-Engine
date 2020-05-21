@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<div id='menuPage_area'>
+	<h3>Join Us</h3>
+<!-- Begin Menu Page Description -->
+<strong>Information for prospective students:</strong><br>
+The Electronic Visualization Laboratory (EVL) at the University of Illinois at Chicago (UIC) is an interdisciplinary graduate degree program focusing its research on advanced visualization and networking, computer graphics and interactive techniques through a unique blend of engineering, science, art and technology.<br><br>
+
+The lab environment fosters formal and informal collaboration between students; artists and computer scientists share their expertise, while honing both their aesthetic and technical skill sets. This presents a unique opportunity for graduate students from diverse disciplines to develop sophisticated aesthetic sensibilities while becoming competent users / developers of advanced interactive computer graphics technology.<br><br>
+
+Students, faculty and staff collaborate on large-scale projects for public events, as well as individual participation in art exhibitions, scientific demonstrations, paper presentations in conferences, symposiums, and festivals on a regular basis.<br><br>
+
+Students can take lecture and seminar courses from evl faculty on User Interface Design, Video Game Design, Visualization and Visual Analytics, Computer Graphics, Virtual Reality, Human-Computer Interaction, Computer Animation, and GPU Programming.<br><br>
+
+Graduate and Undergraduate students who have shown interest and ability through the related course-work or through volunteering to work on evl-related projects may be offered support as research assistants to work on funded projects in the lab.<br><br>
+
+<strong>Graduate students:</strong><br>
+EVL graduate students receive MS and/or PhD degree through UIC's Department of <a href="http://www.cs.uic.edu" target="_blank">Computer Science</a>. For more information on applying to the graduate program see the <a href="http://www.cs.uic.edu/bin/view/Main/GraduateAdmissions" target="_blank">CS Graduate Admissions webpage</a>.<br><br>
+
+<strong>Undergraduate students:</strong><br>
+Undergraduate students interested in evl-related work should elect the Human Centered Computing Concentration within the <a href="http://www.uic.edu/ucat/catalog/EGCS.shtml" target="_blank">BS in Computer Science program</a>.
+<!-- End Menu Page Description -->
+</div>
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin List -->
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Page:</strong>
+		<a href='/list.php?id=1&amp;page=1'>1</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=2'>2</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=3'>3</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=4'>4</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=5'><strong>5</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=6'>6</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=7'>7</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=8'>8</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=9'>9</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=10'>10</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<div id='list_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin List List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1806'><img src='/resizedImages/500x280-crop-excavation.gif' alt='' title='Excavation' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1806'>Excavation</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=173'>Alex Hill</a>, <a href='/entry.php?id=60'>Joseph Tremonti</a>, <a href='/entry.php?id=162'>Petra Gemeinboeck</a><br>
+			January 1, 2001 - August 24, 2001<br><br>
+			Excavation is a networked virtual environment that explores the mediated surface of historiography. Excavation immerses its visitors in a metaphoric&hellip; <a href='/entry.php?id=1806'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1791'><img src='/resizedImages/500x280-crop-navon_para2.png' alt='' title='Home Transfer' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1791'>Home Transfer</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=2'>Todd Margolis</a>, Pat Badani, Dmitry Strakovsky, Ozgun Ozguc, Carrie Mandel and Jeff Holmes<br>
+			October 1, 2000 - November 1, 2000<br><br>
+			Home Transfer is an art project that explores the intersection of architecture, the Internet and the public sphere. We investigate the impact of new&hellip; <a href='/entry.php?id=1791'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1804'><img src='/resizedImages/500x280-crop-looking.jpg' alt='' title='Looking for Water' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1804'>Looking for Water</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=7'>Daniel J. Sandin</a>, Laurie Spiegel (sound), Kayaking partner Dick Ainsworth, Electronic Visualization partner Tom DeFanti<br>
+			September 1, 2000 - September 1, 2001<br><br>
+			In this networked virtual environment, the user perspective begins in outer space, surrounded by sun and Earth images based on real-time satellite&hellip; <a href='/entry.php?id=1804'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1807'><img src='/resizedImages/500x280-crop-home.jpg' alt='' title='Home' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1807'>Home</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=9'>Drew Browning</a>, <a href='/entry.php?id=161'>Geoffrey Allen Baum</a>, Annette Barbier <br>
+			September 1, 2000 - January 1, 2001<br><br>
+			Home is an interactive, navigable virtual-reality environment that explores ideas about dwelling and its relation to the psyche. In it, a house&hellip; <a href='/entry.php?id=1807'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1808'><img src='/resizedImages/500x280-crop-paapab_new.jpg' alt='' title='PAAPAB' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1808'>PAAPAB</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=12'>Josephine Anstey</a>, Dan Neveu<br>
+			September 1, 2000 - September 1, 2002<br><br>
+			PAAPAB is a networked virtual dance floor with a steady dance beat. The user joins the dance by selecting one or more life-sized puppets whose&hellip; <a href='/entry.php?id=1808'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1809'><img src='/resizedImages/500x280-crop-spectacular.gif' alt='' title='Super Spectacular' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1809'>Super Spectacular</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=53'>Tim Portlock</a><br>
+			September 1, 2000 - August 31, 2001<br><br>
+			Super Spectacular is an immersive virtual-reality environment that presents different spectator arenas for users to interact: sports stadium, art&hellip; <a href='/entry.php?id=1809'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1810'><img src='/resizedImages/500x280-crop-synasthetic.gif' alt='' title='syn.aesthetic' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1810'>syn.aesthetic</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=161'>Geoffrey Allen Baum</a>, <a href='/entry.php?id=165'>Keith Miller</a><br>
+			September 1, 2000 - March 1, 2002<br><br>
+			syn.aesthetic is a virtual-reality environment where a 3D score is created by the sonic input of the participants. This &ldquo;objectified&rdquo;&hellip; <a href='/entry.php?id=1810'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1811'><img src='/resizedImages/500x280-crop-laboite.gif' alt='' title='La Bo&icirc;te' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1811'>La Bo&icirc;te</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=37'>Marientina Gotsis</a><br>
+			September 1, 2000 - January 1, 2001<br><br>
+			La Bo&icirc;te is a networked virtual environment where visitors are invited to see short dance performances on video screens. In the virtual dance&hellip; <a href='/entry.php?id=1811'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1797'><img src='/resizedImages/500x280-crop-whuon.jpg' alt='' title='[whu-on]' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1797'>[whu-on]</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=46'>Ya Lu Lin</a><br>
+			August 1, 2000 - May 15, 2001<br><br>
+			[whu-on] is comprised of four distinct, but interrelated virtual environments depicting pivotal moments from the artist&rsquo;s childhood and&hellip; <a href='/entry.php?id=1797'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1815'><img src='/resizedImages/500x280-crop-lastdrop-2.jpg' alt='' title='Last Drop!' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1815'>Last Drop!</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=3'>Natt Mintrasak</a><br>
+			August 1, 2000 - May 18, 2001<br><br>
+			&ldquo;Last Drop!&rdquo; is an animated short by Natt Mintrasak that incorporates 3-dimensional computer graphics and live-action footage. The story&hellip; <a href='/entry.php?id=1815'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1859'><img src='/resizedImages/500x280-crop-hydraflower.jpg' alt='' title='Hydra Flower' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1859'>Hydra Flower</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=189'>Helen-Nicole Kostis</a><br>
+			August 1, 2000 - May 20, 2001<br><br>
+			Hydra Flower is a 3-dimensional environment consisting of a baby monster flower, inspired by the Lernaean Hydra of Greek Mythology, a serpent-like&hellip; <a href='/entry.php?id=1859'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1861'><img src='/resizedImages/500x280-crop-inner_contact-2.jpg' alt='' title='Inner Contact' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1861'>Inner Contact</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=40'>Ka-Leung Jark</a><br>
+			May 5, 2000 - May 18, 2002<br><br>
+			Inner Contact is an imaginary world pushed beyond the envelope of reality, anchored deeply into the physics of these extreme systems. An abstraction&hellip; <a href='/entry.php?id=1861'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1812'><img src='/resizedImages/500x280-crop-malo.gif' alt='' title='MALO Drama' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1812'>MALO Drama</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=58'>Samroeng Thongrong</a><br>
+			May 1, 2000 - July 1, 2001<br><br>
+			MALO Drama is an interactive, immersive CAVE&trade; art application that allows users to communicate with a virtual wizard, a Magic Living Object&hellip; <a href='/entry.php?id=1812'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1792'><img src='/resizedImages/500x280-crop-jessambola.jpg' alt='' title='Jes Sambola' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1792'>Jes Sambola</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=2'>Todd Margolis</a>, Carrie Mandel<br>
+			February 1, 2000 - March 1, 2000<br><br>
+			JesSambola is a web site which explores how relationships can develop on the internet. <a href='/entry.php?id=1792'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1794'><img src='/resizedImages/500x280-crop-ww.gif' alt='' title='big j small o silent h small n' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1794'>big j small o silent h small n</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=1'>John Landry</a><br>
+			February 1, 2000 - June 1, 2000<br><br>
+			&ldquo;big j small o silent h small n&rdquo; was made entirely from appropriated web imagery. <a href='/entry.php?id=1794'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<!-- End List List -->
+	</table>
+</div>
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Page:</strong>
+		<a href='/list.php?id=1&amp;page=1'>1</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=2'>2</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=3'>3</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=4'>4</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=5'><strong>5</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=6'>6</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=7'>7</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=8'>8</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=9'>9</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=10'>10</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<!-- End List -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

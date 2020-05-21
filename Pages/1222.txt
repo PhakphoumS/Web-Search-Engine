@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Entry -->
+<table id='entry_area' class='fixedTable'>
+	<tr>
+		<td style='width:676px;'>
+			<div id='entry_info'>
+<!-- Begin Entry Info -->
+<h3>PhD Defense Announcement: &ldquo;Multiview Immersion in Hybrid Reality Environments&rdquo;</h3>
+<div id='entry_image_large'><img style='left:82px;' src='/resizedImages/1280x720-afebrettithesis_omegalib.png' alt='' title='PhD Defense Announcement: &ldquo;Multiview Immersion in Hybrid Reality Environments&rdquo;' width='476' height='360'></div>
+<span class='smallText'>A. Febretti, EVL</span><br><br>
+<div class='entry_content'>
+	<strong>Participants:</strong> <a href='/entry.php?id=272'>Alessandro Febretti</a><br><br>
+<!-- Begin Entry Description -->
+Alessandro Febretti presents his PhD research in developing a model of an operating system for Hybrid Reality Environments, called Omegalib.<br><br>
+Friday, March 3, 2017, 2pm<br>
+EVL Cybercommons - 2068 ERF<br><br>
+Committee: Andrew E. Johnson (Chair), Robert B. Kenyon, Luc Renambot, Leilah B. Lyons, Michael E. Papka (Argonne National Lab)<br><br>
+Abstract:<br>
+In the domain of large-scale visualization instruments, Hybrid Reality Environments (HREs) are a recent innovation that combines the best-in-class capabilities of immersive environments, with the best-in-class capabilities of ultra-high-resolution display walls. HREs create a seamless 2D/3D environment that supports both information-rich analysis as well as virtual-reality simulation exploration at a resolution matching human visual acuity. Collaborative research groups in HREs tend to work on a variety of tasks during a research session (sometimes in parallel), and these tasks require 2D data views, 3D views, linking between them, and the ability to bring in (or hide) data quickly as needed. Addressing these needs requires a matching software infrastructure that fully leverages the technological affordances offered by these new instruments.<br><br>
+In this dissertation, I detail the requirements of such infrastructure and outline the model of an operating system for Hybrid Reality Environments. I present an implementation of core components of this model, called Omegalib. I show how this implementation has been successfully used to create HRE visualizations for research, education and outreach. One key feature of Omegalib is its ability to support multiple applications running simultaneously on an HRE. This is a significant improvement compared to classic immersive systems, which normally support a single application at a time. HREs (and large displays in general) are ideal systems to support co-located collaboration, and the ability to run and control multi-application workspaces is key to effective work in this setting. However, enabling multiple immersive applications on a large display presents several challenges. I discuss my solution to these challenges and present an extension of Omegalib that supports fully dynamic, multi-view, multi-user immersion. I evaluate this new system, which I call Multiview Immersion (MVI) in a formal user study: two-user groups are asked to compare 3D sonar scans using MVI, single-view immersion and multiple views without immersion (simulating a standard display wall). My objective is understanding the effect of MVI on analysis effectiveness, view usage and collaboration patterns compared to alternatives. MVI appears to reduce analysis error rates for our sample task and makes it more likely for both users to remain engaged with the analysis task.<br><br>
+<!-- End Entry Description -->
+	<strong>Email:</strong> <a href='mailto:febret@gmail.com'>febret@gmail.com</a><br><br>
+	<strong>Date:</strong> March 3, 2017
+</div>
+<!-- End Entry Info -->
+			</div>
+		</td>
+		<td style='width:374px;'>
+			<div id='entry_sidebar'>
+<!-- Begin Entry Sidebar -->
+<div class='entry_content'>
+	<h3>Related Entries</h3>
+	<strong>Directory:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=272'>Alessandro Febretti</a></li>
+	</ul><br>
+	<strong>Papers:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2295'>Multiview Immersion in Hybrid Reality Environments</a></li>
+		<li><a href='/entry.php?id=1644'>Omegalib: a Multi-View Application Framework for Hybrid Reality Display Environments</a></li>
+	</ul><br>
+	<strong>Research:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2018'>omegalib</a></li>
+	</ul><br>
+	<h3>Related Categories</h3>
+	<ul>
+		<li><a href='/category.php?id=16&amp;related=3'>MS / PhD Thesis</a></li>
+		<li><a href='/category.php?id=20&amp;related=3'>Software</a></li>
+		<li><a href='/category.php?id=24&amp;related=3'>User Groups</a></li>
+		<li><a href='/category.php?id=27&amp;related=3'>Visualization</a></li>
+		<li><a href='/category.php?id=28&amp;related=3'>VR</a></li>
+	</ul>
+</div>
+<!-- End Entry Sidebar-->
+			</div>
+		</td>
+	</tr>
+</table>
+<!-- End Entry -->
+<script>
+	// Making both divs the same height is much easier in JavaScript
+	var entryInfo = document.getElementById("entry_info");
+	var entrySidebar = document.getElementById("entry_sidebar");
+	
+	if (entryInfo && entrySidebar) {
+		var maxHeight = Math.max(entryInfo.offsetHeight, entrySidebar.offsetHeight)-20;
+		entryInfo.style.height = maxHeight+"px";
+		entrySidebar.style.height = maxHeight+"px";
+	}
+</script>
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

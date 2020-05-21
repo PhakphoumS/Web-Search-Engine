@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Entry -->
+<table id='entry_area' class='fixedTable'>
+	<tr>
+		<td style='width:676px;'>
+			<div id='entry_info'>
+<!-- Begin Entry Info -->
+<h3>Newcity magazine rates UIC/EVL as &ldquo;Best place to get your geek on&rdquo;</h3><br>
+<div class='entry_content'>
+		<strong>URL:</strong> <a href='http://best.newcity.com/2016/10/27/best-place-to-get-your-geek-on/' target='_blank'>http://best.newcity.com/2016/10/27/best-place-to-get-your-geek-on/</a><br><br>
+<!-- Begin Entry Description -->
+Newcity magazine is Chicago&rsquo;s only locally owned and operated cultural weekly, and has been covering Chicago&rsquo;s local scene for more than 25 years. It&rsquo;s current &ldquo;Best of Chicago&rdquo; issue just came out (Volume 31, No. 1359). The section on City Life lists many best things about Chicago, including &ldquo;Best place to get your geek on.&rdquo; Um, that would be the Electronic Visualization Laboratory at the University of Illinois at Chicago! The article is reproduced below.<br><br>
+* * * * * * * * * *<br>
+<strong>Best place to get your geek on</strong><br><br>
+<i>The Electronic Visualization Laboratory (EVL) at UIC</i><br><br>
+Cutting-edge research meets a massive wall made out of small screens that would make any hardcore videogame fan scream and a literal cave that opens up a highly immersive, surround-screen, surround-sound, virtual reality environment at the Electronic Visualization Laboratory (EVL) at the University of Illinois at Chicago. The lab brings together academics, designers, engineers, artists and mad scientists using technologies that bend reality off into unimaginable directions. EVL is the place where visualization, virtual reality and real-time interactive computer graphics are born. As if that were not enough, it was here that the computer graphics for the first &ldquo;Star Wars&rdquo; film were created in 1976. How cool is that?<br><br>
+UIC College of Engineering, Department of Computer Science, 842 W. Taylor<br><br>
+<strong>Best of Chicago 2016</strong><br><br>
+<!-- End Entry Description -->
+	<strong>Email:</strong> <a href='mailto:maxine@uic.edu'>maxine@uic.edu</a><br><br>
+	<strong>Date:</strong> November 6, 2016
+</div>
+<!-- End Entry Info -->
+			</div>
+		</td>
+		<td style='width:374px;'>
+			<div id='entry_sidebar'>
+<!-- Begin Entry Sidebar -->
+<div id='entry_image_small'>
+	<img style='left:0; ' src='/resizedImages/350x622-newcity-cover-img_0762.jpeg' alt='' title='Newcity magazine rates UIC/EVL as &ldquo;Best place to get your geek on&rdquo;' width='350' height='469'>
+</div>
+<span class='smallText'>Best of Chicago 2016 - Newcity</span><br><br>
+<div class='entry_content'>
+	<h3>No Related Entries</h3><br>
+	<h3>Related Categories</h3>
+	<ul>
+		<li><a href='/category.php?id=1&amp;related=3'>Academic</a></li>
+		<li><a href='/category.php?id=2&amp;related=3'>Animation</a></li>
+		<li><a href='/category.php?id=31&amp;related=3'>Audio Research</a></li>
+		<li><a href='/category.php?id=39&amp;related=3'>Augmented Reality</a></li>
+		<li><a href='/category.php?id=7&amp;related=3'>Cultural Heritage</a></li>
+		<li><a href='/category.php?id=8&amp;related=3'>Data Mining</a></li>
+		<li><a href='/category.php?id=9&amp;related=3'>Devices</a></li>
+		<li><a href='/category.php?id=10&amp;related=3'>Education</a></li>
+		<li><a href='/category.php?id=11&amp;related=3'>Government</a></li>
+		<li><a href='/category.php?id=32&amp;related=3'>Human Augmentics</a></li>
+		<li><a href='/category.php?id=12&amp;related=3'>Human Factors</a></li>
+		<li><a href='/category.php?id=13&amp;related=3'>Industrial VR</a></li>
+		<li><a href='/category.php?id=41&amp;related=3'>Mixed Reality</a></li>
+		<li><a href='/category.php?id=16&amp;related=3'>MS / PhD Thesis</a></li>
+		<li><a href='/category.php?id=17&amp;related=3'>Multimedia</a></li>
+		<li><a href='/category.php?id=33&amp;related=3'>Natural Language Processing</a></li>
+		<li><a href='/category.php?id=19&amp;related=3'>Networking</a></li>
+		<li><a href='/category.php?id=37&amp;related=3'>Remote Collaboration</a></li>
+		<li><a href='/category.php?id=20&amp;related=3'>Software</a></li>
+		<li><a href='/category.php?id=21&amp;related=3'>Sound Art</a></li>
+		<li><a href='/category.php?id=34&amp;related=3'>Tele-Collaboration</a></li>
+		<li><a href='/category.php?id=25&amp;related=3'>Video / Film</a></li>
+		<li><a href='/category.php?id=38&amp;related=3'>Video Games</a></li>
+		<li><a href='/category.php?id=26&amp;related=3'>Virtual Medicine</a></li>
+		<li><a href='/category.php?id=35&amp;related=3'>Visual Analytics</a></li>
+		<li><a href='/category.php?id=27&amp;related=3'>Visualization</a></li>
+		<li><a href='/category.php?id=28&amp;related=3'>VR</a></li>
+		<li><a href='/category.php?id=29&amp;related=3'>VR Art</a></li>
+		<li><a href='/category.php?id=30&amp;related=3'>Web Art</a></li>
+	</ul>
+</div>
+<!-- End Entry Sidebar-->
+			</div>
+		</td>
+	</tr>
+</table>
+<!-- End Entry -->
+<script>
+	// Making both divs the same height is much easier in JavaScript
+	var entryInfo = document.getElementById("entry_info");
+	var entrySidebar = document.getElementById("entry_sidebar");
+	
+	if (entryInfo && entrySidebar) {
+		var maxHeight = Math.max(entryInfo.offsetHeight, entrySidebar.offsetHeight)-20;
+		entryInfo.style.height = maxHeight+"px";
+		entrySidebar.style.height = maxHeight+"px";
+	}
+</script>
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

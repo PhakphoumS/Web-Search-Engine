@@ -1,0 +1,965 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Category -->
+<!-- Begin Category Pagination -->
+<div class='category_area'>
+	<div class='category_content'>
+		<h3>Software</h3><br>
+		Development, evaluation, refinement and distribution of software tools and techniques for application development, authoring and testing have been a direct emphasis of EVL&rsquo;s research efforts over many years. Tools and techniques include computer-based models, simulations, data libraries, programming libraries and user interfaces. The libraries and user interfaces encompass visual, auditory, tactile and motion-based information displays.<br><br> Over the last decade, support for collaborative advanced visualization and networking applications has been a primary area of focus. Development of highly immersive visualization display devices and the middleware to create collaborative visualization environments has been the underpinnings for EVL&rsquo;s work since the development of the <a href="/entry.php?id=1769">CAVE&trade;</a> in 1991; EVL developed a robust and virtual reality device-independent <a href="/entry.php?id=1778">CAVE&trade; software library, CAVELib&trade;</a>.<br><br> Subsequently in 2000, EVL released <a href="/entry.php?id=1780">CAVERNsoft G2</a>, a toolkit for building collaborative networked applications or logistical networking applications, which then led to the development of the <a href="/entry.php?id=1882">Scalable Adaptive Graphics Environment (SAGE)</a>. SAGE is a distributed computing architecture designed to allow users to share high-resolution imagery and high-definition video among groups of collaborators at local or remote sites.<br><br> Having been adopted by over 40 major institutions worldwide, SAGE refinement and &ldquo;hardening&rdquo; remains a crucial component of EVL&rsquo;s research interests.
+	</div>
+	<div class='category_content'>
+		<strong>Related:</strong>
+		<a href='/category.php?id=20&amp;related=2'>Directory</a>&nbsp;&nbsp;
+		<a href='/category.php?id=20&amp;related=3'>Events</a>&nbsp;&nbsp;
+		<a href='/category.php?id=20&amp;related=4'>Papers</a>&nbsp;&nbsp;
+		<a href='/category.php?id=20&amp;related=5'><strong>Research</strong></a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End Category Pagination -->
+<div class='category_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin Category List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2494'><img src='/resizedImages/500x280-crop-sage3-2.png' alt='' title='Collaborative Research: CSSI Frameworks: SAGE3: Smart Amplified Group Environment for Harnessing the Data Revolution' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2494'>Collaborative Research: CSSI Frameworks: SAGE3: Smart Amplified Group Environment for Harnessing the Data Revolution</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=49'>Lance Long</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a><br>
+			May 15, 2020 - April 30, 2025<br><br>
+			UIC PI: Maxine Brown, co-PIs: Andrew Johnson, Luc Renambot University of Hawaii Manoa PI: Jason Leigh Virginia Polytechnic PI: Chirstopher North NSF&hellip; <a href='/entry.php?id=2494'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2402'><img src='/resizedImages/500x280-crop-sage2cybersecurity_sm-2.jpg' alt='' title='SAGE2 Team Engaging with the Trusted CI Center on SAGE2 Cybersecurity' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2402'>SAGE2 Team Engaging with the Trusted CI Center on SAGE2 Cybersecurity</a></strong><br>
+			<a href='/entry.php?id=2415'>Mirko Mantovani</a><br>
+			October 1, 2018 - September 30, 2019<br><br>
+			The SAGE Development Team at the Laboratory for Advanced Visualization &amp; Applications (LAVA) at the University of Hawaiʻi at Manoa and the&hellip; <a href='/entry.php?id=2402'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2363'><img src='/resizedImages/500x280-crop-sounddome.png' alt='' title='Ableton Live Integration & Audio Effects for a 32 Speaker Ambisonic Sound System' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2363'>Ableton Live Integration & Audio Effects for a 32 Speaker Ambisonic Sound System</a></strong><br>
+			<a href='/entry.php?id=2137'>Anil Camci</a>, <a href='/entry.php?id=2362'>Sean Walker</a>, Ryan Hauser<br>
+			August 15, 2018 - Ongoing<br><br>
+			Ableton Live is music software designed for computer-based composition and performance. Ambisonics is a full-sphere surround sound technique used for&hellip; <a href='/entry.php?id=2363'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2398'><img src='/misc/default_500x280.png' alt='' title='NIH: R01: SCH: INT: MyPHA: Automatically generating personalized accounts of inpatient hospitalization' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2398'>NIH: R01: SCH: INT: MyPHA: Automatically generating personalized accounts of inpatient hospitalization</a></strong><br>
+			<a href='/entry.php?id=2278'>Debaleena Chattopadhyay</a><br>
+			August 1, 2018 - July 31, 2022<br><br>
+			Pi: Barbara Di Eugenio; Co-I: Debaleena Chattopadhyay A growing body of research has found that patients who actively manage their health have better&hellip; <a href='/entry.php?id=2398'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2442'><img src='/resizedImages/500x280-crop-continuum2019_renambot.jpg' alt='' title='Spatial Audio in the Continuum Environment' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2442'>Spatial Audio in the Continuum Environment</a></strong><br>
+			<a href='/entry.php?id=2362'>Sean Walker</a><br>
+			May 22, 2018 - May 22, 2019<br><br>
+			The Continuum environment is a high-resolution computer-enhanced group collaboration workspace, consisting of large format 2D touch-enabled and 3D&hellip; <a href='/entry.php?id=2442'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2428'><img src='/resizedImages/500x280-crop-vissnippets_sage2.png' alt='' title='VisSnippets: A Web-Based System for Impromptu Collaborative Data Exploration on Large Displays' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2428'>VisSnippets: A Web-Based System for Impromptu Collaborative Data Exploration on Large Displays</a></strong><br>
+			<a href='/entry.php?id=2231'>Andrew Burks</a><br>
+			January 1, 2018 - Ongoing<br><br>
+			In the past decades, science has become increasingly interdisciplinary and scientific discovery has experienced a paradigm shift from the classical&hellip; <a href='/entry.php?id=2428'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2316'><img src='/resizedImages/500x280-crop-continuumrendering.png' alt='' title='MRI - Development of Continuum: A Virtualized Attentive Environment for Amplified Collaboration' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2316'>MRI - Development of Continuum: A Virtualized Attentive Environment for Amplified Collaboration</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=2278'>Debaleena Chattopadhyay</a>, <a href='/entry.php?id=2052'>G. Elisabeta Marai</a>, <a href='/entry.php?id=2368'>Jack O'Donnell</a>, <a href='/entry.php?id=285'>Jillian Aurisano</a>, <a href='/entry.php?id=2322'>Joe Borowicz</a>, <a href='/entry.php?id=24'>Jonas Talandis</a>, <a href='/entry.php?id=2371'>Kayla Condrella</a>, <a href='/entry.php?id=2370'>Kenan Arica</a>, <a href='/entry.php?id=49'>Lance Long</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=2367'>Michael Avendano</a>, <a href='/entry.php?id=2453'>Navya Reddy</a>, <a href='/entry.php?id=14'>Robert V. Kenyon</a>, <a href='/entry.php?id=2445'>Sumayya Siddiqui</a>, <a href='/entry.php?id=2448'>Szymon Popowski</a>, <a href='/entry.php?id=2303'>Vijayraj Mahida</a>, Barbara DiEugenio<br>
+			October 1, 2016 - September 30, 2019<br><br>
+			Just as NSF cyberinfrastructure produces greater volumes and varieties of data from data storage systems, online instrumentation and major&hellip; <a href='/entry.php?id=2316'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2229'><img src='/resizedImages/500x280-crop-senseicamerarenderingcu.png' alt='' title='SENSEI: Sensor Environment Imaging (SENSEI) Instrument' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2229'>SENSEI: Sensor Environment Imaging (SENSEI) Instrument</a></strong><br>
+			<a href='/entry.php?id=2366'>Ahmad Atra</a>, <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=2315'>Bartosz Kupiec</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=2321'>Dimitar Kirilov</a>, <a href='/entry.php?id=2279'>Harlyn Baker</a>, <a href='/entry.php?id=2422'>Hayley Christianson</a>, <a href='/entry.php?id=2439'>Kyra Jones</a>, <a href='/entry.php?id=49'>Lance Long</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=14'>Robert V. Kenyon</a>, Tanya Berger-Wolf<br>
+			October 1, 2014 - September 30, 2019<br><br>
+			SENSEI will be a reconfigurable, ultra-high-resolution, spherical (4π steradian), photometric, radiometric and photogrammetric real-time&hellip; <a href='/entry.php?id=2229'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2044'><img src='/misc/default_500x280.png' alt='' title='Enhancing Nurse Effectiveness via Augmented Communication Tools' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2044'>Enhancing Nurse Effectiveness via Augmented Communication Tools</a></strong><br>
+			<a href='/entry.php?id=2473'>Angus Forbes</a>, J. Carrington, M. Surdeanu<br>
+			September 23, 2014 - June 30, 2017<br><br>
+			Our interdisciplinary team of computer science and health care researchers will develop augmented communication tools (ACTs) within a prototype&hellip; <a href='/entry.php?id=2044'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2165'><img src='/resizedImages/500x280-crop-cave2unitysimulator.png' alt='' title='CAVE2/Unity Simulator' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2165'>CAVE2/Unity Simulator</a></strong><br>
+			<a href='/entry.php?id=270'>Arthur Nishimoto</a><br>
+			November 18, 2013 - Ongoing<br><br>
+			Developed by EVL PhD Candidate Arthur Nishimoto the CAVE2/Unity simulator is a Unity3D package for testing and development of Unity3D applications&hellip; <a href='/entry.php?id=2165'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2042'><img src='/resizedImages/500x280-crop-sage2logo.jpg' alt='' title='SAGE2&trade; Scalable Amplified Group Environment' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2042'>SAGE2&trade; Scalable Amplified Group Environment</a></strong><br>
+			<a href='/entry.php?id=2231'>Andrew Burks</a>, <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=270'>Arthur Nishimoto</a>, <a href='/entry.php?id=2454'>Jade Almaguer</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=285'>Jillian Aurisano</a>, <a href='/entry.php?id=300'>Krishna Bharadwaj</a>, <a href='/entry.php?id=2133'>Kristine Lee</a>, <a href='/entry.php?id=49'>Lance Long</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=2415'>Mirko Mantovani</a>, <a href='/entry.php?id=290'>Thomas Marrinan</a>, <a href='/entry.php?id=281'>Victor Mateevitsi</a><br>
+			August 16, 2013 - Ongoing<br><br>
+			 SAGE&trade; software enables teams of users to manage their data in a room covered with displays, as if the room were one seamless canvas. SAGE lets&hellip; <a href='/entry.php?id=2042'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2329'><img src='/resizedImages/500x280-crop-simple_sm.jpg' alt='' title='SIMPLE project (Sub-ice Investigation of Marine and Planetary-analog Ecosystems)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2329'>SIMPLE project (Sub-ice Investigation of Marine and Planetary-analog Ecosystems)</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=270'>Arthur Nishimoto</a><br>
+			January 7, 2013 - January 8, 2018<br><br>
+			Funded by NASA, the SIMPLE project (Sub-ice Investigation of Marine and Planetary-analog Ecosystems) is to deploy an autonomous underwater vehicle&hellip; <a href='/entry.php?id=2329'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2041'><img src='/resizedImages/500x280-crop-interspeech_image-2.png' alt='' title='Audio Dilation' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2041'>Audio Dilation</a></strong><br>
+			<a href='/entry.php?id=311'>John Novak III</a>, Robert Kenyon, Jason Leigh, Aashish Tandon, Jason Archer, Valeriy Shafiro<br>
+			September 1, 2012 - Ongoing<br><br>
+			On-line, real-time audio dilation is a technique that time stretches, or slows down the tempo of audio signals as they are generated. This research&hellip; <a href='/entry.php?id=2041'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2018'><img src='/resizedImages/500x280-crop-omegalib_rev.gif' alt='' title='omegalib' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2018'>omegalib</a></strong><br>
+			<a href='/entry.php?id=272'>Alessandro Febretti</a><br>
+			May 16, 2012 - Ongoing<br><br>
+			omegalib is middleware designed to ease the development of applications for virtual reality (VR) and immersive display environments. A C++ and Python&hellip; <a href='/entry.php?id=2018'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2017'><img src='/resizedImages/500x280-crop-omicron_logo1.png' alt='' title='omicron sdk' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2017'>omicron sdk</a></strong><br>
+			<a href='/entry.php?id=272'>Alessandro Febretti</a>, <a href='/entry.php?id=270'>Arthur Nishimoto</a>, <a href='/entry.php?id=281'>Victor Mateevitsi</a><br>
+			August 16, 2011 - Ongoing<br><br>
+			omicron sdk is an input abstraction and utility library for virtual reality systems, providing access to a variety of input devices, mostly used in&hellip; <a href='/entry.php?id=2017'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2001'><img src='/resizedImages/500x280-crop-hiperwall-cnm_sm.jpg' alt='' title='SAGE on Argonne&rsquo;s Highly Interactive Parallelized Display Wall' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2001'>SAGE on Argonne&rsquo;s Highly Interactive Parallelized Display Wall</a></strong><br>
+			<a href='/entry.php?id=245'>Hyejung Hur</a>, <a href='/entry.php?id=21'>Jason Leigh</a><br>
+			November 16, 2009 - August 15, 2011<br><br>
+			The research collaboration between Argonne National Laboratory&rsquo;s Center for Nanoscale Materials (CNM) and the Electronic Visualization&hellip; <a href='/entry.php?id=2001'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1994'><img src='/resizedImages/500x280-crop-lv2_andyjason.jpg' alt='' title='OptIPlanet Cyber-Mashup' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1994'>OptIPlanet Cyber-Mashup</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a><br>
+			September 1, 2009 - August 31, 2012<br><br>
+			STCI: OptIPlanet Cyber-Mashup: Persistent Visualization and Collaboration Services for Global Cyber Infrastructure The goal of this project is to&hellip; <a href='/entry.php?id=1994'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1971'><img src='/resizedImages/500x280-crop-cyber-commons.jpg' alt='' title='Cyber-Commons' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1971'>Cyber-Commons</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a><br>
+			January 1, 2008 - January 1, 2018<br><br>
+			A Cyber-Commons is a technology-enhanced meeting room on a university campus that supports local and distance collaboration and promotes&hellip; <a href='/entry.php?id=1971'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1987'><img src='/resizedImages/500x280-crop-planetaryscaleterrain.png' alt='' title='Planetary-scale Terrain Composition' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1987'>Planetary-scale Terrain Composition</a></strong><br>
+			<a href='/entry.php?id=222'>Robert Kooima</a><br>
+			August 1, 2007 - October 23, 2008<br><br>
+			Planetary-scale Terrain Composition is a GPU-centric real-time approach to generating and rendering planetary bodies composed of arbitrary quantities&hellip; <a href='/entry.php?id=1987'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1980'><img src='/resizedImages/500x280-crop-rtk.png' alt='' title='RTK: The Rails Toolkit' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1980'>RTK: The Rails Toolkit</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=248'>Sungwon Nam</a>, <a href='/entry.php?id=209'>Venkatram Vishwanath</a><br>
+			January 1, 2007 - Ongoing<br><br>
+			RTK is an open source API that enables applications to co-schedule CPU cores, GPUs, Memory and Network resources within multi- and many- core&hellip; <a href='/entry.php?id=1980'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1936'><img src='/resizedImages/500x280-crop-svl_adler_400.png' alt='' title='Adler Planetarium and Astronomy Museum&rsquo;s Space Visualization Laboratory' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1936'>Adler Planetarium and Astronomy Museum&rsquo;s Space Visualization Laboratory</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=222'>Robert Kooima</a><br>
+			December 1, 2006 - Ongoing<br><br>
+			EVL has been working with the Adler Planetarium over the last several years to deploy EVL&rsquo;s advanced visualization display technologies and&hellip; <a href='/entry.php?id=1936'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1896'><img src='/resizedImages/500x280-crop-optistore.jpeg' alt='' title='OptiStore' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1896'>OptiStore</a></strong><br>
+			<a href='/entry.php?id=170'>Charles Zhang</a>, <a href='/entry.php?id=21'>Jason Leigh</a><br>
+			August 16, 2006 - Ongoing<br><br>
+			The OptIPuter is a powerful distributed cyber-infrastructure to support data-intensive scientific research and collaboration. The OptiStore Project&hellip; <a href='/entry.php?id=1896'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1925'><img src='/resizedImages/500x280-crop-sageweb_gui.jpg' alt='' title='SAGE Display Controller' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1925'>SAGE Display Controller</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=212'>Javid Alimohideen</a>, <a href='/entry.php?id=227'>Ratko Jagodic</a><br>
+			June 1, 2006 - Ongoing<br><br>
+			SAGE Display Controller is a web based user-interface application designed to access and control the SAGE environment. SAGE, the Scalable Adaptive&hellip; <a href='/entry.php?id=1925'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1926'><img src='/resizedImages/500x280-crop-variercombiner.jpg' alt='' title='Varrier Combiner' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1926'>Varrier Combiner</a></strong><br>
+			<a href='/entry.php?id=222'>Robert Kooima</a>, Tom Peterka<br>
+			March 1, 2006 - March 1, 2007<br><br>
+			Autostereoscopic displays enable unencumbered immersive virtual reality, but at a significant computational expense. This expense impacts the&hellip; <a href='/entry.php?id=1926'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1928'><img src='/resizedImages/500x280-crop-visualcasting-3.jpg' alt='' title='Visualcasting' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1928'>Visualcasting</a></strong><br>
+			<a href='/entry.php?id=208'>Byungil Jeong</a><br>
+			January 1, 2006 - Ongoing<br><br>
+			Visualcasting is a new SAGE network service that supports global collaboration by enabling two or more users to share application content, sending&hellip; <a href='/entry.php?id=1928'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1946'><img src='/resizedImages/500x280-crop-lambdatable_schwarzthesis.jpg' alt='' title='Distributed Volume Rendering of Very Large Data on High-Resolution Scalable Displays' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1946'>Distributed Volume Rendering of Very Large Data on High-Resolution Scalable Displays</a></strong><br>
+			<a href='/entry.php?id=213'>Nicholas Schwarz</a><br>
+			January 1, 2006 - December 31, 2007<br><br>
+			Scientific instruments increasing collect higher spatial resolution samples providing scientists with larger volumetric datasets. For example&hellip; <a href='/entry.php?id=1946'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1902'><img src='/resizedImages/500x280-crop-pavispdasm.jpg' alt='' title='PAVIS: Pervasive Adaptive Visualization and Interaction Service' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1902'>PAVIS: Pervasive Adaptive Visualization and Interaction Service</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=216'>Arun Rao</a>, <a href='/entry.php?id=4'>Brenda Lopez Silva</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=212'>Javid Alimohideen</a>, <a href='/entry.php?id=191'>Julieta Aguilera</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, Robert Grossman, Mike Sabala<br>
+			December 10, 2005 - May 15, 2007<br><br>
+			PAVIS: Pervasive Adaptive Visualization and Interaction Service is an adaptive system intended to automatically generate resource-aware&hellip; <a href='/entry.php?id=1902'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1930'><img src='/resizedImages/500x280-crop-netlassologosm.jpg' alt='' title='netLasso' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1930'>netLasso</a></strong><br>
+			<a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=248'>Sungwon Nam</a>, <a href='/entry.php?id=231'>Xi Wang</a>, Scott Behrens, Jonathan Ronchetti<br>
+			September 1, 2005 - Ongoing<br><br>
+			netLasso is an intuitive software tool for multi-site network performance testing. It helps clarify the best protocol and rate to send data over a&hellip; <a href='/entry.php?id=1930'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1895'><img src='/resizedImages/500x280-crop-magiccarpetnew2.jpg' alt='' title='Magic Carpet' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1895'>Magic Carpet</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=219'>Dmitri Svistula</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, Paul Morin, Science Museum of Minnesota<br>
+			August 16, 2005 - August 15, 2006<br><br>
+			MagicCarpet is a cluster-based ultra-high-resolution image viewer for scalable tiled displays. Unlike JuxtaView, MagicCarpet uses pre-processed&hellip; <a href='/entry.php?id=1895'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1979'><img src='/resizedImages/500x280-crop-pace.png' alt='' title='Personal Augmented Computing Environment (PACE)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1979'>Personal Augmented Computing Environment (PACE)</a></strong><br>
+			<a href='/entry.php?id=14'>Robert V. Kenyon</a>, <a href='/entry.php?id=232'>Xun Luo</a><br>
+			August 16, 2005 - May 1, 2008<br><br>
+			Personal Augmented Computing Environment (PACE) focuses upon the research challenges affecting the development of applications for personal mobile&hellip; <a href='/entry.php?id=1979'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1890'><img src='/resizedImages/500x280-crop-lambdacam.png' alt='' title='LambdaCam' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1890'>LambdaCam</a></strong><br>
+			<a href='/entry.php?id=183'>Rajvikram Singh</a><br>
+			December 1, 2004 - June 1, 2005<br><br>
+			LambdaCam is a real-time screen capture and distribution utility for cluster driven tiled-displays. It allows users to remotely view the output of&hellip; <a href='/entry.php?id=1890'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1897'><img src='/resizedImages/500x280-crop-driving-varrier-thumb.jpg' alt='' title='Electro' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1897'>Electro</a></strong><br>
+			<a href='/entry.php?id=222'>Robert Kooima</a><br>
+			August 16, 2004 - Ongoing<br><br>
+			Electro is an application development environment designed for use on both cluster-driven tiled displays and desktop systems. Electro is based on the&hellip; <a href='/entry.php?id=1897'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1882'><img src='/resizedImages/500x280-crop-sagebridge1b-s.jpg' alt='' title='SAGE: Scalable Adaptive Graphics Environment' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1882'>SAGE: Scalable Adaptive Graphics Environment</a></strong><br>
+			<a href='/entry.php?id=168'>Allan Spale</a>, <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=216'>Arun Rao</a>, <a href='/entry.php?id=208'>Byungil Jeong</a>, <a href='/entry.php?id=170'>Charles Zhang</a>, <a href='/entry.php?id=215'>Gideon Goldman</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=44'>Naveen Krishnaprasad</a>, <a href='/entry.php?id=213'>Nicholas Schwarz</a>, <a href='/entry.php?id=183'>Rajvikram Singh</a>, <a href='/entry.php?id=227'>Ratko Jagodic</a>, <a href='/entry.php?id=211'>Vaidya Chandrasekhar</a>, <a href='/entry.php?id=209'>Venkatram Vishwanath</a><br>
+			January 1, 2004 - November 17, 2013<br><br>
+			The Scalable Adaptive Graphics Environment (SAGE) is a distributed computing architecture for supporting two non-trivial problems in visualization&hellip; <a href='/entry.php?id=1882'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1908'><img src='/resizedImages/500x280-crop-topologysm.jpg' alt='' title='AR-PIN / PDC' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1908'>AR-PIN / PDC</a></strong><br>
+			<a href='/entry.php?id=38'>Eric He</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=231'>Xi Wang</a><br>
+			September 1, 2003 - Ongoing<br><br>
+			Grid is a computing architecture that consists of distributed clusters of computers interconnected by a network. Grid computing is used in a variety&hellip; <a href='/entry.php?id=1908'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2010'><img src='/resizedImages/500x280-crop-videogames.png' alt='' title='Video Game Design and Development' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2010'>Video Game Design and Development</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a><br>
+			August 16, 2003 - Ongoing<br><br>
+			Since 2003, EVL director Jason Leigh has been teaching the UIC undergraduate computer science course #426 (Video Game Design and Development). This&hellip; <a href='/entry.php?id=2010'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1884'><img src='/resizedImages/500x280-crop-immersaview_logo05-2.jpg' alt='' title='ImmersaView Launcher' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1884'>ImmersaView Launcher</a></strong><br>
+			<a href='/entry.php?id=168'>Allan Spale</a><br>
+			July 1, 2003 - November 9, 2004<br><br>
+			ImmersaView Launcher is an application that allows a user to run ImmersaView remotely from any computer and transfer the appropriate files from the&hellip; <a href='/entry.php?id=1884'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1885'><img src='/resizedImages/500x280-crop-anrlogo-5.jpg' alt='' title='LambdaStream' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1885'>LambdaStream</a></strong><br>
+			<a href='/entry.php?id=214'>Chaoyue Xiong</a>, <a href='/entry.php?id=38'>Eric He</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=209'>Venkatram Vishwanath</a>, Tadao Murata<br>
+			January 1, 2003 - Ongoing<br><br>
+			LambdaStream is a transport protocol designed specifically to support gigabit-level streaming, which is required by streaming applications over&hellip; <a href='/entry.php?id=1885'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1839'><img src='/resizedImages/500x280-crop-optiputer_animate.gif' alt='' title='The OptIPuter' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1839'>The OptIPuter</a></strong><br>
+			<a href='/entry.php?id=23'>Alan Verlo</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, <a href='/entry.php?id=16'>Tom Moher</a>, Larry Smarr (CalIT2), Bob Grossman (NCDM / UIC)<br>
+			October 1, 2002 - September 30, 2007<br><br>
+			related url: www.evl.uic.edu/cavern/optiputer The OptIPuter is a five-year, $13.9 million National Science Foundation funded project to interconnect&hellip; <a href='/entry.php?id=1839'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1973'><img src='/resizedImages/500x280-crop-googlemap_snap.png' alt='' title='The OptIPlanet Collaboratory' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1973'>The OptIPlanet Collaboratory</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			October 1, 2002 - September 30, 2008<br><br>
+			VIEW OptIPortal WORLD LOCATIONS From 2002-2008, EVL has been part of the NSF-funded OptIPuter project, the goal of which is to develop advanced&hellip; <a href='/entry.php?id=1973'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1838'><img src='/resizedImages/500x280-crop-wiggleview_istrip2.jpg' alt='' title='Wiggleview' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1838'>Wiggleview</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=166'>Atul Nayak</a>, <a href='/entry.php?id=21'>Jason Leigh</a><br>
+			September 1, 2002 - August 30, 2003<br><br>
+			Wiggleview is a tool developed by the Electronic Visualization Laboratory (EVL) at the University of Illinois at Chicago (UIC) for visualizing&hellip; <a href='/entry.php?id=1838'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1855'><img src='/resizedImages/500x280-crop-geopad_new.jpg' alt='' title='The GeoPad Project' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1855'>The GeoPad Project</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, Paul Morin / University of Minnesota, Peter Knopp, Ben van der Pluijm, Peter van Keken / University of Michigan, Brian Davis / US Geological Survey<br>
+			September 1, 2002 - May 15, 2003<br><br>
+			The GeoPad project is an extension of the collaboration of geoscientist and computer scientist initiated with the GeoWall Consortium. The focus of&hellip; <a href='/entry.php?id=1855'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1931'><img src='/resizedImages/500x280-crop-anrlogo-7.jpg' alt='' title='Reliable Blast UDP' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1931'>Reliable Blast UDP</a></strong><br>
+			<a href='/entry.php?id=38'>Eric He</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a><br>
+			September 1, 2002 - January 1, 2006<br><br>
+			High speed bulk data transfer is an important part of many data-intensive scientific applications. The aggressive bulk data transfer algorithm&hellip; <a href='/entry.php?id=1931'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1845'><img src='/resizedImages/500x280-crop-juxtaview2.jpg' alt='' title='JuxtaView' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1845'>JuxtaView</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=44'>Naveen Krishnaprasad</a>, <a href='/entry.php?id=213'>Nicholas Schwarz</a>, <a href='/entry.php?id=169'>Shalini Venkataraman</a><br>
+			January 16, 2002 - January 15, 2005<br><br>
+			JuxtaView is a tool designed specifically for scalable tiled displays to visualize extremely high-resolution images. Scientists are finding an&hellip; <a href='/entry.php?id=1845'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1677'><img src='/resizedImages/500x280-crop-qosimoto.jpg' alt='' title='QoSIMoto' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1677'>QoSIMoto</a></strong><br>
+			<a href='/entry.php?id=52'>Kyoung Shin Park</a><br>
+			January 1, 2002 - May 1, 2003<br><br>
+			The QoS Internet Monitoring Tool, or QoSIMoto, is a CAVE-based Netlogger visualization tool for monitoring and visualizing network flows in&hellip; <a href='/entry.php?id=1677'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1825'><img src='/resizedImages/500x280-crop-teravision_res.jpg' alt='' title='TeraVision' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1825'>TeraVision</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=208'>Byungil Jeong</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=183'>Rajvikram Singh</a><br>
+			January 1, 2002 - January 1, 2006<br><br>
+			TERAVISION is a hardware-assisted, network-enabled &ldquo;PowerPoint&rdquo; projector for the Access Grid, enabling anyone to plug a laptop&hellip; <a href='/entry.php?id=1825'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1827'><img src='/resizedImages/500x280-crop-immersaview_logo05.jpg' alt='' title='ImmersaView' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1827'>ImmersaView</a></strong><br>
+			<a href='/entry.php?id=168'>Allan Spale</a>, <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=166'>Atul Nayak</a>, <a href='/entry.php?id=56'>Chris Scharver</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=180'>Vikas Chowdry</a><br>
+			August 1, 2001 - July 30, 2002<br><br>
+			Immersaview is an Open Inventor / VRML model viewer for the GeoWall / AGAVE. The data can be a single Inventor model or a flipbook of models that you&hellip; <a href='/entry.php?id=1827'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1826'><img src='/resizedImages/500x280-crop-terasanp.jpg' alt='' title='TeraScope' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1826'>TeraScope</a></strong><br>
+			<a href='/entry.php?id=170'>Charles Zhang</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=183'>Rajvikram Singh</a><br>
+			August 1, 2001 - August 1, 2002<br><br>
+			TeraScope is a massively parallelized set of information visualization tools for Visual Data Mining. TeraScope enables researchers to interactively&hellip; <a href='/entry.php?id=1826'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1684'><img src='/resizedImages/500x280-crop-cavern_logo-2.jpg' alt='' title='Collaboration and Visualization over High Speed Networks' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1684'>Collaboration and Visualization over High Speed Networks</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=56'>Chris Scharver</a>, <a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=35'>Javier Girado</a>, <a href='/entry.php?id=52'>Kyoung Shin Park</a>, <a href='/entry.php?id=45'>Michael Lewis</a>, <a href='/entry.php?id=44'>Naveen Krishnaprasad</a>, <a href='/entry.php?id=30'>Yongjoo Cho</a>, T. Imai, R. Fang, Y. Lin, T. Portlock, B. Silva, L. Wang, J. Eliason, J. Ge, E. He, A. Nayak, S. Venkatamaran<br>
+			March 1, 2001 - February 28, 2003<br><br>
+			This research focuses on the development of Tele-immersive (collaborative virtual reality) applications, the middleware (software infrastructure)&hellip; <a href='/entry.php?id=1684'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1801'><img src='/resizedImages/500x280-crop-cavegui_edit.gif' alt='' title='The CAVEGui Project' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1801'>The CAVEGui Project</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=33'>Joshua Eliason</a><br>
+			January 1, 2000 - May 1, 2001<br><br>
+			CAVEGui: is a graphical user interface tool that provides interaction with a CAVE application, sensor rotation and translation along with controller&hellip; <a href='/entry.php?id=1801'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1802'><img src='/resizedImages/500x280-crop-continum_185-2.jpg' alt='' title='The Continuum Project' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1802'>The Continuum Project</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=196'>Chris Rosenthal</a>, <a href='/entry.php?id=56'>Chris Scharver</a>, <a href='/entry.php?id=38'>Eric He</a>, <a href='/entry.php?id=215'>Gideon Goldman</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=24'>Jonas Talandis</a>, <a href='/entry.php?id=52'>Kyoung Shin Park</a>, <a href='/entry.php?id=45'>Michael Lewis</a>, <a href='/entry.php?id=44'>Naveen Krishnaprasad</a>, <a href='/entry.php?id=169'>Shalini Venkataraman</a>, Atul Nayak, Jinghua Ge, Brenda Silva, Joshua Eliason, Tomoko Imai, Abhinav Kapoor, Nikita Sawant, Ben Goldstein<br>
+			January 1, 2000 - January 1, 2003<br><br>
+			The goal of the Continuum Project is to develop integrated ubiquitous tools and environments and to study how these tools can be used to enhance&hellip; <a href='/entry.php?id=1802'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1822'><img src='/resizedImages/500x280-crop-accessgridlogo-3.png' alt='' title='Access Grid' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1822'>Access Grid</a></strong><br>
+			<a href='/entry.php?id=168'>Allan Spale</a>, <a href='/entry.php?id=196'>Chris Rosenthal</a>, <a href='/entry.php?id=5'>Dana M. Plepys</a>, <a href='/entry.php?id=24'>Jonas Talandis</a>, <a href='/entry.php?id=180'>Vikas Chowdry</a>, Gideon Goldman<br>
+			January 1, 2000 - August 31, 2003<br><br>
+			EVL is using the Access Grid (AG) project developed by Argonne National Laboratories (ANL) as the communications backbone for high-bandwidth&hellip; <a href='/entry.php?id=1822'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1814'><img src='/resizedImages/500x280-crop-avatars.jpg' alt='' title='Ygdrasil' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1814'>Ygdrasil</a></strong><br>
+			<a href='/entry.php?id=173'>Alex Hill</a>, <a href='/entry.php?id=51'>Dave Pape</a><br>
+			September 1, 1999 - August 31, 2006<br><br>
+			Ygdrasil is a framework developed as a tool for creating networked virtual environments. It is focused on building the behaviors of virtual objects&hellip; <a href='/entry.php?id=1814'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1739'><img src='/resizedImages/500x280-crop-depth_185.jpg' alt='' title='3D Avatars Using Depth from Stereo' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1739'>3D Avatars Using Depth from Stereo</a></strong><br>
+			<a href='/entry.php?id=173'>Alex Hill</a>, <a href='/entry.php?id=5'>Dana M. Plepys</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=57'>Satheesh Subramanian</a>, <a href='/entry.php?id=54'>Vivek Rajan</a><br>
+			July 1, 1999 - September 1, 2000<br><br>
+			The 3D model of the person is obtained using depth from stereo. The range information obtained from depth from stereo is used to segment the&hellip; <a href='/entry.php?id=1739'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1679'><img src='/resizedImages/500x280-crop-tide_210.jpg' alt='' title='TIDE: Tele-Immersive Data Explorer' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1679'>TIDE: Tele-Immersive Data Explorer</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=56'>Chris Scharver</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=55'>Nikita Sawant</a>, G. Reinhart, S. Batchu, E. Creel, S. Bailey, R. Grossman<br>
+			May 1, 1999 - June 1, 2000<br><br>
+			The Tele-Immersive Data Explorer is a CAVERNsoft-based collaborative, immersive environment for querying and visualizing data from massive and&hellip; <a href='/entry.php?id=1679'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1678'><img src='/resizedImages/500x280-crop-cibrview_new.jpg' alt='' title='CIBRView: Collaborative Image Based Rendering' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1678'>CIBRView: Collaborative Image Based Rendering</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, Lawrence Berkeley Laboratory<br>
+			January 1, 1999 - July 1, 2000<br><br>
+			The Collaborative Image Based Rendering Viewer (or CIBRView) is a CAVERNsoft-based tool for viewing animated sequences of image based renderings from&hellip; <a href='/entry.php?id=1678'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1672'><img src='/resizedImages/500x280-crop-cavern_logo.jpg' alt='' title='CAVERN - The CAVE&trade; Research Network' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1672'>CAVERN - The CAVE&trade; Research Network</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, <a href='/entry.php?id=16'>Tom Moher</a>, U. Buy, R. Grossman<br>
+			October 1, 1998 - September 30, 2004<br><br>
+			CAVERN, the CAVE&trade; Research Network, is an alliance of industrial and research institutions equipped with CAVE&trade;-based virtual reality&hellip; <a href='/entry.php?id=1672'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1676'><img src='/resizedImages/500x280-crop-approom.gif' alt='' title='The Virtual Mail System' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1676'>The Virtual Mail System</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, <a href='/entry.php?id=103'>Tomoko Imai</a><br>
+			September 1, 1998 - May 15, 2001<br><br>
+			Traditionally E-mail has been the most effective asynchronous collaboration tool available to us. The goal of V-mail is to provide an equally, if not&hellip; <a href='/entry.php?id=1676'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1746'><img src='/resizedImages/500x280-crop-limbo-2.jpg' alt='' title='LIMBO / VTK' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1746'>LIMBO / VTK</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, Paul J. Rajlich, Robert J. Stein<br>
+			September 1, 1998 - May 15, 2001<br><br>
+			LIMBO / VTK combines LIMBO with the Visualization Toolkit to allow application developers to use the rich set of visualization tools built into VTK&hellip; <a href='/entry.php?id=1746'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1780'><img src='/resizedImages/500x280-crop-cavernsoft.jpg' alt='' title='CAVERNsoft' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1780'>CAVERNsoft</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			September 1, 1998 - September 30, 2004<br><br>
+			CAVERNsoft is a C++ toolkit for building collaborative networked applications or logistical networking applications. It has low and mid level&hellip; <a href='/entry.php?id=1780'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1696'><img src='/resizedImages/500x280-crop-cavetools.gif' alt='' title='CAVE&trade; Tools' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1696'>CAVE&trade; Tools</a></strong><br>
+			<a href='/entry.php?id=74'>Jim Costigan</a><br>
+			May 1, 1998 - October 5, 1998<br><br>
+			The CAVE&trade; Tools class is a group of virtual input controls that can be used in the CAVE&trade; Virtual environment. They consist of three&hellip; <a href='/entry.php?id=1696'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1686'><img src='/misc/default_500x280.png' alt='' title='CAVE&trade; Line-Of-Sight Calibration Procedure' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1686'>CAVE&trade; Line-Of-Sight Calibration Procedure</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=62'>Dave Adamczyk</a>, <a href='/entry.php?id=38'>Eric He</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, <a href='/entry.php?id=78'>Marek Czernuszenko</a>, <a href='/entry.php?id=91'>Morteza Ghazisaedy</a>, <a href='/entry.php?id=14'>Robert V. Kenyon</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			March 1, 1998 - January 1, 2000<br><br>
+			This is a continuation of the research begun by Marek Czernuszenko with some refinements to the procedure as described in the associated documents. <a href='/entry.php?id=1686'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1682'><img src='/resizedImages/500x280-crop-tandem_logo_sm.gif' alt='' title='Tandem' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1682'>Tandem</a></strong><br>
+			<a href='/entry.php?id=106'>Abhinav Kapoor</a>, <a href='/entry.php?id=94'>Ben Goldstein</a>, <a href='/entry.php?id=56'>Chris Scharver</a>, <a href='/entry.php?id=12'>Josephine Anstey</a>, <a href='/entry.php?id=45'>Michael Lewis</a>, <a href='/entry.php?id=55'>Nikita Sawant</a>, <a href='/entry.php?id=57'>Satheesh Subramanian</a>, <a href='/entry.php?id=61'>Zhongwei Qui</a><br>
+			January 1, 1998 - April 1, 1999<br><br>
+			This project seeks to expedite the creation of more compelling collaborative VR applications using either the CAVE or Immersadesk VR display devices&hellip; <a href='/entry.php?id=1682'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1675'><img src='/resizedImages/500x280-crop-ncsalogo.gif' alt='' title='NCSA: National Computational Science Alliance' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1675'>NCSA: National Computational Science Alliance</a></strong><br>
+			<a href='/entry.php?id=6'>Thomas A. DeFanti</a>, L. Smarr, R. Abdulla, C. Bender, D. Ceperley, J. Connolly, R. GileJ. Hennessy, K. Kennedy;. McRae, J. Ostriker, D. Reed, R. Stevens, M. Vernon, P. Woodward<br>
+			October 1, 1997 - September 30, 2005<br><br>
+			After 10 years, the NSF Supercomputer Centers Program was replaced with the NSF Partnerships for Advanced Computational Infrastructure (PACI)&hellip; <a href='/entry.php?id=1675'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1847'><img src='/resizedImages/500x280-crop-ncsa_logo2.gif' alt='' title='Alliance Expeditions' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1847'>Alliance Expeditions</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, National Center for Supercomputing Applications, Argnonne National Laboratory, Network for Earthquake Simulation, Earthscope, GriPhyN, TeraGrid communities<br>
+			October 1, 1997 - September 30, 2004<br><br>
+			For the past 17 years, EVL&rsquo;s partnership with NCSA and the Alliance has enabled the rapid deployment and acceptance of EVL&rsquo;s advanced&hellip; <a href='/entry.php?id=1847'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1681'><img src='/resizedImages/500x280-crop-cave6d.jpg' alt='' title='CAVE6D' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1681'>CAVE6D</a></strong><br>
+			<a href='/entry.php?id=106'>Abhinav Kapoor</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, G.H. Wheless, C. Lascara - Center for Coastal Physcial Oceanography, Old Dominion University<br>
+			January 1, 1997 - December 1, 1999<br><br>
+			CAVE5D, co-developed by Wheless and Lascara from ODU and Dr. Bill Hibbard from the University of Wisconsin-Madison, is a configurable virtual reality&hellip; <a href='/entry.php?id=1681'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1772'><img src='/resizedImages/500x280-crop-merk1_kalara-2.jpg' alt='' title='Video Avatars' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1772'>Video Avatars</a></strong><br>
+			<a href='/entry.php?id=173'>Alex Hill</a>, <a href='/entry.php?id=41'>Anupreet Kalra</a>, <a href='/entry.php?id=5'>Dana M. Plepys</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=149'>Fang Wang</a>, <a href='/entry.php?id=104'>Joe Insley</a>, <a href='/entry.php?id=108'>Johnny Lawson</a>, <a href='/entry.php?id=57'>Satheesh Subramanian</a>, <a href='/entry.php?id=54'>Vivek Rajan</a><br>
+			January 1, 1996 - December 31, 1998<br><br>
+			Tele-immersive virtual applications utilize avatars to represent users in remote environments, primarily to aid in communication during collaborative&hellip; <a href='/entry.php?id=1772'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1774'><img src='/resizedImages/500x280-crop-videoavatars.gif' alt='' title='VideoAvatar Library (3D static)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1774'>VideoAvatar Library (3D static)</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=104'>Joe Insley</a><br>
+			January 1, 1996 - August 1, 1997<br><br>
+			The VideoAvatar Library is a collection of functions that works in conjunction with the CAVE Library, and can be used to add static, photo-realistic&hellip; <a href='/entry.php?id=1774'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1892'><img src='/resizedImages/500x280-crop-anrlogo-6.jpg' alt='' title='Advanced Networking Research' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1892'>Advanced Networking Research</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a><br>
+			January 1, 1996 - Ongoing<br><br>
+			Advanced Networking Research (ANR) has been a focus of EVL&rsquo;s work over the last decade. The ANR encompasses the development of an advanced&hellip; <a href='/entry.php?id=1892'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1685'><img src='/resizedImages/500x280-crop-table.gif' alt='' title='Tracker Calibration - Line of Sight Method' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1685'>Tracker Calibration - Line of Sight Method</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=62'>Dave Adamczyk</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, <a href='/entry.php?id=78'>Marek Czernuszenko</a>, <a href='/entry.php?id=91'>Morteza Ghazisaedy</a>, <a href='/entry.php?id=14'>Robert V. Kenyon</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			March 1, 1995 - February 1, 1998<br><br>
+			Widely used in VR electro-magnetic trackers are sensitive to electrically or magneticly conductive objects in the environment. Static errors as high&hellip; <a href='/entry.php?id=1685'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1779'><img src='/resizedImages/500x280-crop-simulator.jpg' alt='' title='CAVE&trade; Simulator' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1779'>CAVE&trade; Simulator</a></strong><br>
+			<a href='/entry.php?id=76'>Carolina Cruz-Neira</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=33'>Joshua Eliason</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			January 1, 1993 - May 15, 2003<br><br>
+			The CAVE&trade; simulator, a part of the CAVE library, is a development tool for CAVE&trade; applications. The simulator is used to create the&hellip; <a href='/entry.php?id=1779'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1706'><img src='/resizedImages/500x280-crop-virtualdir.jpg' alt='' title='The Virtual Director' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1706'>The Virtual Director</a></strong><br>
+			<a href='/entry.php?id=145'>Marcus Thiebaux</a>, Donna Cox, Robert Patterson<br>
+			September 1, 1992 - February 22, 1997<br><br>
+			&ldquo;The Virtual Director&rdquo; is a virtual reality interface that enables gestural motion capture and voice control of navigation, editing, and&hellip; <a href='/entry.php?id=1706'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1778'><img src='/resizedImages/500x280-crop-vomitmt.jpg' alt='' title='CAVE&trade; Library' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1778'>CAVE&trade; Library</a></strong><br>
+			<a href='/entry.php?id=76'>Carolina Cruz-Neira</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=62'>Dave Adamczyk</a>, <a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=98'>Hiroshi Hayakawa</a>, <a href='/entry.php?id=78'>Marek Czernuszenko</a>, <a href='/entry.php?id=91'>Morteza Ghazisaedy</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, Bill Nickless, Bill Sherman<br>
+			September 1, 1991 - September 30, 2001<br><br>
+			The CAVE&trade; Library is an Application Programmers Interface (API) that provides the software environment / toolkit for developing virtual reality&hellip; <a href='/entry.php?id=1778'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1818'><img src='/misc/default_500x280.png' alt='' title='A Realistic Video Avatar System for Networked Virtual Environments' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1818'>A Realistic Video Avatar System for Networked Virtual Environments</a></strong><br>
+			<a href='/entry.php?id=54'>Vivek Rajan</a><br>
+			Unknown - December 2, 2001<br><br>
+			With the advent of collaborative virtual reality applications, there is a need for representing users with a higher degree of realism for better&hellip; <a href='/entry.php?id=1818'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1857'><img src='/misc/default_500x280.png' alt='' title='Panels, Tools, and Views: A Framework for Visual Programming' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1857'>Panels, Tools, and Views: A Framework for Visual Programming</a></strong><br>
+			<a href='/entry.php?id=168'>Allan Spale</a><br>
+			Unknown - December 1, 2002<br><br>
+			Panels, Tools, and Views (PTV) is a conceptual framework for providing a visual programming environment. This framework seeks to map programming&hellip; <a href='/entry.php?id=1857'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<!-- End Category List -->
+	</table>
+</div>
+<!-- End Category -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

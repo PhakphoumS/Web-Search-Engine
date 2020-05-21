@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Entry -->
+<table id='entry_area' class='fixedTable'>
+	<tr>
+		<td style='width:676px;'>
+			<div id='entry_info'>
+<!-- Begin Entry Info -->
+<h3>Tsoupikova&rsquo;s &ldquo;Transforming Storytelling: Multi-User Virtual Reality Theater for Collaborative Tele-Immersive Exploration&rdquo; Awarded</h3>
+<div id='entry_image_large'><img style='left:54px;' src='/resizedImages/1280x720-2019-evl-uiarts-daria-p1020778-small.jpg' alt='' title='Tsoupikova&rsquo;s &ldquo;Transforming Storytelling: Multi-User Virtual Reality Theater for Collaborative Tele-Immersive Exploration&rdquo; Awarded' width='531' height='360'></div>
+<span class='smallText'>Young adults explore &ldquo;GenWorld,&rdquo; a virtual world previously developed by UIC CS/Design students Peter Hanula, Kyle Dalton, Morgan Osborn, and Christel Tiu as part of the Spring 2017 CS/Design Creative Coding class co-taught by Daria Tsoupikova - Photo courtesy Lance Long, CS/EVL</span><br><br>
+<div class='entry_content'>
+	<strong>Participants:</strong> <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=270'>Arthur Nishimoto</a>, <a href='/entry.php?id=188'>Daria Tsoupikova</a>, <a href='/entry.php?id=49'>Lance Long</a>, Jo Cattell<br><br>
+	<strong>Institutions:</strong> Goodman Theatre Alice Rapoport Center for Education and Engagement<br><br>
+<!-- Begin Entry Description -->
+JANUARY 24, 2019 - Daria Tsoupikova, associate professor in the UIC School of Design and an affiliated faculty member of the UIC Electronic Visualization Laboratory (EVL) which is part of the Computer Science (CS) department, recently received a $150,000 grant from the University of Illinois (UI) System&rsquo;s Presidential Initiative to Celebrate the Impact of the Arts and the Humanities. Given how important the arts and humanities are to education, research, scholarship, and public engagement, this newly-created initiative supports the visibility and excellence of the arts and humanities at the UI System&rsquo;s sister campuses.<br><br>  
+Tsoupikova&rsquo;s &ldquo;Transforming Storytelling: Multi-User Virtual Reality Theater for Collaborative Tele-Immersive Exploration&rdquo; is a collaboration with EVL Director of Research and CS associate professor Andrew Johnson, CS/EVL Senior Research Programmer Lance Long, CS/EVL PhD student Arthur Nishimoto, and Chicago-based theater director Jo Cattell, who recently received the Goodman Theatre&rsquo;s 2018 Michael Maggio Directing Fellowship. They will partner with the Goodman Theatre&rsquo;s Alice Rapoport Center for Education and Engagement, whose youth program works with Chicago&rsquo;s diverse demographics of middle-grade and teenage kids (ages 11-18).<br><br>
+&ldquo;Transforming Storytelling&rdquo; will demonstrate how virtual-reality technology can be both an artistic medium to further immerse participants in live theater experiences and a storytelling medium. Project collaborators will develop multi-user theatrical performances that merge real and virtual worlds with the goal of encouraging stronger theater engagement with tech-savvy younger audiences. Chicago youth will attend performances at the Goodman Theatre and at UIC/EVL&rsquo;s CAVE2&trade;, allowing for immersive participation in the plot lines through avatars, hand-held devices and 3D platforms.<br><br>
+While non-profit theater groups have great interest in incorporating new technologies in live performances, they don&rsquo;t necessarily have the financial support to do so. UIC&rsquo;s collaboration with the Goodman Theatre can demonstrate that live performance combined with virtual reality is a viable option for immersive theater.<br><br>
+The UI System&rsquo;s Presidential Initiative selected 14 faculty projects from 53 proposals, which will share nearly $2-Million in funding over the next two years. Of the 14 proposals, all but one was allocated $100,000 or more and eight will receive $150,000 or more. By comparison, the average grant award in 2016 by the National Endowment for the Arts (NEA) was $25,000 and fewer than 40 NEA grants totaled more than $100,000, according to Grantmakers in the Arts.<br><br>
+<a href="https://news.uillinois.edu/view/7815/738301">University of Illinois System News, January 24, 2019</a><br><br>
+<a href="https://cs.uic.edu/news-stories/uics-electronic-visiualization-lab-is-helping-reimagine-live-stage-performance/">UIC Computer Science Department News, April 25, 2019<br><br>
+Chicago Tribune, January 25, 2019<br>
+<a href="https://www.pressreader.com/usa/chicago-tribune/20190125/281638191417696">&ldquo;U. of I. grants $2M to bolster arts, humanities&rdquo;</a><br><br>
+<!-- End Entry Description -->
+	<strong>Date:</strong> January 24, 2019 - December 31, 2020
+</div>
+<!-- End Entry Info -->
+			</div>
+		</td>
+		<td style='width:374px;'>
+			<div id='entry_sidebar'>
+<!-- Begin Entry Sidebar -->
+<div class='entry_content'>
+	<h3>Related Entries</h3>
+	<strong>Directory:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=188'>Daria Tsoupikova</a></li>
+		<li><a href='/entry.php?id=49'>Lance Long</a></li>
+		<li><a href='/entry.php?id=270'>Arthur Nishimoto</a></li>
+		<li><a href='/entry.php?id=10'>Andrew Johnson</a></li>
+	</ul><br>
+	<h3>Related Categories</h3>
+	<ul>
+		<li><a href='/category.php?id=3&amp;related=3'>Applications</a></li>
+		<li><a href='/category.php?id=39&amp;related=3'>Augmented Reality</a></li>
+		<li><a href='/category.php?id=41&amp;related=3'>Mixed Reality</a></li>
+		<li><a href='/category.php?id=17&amp;related=3'>Multimedia</a></li>
+		<li><a href='/category.php?id=24&amp;related=3'>User Groups</a></li>
+		<li><a href='/category.php?id=28&amp;related=3'>VR</a></li>
+		<li><a href='/category.php?id=29&amp;related=3'>VR Art</a></li>
+	</ul>
+</div>
+<!-- End Entry Sidebar-->
+			</div>
+		</td>
+	</tr>
+</table>
+<!-- End Entry -->
+<script>
+	// Making both divs the same height is much easier in JavaScript
+	var entryInfo = document.getElementById("entry_info");
+	var entrySidebar = document.getElementById("entry_sidebar");
+	
+	if (entryInfo && entrySidebar) {
+		var maxHeight = Math.max(entryInfo.offsetHeight, entrySidebar.offsetHeight)-20;
+		entryInfo.style.height = maxHeight+"px";
+		entrySidebar.style.height = maxHeight+"px";
+	}
+</script>
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

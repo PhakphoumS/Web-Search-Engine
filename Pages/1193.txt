@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Entry -->
+<table id='entry_area' class='fixedTable'>
+	<tr>
+		<td style='width:676px;'>
+			<div id='entry_info'>
+<!-- Begin Entry Info -->
+<h3>SAGE2&trade; Scalable Amplified Group Environment</h3>
+<div id='entry_image_large'><img style='left:0;' src='/resizedImages/1280x720-sage2logo.jpg' alt='' title='SAGE2&trade; Scalable Amplified Group Environment' width='640' height='360'></div>
+<div class='entry_content'>
+	<strong>Researchers:</strong> <a href='/entry.php?id=2231'>Andrew Burks</a>, <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=270'>Arthur Nishimoto</a>, <a href='/entry.php?id=2454'>Jade Almaguer</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=285'>Jillian Aurisano</a>, <a href='/entry.php?id=300'>Krishna Bharadwaj</a>, <a href='/entry.php?id=2133'>Kristine Lee</a>, <a href='/entry.php?id=49'>Lance Long</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=2415'>Mirko Mantovani</a>, <a href='/entry.php?id=290'>Thomas Marrinan</a>, <a href='/entry.php?id=281'>Victor Mateevitsi</a><br><br>
+	<strong>URL:</strong> <a href='http://sage2.sagecommons.org' target='_blank'>http://sage2.sagecommons.org</a><br><br>
+	<strong>Funding:</strong> National Science Foundation award # ACI-1441963<br><br>
+<!-- Begin Entry Description -->
+<iframe src="//www.youtube.com/embed/ZHm6wdPP1RY" allowfullscreen></iframe><br>
+
+SAGE&trade; software enables teams of users to manage their data in a room covered with displays, as if the room were one seamless canvas. SAGE lets users post and manipulate information, visualizations and animations. The goal of SAGE is to make it possible for people to look at large amounts of information and come to conclusions with greater speed, accuracy, comprehensiveness and confidence.<br><br>
+
+SAGE was originally conceived in 2004. With National Science Foundation (NSF) funding in 2009, the SAGE team was able to continue to develop and harden SAGE, thereby helping over 100 major institutions worldwide better utilize content on their display walls with SAGE.<br><br>
+
+With NSF funding in 2013, the SAGE team had an opportunity to develop SAGE2, the next-generation SAGE. SAGE is being rewritten from the ground up, using new and emerging technologies.<br><br>
+
+SAGE2 is browser-based, and everything is done from the Chrome web browser. Special software is no longer needed. By simply dragging and dropping content from one&rsquo;s laptop to a visual representation of the wall in the browser, one can transfer the content to the wall.<br><br>
+
+The user interface has been completely redesigned to make it easier and faster for users to work on really large display walls. The SAGE2 interface emphasizes transportable interfaces rather than stationary interfaces so a user can control SAGE2 from anywhere in a room (or even away from the room). Entire laptop screens can also be pushed onto windows in SAGE2, again directly leveraging browser technology. SAGE2 also enables users to connect to collaborating SAGE2 walls and send documents among them by simply dragging and dropping the content in specially marked &ldquo;collaboration folders&rdquo;.<br><br>
+
+Custom applications are easily built in SAGE2. While SAGE is written in C++, SAGE2 is written entirely in Javascript. SAGE2 includes a small software toolkit that enables users to develop applications or modify existing applications to work seamlessly across multiple displays in a synchronized fashion. This unleashes the possibility of creating a new generation of applications that can take advantage of the special qualities of ultra-high-resolution display walls.<br><br>
+
+SAGE is being developed by the Laboratory for Advanced Visualization &amp; Applications at University of Hawai&#8216;i at M&#257;noa and the Electronic Visualization Laboratory at University of Illinois at Chicago.<br><br>
+
+SAGE / SAGE2 receives major support from the National Science Foundation award # ACI-1441963.<br><br>
+
+SAGE and SAGE2 are trademarks of the University of Illinois Board of Trustees.<br><br>
+<!-- End Entry Description -->
+	<strong>Email:</strong> <a href='mailto:renambot@uic.edu'>renambot@uic.edu</a><br><br>
+	<strong>Date:</strong> August 16, 2013 - Ongoing
+</div>
+<!-- End Entry Info -->
+			</div>
+		</td>
+		<td style='width:374px;'>
+			<div id='entry_sidebar'>
+<!-- Begin Entry Sidebar -->
+<div class='entry_content'>
+	<h3>Related Entries</h3>
+	<strong>Directory:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=281'>Victor Mateevitsi</a></li>
+		<li><a href='/entry.php?id=2454'>Jade Almaguer</a></li>
+		<li><a href='/entry.php?id=2133'>Kristine Lee</a></li>
+		<li><a href='/entry.php?id=270'>Arthur Nishimoto</a></li>
+		<li><a href='/entry.php?id=285'>Jillian Aurisano</a></li>
+		<li><a href='/related.php?id=2042&amp;related=2'><strong>View more&hellip;</strong></a></li>
+	</ul><br>
+	<strong>Events:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2493'>UIC Computer Science/EVL awarded $2.25 Million from NSF for SAGE3</a></li>
+		<li><a href='/entry.php?id=2483'>SAGE2 11th Annual International SC BOF @ SC19 - Tuesday, November 19, 12:15 - 1:15pm</a></li>
+		<li><a href='/entry.php?id=2486'>SAGE2 @ SC19: Demonstrations, Birds of a Feather, and SCinet Participation</a></li>
+		<li><a href='/entry.php?id=2403'>SAVE THE DATE: SAGE2 10th Annual International SC BOF @ SC18 - Tuesday, November 13, 12:15 - 1:15pm</a></li>
+		<li><a href='/entry.php?id=2413'>SAGE2 @ SC18: Demonstrations, Birds of a Feather, and SCinet Participation</a></li>
+		<li><a href='/related.php?id=2042&amp;related=3'><strong>View more&hellip;</strong></a></li>
+	</ul><br>
+	<strong>Papers:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2491'>SAGE2 Scalable Amplified Group Environment (poster 2020)</a></li>
+		<li><a href='/entry.php?id=2490'>Usage Patterns of Wideband Display Environments In e-Science Research, Development and Training</a></li>
+		<li><a href='/entry.php?id=2431'>Immersive Analytics Lessons from the Electronic Visualization Laboratory: a 25 Year Perspective</a></li>
+		<li><a href='/entry.php?id=2432'>Collaborative Project Planning Using Large Format Displays</a></li>
+		<li><a href='/entry.php?id=2355'>SAGE2 Scalable Amplified Group Environment (poster)</a></li>
+		<li><a href='/related.php?id=2042&amp;related=4'><strong>View more&hellip;</strong></a></li>
+	</ul><br>
+	<strong>Research:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2402'>SAGE2 Team Engaging with the Trusted CI Center on SAGE2 Cybersecurity</a></li>
+		<li><a href='/entry.php?id=2353'>SAGE2 Project Management Application</a></li>
+		<li><a href='/entry.php?id=2428'>VisSnippets: A Web-Based System for Impromptu Collaborative Data Exploration on Large Displays</a></li>
+		<li><a href='/entry.php?id=2218'>SAGEBoard: a Whiteboard for Large Multitouch Displays</a></li>
+		<li><a href='/entry.php?id=1882'>SAGE: Scalable Adaptive Graphics Environment</a></li>
+		<li><a href='/related.php?id=2042&amp;related=5'><strong>View more&hellip;</strong></a></li>
+	</ul><br>
+	<h3>Related Categories</h3>
+	<ul>
+		<li><a href='/category.php?id=19&amp;related=5'>Networking</a></li>
+		<li><a href='/category.php?id=20&amp;related=5'>Software</a></li>
+	</ul>
+</div>
+<!-- End Entry Sidebar-->
+			</div>
+		</td>
+	</tr>
+</table>
+<!-- End Entry -->
+<script>
+	// Making both divs the same height is much easier in JavaScript
+	var entryInfo = document.getElementById("entry_info");
+	var entrySidebar = document.getElementById("entry_sidebar");
+	
+	if (entryInfo && entrySidebar) {
+		var maxHeight = Math.max(entryInfo.offsetHeight, entrySidebar.offsetHeight)-20;
+		entryInfo.style.height = maxHeight+"px";
+		entrySidebar.style.height = maxHeight+"px";
+	}
+</script>
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

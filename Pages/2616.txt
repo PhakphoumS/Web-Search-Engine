@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Entry -->
+<table id='entry_area' class='fixedTable'>
+	<tr>
+		<td style='width:676px;'>
+			<div id='entry_info'>
+<!-- Begin Entry Information -->
+<div style='margin-top:0;' id='entry_image_large'><img style='left:140px;' src='/resizedImages/1280x720-robertkoomia2.jpg' alt='' title='Robert Kooima' width='360' height='360'></div>
+<div class='entry_content'>
+	<h3>Related Entries</h3>
+	<strong>Art:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2039'>Particle Dreams in Spherical Harmonics</a></li>
+		<li><a href='/entry.php?id=1924'>Passing Excellence</a></li>
+	</ul><br>
+	<strong>Events:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=919'>SIGGRAPH 2009 Information Aesthetics Showcase</a></li>
+		<li><a href='/entry.php?id=850'>High-Definition Telecommuting at SC &rsquo;08</a></li>
+		<li><a href='/entry.php?id=862'>TacTile - High-Definition, Multi-touch Interface Display to Debut at SC08</a></li>
+		<li><a href='/entry.php?id=858'>Planetary-scale Terrain Composition, PhD Dissertation Robert L. Kooima</a></li>
+		<li><a href='/entry.php?id=833'>IPS2008: Explore the Edge</a></li>
+		<li><a href='/related.php?id=222&amp;related=3'><strong>View more&hellip;</strong></a></li>
+	</ul><br>
+	<strong>Research:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=1984'>TacTile</a></li>
+		<li><a href='/entry.php?id=1987'>Planetary-scale Terrain Composition</a></li>
+		<li><a href='/entry.php?id=1947'>Tellurion</a></li>
+		<li><a href='/entry.php?id=2034'>Mars</a></li>
+		<li><a href='/entry.php?id=2033'>Constellations</a></li>
+		<li><a href='/related.php?id=222&amp;related=5'><strong>View more&hellip;</strong></a></li>
+	</ul>
+</div>
+<!-- End Entry Information -->
+			</div>
+		</td>
+		<td style='width:374px;'>
+			<div id='entry_sidebar'>
+<!-- Begin Entry Sidebar -->
+<div class='entry_content'>
+	<h3>Robert Kooima</h3>
+	PhD Graduate, 2008<br>
+	Electronic Visualization Laboratory, Computer Science Department<br>
+	<a href='mailto:robert.kooima@gmail.com'>robert.kooima@gmail.com</a><br><br>
+	<h3>Bibliography</h3>
+	<ul>
+		<li><a href='/entry.php?id=1594'>DeFanti, T., Kooima, R., Prudhomme, A., Sandin, D., Schulze, J., A multi-viewer tiled autostereoscopic virtual reality display, <em>Proceedings of the 17th ACM Symposium on Virtual Reality Software and Technology (VRST &rsquo;10)</em>, Hong Kong, pp. 171-174, November 22, 2010</a></li>
+		<li><a href='/entry.php?id=1579'>Chau, D., Hur, H., Jagodic, R., Johnson, A., Kahler, E., Kooima, R., Leigh, J., Reda, K., Renambot, L., Design Challenges in Creating a High Resolution LCD-based Multi-touch Display, <em>Technical Paper</em>, Chicago, IL, University of Illinois, Electronic Visualization Laboratory, June 1, 2009</a></li>
+		<li><a href='/entry.php?id=1561'>DeFanti, T., Johnson, A., Kooima, R., Leigh, J., Roberts, D., Subbarao, M., Planetary-Scale Terrain Composition, <em>IEEE Transactions on Visualization and Computer Graphics</em>, IEEE Computer Society Digital Library, IEEE Computer Society, April 16, 2009</a></li>
+		<li><a href='/bibliography.php?id=222'><strong>View more&hellip;</strong></a></li>
+	</ul>
+</div>
+<!-- End Entry Sidebar-->
+			</div>
+		</td>
+	</tr>
+</table>
+<!-- End Entry -->
+<script>
+	// Making both divs the same height is much easier in JavaScript
+	var entryInfo = document.getElementById("entry_info");
+	var entrySidebar = document.getElementById("entry_sidebar");
+	
+	if (entryInfo && entrySidebar) {
+		var maxHeight = Math.max(entryInfo.offsetHeight, entrySidebar.offsetHeight)-20;
+		entryInfo.style.height = maxHeight+"px";
+		entrySidebar.style.height = maxHeight+"px";
+	}
+</script>
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

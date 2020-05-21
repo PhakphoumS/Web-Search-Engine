@@ -1,0 +1,482 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Related -->
+<div id='related_area'>
+	<div id='related_title'>
+		<a href='/entry.php?id=2016'><h3>CAVE2: Next-Generation Virtual-Reality and Visualization Hybrid Environment for Immersive Simulation and Information Analysis</h3></a><br>
+<!-- Begin Related Pagination -->
+<strong>Related:</strong>
+<a href='/related.php?id=2016&amp;related=1'>Art</a>&nbsp;&nbsp;
+<a href='/related.php?id=2016&amp;related=2'>Directory</a>&nbsp;&nbsp;
+<a href='/related.php?id=2016&amp;related=3'><strong>Events</strong></a>&nbsp;&nbsp;
+<a href='/related.php?id=2016&amp;related=4'>Papers</a>&nbsp;&nbsp;
+<a href='/related.php?id=2016&amp;related=5'>Research</a>&nbsp;&nbsp;
+<!-- End Related Pagination -->
+	</div>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin Related List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2404'><img src='/resizedImages/500x280-crop-spiral5ptl_danielsandin.jpg' alt='' title='UIC Electronic Visualization Laboratory to be Featured in &ldquo;Chicago New Media 1973-1992&rdquo; Exhibition' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2404'>UIC Electronic Visualization Laboratory to be Featured in &ldquo;Chicago New Media 1973-1992&rdquo; Exhibition</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			October 15, 2018<br><br>
+			OCTOBER 15, 2018 - &ldquo;Chicago New Media 1973-1992&rdquo; is a public exhibition, to be held November 1 - December 15, 2018, that illuminates the&hellip; <a href='/entry.php?id=2404'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2341'><img src='/resizedImages/500x280-crop-mechdyne_cave2-112817.jpg' alt='' title='Mechdyne Open House at UIC/EVL Showcases expanded riverwalk concepts for Chicago' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2341'>Mechdyne Open House at UIC/EVL Showcases expanded riverwalk concepts for Chicago</a></strong><br>
+						November 28, 2017<br><br>
+			DECEMBER 4, 2017 - The evening of November 28, 2017, the Electronic Visualization Laboratory (EVL) at University of Illinois at Chicago was the&hellip; <a href='/entry.php?id=2341'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2308'><img src='/resizedImages/500x280-crop-reallifeholodeck.png' alt='' title='Inside a Real Life Holodeck' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2308'>Inside a Real Life Holodeck</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a><br>
+			June 13, 2017<br><br>
+			JUNE 13, 2017 - Ryan Wolff and David Wolff, producers of the documentary web series &ldquo;The Good Stuff,&rdquo; recently completed a program on&hellip; <a href='/entry.php?id=2308'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2144'><img src='/resizedImages/500x280-crop-cavewithstudents1999_sm.png' alt='' title='Innovative Discoveries From the University of Illinois' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2144'>Innovative Discoveries From the University of Illinois</a></strong><br>
+						October 27, 2015<br><br>
+			The Office of the Vice President for Research of the University of Illinois has published the report &ldquo;Innovative Discoveries From the&hellip; <a href='/entry.php?id=2144'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2131'><img src='/resizedImages/500x280-crop-evl_ctabus.jpg' alt='' title='UIC&rsquo;s CAVE2&trade; showcased on CTA buses' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2131'>UIC&rsquo;s CAVE2&trade; showcased on CTA buses</a></strong><br>
+						September 17, 2015<br><br>
+			As you walk through downtown Chicago, don&rsquo;t be surprised to advertisements for the University of Illinois at Chicago (UIC) popping up on city&hellip; <a href='/entry.php?id=2131'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2083'><img src='/resizedImages/500x280-crop-iitvis_articulateslide.jpg' alt='' title='In the Loop: Maxine D. Brown' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2083'>In the Loop: Maxine D. Brown</a></strong><br>
+			<a href='/entry.php?id=178'>Maxine Brown</a><br>
+			April 21, 2015<br><br>
+			EVL Director, Maxine D. Brown presents EVL's latest research in collaborative tools and technologies at Chicago's Illinois Institute of Technology&hellip; <a href='/entry.php?id=2083'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1190'><img src='/resizedImages/500x280-crop-erf-bldg.png' alt='' title='UIC Computer Science is one of the 50 most innovative U.S. Computer Science Departments' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1190'>UIC Computer Science is one of the 50 most innovative U.S. Computer Science Departments</a></strong><br>
+						November 10, 2014<br><br>
+			University of Illinois at Chicago&rsquo;s Computer Science Department has been ranked one of the 50 Most Innovative Computer Science Departments in&hellip; <a href='/entry.php?id=1190'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1177'><img src='/resizedImages/500x280-crop-aes137.jpg' alt='' title='Blewett Presents Audio Research in VR at the 137th AES Convention' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1177'>Blewett Presents Audio Research in VR at the 137th AES Convention</a></strong><br>
+			<a href='/entry.php?id=310'>Bryan Dalle Molle</a>, <a href='/entry.php?id=309'>James Pinkl</a>, <a href='/entry.php?id=308'>Mark Blewett</a><br>
+			October 9, 2014 - October 12, 2014<br><br>
+			The Audio Engineering Society is the professional society for audio technologists. With over 14,000 members world-wide, AES serves its community by&hellip; <a href='/entry.php?id=1177'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1166'><img src='/resizedImages/500x280-crop-paulbonningtoncave2monash_6-20-14.png' alt='' title='Monash: In the cave of high science' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1166'>Monash: In the cave of high science</a></strong><br>
+			Paul Bonnington, director; David Barnes, senior research fellow (Monash eResearch Centre)<br>
+			June 19, 2014<br><br>
+			The first customer to buy a CAVE2&trade; system from Mechdyne Corporation, the company that licensed the technology from the UIC Electronic&hellip; <a href='/entry.php?id=1166'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1165'><img src='/resizedImages/500x280-crop-connectome_discover_6-20-19.jpg' alt='' title='UIC / EVL&rsquo;s CAVE2 featured in Discover magazine, July / August 2014 issue' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1165'>UIC / EVL&rsquo;s CAVE2 featured in Discover magazine, July / August 2014 issue</a></strong><br>
+						June 18, 2014<br><br>
+			Discover magazine&rsquo;s July / August 2014 issue features the story &ldquo;Fantastic Voyages: Immersive 3-D environments give researchers a chance&hellip; <a href='/entry.php?id=1165'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1162'><img src='/resizedImages/500x280-crop-heartsandminds.jpg' alt='' title='Battlefield Torture, Climate Change, and Immersive Narrative - EVL presents two provocative new artworks' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1162'>Battlefield Torture, Climate Change, and Immersive Narrative - EVL presents two provocative new artworks</a></strong><br>
+			<a href='/entry.php?id=270'>Arthur Nishimoto</a>, <a href='/entry.php?id=188'>Daria Tsoupikova</a>, <a href='/entry.php?id=49'>Lance Long</a>, Arthur Nishimoto, Lance Long - University of Illinois at Chicago; Roderick Coover, Mark Partridge - Temple University; Scott Rettberg - University of Bergen, Norway<br>
+			June 17, 2014 - July 7, 2014<br><br>
+			Tuesday, June 17th, 3-5 PM Monday, July 7th, 4-6 PM The Electronic Visualization Lab (EVL) at the University of Illinois Chicago (UIC) is pleased to&hellip; <a href='/entry.php?id=1162'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1153'><img src='/resizedImages/500x280-crop-thecaveartists.png' alt='' title='The CAVE artists' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1153'>The CAVE artists</a></strong><br>
+						March 4, 2014<br><br>
+			The article &ldquo;The CAVE artists&rdquo; was recently published in Nature Medicine, Vol. 20, 2014, pp. 228-230, doi:10.1038/nm0314-228. The article&hellip; <a href='/entry.php?id=1153'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1147'><img src='/resizedImages/500x280-crop-starship_nytimes_1-26-14.png' alt='' title='NY TIMES: Disruptions: The Holodeck Begins to Take Shape' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1147'>NY TIMES: Disruptions: The Holodeck Begins to Take Shape</a></strong><br>
+						January 26, 2014<br><br>
+			Sunday, January 26, 2014, the New York Times had a blog / story entitled &ldquo;Disruptions: The Holodeck Begins to Take Shape,&rdquo; by journalist&hellip; <a href='/entry.php?id=1147'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1146'><img src='/resizedImages/500x280-crop-_ljl2636_evl-andy-maxine-cave2-small.jpg' alt='' title='EVL leaders ready to tackle &ldquo;big data challenges&rdquo;' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1146'>EVL leaders ready to tackle &ldquo;big data challenges&rdquo;</a></strong><br>
+						January 22, 2014<br><br>
+			This week&rsquo;s UIC NEWS has the following story; it is reprinted below. Also, see the full news story. Jeanne Galatzer-Levy January 21, 2014&hellip; <a href='/entry.php?id=1146'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1133'><img src='/resizedImages/500x280-crop-ciw2013-startrek.jpg' alt='' title='CHICAGO TRIBUNE highlights UIC EVL&rsquo;s participation in Chicago Ideas Week 2013' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1133'>CHICAGO TRIBUNE highlights UIC EVL&rsquo;s participation in Chicago Ideas Week 2013</a></strong><br>
+						October 21, 2013<br><br>
+			Chicago Ideas Week: Lab attendees visit Mars and Egypt with UIC&rsquo;s EVL On October 21, 2013, the CHICAGO TRIBUNE published an article&hellip; <a href='/entry.php?id=1133'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1134'><img src='/resizedImages/500x280-crop-monash-cave2.jpg' alt='' title='Australia&rsquo;s Monash University introduces world&rsquo;s second CAVE2&trade; System' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1134'>Australia&rsquo;s Monash University introduces world&rsquo;s second CAVE2&trade; System</a></strong><br>
+			Electronic Visualization Laboratory, Monash University, Mechdyne Corporations<br>
+			October 19, 2013<br><br>
+			Though not officially yet launched, the CAVE2&trade; Hybrid Reality Environment at Monash University is already a centerpiece of the new building&hellip; <a href='/entry.php?id=1134'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1132'><img src='/resizedImages/500x280-crop-monash-cave2-maxinepauljasondavid.jpg' alt='' title='Seminar: Advanced Visualization Instrumentation' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1132'>Seminar: Advanced Visualization Instrumentation</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a><br>
+			October 14, 2013<br><br>
+			Professor Jason Leigh, Director of the Electronic Visualization Laboratory presents the latest research in advance visualization instrumentation&hellip; <a href='/entry.php?id=1132'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1116'><img src='/resizedImages/500x280-crop-usignitelogo_notext.jpg' alt='' title='EVL Hosts Demonstrations and Tours for US Ignite Summit' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1116'>EVL Hosts Demonstrations and Tours for US Ignite Summit</a></strong><br>
+						June 25, 2013<br><br>
+			US Ignite in partnership with UIC holds its inaugural Summit on June 24-26 focusing on creating next-generation Internet applications that provide&hellip; <a href='/entry.php?id=1116'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1112'><img src='/resizedImages/500x280-crop-uic-cave2-jason-andy-018-760-callielipkin.jpg' alt='' title='Visualizing Next-Generation Virtual Reality in Chicago' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1112'>Visualizing Next-Generation Virtual Reality in Chicago</a></strong><br>
+						May 22, 2013<br><br>
+			EdTech: Focus on Higher Education, a CDW*G publication, just released a video news story about the CAVE2&trade; Hybrid Reality Environment developed&hellip; <a href='/entry.php?id=1112'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1108'><img src='/resizedImages/500x280-crop-cave2_signwttw.jpg' alt='' title='WTTW airs story on EVL and CAVE2&trade; System - Tuesday, April 23' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1108'>WTTW airs story on EVL and CAVE2&trade; System - Tuesday, April 23</a></strong><br>
+						April 23, 2013<br><br>
+			On Tuesday, April 23, 2013, the WTTW television news show &ldquo;Chicago Tonight&rdquo; aired an ~8 minute &ldquo;Scientific Chicago&rdquo; segment&hellip; <a href='/entry.php?id=1108'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1105'><img src='/resizedImages/500x280-crop-20bits-smarr-tmagarticle.jpg' alt='' title='UIC / EVL mentioned in New York Times: A Big Data Freeway for Scientists' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1105'>UIC / EVL mentioned in New York Times: A Big Data Freeway for Scientists</a></strong><br>
+			Electronic Visualization Laboratory, University of Illinois at Chicago, California Institute for Telecommunications and Information Technology (Calit2), University of California, San Diego<br>
+			March 20, 2013<br><br>
+			The article &ldquo;A &lsquo;Big Data&rsquo; Freeway for Scientists&rdquo; by John Markoff appeared the March 20, 2013 issue of the New York Times&hellip; <a href='/entry.php?id=1105'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1102'><img src='/resizedImages/500x280-crop-evl-openhouse2013-brain_ljl1256.jpg' alt='' title='Step into a Virtual World (UIC News)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1102'>Step into a Virtual World (UIC News)</a></strong><br>
+						March 5, 2013<br><br>
+			Matt O&rsquo;Connor &ldquo;We love science fiction, and we just want to live in the science fiction world,&rdquo; said computer scientist Jason&hellip; <a href='/entry.php?id=1102'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1103'><img src='/resizedImages/500x280-crop-evl-cave2-hybridenvironment_ljl1468-small.jpg' alt='' title='Mechdyne Corporation Licenses CAVE2&trade; Hybrid Reality Environment from the University of Illinois at Chicago' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1103'>Mechdyne Corporation Licenses CAVE2&trade; Hybrid Reality Environment from the University of Illinois at Chicago</a></strong><br>
+			Mechdyne Corporation<br>
+			March 5, 2013<br><br>
+			EDITOR&rsquo;S NOTE: The University of Illinois at Chicago (UIC) licensed the CAVE2&trade; Hybrid Reality Environment to Mechdyne Corporation&hellip; <a href='/entry.php?id=1103'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1096'><img src='/resizedImages/500x280-crop-leighcave2_ap.png' alt='' title='Associated Press releases print and video stories about UIC / EVL CAVE2&trade; System' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1096'>Associated Press releases print and video stories about UIC / EVL CAVE2&trade; System</a></strong><br>
+						February 20, 2013<br><br>
+			Today the Associated Press issued the following article, photographs and video about the UIC Electronic Visualization Laboratory&rsquo;s CAVE2&trade;&hellip; <a href='/entry.php?id=1096'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1094'><img src='/resizedImages/500x280-crop-evl-chemistry_ljl2368-small_openhouse.jpeg' alt='' title='CAVE2&trade; Open Houses, Spring Semester 2013' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1094'>CAVE2&trade; Open Houses, Spring Semester 2013</a></strong><br>
+						February 7, 2013 - April 24, 2013<br><br>
+			CAVE2&trade; Open Houses are being held this semester to accommodate people interested in experiencing UIC&rsquo;s new Virtual Reality Environment&hellip; <a href='/entry.php?id=1094'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1095'><img src='/resizedImages/500x280-crop-cave2.jpg' alt='' title='The Walls of the Visualization Cave' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1095'>The Walls of the Visualization Cave</a></strong><br>
+						February 6, 2013<br><br>
+			EDITOR&rsquo;S NOTE: The University of Chicago&rsquo;s Computation Institute (CI), on February 6, 2013, published the article &ldquo;The Walls of the&hellip; <a href='/entry.php?id=1095'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1093'><img src='/resizedImages/500x280-crop-edtechmagazine_cave2.png' alt='' title='University of Illinois at Chicago: Virtual Reality&rsquo;s CAVE&trade; Pioneer' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1093'>University of Illinois at Chicago: Virtual Reality&rsquo;s CAVE&trade; Pioneer</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a><br>
+			February 4, 2013<br><br>
+			The CAVE2&trade; Hybrid Reality Environment, developed by the University of Illinois at Chicago&rsquo;s Electronic Visualization Laboratory (EVL), is&hellip; <a href='/entry.php?id=1093'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1090'><img src='/resizedImages/500x280-crop-jleigh_ovcrannualreport2011.png' alt='' title='2011 Inaugural Edition of the UIC OVCR Annual Report' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1090'>2011 Inaugural Edition of the UIC OVCR Annual Report</a></strong><br>
+						December 20, 2012<br><br>
+			EDITOR&rsquo;S NOTE: The 2011 inaugural edition of the Annual Report from the UIC Office of the Vice Chancellor for Research (OVCR) describes the&hellip; <a href='/entry.php?id=1090'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1088'><img src='/resizedImages/500x280-crop-evl-brain-neurosurgeons-110112_ljl5277-small.jpg' alt='' title='State-of-the-Art Virtual Reality System Is Key to Medical Discovery' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1088'>State-of-the-Art Virtual Reality System Is Key to Medical Discovery</a></strong><br>
+			<a href='/entry.php?id=290'>Thomas Marrinan</a>, Bioengineering Laboratory for Product and Process Design (LPPD), UIC College of Medicine<br>
+			December 12, 2012<br><br>
+			UIC&rsquo;s new CAVE2&trade; Hybrid Reality Environment is only two months old, and is already helping UIC neurosurgeons and bioengineering&hellip; <a href='/entry.php?id=1088'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1087'><img src='/resizedImages/500x280-crop-evl-enterprise-interior-sreenshot.png' alt='' title='Move over, Holodeck' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1087'>Move over, Holodeck</a></strong><br>
+			<a href='/entry.php?id=270'>Arthur Nishimoto</a><br>
+			November 28, 2012<br><br>
+			EDITOR&rsquo;S NOTE: Here are excerpts from a recent article by Northwestern University journalism student Mitch Smith on standing on the bridge of&hellip; <a href='/entry.php?id=1087'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1082'><img src='/resizedImages/500x280-crop-cave2+mars.jpg' alt='' title='Move over NASA: Explore the surface of Mars with virtual reality' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1082'>Move over NASA: Explore the surface of Mars with virtual reality</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, UIC Associate Professor; David Hofman, UIC Professor / Acting Head, UIC Physics Department; Mark SubbaRao, Astronomer / Director, Space Visualization Laboratory, Adler Planetarium<br>
+			October 30, 2012<br><br>
+			The UIC Electronic Visualization Laboratory (EVL) CAVE2&trade; Virtual-Reality System is profiled in a recent news article by a Northwestern&hellip; <a href='/entry.php?id=1082'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1078'><img src='/resizedImages/500x280-crop-evl-chemistry_ljl2368-small.png' alt='' title='CAVE2&trade; - An Advanced Cyberworld for Data Exploration' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1078'>CAVE2&trade; - An Advanced Cyberworld for Data Exploration</a></strong><br>
+			EVL faculty, staff, and students<br>
+			October 3, 2012<br><br>
+			CHICAGO, OCTOBER 3, 2012 - Today, most professions rely on computers to capture, filter, analyze and visualize data. When studying phenomena too&hellip; <a href='/entry.php?id=1078'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<!-- End Related List -->
+	</table>
+</div>
+<!-- End Related -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

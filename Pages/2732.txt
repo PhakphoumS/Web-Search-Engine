@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Category -->
+<!-- Begin Category Pagination -->
+<div class='category_area'>
+	<div class='category_content'>
+		<h3>Virtual Medicine</h3><br>
+		<strong>Related:</strong>
+		<a href='/category.php?id=26&amp;related=2'>Directory</a>&nbsp;&nbsp;
+		<a href='/category.php?id=26&amp;related=3'>Events</a>&nbsp;&nbsp;
+		<a href='/category.php?id=26&amp;related=4'>Papers</a>&nbsp;&nbsp;
+		<a href='/category.php?id=26&amp;related=5'><strong>Research</strong></a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End Category Pagination -->
+<div class='category_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin Category List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2176'><img src='/resizedImages/500x280-crop-rehabjim_image.png' alt='' title='RehabJim: A Third Person Approach To Virtual Reality Biomechanical Rehabilitation' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2176'>RehabJim: A Third Person Approach To Virtual Reality Biomechanical Rehabilitation</a></strong><br>
+			<a href='/entry.php?id=2156'>Marco Cavallo</a>, Andrea Rottigni<br>
+			January 1, 2016 - May 1, 2016<br><br>
+			Patients come to Centers for Physical Therapy and Rehabilitation from all over the globe, &ldquo;often with catastrophic or unusual conditions and&hellip; <a href='/entry.php?id=2176'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2044'><img src='/misc/default_500x280.png' alt='' title='Enhancing Nurse Effectiveness via Augmented Communication Tools' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2044'>Enhancing Nurse Effectiveness via Augmented Communication Tools</a></strong><br>
+			<a href='/entry.php?id=2473'>Angus Forbes</a>, J. Carrington, M. Surdeanu<br>
+			September 23, 2014 - June 30, 2017<br><br>
+			Our interdisciplinary team of computer science and health care researchers will develop augmented communication tools (ACTs) within a prototype&hellip; <a href='/entry.php?id=2044'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2021'><img src='/resizedImages/500x280-crop-_ljl3254.jpg' alt='' title='Connectome' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2021'>Connectome</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, Electronic Visualization Laboratory; Olusola Ajilore, UIC Department of Psychiatry<br>
+			April 1, 2013 - Ongoing<br><br>
+			A connectome is a map of neural connections in the brain. In this CAVE2&trade; Hybrid Reality Environment application, participants walk inside&hellip; <a href='/entry.php?id=2021'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2313'><img src='/misc/default_500x280.png' alt='' title='MARS3 - Machines Assisting Recovery from Stroke' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2313'>MARS3 - Machines Assisting Recovery from Stroke</a></strong><br>
+			<a href='/entry.php?id=2301'>Ashwini Naik</a>, <a href='/entry.php?id=14'>Robert V. Kenyon</a>, James Patton<br>
+			October 1, 2012 - September 30, 2017<br><br>
+			Stroke is the fifth most common cause of mortality in the United States as reported by the Center for Disease Control and Prevention. Medical&hellip; <a href='/entry.php?id=2313'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2025'><img src='/resizedImages/500x280-crop-_ljl2674.jpg' alt='' title='Virtual Reality for Medical Training' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2025'>Virtual Reality for Medical Training</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a><br>
+			September 1, 2012 - Ongoing<br><br>
+			To show medical illustrators and educators the value of virtual reality for medical training, the Electronic Visualization Laboratory (EVL) at the&hellip; <a href='/entry.php?id=2025'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2015'><img src='/resizedImages/500x280-crop-fullbrain01_cropped.png' alt='' title='Reconstructing the Cerebral Vascular Network' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2015'>Reconstructing the Cerebral Vascular Network</a></strong><br>
+			<a href='/entry.php?id=290'>Thomas Marrinan</a>, (Computer Science); Dr. Linninger, Chih Yang Hsu, Ian Gould, (BioEngineering)<br>
+			June 1, 2011 - May 15, 2013<br><br>
+			Researchers from the UIC Departments of Computer Science and BioEngineering propose to develop graphical stereoscopic visual applications for a&hellip; <a href='/entry.php?id=2015'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2007'><img src='/misc/default_500x280.png' alt='' title='The Shadow' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2007'>The Shadow</a></strong><br>
+			<a href='/entry.php?id=287'>Qin Li</a>, <a href='/entry.php?id=14'>Robert V. Kenyon</a>, Chihua Ma,<br>Rehabilitation Institute of Chicago<br>
+			January 1, 2011 - May 15, 2012<br><br>
+			This project&rsquo;s goal is to render an avatar on a display screen that will mimic the movements of the person facing the screen, in real-time&hellip; <a href='/entry.php?id=2007'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1997'><img src='/resizedImages/500x280-crop-mars_project_10-09.png' alt='' title='Virtual Reality Environment Assisting Recovery from Stroke' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1997'>Virtual Reality Environment Assisting Recovery from Stroke</a></strong><br>
+			<a href='/entry.php?id=188'>Daria Tsoupikova</a>, Nikolay Stoykov, Bioengineering,  Rehabilitation Institute of Chicago (RIC), Randy Vick, Art Therapy, School of Art Institute of Chicago (SAIC)<br>
+			October 1, 2009 - Ongoing<br><br>
+			Virtual Reality Environment Assisting Recovery from Stroke is a research collaboration between the Rehabilitation Institute of Chicago, UIC / EVL&hellip; <a href='/entry.php?id=1997'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1998'><img src='/resizedImages/500x280-crop-led_tissue.jpg' alt='' title='Laser Emitting Diode for Stabilization of Cutaneous Battlefield Wounds for Air Evacuation and Transport' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1998'>Laser Emitting Diode for Stabilization of Cutaneous Battlefield Wounds for Air Evacuation and Transport</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=289'>Paul Grenning</a>, Maxine Brown, Patrick Hallihan, Victor Mateevitsi, Yiwen Sun<br>
+			September 30, 2009 - November 14, 2011<br><br>
+			Wartime injuries present extreme problems in wound management and the modern battlefield places extraordinary adaptability demands on combat medical&hellip; <a href='/entry.php?id=1998'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1999'><img src='/resizedImages/500x280-crop-omega.jpg' alt='' title='Research, Analysis, and Databasing of Emerging High Power Directed Energy Technologies Marketed to the Clinical and Research Communities' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1999'>Research, Analysis, and Databasing of Emerging High Power Directed Energy Technologies Marketed to the Clinical and Research Communities</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=159'>Patrick Hallihan</a>, <a href='/entry.php?id=281'>Victor Mateevitsi</a>, <a href='/entry.php?id=250'>Yiwen Sun</a><br>
+			September 30, 2009 - September 29, 2015<br><br>
+			This project applies a multidisciplinary approach to the assessment of medical devices and laboratory equipment that utilize directed energy (DE)&hellip; <a href='/entry.php?id=1999'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2000'><img src='/resizedImages/500x280-crop-hands_screenshot_sm.png' alt='' title='Hands-on Automated Nursing Data System (HANDS)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2000'>Hands-on Automated Nursing Data System (HANDS)</a></strong><br>
+			<a href='/entry.php?id=272'>Alessandro Febretti</a>, <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=228'>Yu-Chung Chen</a>, Gail M. Keenan and Diana Wilke (University of Florida College of Nursing); Karen Dunn Lopez (UIC College of Nursing)<br>
+			September 18, 2009 - May 31, 2015<br><br>
+			The Hands-on Automated Nursing Data System (HANDS) is a standardized plan of care method in which the patient&rsquo;s plan is updated at every nurse&hellip; <a href='/entry.php?id=2000'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1914'><img src='/resizedImages/500x280-crop-hapticdentistry.gif' alt='' title='Haptics-Based Virtual Reality Periodontal Training Simulator' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1914'>Haptics-Based Virtual Reality Periodontal Training Simulator</a></strong><br>
+			<a href='/entry.php?id=182'>Cristian J. Luciano</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			August 16, 2004 - October 17, 2006<br><br>
+			The haptics-based virtual reality periodontal training simulator project focuses upon the research and development of a prototype dental simulator&hellip; <a href='/entry.php?id=1914'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1886'><img src='/resizedImages/500x280-crop-immersivetouch-2.jpg' alt='' title='ImmersiveTouch&trade;' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1886'>ImmersiveTouch&trade;</a></strong><br>
+			<a href='/entry.php?id=182'>Cristian J. Luciano</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, Pat Banerjee, Lucian Florea<br>
+			August 1, 2004 - Ongoing<br><br>
+			ImmersiveTouch&trade; is the next generation of augmented virtual reality technology. ImmersiveTouch&trade; is the first system that integrates a&hellip; <a href='/entry.php?id=1886'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1853'><img src='/resizedImages/500x280-crop-marsrercsm.png' alt='' title='Machines Assisting Recovery in Stroke (MARS)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1853'>Machines Assisting Recovery in Stroke (MARS)</a></strong><br>
+			<a href='/entry.php?id=14'>Robert V. Kenyon</a>, <a href='/entry.php?id=232'>Xun Luo</a>, Z. Rymer (PI), A. Halper, J. Hidler, T. G. Hornby, L. Kahn (Northwestern University);D. Kamper, J. Patton (Rehabilitation Institute of Chicago);D. Reinkensmeyer (University of California, Irvine)<br>
+			October 1, 2002 - September 30, 2007<br><br>
+			Thanks to the new robotic devices with computer displays, there have been great strides in fundamental research that suggests a promising future in&hellip; <a href='/entry.php?id=1853'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1835'><img src='/resizedImages/500x280-crop-paris_cranial_istrip.jpg' alt='' title='Immersive Design and Fabrication of Cranial Implants on PARIS&trade;' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1835'>Immersive Design and Fabrication of Cranial Implants on PARIS&trade;</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=56'>Chris Scharver</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=211'>Vaidya Chandrasekhar</a>, Ray Evenhouse, School of Biomedical and Health Information Sciences<br>
+			September 1, 2001 - August 31, 2006<br><br>
+			The Electronic Visualization Laboratory (EVL) at the University of Illinois at Chicago (UIC) in cooperation with UIC&rsquo;s Virtual Reality in&hellip; <a href='/entry.php?id=1835'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1738'><img src='/resizedImages/500x280-crop-vrear.jpg' alt='' title='The Virtual Temporal Bone' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1738'>The Virtual Temporal Bone</a></strong><br>
+			<a href='/entry.php?id=15'>Alan Millman</a>, Theodore P. Mason M.D, Mary Rasmussen, Ray Evenhouse, Linda Warren, Noah Lowenthal, Jay McElroy, Rose Seelaus, Judy Challender, Edward L. Applebaum, Walter Panko Ph.D<br>
+			August 1, 1997 - July 30, 1999<br><br>
+			Mastery of the complex anatomic interrelationships of the human temporal bone is an essential part of otolaryngologic residency training, requiring&hellip; <a href='/entry.php?id=1738'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1726'><img src='/resizedImages/500x280-crop-addison.jpg' alt='' title='Synesthesia: Collaborative Biosignal Experience' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1726'>Synesthesia: Collaborative Biosignal Experience</a></strong><br>
+			<a href='/entry.php?id=23'>Alan Verlo</a>, <a href='/entry.php?id=131'>Bill Reynolds</a>, <a href='/entry.php?id=17'>Joe Reitzer</a>, <a href='/entry.php?id=145'>Marcus Thiebaux</a>, <a href='/entry.php?id=151'>Margaret Watson</a>, <a href='/entry.php?id=91'>Morteza Ghazisaedy</a>, <a href='/entry.php?id=63'>Rita Addison</a>, <a href='/entry.php?id=14'>Robert V. Kenyon</a>, <a href='/entry.php?id=73'>Tom Coffin</a>, Anthony Tamburrino, Dave Warner, Eben Gay<br>
+			December 3, 1995 - December 8, 1995<br><br>
+			Synesthesia is defined as a unique neuroperceptual event identified in one out of three million people in which a sensory input, such as music, is&hellip; <a href='/entry.php?id=1726'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1711'><img src='/resizedImages/500x280-crop-molecular.gif' alt='' title='Interactive Molecular Modeling Using Real-Time Molecular Dynamics Simulations and Virtual Reality Computer Graphics' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1711'>Interactive Molecular Modeling Using Real-Time Molecular Dynamics Simulations and Virtual Reality Computer Graphics</a></strong><br>
+			<a href='/entry.php?id=76'>Carolina Cruz-Neira</a>, Paul Bash;eorge Lent<br>
+			July 1, 1994 - July 14, 1994<br><br>
+			Using real-time interactive molecular modeling and molecular dynamics simulations, this project demonstrates the docking of a drug molecule to its&hellip; <a href='/entry.php?id=1711'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1729'><img src='/resizedImages/500x280-crop-vreye.gif' alt='' title='The Virtual Eye' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1729'>The Virtual Eye</a></strong><br>
+			<a href='/entry.php?id=50'>Paul Neumann</a>, R. Parshall, L. Sadler<br>
+			July 1, 1994 - July 15, 1994<br><br>
+			This project demonstrates the design of an anatomically realistic computer model of a human eye in a virtual environment. Users are able to explore&hellip; <a href='/entry.php?id=1729'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1694'><img src='/resizedImages/500x280-crop-purkinje.gif' alt='' title='Realistic Modeling of Brain Structures with Remote Interaction between Simulations of the Inferior Olivary Neuron &amp; the Cerebellar Purkinje Cell' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1694'>Realistic Modeling of Brain Structures with Remote Interaction between Simulations of the Inferior Olivary Neuron &amp; the Cerebellar Purkinje Cell</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, Computational Neuroscience Lab at CALTECH<br>
+			August 1, 1991 - August 1, 1992<br><br>
+			Up until now, modeling of single neurons and neural networks has been relegated to single workstations or parallel computers. Our work involves the&hellip; <a href='/entry.php?id=1694'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1754'><img src='/resizedImages/500x280-crop-embryo.gif' alt='' title='The Visible Embryo' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1754'>The Visible Embryo</a></strong><br>
+			<a href='/entry.php?id=155'>Rakesh Raju</a>, Cheong Ang, Michael Doyle, Adrian Noe<br>
+			August 1, 1991 - August 1, 1992<br><br>
+			A project is described (The Visible Embryo Project) to develop software strategies for the creation of large-scale databases of 3-dimensional image&hellip; <a href='/entry.php?id=1754'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1755'><img src='/resizedImages/500x280-crop-sensory.gif' alt='' title='Mapping of Cognitive Function with Subdural Electrodes &amp; Registration of Cerebral Evoked Potentials on 3-D MRI' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1755'>Mapping of Cognitive Function with Subdural Electrodes &amp; Registration of Cerebral Evoked Potentials on 3-D MRI</a></strong><br>
+			<a href='/entry.php?id=136'>Marty Ryan</a>, <a href='/entry.php?id=95'>Robert Grzeszczuk</a>, <a href='/entry.php?id=72'>Steven Cohen</a>, Vernon Towle<br>
+			August 1, 1991 - August 1, 1992<br><br>
+			This application is an example of sensory evoked potentials mapped onto a 3D surface model of a human head. Included in the model is a 3D brain&hellip; <a href='/entry.php?id=1755'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<!-- End Category List -->
+	</table>
+</div>
+<!-- End Category -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Entry -->
+<table id='entry_area' class='fixedTable'>
+	<tr>
+		<td style='width:676px;'>
+			<div id='entry_info'>
+<!-- Begin Entry Info -->
+<h3>The Fall Beyond Tomorrow&rsquo;s Life</h3>
+<div id='entry_image_large'><img style='left:49px;' src='/resizedImages/1280x720-image7-2.jpg' alt='' title='The Fall Beyond Tomorrow&rsquo;s Life' width='542' height='360'></div>
+<span class='smallText'>Reception: <em>The Fall Beyond Tomorrow&rsquo;s Life</em> - Lance Long</span><br><br>
+<div class='entry_content'>
+	<strong>Researchers:</strong> <a href='/entry.php?id=273'>JD Pirtle</a><br><br>
+	<strong>URL:</strong> <a href='http://jdpirtle.com' target='_blank'>http://jdpirtle.com</a><br><br>
+<!-- Begin Entry Description -->
+<em>The Fall Beyond Tomorrow&rsquo;s Life</em> is an interactive environment that unites water and sound. The primary components of the piece are a horizontal volume of water, a hexagonal multichannel speaker array, a multichannel audio interface and a computer vision apparatus. The computer vision component, which consists of (6) infrared (IR) emitters, an IR camera and a computer, are positioned above the volume of water and are used to capture the motion of any object that interacts with the surface of the water. The motion of this interaction, and the resultant waves, are captured by the IR camera and translated into spatialized sound by the software running on the computer. The volume of water is an analogue of the room in which it is placed - interaction in specific areas of the volume cause sounds in a similar area of the room.<br><br>
+
+The impetus of this project was the investigation of water as a novel interface. Although impractical from the viewpoint of Human-Computer Interaction (HCI), water is inextricably tied to human existence and therefore holds the potential of a unique membrane of interaction. Our bodies are composed largely of it and life on Earth cannot exist without it: in abundance it is life-giving and too great an overabundance or scarcity of it is death. It has alternately symbolized life, love, death, rebirth and renewal in myriad cultures since the dawn of mankind, and is never far from anyone&rsquo;s conscious mind in this era of mass environmental concern. I seek to create an environment that has at its focus a volume of water, which the viewer encounters with little or no added artifice. When the viewer disturbs the surface of the water, or even bends over to look into it, sounds resonate accordingly.<br><br>
+<!-- End Entry Description -->
+	<strong>Email:</strong> <a href='mailto:jdpirtle@gmail.com'>jdpirtle@gmail.com</a><br><br>
+	<strong>Date:</strong> August 16, 2010 - March 15, 2011
+</div>
+<!-- End Entry Info -->
+			</div>
+		</td>
+		<td style='width:374px;'>
+			<div id='entry_sidebar'>
+<!-- Begin Entry Sidebar -->
+<div class='entry_content'>
+	<h3>Related Entries</h3>
+	<strong>Directory:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=273'>JD Pirtle</a></li>
+	</ul><br>
+	<strong>Events:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=1024'>The Fall Beyond Tomorrow&rsquo;s Life at the 2011 Milwaukee Avenue Arts Festival</a></li>
+		<li><a href='/entry.php?id=1009'>Pirtle&rsquo;s The Fall Beyond Tomorrow&rsquo;s Life Showcased at MFA Exhibition 2011</a></li>
+	</ul><br>
+	<strong>Papers:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=1596'>The Fall Beyond Tomorrow&rsquo;s Life</a></li>
+	</ul><br>
+	<h3>Related Categories</h3>
+	<ul>
+		<li><a href='/category.php?id=3&amp;related=1'>Applications</a></li>
+		<li><a href='/category.php?id=15&amp;related=1'>MFA Thesis</a></li>
+		<li><a href='/category.php?id=17&amp;related=1'>Multimedia</a></li>
+		<li><a href='/category.php?id=21&amp;related=1'>Sound Art</a></li>
+	</ul>
+</div>
+<!-- End Entry Sidebar-->
+			</div>
+		</td>
+	</tr>
+</table>
+<!-- End Entry -->
+<script>
+	// Making both divs the same height is much easier in JavaScript
+	var entryInfo = document.getElementById("entry_info");
+	var entrySidebar = document.getElementById("entry_sidebar");
+	
+	if (entryInfo && entrySidebar) {
+		var maxHeight = Math.max(entryInfo.offsetHeight, entrySidebar.offsetHeight)-20;
+		entryInfo.style.height = maxHeight+"px";
+		entrySidebar.style.height = maxHeight+"px";
+	}
+</script>
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Entry -->
+<table id='entry_area' class='fixedTable'>
+	<tr>
+		<td style='width:676px;'>
+			<div id='entry_info'>
+<!-- Begin Entry Info -->
+<h3>Particle Dreams in Spherical Harmonics</h3>
+<div id='entry_image_large'><img style='left:0;' src='/resizedImages/1280x720-particledreams_rev.jpg' alt='' title='Particle Dreams in Spherical Harmonics' width='640' height='360'></div>
+<span class='smallText'>Sandin&rsquo;s Particle Dreams - L. Long, EVL</span><br><br>
+<div class='entry_content'>
+	<strong>Researchers:</strong> <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=222'>Robert Kooima</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, Laurie Spiegel<br><br>
+	<strong>URL:</strong> <a href='http://www.evl.uic.edu/dan/VRcontent.html' target='_blank'>http://www.evl.uic.edu/dan/VRcontent.html</a><br><br>
+<!-- Begin Entry Description -->
+Content and application programming: Dan Sandin<br>
+Content and systems programming: Robert Kooima<br>
+Music and sound effects: Laurie Spiegel<br>
+Driver: Tom DeFanti<br><br>
+
+The virtual-reality installation &ldquo;Particle Dreams in Spherical Harmonics&rdquo; is the latest of a series of VR art installations created by Dan Sandin and collaborators to involve the viewer-participant in the creation of an immersive, visual and sonic experience. It is based on the physical simulation of over one million particles with momentum and elastic reflection in an environment with gravity. In the final scene there is a very realistic rendering of water with reflections, and lighting based on spherical harmonics. The sound components are triggered and modified by the user and particle interaction. This work was premiered in January 2011 at the gallery@calit2 University of California San Diego, designed for exhibition in the Qualcomm Institute, UC San Diego division of Calit2&rsquo;s StarCAVE and the CAVE2&trade; developed by the Electronic Visualization Laboratory, University of Illinois at Chicago.<br><br>
+
+According to Amos Jessup, standing in the StarCAVE &ldquo;was like standing in a rainstorm made of rainbow fragments, with the power to guide the storm by hand. It was unsettling, out-of-body, very trippy stuff, a powerful artistic experience. The sounds, in small fragments like the rainbows, seemed to be natural concomitants of the gestures, even though you could tell it was not through a mechanical linkage, a theremin or one of its descendants. But whatever the linkage was it managed to be sensitive, or else it was just inherent in the genius of the sounds that they seemed that way.&rdquo;<br><br>
+<strong><a href="http://www.evl.uic.edu/dan/">Daniel J. Sandin</a></strong> is an internationally recognized pioneer of electronic art and visualization. He is director emeritus of the Electronic Visualization Lab and a professor emeritus in the School of Art and Design at the University of Illinois at Chicago. He is continuing his professional activities with Tom DeFanti at Calit2, UCSD. As an artist, he has exhibited worldwide, and has received grants in support of his work from the Rockefeller Foundation, the Guggenheim Foundation, the National Science Foundation and the National Endowment for the Arts. His video animation Spiral PTL is in the inaugural collection of video art at the Museum of Modern Art in New York.<br><br>
+In 1969, Sandin developed a computer-controlled light and sound environment, called Glow Flow, at the Smithsonian Institution and was invited to join the art faculty at the University of Illinois the same year. By 1973 he had developed the Sandin Image Processor, a highly programmable analog computer for processing video images in real time. He then worked with DeFanti to combine the Image Processor with real-time computer graphics and performed visual concerts, the Electronic Visualization Events, with synthesized musical accompaniment. In 1991, Sandin and DeFanti conceived and developed, in collaboration with graduate students, the CAVE virtual-reality (VR) theater.<br><br>
+In recent years, Sandin has been concentrating on the development of auto stereo VR displays (i.e., free viewing, no glasses), and on the creation of network-based tele-collaborative VR art works that involve video camera image materials, rich human interaction and mathematical systems.<br><br>
+<strong>Robert Kooima</strong> began collaborating with Sandin and DeFanti while a doctoral student at EVL between 2004 and 2008. Kooima&rsquo;s work, research and teaching focus on interactive 3D computer graphics, scientific visualization, game development, and stereographic display technology.<br><br>
+<strong>Laurie Spiegel</strong>, composer, software creator and visual artist, is known widely for her pioneering work with many early analog and digital electronic music systems, including the GROOVE system at Bell Telephone Labs, and Music Mouse, a softwarebased musical instrument for Macintosh, Atari and Amiga. Her realization of Kepler&rsquo;s &ldquo;Harmony of the Planets&rdquo; was included on the Voyager Spacecraft’s &ldquo;Sounds of Earth&rdquo; gold record. Often praised for her integration of intellect and intuition, she has taught at Cooper Union and NYU. Spiegel currently lives and works in a large, semi-raw loft in lower Manhattan and in cyberspace.<br><br>
+<strong>Tom DeFanti</strong>, Ph.D., is a Senior Research Scientist in the California Institute for Telecommunications and Information Technology (Calit2) at the University of California, San Diego. He is also a Distinguished Professor Emeritus in Computer Science at the University of Illinois at Chicago (UIC).<br><br>
+DeFanti is an internationally recognized expert in computer graphics since the early 1970s. He has amassed a number of credits, including: use of his lab&rsquo;s hardware and software for the computer animation sequence produced for the 1977 Star Wars movie; recipient of the 1988 ACM Outstanding Contribution Award; and appointed an ACM Fellow in 1994. He also shares recognition, with EVL director Daniel J. Sandin, for conceiving the CAVE virtual-reality theater in 1991.<br><br>
+Striving for more than a decade to connect high-resolution visualization and virtual-reality devices over long distances, DeFanti has collaborated with Larry Smarr, Maxine Brown, Joe Mambretti, Tomonori Aoyama, and Kees Neggers to lead state, national and international teams to build the most advanced, production-quality networks available to scientists, with major NSF funding.<br><br>
+<!-- End Entry Description -->
+	<strong>Date:</strong> January 1, 2011 - Ongoing
+</div>
+<!-- End Entry Info -->
+			</div>
+		</td>
+		<td style='width:374px;'>
+			<div id='entry_sidebar'>
+<!-- Begin Entry Sidebar -->
+<div class='entry_content'>
+	<h3>Related Entries</h3>
+	<strong>Directory:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=222'>Robert Kooima</a></li>
+		<li><a href='/entry.php?id=7'>Daniel J. Sandin</a></li>
+		<li><a href='/entry.php?id=6'>Thomas A. DeFanti</a></li>
+	</ul><br>
+	<strong>Events:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2342'>VGA Exhibition Tells Underrecognized Story Of New Media In Chicago</a></li>
+		<li><a href='/entry.php?id=1156'>EVL&rsquo;s Dan Sandin exhibiting at Filmatic Festival at UC San Diego</a></li>
+	</ul><br>
+	<h3>Related Categories</h3>
+	<ul>
+		<li><a href='/category.php?id=29&amp;related=1'>VR Art</a></li>
+	</ul>
+</div>
+<!-- End Entry Sidebar-->
+			</div>
+		</td>
+	</tr>
+</table>
+<!-- End Entry -->
+<script>
+	// Making both divs the same height is much easier in JavaScript
+	var entryInfo = document.getElementById("entry_info");
+	var entrySidebar = document.getElementById("entry_sidebar");
+	
+	if (entryInfo && entrySidebar) {
+		var maxHeight = Math.max(entryInfo.offsetHeight, entrySidebar.offsetHeight)-20;
+		entryInfo.style.height = maxHeight+"px";
+		entrySidebar.style.height = maxHeight+"px";
+	}
+</script>
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Entry -->
+<table id='entry_area' class='fixedTable'>
+	<tr>
+		<td style='width:676px;'>
+			<div id='entry_info'>
+<!-- Begin Entry Info -->
+<h3>Celebrating Women in New Media Arts</h3><br>
+<div class='entry_content'>
+	<strong>Participants:</strong> <a href='/entry.php?id=76'>Carolina Cruz-Neira</a>, <a href='/entry.php?id=92'>Copper Giloth</a>, <a href='/entry.php?id=5'>Dana M. Plepys</a>, <a href='/entry.php?id=177'>Ellen Sandor</a>, <a href='/entry.php?id=124'>Lucy Petrovich</a>, <a href='/entry.php?id=86'>Margaret Dolinsky</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, Donna Cox, Janine Fron<br><br>
+	SAIC Ballroom, 112 S. Michigan Ave.<br><br>
+<!-- Begin Entry Description -->
+Friday, March 18, 2016<br>
+9:30am - 4:30pm<br>
+SAIC Ballroom, 112 S. Michigan Ave., Chicago<br><br>
+&ldquo;Celebrating Women in New Media Arts,&rdquo; a one-day symposium at the School of the Art Institute (SAIC), examines the achievements of women in the field of media art and emerging technologies from the 1980s onward. It is the signature event in SAIC&rsquo;s Conversations on Art and Science spring series. It is also a celebration of Women&rsquo;s History Month.<br><br>
+In addition, this symposium celebrates the upcoming release of the new book from the University of Illinois Press, Women in New Media Arts: Perspectives on Innovative Collaboration, edited by Donna Cox, Janine Fron, and Ellen Sandor.<br><br>
+Many of the women involved in the symposium, and included in the forthcoming book, are alumnae of the Electronic Visualization Laboratory (EVL) at the University of Illinois at Chicago, from both the Computer Science Department and the College of Architecture, Design, and the Arts (CADA). Included in this distinguished list are Carolina Cruz-Neira, Margaret Dolinsky, Copper Giloth, Lucy Petrovich, Dana Plepys, and Barbara Sykes. Also speaking is CADA associate professor Sabrina Raaf and EVL director Maxine Brown.<br><br>
+The audience consists of friends of the presenters, academic colleagues, and SAIC undergraduate and graduate students. This event is open to the public.<br><br>
+<a href="http://www.saic.edu/150/celebrating-women-new-media-arts">Symposium schedule.</a><br>
+<a href="https://www.facebook.com/events/327490720707937/">Facebook posting.</a><br><br>
+<!-- End Entry Description -->
+	<strong>Email:</strong> <a href='mailto:maxine@uic.edu'>maxine@uic.edu</a><br><br>
+	<strong>Date:</strong> March 18, 2016
+</div>
+<!-- End Entry Info -->
+			</div>
+		</td>
+		<td style='width:374px;'>
+			<div id='entry_sidebar'>
+<!-- Begin Entry Sidebar -->
+<div id='entry_image_small'>
+	<img style='left:0; ' src='/resizedImages/350x622-womeninnewmedia_symposium.png' alt='' title='Celebrating Women in New Media Arts' width='350' height='362'>
+</div>
+<span class='smallText'>School of the Art Institute of Chicago (SAIC)</span><br><br>
+<div class='entry_content'>
+	<h3>Related Entries</h3>
+	<strong>Directory:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=76'>Carolina Cruz-Neira</a></li>
+		<li><a href='/entry.php?id=5'>Dana M. Plepys</a></li>
+		<li><a href='/entry.php?id=124'>Lucy Petrovich</a></li>
+		<li><a href='/entry.php?id=177'>Ellen Sandor</a></li>
+		<li><a href='/entry.php?id=92'>Copper Giloth</a></li>
+		<li><a href='/related.php?id=2169&amp;related=2'><strong>View more&hellip;</strong></a></li>
+	</ul><br>
+	<strong>Events:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2369'>UIC/EVL Featured in new book: New Media Futures: The Rise of Women in the Digital Arts</a></li>
+	</ul><br>
+	<h3>Related Categories</h3>
+	<ul>
+		<li><a href='/category.php?id=2&amp;related=3'>Animation</a></li>
+		<li><a href='/category.php?id=3&amp;related=3'>Applications</a></li>
+		<li><a href='/category.php?id=17&amp;related=3'>Multimedia</a></li>
+		<li><a href='/category.php?id=21&amp;related=3'>Sound Art</a></li>
+		<li><a href='/category.php?id=25&amp;related=3'>Video / Film</a></li>
+		<li><a href='/category.php?id=27&amp;related=3'>Visualization</a></li>
+		<li><a href='/category.php?id=28&amp;related=3'>VR</a></li>
+		<li><a href='/category.php?id=29&amp;related=3'>VR Art</a></li>
+		<li><a href='/category.php?id=30&amp;related=3'>Web Art</a></li>
+	</ul>
+</div>
+<!-- End Entry Sidebar-->
+			</div>
+		</td>
+	</tr>
+</table>
+<!-- End Entry -->
+<script>
+	// Making both divs the same height is much easier in JavaScript
+	var entryInfo = document.getElementById("entry_info");
+	var entrySidebar = document.getElementById("entry_sidebar");
+	
+	if (entryInfo && entrySidebar) {
+		var maxHeight = Math.max(entryInfo.offsetHeight, entrySidebar.offsetHeight)-20;
+		entryInfo.style.height = maxHeight+"px";
+		entrySidebar.style.height = maxHeight+"px";
+	}
+</script>
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

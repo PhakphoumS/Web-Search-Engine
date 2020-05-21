@@ -1,0 +1,349 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+  <title>Timothy P. Johnson, PhD | Institute for Health Research and Policy | University of Illinois at Chicago</title>
+
+  <meta name="verify-v1" content="M3D7RktfZuClXLKtfBxpnsbmXcHxs+8um0cJ6n3SKFE=" />
+<meta name="description" content="Timothy Johnson is the Director of the UIC Survey Research Laboratory, and an IHRP Fellow. " />
+
+  
+  <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/researcher/timothy-p-johnson-phd" />
+<link rel="shortlink" href="/node/1269" />
+<link rel="shortcut icon" href="https://www.ihrp.uic.edu/files/favicon.ico" type="image/vnd.microsoft.icon" />
+  <style>
+@import url("https://www.ihrp.uic.edu/modules/system/system.base.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/system/system.messages.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/system/system.theme.css?q8vwl2");
+</style>
+<style>
+@import url("https://www.ihrp.uic.edu/modules/aggregator/aggregator.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/comment/comment.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/date/date_api/date.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/field/theme/field.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/node/node.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/search/search.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/user/user.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/views/css/views.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/ckeditor/css/ckeditor.css?q8vwl2");
+</style>
+<style>
+@import url("https://www.ihrp.uic.edu/sites/all/modules/ctools/css/ctools.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/forward/forward.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/print/print_ui/css/print_ui.theme.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/css/nice_menus.css?q8vwl2");
+</style>
+<style>
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/tabs.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/print.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/style.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/zen.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/html-elements.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/ihrp_menu.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/ihrp_researcher.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/ihrp_study.css?q8vwl2");
+</style>
+  
+    <link rel="stylesheet" href="/sites/all/themes/ihrp/css/ihrp_main.css" type="text/css"/>
+  
+
+
+  <!--[if IE]>
+    <link rel="stylesheet" href="sites/all/themes/ihrp/css/ie.css" type="text/css"/>
+   
+    <style type="text/css">
+      /* place css fixes for all versions of IE in this conditional comment */
+      .thrColFixHdr #sidebar2, .thrColFixHdr #sidebar1 { padding-top: 30px; }
+      .thrColFixHdr #mainContent { zoom: 1; }
+      /* the above proprietary zoom property gives IE the hasLayout it needs to avoid several bugs */
+    </style>
+  <![endif]-->
+
+  <!--[if IE 5]>
+    <style type="text/css">
+      /* place css box model fixes for IE 5* in this conditional comment */
+      .thrColFixHdr #sidebar1 { width: 180px; }
+      .thrColFixHdr #sidebar2 { width: 190px; }
+    </style>
+  <![endif]-->
+
+  <script src="https://www.ihrp.uic.edu/misc/jquery.js?v=1.4.4"></script>
+<script src="https://www.ihrp.uic.edu/misc/jquery-extend-3.4.0.js?v=1.4.4"></script>
+<script src="https://www.ihrp.uic.edu/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.ihrp.uic.edu/misc/drupal.js?q8vwl2"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/js/jquery.bgiframe.js?v=2.1"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/js/jquery.hoverIntent.js?v=0.5"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/js/superfish.js?v=1.4.8"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/js/nice_menus.js?v=1.0"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/google_analytics/googleanalytics.js?q8vwl2"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-4417342-1", {"cookieDomain":"auto"});ga("send", "pageview");</script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/field_group/field_group.js?q8vwl2"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/themes/ihrp/js/script.js?q8vwl2"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"ihrp","theme_token":"jdgoGSierC_5AnQ1PVf9xpPofOmD3Mo_YnDRzBvkLLA","js":{"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/mimedetect\/nice_menus\/js\/jquery.bgiframe.js":1,"sites\/all\/modules\/mimedetect\/nice_menus\/js\/jquery.hoverIntent.js":1,"sites\/all\/modules\/mimedetect\/nice_menus\/js\/superfish.js":1,"sites\/all\/modules\/mimedetect\/nice_menus\/js\/nice_menus.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/field_group\/field_group.js":1,"sites\/all\/themes\/ihrp\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/forward\/forward.css":1,"sites\/all\/modules\/print\/print_ui\/css\/print_ui.theme.css":1,"sites\/all\/modules\/mimedetect\/nice_menus\/css\/nice_menus.css":1,"sites\/all\/themes\/zen\/ihrp\/ihrp_menu.css":1,"sites\/all\/themes\/ihrp\/system.menus.css":1,"sites\/all\/themes\/ihrp\/css\/tabs.css":1,"sites\/all\/themes\/ihrp\/css\/print.css":1,"sites\/all\/themes\/ihrp\/css\/style.css":1,"sites\/all\/themes\/ihrp\/css\/zen.css":1,"sites\/all\/themes\/ihrp\/css\/html-elements.css":1,"sites\/all\/themes\/ihrp\/css\/ihrp_menu.css":1,"sites\/all\/themes\/ihrp\/css\/ihrp_researcher.css":1,"sites\/all\/themes\/ihrp\/css\/ihrp_study.css":1}},"nice_menus_options":{"delay":"0","speed":"fast"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/researcher\/timothy-p-johnson-phd":true},"field_group":{"no_style":"full","fieldset":"full"}});</script>
+</head>
+
+<body class="thrColFixHdr html not-front not-logged-in no-sidebars page-node page-node- page-node-1269 node-type-researcher section-researcher not-front not-logged-in page-node page-node- page-node-1269 node-type-researcher 
+ not-logged-in not-front type-researcher">
+
+  
+  <div id="page"><div id="page-inner">
+    <a name="top" id="navigation-top"></a>
+    <div role="banner" id="header"><div id="header-inner" class="clear-block" role="navigation" aria-label="Top Menu">
+      <a href="/"><img src="/sites/all/themes/ihrp/images/IHRP_Logo.png" alt="Institute for Health Research and Policy" title="I H R P home page" /></a>
+
+      <!-- the following is the code for the little blue top menu  -->
+      <span class="littleBlueMenu">
+        <a href="/people/list">People</a>
+        <a href="/content/contact-us">Contact Us</a>
+         
+            <a href="/print/1269">Print this page</a>		        <a href="/forward/?path=node/1269">E-mail to a Colleague</a>		          </span>
+      
+	             <div id="primary">
+        </div> <!-- /#primary -->
+      
+      
+    </div></div> <!-- /#header-inner, /#header -->
+
+    <div role="main" id="main"><div id="main-inner" class="clear-block with-navbar">
+      <div id="content"><div id="content-inner">
+                  <div id="search-box">
+              <div class="region region-search-form">
+    <div id="block-search-form" class="block block-search first last odd" role="search">
+
+      
+  <form action="/researcher/timothy-p-johnson-phd" method="post" id="search-block-form" accept-charset="UTF-8"><div>
+<div class="container-inline">
+  <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-2EoeeyfsP4wlrCTkfma_NmTbIBn_aekgpMQEbFnbFmo" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+</div>
+  </div>
+          </div> <!-- /#search-box -->
+                          <div id="content-top">
+              <div class="region region-content-top">
+    <div id="block-nice-menus-1" class="block block-nice-menus first last odd">
+
+        <h2 class="block__title block-title"><span class="nice-menu-hide-title">Main menu</span></h2>
+    
+  <ul class="nice-menu nice-menu-down nice-menu-main-menu" id="nice-menu-1"><li class="menu__item menu-11518 menuparent  menu-path-node-4984 first odd "><a href="/content/institute-welcome-intro" title="" class="menu__link">About</a><ul><li class="menu__item menu-11516 menu-path-node-4984 first odd "><a href="/content/institute-welcome-intro" class="menu__link">Welcome</a></li>
+<li class="menu__item menu-11514 menu-path-node-4983  even "><a href="/content/about-mission-social-health-sciences-research" class="menu__link">Mission</a></li>
+<li class="menu__item menu-11524 menu-path-node-4996  odd "><a href="/content/admin-IHRP-snapshot" class="menu__link">IHRP Snapshot</a></li>
+<li class="menu__item menu-7001 menu-path-node-2873  even "><a href="/content/about-our-fellows-affiliates" class="menu__link">Fellows &amp; Affiliates</a></li>
+<li class="menu__item menu-2114 menu-path-node-1357  odd "><a href="/content/employment-ihrp" class="menu__link">Jobs</a></li>
+<li class="menu__item menu-11585 menu-path-node-5034  even last"><a href="/content/media-professionals" class="menu__link">For Media Professionals</a></li>
+</ul></li>
+<li class="menu__item menu-11523 menuparent  menu-path-node-5036  even "><a href="/content/about-advantages-UIC-researchers" title="" class="menu__link">Why IHRP? </a><ul><li class="menu__item menu-11588 menu-path-node-5036 first odd "><a href="/content/about-advantages-UIC-researchers" title="" class="menu__link">Advantages</a></li>
+<li class="menu__item menu-11521 menu-path-node-18  even "><a href="/content/why-ihrp-research-faqs" class="menu__link">FAQs</a></li>
+<li class="menu__item menu-11515 menu-path-node-4982  odd last"><a href="/content/learn-more-join-us" class="menu__link">Affiliate with IHRP</a></li>
+</ul></li>
+<li class="menu__item menu-11533 menuparent  menu-path-node-5027  odd "><a href="/content/scientific-resources-intro" class="menu__link">Scientific Resources</a><ul><li class="menu__item menu-11582 menu-path-node-5027 first odd "><a href="/content/scientific-resources-intro" title="" class="menu__link">Overview</a></li>
+<li class="menu__item menu-11522 menu-path-node-23  even "><a href="/content/institute-leadership" class="menu__link">Leadership</a></li>
+<li class="menu__item menu-11052 menu-path-node-4683  odd "><a href="/center/data-management-core-for-all-UIC-researchers" class="menu__link">Data Management Core</a></li>
+<li class="menu__item menu-2054 menu-path-node-1584  even "><a href="/center/methodology-research-core-for-all-UIC-researchers" class="menu__link">Methodology Research Core</a></li>
+<li class="menu__item menu-2064 menu-path-node-39  odd last"><a href="/content/training-every-stage-research-careers" class="menu__link">Training</a></li>
+</ul></li>
+<li class="menu__item menu-11532 menuparent  menu-path-node-4999  even "><a href="/content/admin-resources-intro" title="" class="menu__link">Administrative Resources</a><ul><li class="menu__item menu-11531 menu-path-node-4999 first odd "><a href="/content/admin-resources-intro" class="menu__link">Overview</a></li>
+<li class="menu__item menu-11584 menu-path-node-4979  even "><a href="/content/admin-grants-finance" class="menu__link">Grants &amp; Finance</a></li>
+<li class="menu__item menu-11507 menu-path-node-4978  odd "><a href="/content/admin-human-resources-team" class="menu__link">Human Resources</a></li>
+<li class="menu__item menu-11505 menu-path-node-4977  even "><a href="/content/admin-computing-environment" class="menu__link">Data Tech and Security</a></li>
+<li class="menu__item menu-11508 menu-path-node-4825  odd "><a href="/content/admin-communications" class="menu__link">Communications</a></li>
+<li class="menu__item menu-11511 menu-path-node-4980  even last"><a href="/content/resources-facilities" class="menu__link">Facilities</a></li>
+</ul></li>
+<li class="menu__item menu-11535 menuparent  menu-path-node-4803  odd last"><a href="/content/our-research-focus" title="" class="menu__link">Research</a><ul><li class="menu__item menu-11534 menu-path-node-4803 first odd "><a href="/content/our-research-focus" class="menu__link">Scientific Focus</a></li>
+<li class="menu__item menu-2130 menu-path-studies-list-current-all  even "><a href="/studies/list/current/all" title="" class="menu__link">Studies</a></li>
+<li class="menu__item menu-11408 menu-path-researchers-list-all  odd "><a href="/researchers/list/all" title="" class="menu__link">Researchers</a></li>
+<li class="menu__item menu-2030 menuparent  menu-path-node-1563  even "><a href="/content/centers" class="menu__link">Centers</a><ul><li class="menu__item menu-2086 menu-path-node-7 first odd "><a href="/center/center-research-health-and-aging" class="menu__link">Center for Research on Health and Aging</a></li>
+<li class="menu__item menu-2087 menu-path-node-8  even last"><a href="/center/health-policy-center" class="menu__link">Health Policy Center</a></li>
+</ul></li>
+<li class="menu__item menu-11504 menuparent  menu-path-node-4975  odd "><a href="/content/project-websites" class="menu__link">Project Websites</a><ul><li class="menu__item menu-10646 menu-path-gouicedu-asthmaaction first odd "><a href="http://go.uic.edu/AsthmaAction" title="" class="menu__link">Asthma Action</a></li>
+<li class="menu__item menu-2079 menu-path-scecdp-ihrpuicedu-  even "><a href="https://cecdp-ihrp.uic.edu/" title="" class="menu__link">Cancer Education and Career Development Program</a></li>
+<li class="menu__item menu-10737 menu-path-co-opchicagoihrpuicedu-  odd "><a href="http://co-opchicago.ihrp.uic.edu/" title="" class="menu__link">CO-OP Chicago</a></li>
+<li class="menu__item menu-10499 menu-path-fitandstrongorg-  even "><a href="http://fitandstrong.org/" title="" class="menu__link">Fit &amp; Strong!</a></li>
+<li class="menu__item menu-10548 menu-path-node-79  odd "><a href="/center/center-research-health-and-aging/midwest-roybal-center" title="IHRP is the home of the Midwest Roybal Center, funded continuously by the National Institute on Aging since 1998." class="menu__link">Midwest Roybal Center</a></li>
+<li class="menu__item menu-10501 menu-path-tobacconomicsorg-  even last"><a href="http://tobacconomics.org/" title="" class="menu__link">Tobacconomics</a></li>
+</ul></li>
+<li class="menu__item menu-11517 menu-path-news-list  even last"><a href="/news/list" title="" class="menu__link">News</a></li>
+</ul></li>
+</ul>
+
+</div>
+  </div>
+          </div> <!-- /#content-top -->
+        
+        
+		
+		<div id="content-area">
+                      <div class="tabs"></div>
+          
+          
+          							<h1 class="title">Timothy P. Johnson, PhD</h1>
+			          
+	        
+          
+
+
+
+<div style="position: relative; width: 63%; float: left;">
+
+      <div class="field-field-researcher-photo">
+      <img src="https://www.ihrp.uic.edu/files/johnson_thb3.jpg" />
+    </div>
+  
+  <h2>
+      Professor Emeritus of Public Administration  </h2>
+
+  <p>
+    <p>Professor Johnson&#39;s main areas of expertise include survey methodology and health behaviors in disadvantaged populations. Within the field of survey methodology, his work has focused primarily on sources of measurement and nonresponse error. His measurement error work is concerned with cultural variability in the cognitive processing of survey questions, an area in which much of his work has been invested over the past decade. He has also conducted numerous investigations designed to validate self-reported health information. His work on nonresponse error has been directed at developing new methods for identifying the effects of nonresponse mechanisms on the quality of survey estimates, as well as the development and testing of new approaches to adjusting for nonresponse bias.</p>
+<p>Johnson has also invested considerable effort in examining the health behaviors of disadvantaged populations. Among the disadvantaged populations he has worked with are homeless persons, immigrants, cultural minorities, criminal justice populations and mental health populations. Some of the health behaviors he has examined among these populations include cancer screening, nutrition, physical activity, tobacco use, alcohol consumption and drug abuse.</p>
+  </p>
+
+
+  <p>
+    <h2>Recent and Noteworthy Publications</h2>
+  </p>
+  <p>
+    <p>For a more detailed list of publications by Dr. Timothy Johnson, see <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Johnson+TP">this edited list</a> on PubMed.&nbsp;</p>
+
+<p>Davis RE, Lee S, Johnson TP, Rothschild SK. Development of a Bidimensional Simpatía Scale for Use With Mexican American, Puerto Rican, and Cuban American Adults. Nurs Res. 2019 Sep/Oct;68(5):348-357. doi: 10.1097/NNR.0000000000000366.</p>
+<p>Davis RE, Lee S, Johnson TP, Rothschild SK. Development of a Bidimensional Simpatía Scale for Use With Mexican American, Puerto Rican, and Cuban American Adults. Nurs Res. 2019 Sep/Oct;68(5):348-357. doi: 10.1097/NNR.0000000000000366.</p>
+<p>Purnell TS, Fakunle DO, Bone LR, Johnson TP, Hemberger N, Jilcott Pitts SB, Bowie JV, Oakley K, Thompson B, Paskett ED, Cooper LA. Overcoming Barriers to Sustaining Health Equity Interventions: Insights from the National Institutes of Health Centers for Population Health and Health Disparities. J Health Care Poor Underserved. 2019;30(3):1212-1236. doi: 10.1353/hpu.2019.0083.</p><p>Hirschtick JL, Homan SM, Rauscher G, Rubin LH, Johnson TP, Peterson CE, Persky VW. Persistent and aggressive interactions with the police: potential mental health implications. Epidemiol Psychiatr Sci. 2019 Feb 4:1-8. doi: 10.1017/S2045796019000015.</p>
+<p>Desai P, Nasa P, Soo J, Jia C, Berbaum ML, Fischer JH, Johnson TP. Effects of Regulatory Support Services on Institutional Review Board Turnaround Times. J Empir Res Hum Res Ethics. 2017 Jul;12(3):131-139. doi: 10.1177/1556264617704294.</p>
+<p>Peterson CE, Khosla S, Jefferson GD, Davis FG, Fitzgibbon ML, Freels S, Johnson TP, Hoskins K, Joslin CE. Measures of economic advantage associated with HPV-positive head and neck cancers among non-Hispanic black and white males identified through the National Cancer Database. Cancer Epidemiol. 2017 Jun;48:1-7. doi: 10.1016/j.canep.2017.02.011.</p>
+<p>Peterson CE, Rauscher GH, Johnson TP, Kirschner CV, Freels S, Barrett RE, Kim S, Fitzgibbon ML, Joslin CE, Davis FG. The effect of neighborhood disadvantage on the racial disparity in ovarian cancer-specific survival in a large hospital-based study in cook county, Illinois. Front Public Health. 2015 Jan 22;3:8. &nbsp;[<a href="http://www.ncbi.nlm.nih.gov/pubmed/25657992">See abstract.</a>]</p>
+<p>Peterson CE, Rauscher GH, Johnson TP, Kirschner CV, Barrett RE, Kim S, Fitzgibbon ML, Joslin CE, Davis FG.The association between neighborhood socioeconomic status and ovarian cancer tumor characteristics. Cancer Causes Control. 22014 May;25(5):633-7. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/24532025">See abstract.</a>]</p>
+<p>Cho YI, Johnson TP, Vangeest JB. Enhancing surveys of health care professionals: a meta-analysis of techniques to improve response. J Educ Eval Health Prof. 2013 Sep;36(3):382-407. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/23975761">See abstract.</a>]</p>
+<p>Shim JM, Shin EJ, Johnson TP. Self-rated health assessed by Web vs. mail modes in a mixed mode survey: The Digital Divide effect and the genuine survey mode effect. Med Care. 2013;51:774-781. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/23774510">See abstract.</a>]</p>
+<p>Safika I, Levy JA, Johnson TP. The influence of sex work venue on condom use among female sex workers in Senggigi, Indonesia. Cult <span class="highlight" style="background-color:">Health</span> Sex. 2013;15:598-613. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/23415321">See abstract.</a>]</p>
+<p>Cho YI, Johnson TP, Fendrich M, Pickup L. Treatment facility neighborhood environment and outpatient treatment completion. <span>J Drug Issues</span>. 2013;43:357&ndash;373.</p>
+<p>Cho YI, Johnson TP, Holbrook AL. Acculturation and health survey question comprehension among Latino respondents in the U.S. <span>J Immigr Health</span>. 2013;25:525&ndash;532. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/23097155">See abstract.</a>]</p>
+<p>Johnson TP, Hughes, TL, Cho YI, Wilsnack SC, Aranda F, Szalacha LA. Hazardous drinking, depression and anxiety among sexual minority women: Self medication or impaired functioning? <span>J Stud Alcohol Drugs</span>. 2013;74:565&ndash;575. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/23739020">See abstract.</a>]</p>
+<p>Cho YI, Holbrook A, Johnson TP. Acculturation and Health Survey Question Comprehension Among Latino Respondents in the US. J Immigr Minor Health. 2013 Jun;15(3):525-32. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/23097155">See abstract.</a>]</p>
+<p>Fendrich M, Avci O, Johnson TP, Mackesy-Amiti ME. Depression, substance use and HIV risk in a probability sample of men who have sex with men. Addict Behav. 2013 Mar;38(3):1715-8. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/23254224">See abstract.</a>]</p>
+<p>Matthews AK, Cho YI, Hughes TL, Johnson TP, Alvy L. The influence of childhood physical abuse on adult health status in sexual minority women: the mediating role of smoking. Womens Health Issues. 2013 Mar-Apr;23(2):e95-102. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/23415321">See abstract.</a>]</p>
+<p>Klabunde CN, Willis GB, McLeod CC, Dillman DA, Johnson TP, Greene SM, Brown ML. Improving the quality of surveys of physicians and medical groups: a research agenda. Eval Health Prof. 2012 Dec;35(4):477-506. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/22947596">See abstract.</a>]</p>
+<p>Vangeest JB, Johnson TP. Using incentives in surveys of cancer patients: do &quot;best practices&quot; apply? Cancer Causes Control. 2012 Dec;23(12):2047-52. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/23076587">See abstract.</a>]</p>
+<p>Matthews AK, Tejeda S, Johnson TP, Berbaum ML, Manfredi C. Correlates of quality of life among African American and white cancer survivors. Cancer Nurs. 2012 Sep;35(5):355-364. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/22495496">See abstract.</a>]</p>
+<p>Richman JA, Rospenda KM, Johnson TP, Cho YI, Vijayasira G, Cloninger L, et al. Drinking in the age of the great recession. J Addict Dis. 2012 Apr;31(2):158-72. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/22540437">See abstract.</a>]</p>
+<p>Cho YI, Johnson TP, Barrett RE, Campbell RT, Dolecek TA, Warnecke RB. Neighborhood Changes in Concentrated Immigration and Late Stage Breast Cancer Diagnosis. J Immigr Minor Health. 2011 Feb;13(1):9-14. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/20232147">See abstract.</a>]</p>
+<p>Grigsby-Toussaint DS, Lipton R, Chavez N, Handler A, Johnson TP, Kubo J. Neighborhood socioeconomic change and diabetes risk: findings from the Chicago Childhood Diabetes Registry. Diabetes Care. 2010 May;33(5):1065-8. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/20150301">See abstract.</a>]</p>
+<p>Manfredi C, Kaiser K, Matthews AK, Johnson TP. Are racial differences in patient-physician cancer communication and information explained by background, predisposing, and enabling factors? J Health Commun. 2010 Apr;15(3):272-92. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/20432108">See abstract.</a>]</p>
+<p>Emery S, Lee J, Curry SJ, Johnson T, Sporer AK, Mermelstein R, Flay B, Warnecke R. Finding needles in a haystack: a methodology for identifying and sampling community-based youth smoking cessation programs. Eval Rev. 2010 Feb;34(1):35-51.</p>
+<p><span style="font-family: sans-serif; font-size: 14.6667px; background-color: rgb(255, 255, 255);">Desai P, Nasa P, Soo J, Jia C, Berbaum ML, Fischer JH, Johnson TP. Effects of Regulatory Support Services on Institutional Review Board Turnaround Times. J Empir Res Hum Res Ethics. 2017 Jul;12(3):131-139. doi: 10.1177/1556264617704294.</span><span style="font-family: sans-serif; font-size: 14.6667px; background-color: rgb(255, 255, 255);">Desai P, Nasa P, Soo J, Jia C, Berbaum ML, Fischer JH, Johnson TP. Effects of Regulatory Support Services on Institutional Review Board Turnaround Times. J Empir Res Hum Res Ethics. 2017 Jul;12(3):131-139. doi: 10.1177/1556264617704294.</span></p>
+<p><span style="font-family: sans-serif; font-size: 14.6667px; background-color: rgb(255, 255, 255);">Desai P, Nasa P, Soo J, Jia C, Berbaum ML, Fischer JH, Johnson TP. Effects of Regulatory Support Services on Institutional Review Board Turnaround Times. J Empir Res Hum Res Ethics. 2017 Jul;12(3):131-139. doi: 10.1177/1556264617704294.</span></p>
+  </p>
+
+  <p>
+    <h2>Honors and Awards</h2>
+  </p>
+  <p>
+    <p><a href="https://ihrp-webdev.ihrp.uic.edu/content/about-our-fellows-affiliates">IHRP&nbsp;Fellow</a></p>
+  </p>
+</div>
+
+
+<div style="float:right; width: 32%;" class="right-sidebar">
+<p><strong>Contact Info</strong></p>
+
+<p>
+  Phone: (312) 996-5310<br />
+
+  Fax: (312) 996-3358<br />
+
+
+  E-mail: <a href="mailto:timj@uic.edu">timj@uic.edu</a><br />
+</p>
+
+  <p><p>&nbsp;</p>
+<p><strong>Public Administration</strong><br />
+	University of Illinois at Chicago (MC 278)<br />
+	629 CUPPA Hall<br />
+	412 S. Peoria, Suite 115<br />
+	Chicago, IL 60607-7064</p>
+</p>
+
+<br />
+
+  <strong>Other Title(s)</strong><br />
+	<p>Former Director, UIC Survey Research Laboratory<br />
+	Member,&nbsp;<span style="background-color: rgb(255, 255, 255); text-align: -webkit-left; ">UI Cancer Center&nbsp;</span></p>
+  <br />
+
+  <strong>Other Website</strong><br />
+  <p><a href="https://cuppa.uic.edu/profiles/johnson-timothy/">Faculty Page</a> on the College of Urban Planning and Public Affairs Website</p>
+  <br />
+
+
+
+
+
+
+  <p>
+    <strong>Recently Completed Research</strong>
+  </p>
+  <p>
+    <ul>
+	<li>
+		<a href="/study/breast-cancer-delay-black-hispanic-and-white-women-cphhd-project-3">Breast Cancer Delay in Black, Hispanic, and White Women (CPHHD project 3)</a></li>
+	<li>
+		<a href="http://cphhd.ihrp.uic.edu/">Center for Population Health and Health Disparities (CPHHD)</a></li>
+	<li>
+		<span id="cke_bm_741S" style="display: none;">&nbsp;</span><span id="cke_bm_740S" style="display: none;">&nbsp;</span><span id="cke_bm_739S" style="display: none;">&nbsp;</span><span id="cke_bm_738S" style="display: none;">&nbsp;</span><span id="cke_bm_737S" style="display: none;">&nbsp;</span><span id="cke_bm_736S" style="display: none;">&nbsp;</span><span id="cke_bm_735S" style="display: none;">&nbsp;</span><span id="cke_bm_734S" style="display: none;">&nbsp;</span><span id="cke_bm_733S" style="display: none;">&nbsp;</span><span id="cke_bm_732S" style="display: none;">&nbsp;</span><a href="/study/social-network-effects-breast-cancer-prognosis-cphhd-project-2">Social Network Effects on Breast Cancer Prognosis (CPHHD project 2)<span id="cke_bm_741E" style="display: none;">&nbsp;</span><span id="cke_bm_740E" style="display: none;">&nbsp;</span><span id="cke_bm_739E" style="display: none;">&nbsp;</span><span id="cke_bm_738E" style="display: none;">&nbsp;</span><span id="cke_bm_737E" style="display: none;">&nbsp;</span><span id="cke_bm_736E" style="display: none;">&nbsp;</span><span id="cke_bm_735E" style="display: none;">&nbsp;</span><span id="cke_bm_734E" style="display: none;">&nbsp;</span><span id="cke_bm_733E" style="display: none;">&nbsp;</span><span id="cke_bm_732E" style="display: none;">&nbsp;</span> </a><!-- /#content-right --></li>
+</ul>
+  </p>
+
+</div>
+        </div>
+
+        		
+      </div></div> <!-- /#content-inner, /#content -->
+
+              <div id="navbar"><div id="navbar-inner">
+
+          <a name="navigation" id="navigation"></a>
+
+          
+        </div></div> <!-- /#navbar-inner, /#navbar -->
+      
+
+    </div></div> <!-- /#main-inner, /#main -->
+
+    <div id="footer"><div id="footer-inner">
+      <div id="footer-message">  <footer id="footer" class="region region-footer">
+    <div id="block-block-43" class="block block-block first last odd">
+
+      
+  <p><strong>Institute for Health Research and Policy of the University of Illinois at Chicago</strong><br />
+	Multidisciplinary Home of UIC Researchers Collaborating in the Social and Health Sciences</p>
+<p>1747 W. Roosevelt Road, MC 275, Westside Research Office Bldg., Chicago, IL 60608<br />
+	T: <a href="tel:(312) 996-7222">(312) 996-7222</a> · F: (312) 996-2703</p>
+<p><a href="http://www.uic.edu/">UIC.edu</a> · <a href="https://www.uic.edu/apps/find-people/search">Campus Directory</a> · <a href="http://disabilityresources.uic.edu/">Disability Resources</a> · <a href="/content/employment-ihrp">Job Openings</a> · <a href="https://maps.uic.edu/">Maps</a> · <a href="/content/contact-us">Contact Us</a></p>
+<p>© 2020 <a href="http://www.uillinois.edu/trustees/">The Board of Trustees of the University of Illinois</a> · Privacy Policy · Webmaster: <a href="mailto:IHRP-webfix@uic.edu">IHRP-webfix@uic.edu</a></p>
+
+</div>
+  </footer>
+</div>
+
+    </div></div> <!-- /#footer-inner, /#footer -->
+
+    
+    
+  </div></div> <!-- /#page-inner, /#page -->
+    <script src="sites/all/themes/ihrp/js/customize-twitter-1.1/customize-twitter-1.1.min.js" type="text/javascript"></script>
+  <script>
+	var options = {
+    	"url": "sites/all/themes/ihrp/css/twitter.css",
+		"timeout_length": 1800
+	};
+	CustomizeTwitterWidget(options);
+</script>
+</body>
+</html>

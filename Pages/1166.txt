@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Entry -->
+<table id='entry_area' class='fixedTable'>
+	<tr>
+		<td style='width:676px;'>
+			<div id='entry_info'>
+<!-- Begin Entry Info -->
+<h3>Hearts and Minds: The Interrogations Project</h3>
+<div id='entry_image_large'><img style='left:0;' src='/resizedImages/1280x720-1280x720-heartsandminds.jpg' alt='' title='Hearts and Minds: The Interrogations Project' width='640' height='355'></div>
+<span class='smallText'>&ldquo;Hearts and Minds&rdquo; in the CAVE2&trade; - Roderick Coover, Scott Rettberg, Daria Tsoupikova</span><br><br>
+<div class='entry_content'>
+	<strong>Researchers:</strong> <a href='/entry.php?id=270'>Arthur Nishimoto</a>, <a href='/entry.php?id=188'>Daria Tsoupikova</a>, <a href='/entry.php?id=49'>Lance Long</a>, - University of Illinois at Chicago; Roderick Coover, Mark Partridge - Temple University; Scott Rettberg - University of Bergen, Norway<br><br>
+	<strong>URL:</strong> <a href='http://theinterrogationsproject.com/' target='_blank'>http://theinterrogationsproject.com/</a><br><br>
+	<strong>Funding:</strong> UIC Department of Art and Design, Temple University, and the Norwegian Research Council<br><br>
+<!-- Begin Entry Description -->
+<i>Hearts and Minds: The Interrogations Project</i> is a 3D narrative experience made for the effective sensory environment of the EVL&rsquo;s CAVE2&trade; that gives voice to stories of violence and the post-traumatic stress experienced by ordinary American soldiers who became torturers in the course of serving their country. During the American-led counterinsurgency and counterterrorism campaigns in Iraq in the years after September 11, 2001, the torture and abuse of detainees was a commonplace tactic. <i>Hearts and Minds: the Interrogations Project</i> is based on interviews of American soldiers conducted by Dr. John Tsukayama. Viewers travel through the domestic spaces and surreal interior landscapes of soldiers who have come home transformed by these experiences, triggering their testimonies by interacting with objects laden with loss.<br><br>
+<i>Hearts and Minds</i> is developed by a team including filmmaker Roderick Coover, writer Scott Rettberg, artist and visualization researcher Daria Tsoupikova, computer scientist Arthur Nishimoto, sound designer Mark Partridge, production assistant Mark Baratta, and senior research programmer Lance Long. Dr. Jeffrey Stevenson Murer of St. Andrews University, Scotland also contributed as a consultant on the project. EVL, the UIC Department of Art and Design, Temple University, and the Norwegian Research Council supported the development of the project.<br><br>
+<iframe src="https://player.vimeo.com/video/274777151" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+Video documentation excerpt from Hearts and Minds performance in the CAVE2 virtual environment at the Electronic Visualization Lab at the University of Illinois at Chicago.<br><br>
+<!-- End Entry Description -->
+	<strong>Date:</strong> August 16, 2014 - Ongoing
+</div>
+<!-- End Entry Info -->
+			</div>
+		</td>
+		<td style='width:374px;'>
+			<div id='entry_sidebar'>
+<!-- Begin Entry Sidebar -->
+<div class='entry_content'>
+	<h3>Related Entries</h3>
+	<strong>Directory:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=188'>Daria Tsoupikova</a></li>
+		<li><a href='/entry.php?id=270'>Arthur Nishimoto</a></li>
+		<li><a href='/entry.php?id=49'>Lance Long</a></li>
+	</ul><br>
+	<strong>Events:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2225'>&ldquo;Hearts and Minds: The Interrogations Project&rdquo; Awarded Top Electronic Literature Prize</a></li>
+		<li><a href='/entry.php?id=2220'>&ldquo;Hearts and Minds&rdquo; Exhibited at ISEA2016</a></li>
+		<li><a href='/entry.php?id=2209'>UIC CS/EVL PhD student Arthur Nishimoto receives 2016 UIC Chancellor's Student Service Award</a></li>
+		<li><a href='/entry.php?id=2100'>SAGE2 Multi-User Touch Centric Interface  and Unity3D in CAVE2: First Steps in a More Interactive Virtual World</a></li>
+		<li><a href='/entry.php?id=1162'>Battlefield Torture, Climate Change, and Immersive Narrative - EVL presents two provocative new artworks</a></li>
+		<li><a href='/related.php?id=2208&amp;related=3'><strong>View more&hellip;</strong></a></li>
+	</ul><br>
+	<strong>Papers:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2395'>Hearts and Minds: The Interrogations Project</a></li>
+		<li><a href='/entry.php?id=2392'>The Battle for Hearts and Minds: Interrogation and Torture in the Age of War. An Adaptation for Oculus Rift.</a></li>
+		<li><a href='/entry.php?id=2393'>From CAVE2&trade; to Mobile: Adaptation of Hearts and Minds Virtual Reality Project Interaction</a></li>
+		<li><a href='/entry.php?id=2394'>Hearts and Minds: The Residue of War</a></li>
+		<li><a href='/entry.php?id=1658'>Hearts and Minds: The Interrogations Project</a></li>
+		<li><a href='/related.php?id=2208&amp;related=4'><strong>View more&hellip;</strong></a></li>
+	</ul><br>
+	<h3>Related Categories</h3>
+	<ul>
+		<li><a href='/category.php?id=3&amp;related=5'>Applications</a></li>
+		<li><a href='/category.php?id=28&amp;related=5'>VR</a></li>
+		<li><a href='/category.php?id=29&amp;related=5'>VR Art</a></li>
+		<li><a href='/category.php?id=30&amp;related=5'>Web Art</a></li>
+	</ul>
+</div>
+<!-- End Entry Sidebar-->
+			</div>
+		</td>
+	</tr>
+</table>
+<!-- End Entry -->
+<script>
+	// Making both divs the same height is much easier in JavaScript
+	var entryInfo = document.getElementById("entry_info");
+	var entrySidebar = document.getElementById("entry_sidebar");
+	
+	if (entryInfo && entrySidebar) {
+		var maxHeight = Math.max(entryInfo.offsetHeight, entrySidebar.offsetHeight)-20;
+		entryInfo.style.height = maxHeight+"px";
+		entrySidebar.style.height = maxHeight+"px";
+	}
+</script>
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

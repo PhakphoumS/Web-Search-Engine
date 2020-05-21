@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Related -->
+<div id='related_area'>
+	<div id='related_title'>
+		<a href='/entry.php?id=2053'><h3>Effective Use of Large Visualization Displays</h3></a><br>
+<!-- Begin Related Pagination -->
+<strong>Related:</strong>
+<a href='/related.php?id=2053&amp;related=2'>Directory</a>&nbsp;&nbsp;
+<a href='/related.php?id=2053&amp;related=4'><strong>Papers</strong></a>&nbsp;&nbsp;
+<a href='/related.php?id=2053&amp;related=5'>Research</a>&nbsp;&nbsp;
+<!-- End Related Pagination -->
+	</div>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin Related List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2055'><img src='/resizedImages/500x280-crop-beliv_reda.png' alt='' title='Evaluating User Behavior and Strategy During Visual Exploration' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<a href='/entry.php?id=259'>Reda, K.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=122'>Papka, M.</a><br>
+			<strong><a href='/entry.php?id=2055'>Evaluating User Behavior and Strategy During Visual Exploration</a></strong><br>
+			<em>Proceedings of the 2014 BELIV Workshop: Beyond Time and Errors: Novel Evaluation Methods for Visualization</em>, Paris, France<br>
+			November 10, 2014<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1642'><img src='/resizedImages/500x280-crop-chi14_reda.png' alt='' title='Expanding the Porthole: Leveraging Large, High-Resolution Displays in Exploratory Visual Analysis' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<a href='/entry.php?id=259'>Reda, K.</a>, Offord, C., <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=21'>Leigh, J.</a><br>
+			<strong><a href='/entry.php?id=1642'>Expanding the Porthole: Leveraging Large, High-Resolution Displays in Exploratory Visual Analysis</a></strong><br>
+			<em>Proceedings of CHI&rsquo;14 EA on Human Factors on Computing Systems</em>, Toronto, Ontario, Canada, pp. 2047-2052, ACM<br>
+			April 26, 2014<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1634'><img src='/resizedImages/500x280-crop-design_patterns.jpg' alt='' title='Visualization Design Patterns for Ultra-Resolution Display Environments' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<a href='/entry.php?id=259'>Reda, K.</a>, <a href='/entry.php?id=285'>Aurisano, J.</a>, <a href='/entry.php?id=272'>Febretti, A.</a>, <a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=10'>Johnson, A.</a><br>
+			<strong><a href='/entry.php?id=1634'>Visualization Design Patterns for Ultra-Resolution Display Environments</a></strong><br>
+			<em>In Proceedings of the Workshop on Visualization Infrastructure and Systems Technology (VISTech &rsquo;13)</em>, Denver, CO<br>
+			November 22, 2013<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1632'><img src='/resizedImages/500x280-crop-reda_ldav13_sm.png' alt='' title='Visualizing Large-Scale Atomistic Simulations in Ultra-Resolution Immersive Environments' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<a href='/entry.php?id=259'>Reda, K.</a>, Knoll, A., Nomura, K., <a href='/entry.php?id=122'>Papka, M.E.</a>, <a href='/entry.php?id=10'>Johnson, A.E.</a>, <a href='/entry.php?id=21'>Leigh, J.</a><br>
+			<strong><a href='/entry.php?id=1632'>Visualizing Large-Scale Atomistic Simulations in Ultra-Resolution Immersive Environments</a></strong><br>
+			<em>Proceedings of the IEEE Symposium on Large-Scale Data Analysis and Visualization (LDAV &rsquo;13)</em>, Atlanta, GA, pp. 59-65<br>
+			October 13, 2013<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1628'><img src='/resizedImages/500x280-crop-articulatevisualization.png' alt='' title='Articulate: Creating Meaningful Visualizations from Natural Language (chapter)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<a href='/entry.php?id=190'>Sun, Y.</a>, <a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=163'>Di Eugenio, B.</a><br>
+			<strong><a href='/entry.php?id=1628'>Articulate: Creating Meaningful Visualizations from Natural Language (chapter)</a></strong><br>
+			<em>Innovative Approaches of Data Visualization and Visual Analytics</em>, IGI Global, pp 218-235<br>
+			August 29, 2013<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1627'><img src='/resizedImages/500x280-crop-cave2_ieee_immersivemeeting.jpg' alt='' title='Visualizing Large, Heterogeneous Data in Hybrid-Reality Environments' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<a href='/entry.php?id=259'>Reda, K.</a>, <a href='/entry.php?id=272'>Febretti, A.</a>, Knoll, A., <a href='/entry.php?id=285'>Aurisano, J.</a>, <a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=122'>Papka, M.</a>, <a href='/entry.php?id=38'>Hereld, M.</a><br>
+			<strong><a href='/entry.php?id=1627'>Visualizing Large, Heterogeneous Data in Hybrid-Reality Environments</a></strong><br>
+			<em>Computer Graphics and Applications, IEEE</em>, vol 33, no 4, pp. 38-48<br>
+			July 1, 2013<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1622'><img src='/resizedImages/500x280-crop-spie13paper_cave2.png' alt='' title='CAVE2: A Hybrid Reality Environment for Immersive Simulation and Information Analysis' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<a href='/entry.php?id=272'>Febretti, A.</a>, <a href='/entry.php?id=270'>Nishimoto, A.</a>, Thigpen, T., <a href='/entry.php?id=24'>Talandis, J.</a>, <a href='/entry.php?id=49'>Long, L.</a>, <a href='/entry.php?id=273'>Pirtle, JD</a>, <a href='/entry.php?id=199'>Peterka, T.</a>, <a href='/entry.php?id=23'>Verlo, A.</a>, <a href='/entry.php?id=178'>Brown, M.</a>, <a href='/entry.php?id=5'>Plepys, D.</a>, <a href='/entry.php?id=7'>Sandin, D.</a>, <a href='/entry.php?id=192'>Renambot, L.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=21'>Leigh, J.</a><br>
+			<strong><a href='/entry.php?id=1622'>CAVE2: A Hybrid Reality Environment for Immersive Simulation and Information Analysis</a></strong><br>
+			<em>Proceedings of IS&amp;T / SPIE Electronic Imaging, The Engineering Reality of Virtual Reality 2013</em>, San Francisco, CA<br>
+			February 4, 2013<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1621'><img src='/resizedImages/500x280-crop-ultravis12_poster-paper.jpg' alt='' title='Scalable Visual Queries for Data Exploration on Large, High-Resolution 3D Displays' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<a href='/entry.php?id=259'>Reda, K.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=281'>Mateevitsi, V.</a>, Offord, C., <a href='/entry.php?id=21'>Leigh, J.</a><br>
+			<strong><a href='/entry.php?id=1621'>Scalable Visual Queries for Data Exploration on Large, High-Resolution 3D Displays</a></strong><br>
+			<em>7th Annual Workshop on Ultrascale Visualization, Proceedings of the 2012 SC Companion: High Performance Computing, Networking Storage and Analysis</em>, Salt Lake City, Utah, IEEE Conference Publishing Services<br>
+			November 12, 2012<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1615'><img src='/resizedImages/500x280-crop-scalabledisplay_ieee2012.png' alt='' title='Scalable Resolution Display Walls' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=192'>Renambot, L.</a>, <a href='/entry.php?id=199'>Peterka, T.</a>, <a href='/entry.php?id=208'>Jeong, B.</a>, <a href='/entry.php?id=7'>Sandin, D.</a>, <a href='/entry.php?id=24'>Talandis, J.</a>, <a href='/entry.php?id=227'>Jagodic, R.</a>, <a href='/entry.php?id=248'>Nam, S.</a>, <a href='/entry.php?id=245'>Hur, H.</a>, <a href='/entry.php?id=190'>Sun, Y.</a><br>
+			<strong><a href='/entry.php?id=1615'>Scalable Resolution Display Walls</a></strong><br>
+			<em>Proceedings of the IEEE, Issue 99</em>, pp. 1-15<br>
+			May 1, 2012<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1606'><img src='/resizedImages/500x280-crop-articulatethesis.png' alt='' title='Articulate: Creating Meaningful Visualizations from Natural Language' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<a href='/entry.php?id=190'>Sun, Y.</a><br>
+			<strong><a href='/entry.php?id=1606'>Articulate: Creating Meaningful Visualizations from Natural Language</a></strong><br>
+			<em>Submitted as partial fulfillment of the requirements of the degree of Doctor of Philosophy in Computer Science</em>, University of Illinois at Chicago, Graduate College<br>
+			March 18, 2012<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2057'><img src='/resizedImages/500x280-crop-igiglobal-2.png' alt='' title='Visualization of Large-Scale Distributed Data' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			Leigh, J., Johnson, A., Renambot, L., Vishwanath, V., Peterka, T., Schwarz, N.<br>
+			<strong><a href='/entry.php?id=2057'>Visualization of Large-Scale Distributed Data</a></strong><br>
+			<em>Data Intensive Distributed Computing: Challenges and Solutions for Large-Scale Information Management (2012)</em>, no 1, pp. 242-274, IGI Global<br>
+			January 1, 2012<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1593'><img src='/resizedImages/500x280-crop-sage_ratko-4183.jpg' alt='' title='Enabling multi-user interaction in large high-resolution distributed environments' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<a href='/entry.php?id=227'>Jagodic, R.</a>, <a href='/entry.php?id=192'>Renambot, L.</a>, <a href='/entry.php?id=10'>Johnson, A.E.</a>, <a href='/entry.php?id=21'>Leigh, J.</a>, Deshpande, S.<br>
+			<strong><a href='/entry.php?id=1593'>Enabling multi-user interaction in large high-resolution distributed environments</a></strong><br>
+			<em>Future Generation Computer Systems, Elsevier</em><br>
+			November 21, 2010<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1585'><img src='/resizedImages/500x280-crop-smartgraphics10_ysun_sm.png' alt='' title='Articulate: A Semi-automated Model for Translating Natural Language Queries into Meaningful Visualizations' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<a href='/entry.php?id=190'>Y. Sun</a>, <a href='/entry.php?id=21'>J. Leigh</a>, <a href='/entry.php?id=10'>A. Johnson</a>, <a href='/entry.php?id=181'>S. Lee</a><br>
+			<strong><a href='/entry.php?id=1585'>Articulate: A Semi-automated Model for Translating Natural Language Queries into Meaningful Visualizations</a></strong><br>
+			<em>Proceddings of 10th International Symposium on Smart Graphics, 	Lecture Notes in Computer Science 2010</em>, vol 6133, Banff, Canada, pp. 184-195<br>
+			June 24, 2010<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1583'><img src='/resizedImages/500x280-crop-sagelogo_whitebkg.png' alt='' title='Ultrascale Collaborative Visualization Using a Display-Rich Global Cyberinfrastructure' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<a href='/entry.php?id=208'>Jeong, B.</a>, <a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=192'>Renambot, L.</a>, <a href='/entry.php?id=178'>Brown, M.</a>, <a href='/entry.php?id=227'>Jagodic, R.</a>, <a href='/entry.php?id=248'>Nam, S.</a>, <a href='/entry.php?id=245'>Hur,H.</a><br>
+			<strong><a href='/entry.php?id=1583'>Ultrascale Collaborative Visualization Using a Display-Rich Global Cyberinfrastructure</a></strong><br>
+			<em>IEEE Computer Graphics and Applications</em>, vol 30, no 3, doi:10.1109/MCG.2010.45, pp. 71-83<br>
+			May 1, 2010<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2054'><img src='/resizedImages/500x280-crop-paraview.png' alt='' title='Remote Visualization of Large Scale Data for Ultra-High Resolution Display Environments' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<a href='/entry.php?id=248'>Nam, S.</a>, <a href='/entry.php?id=208'>Jeong, B.</a>, <a href='/entry.php?id=192'>Renambot, L.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, Gaither, K.,, <a href='/entry.php?id=21'>Leigh, J.</a><br>
+			<strong><a href='/entry.php?id=2054'>Remote Visualization of Large Scale Data for Ultra-High Resolution Display Environments</a></strong><br>
+			<em>SC '09</em>, Portland, OR, pp. 42-47, Proceedings of the ACM 2009 Ultrascale Visualization Workshop<br>
+			November 16, 2009<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1567'><img src='/misc/default_500x280.png' alt='' title='Scalable Adaptive Graphics middleware for visualization streaming and collaboration in ultra resolution display environments' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=192'>Renambot, L.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=227'>Jagodic, R.</a>, <a href='/entry.php?id=245'>Hur, H.</a>, Hofer, E., <a href='/entry.php?id=181'>Lee, D.</a><br>
+			<strong><a href='/entry.php?id=1567'>Scalable Adaptive Graphics middleware for visualization streaming and collaboration in ultra resolution display environments</a></strong><br>
+			<em>Proceedings of the Workshop on Ultrascale Visualization, 2008. UltraVis 2008</em>, Austin, TX, pp. 47-54, IEEE Xplore Digital Library<br>
+			November 16, 2008<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1546'><img src='/resizedImages/500x280-crop-pic-fgcs-renambot-2008_sm.png' alt='' title='Enabling High Resolution Collaborative Visualization in Display Rich Virtual Organizations' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<a href='/entry.php?id=192'>Renambot, L.</a>, <a href='/entry.php?id=208'>Jeong, B.</a>, <a href='/entry.php?id=245'>Hur, H.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=21'>Leigh, J.</a><br>
+			<strong><a href='/entry.php?id=1546'>Enabling High Resolution Collaborative Visualization in Display Rich Virtual Organizations</a></strong><br>
+			<em>Future Generation Computer Systems 25 (2009)</em>, Elsevier B.V., doi:10.1016/j.future.2008.07.004, pp. 161-168<br>
+			July 24, 2008<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1498'><img src='/resizedImages/500x280-crop-newcave.gif' alt='' title='Emerging from the CAVE: Collaboration in Ultra High Resolution Environments' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=192'>Renambot, L.</a>, <a href='/entry.php?id=6'>DeFanti, T.</a>, <a href='/entry.php?id=178'>Brown, M.</a>, <a href='/entry.php?id=208'>Jeong, B.</a>, <a href='/entry.php?id=227'>Jagodic, R.</a>, <a href='/entry.php?id=221'>Krumbholz, C.</a>, <a href='/entry.php?id=219'>Svistula, D.</a>, <a href='/entry.php?id=245'>Hur, H.</a>, <a href='/entry.php?id=222'>Kooima, R.</a>, <a href='/entry.php?id=199'>Peterka, T.</a>, <a href='/entry.php?id=163'>Ge, J.</a>, Falk, C.<br>
+			<strong><a href='/entry.php?id=1498'>Emerging from the CAVE: Collaboration in Ultra High Resolution Environments</a></strong><br>
+			<em>Proceedings of the First International Symposium on Universal Communication</em>, Kyoto, Japan<br>
+			June 14, 2007<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1445'><img src='/resizedImages/500x280-crop-sagechi06.jpg' alt='' title='Collaborative Visualization using High-Resolution Tiled Displays' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<a href='/entry.php?id=192'>Renambot, L.</a>, <a href='/entry.php?id=208'>Jeong, B.</a>, <a href='/entry.php?id=227'>Jagodic, R.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=191'>Aguilera, J.</a><br>
+			<strong><a href='/entry.php?id=1445'>Collaborative Visualization using High-Resolution Tiled Displays</a></strong><br>
+			<em>CHI 06 Workshop on Information Visualization and Interaction Techniques for Collaboration Across Multiple Displays</em>, Montreal, Canada<br>
+			April 22, 2006<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2056'><img src='/resizedImages/500x280-crop-groupware.png' alt='' title='Design of Awareness Interface for Distributed Teams in Display-rich Advanced Collaboration Environment' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<a href='/entry.php?id=52'>Park, K.</a>, <a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=30'>Cho, Y.</a><br>
+			<strong><a href='/entry.php?id=2056'>Design of Awareness Interface for Distributed Teams in Display-rich Advanced Collaboration Environment</a></strong><br>
+			<em>10th International Workshop on Groupware: Design, Implementation and Use (CRIWG) 2004</em>, vol 3198, San Carlos, Costa Rica, Springer 2004, pp. 105-120, Published as Lecture Notes in Computer Science<br>
+			September 5, 2004<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1353'><img src='/resizedImages/500x280-crop-continum_185.jpg' alt='' title='Impact of Display-rich Environments for Enhancing Task Parallelism and Group Awareness in Advanced Collaborative Environments' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=52'>Park, K.S.</a>, <a href='/entry.php?id=192'>Renambot, L.</a><br>
+			<strong><a href='/entry.php?id=1353'>Impact of Display-rich Environments for Enhancing Task Parallelism and Group Awareness in Advanced Collaborative Environments</a></strong><br>
+			<em>Proceedings of The Global Grid Forum, GGF8 : Workshop on Advanced Collaboration Environments</em>, Seattle, WA<br>
+			June 24, 2003<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1350'><img src='/resizedImages/500x280-crop-continuum_new.jpg' alt='' title='Amplified Collaboration Environments' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=52'>Park, K.</a>, <a href='/entry.php?id=166'>Nayak, A.</a>, <a href='/entry.php?id=183'>Singh, R.</a>, <a href='/entry.php?id=30'>Chowdhry, V.</a>, <a href='/entry.php?id=6'>DeFanti, T.</a><br>
+			<strong><a href='/entry.php?id=1350'>Amplified Collaboration Environments</a></strong><br>
+			<em>VizGrid Symposium</em>, Tokyo, Japan<br>
+			November 1, 2002<br>
+		</div>
+	</td>
+</tr>
+<!-- End Related List -->
+	</table>
+</div>
+<!-- End Related -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

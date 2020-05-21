@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Related -->
+<div id='related_area'>
+	<div id='related_title'>
+		<a href='/entry.php?id=2347'><h3>UIC Human-Computer Interaction (HCI) Laboratory</h3></a><br>
+<!-- Begin Related Pagination -->
+<strong>Related:</strong>
+<a href='/related.php?id=2347&amp;related=2'>Directory</a>&nbsp;&nbsp;
+<a href='/related.php?id=2347&amp;related=4'><strong>Papers</strong></a>&nbsp;&nbsp;
+<a href='/related.php?id=2347&amp;related=5'>Research</a>&nbsp;&nbsp;
+<!-- End Related Pagination -->
+	</div>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin Related List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2348'><img src='/resizedImages/500x280-crop-chattopadhyay-et-al-2018-iwc.png' alt='' title='Design and Evaluation of Trust - Eliciting Cues in Drug - Drug Interaction Alerts' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<a href='/entry.php?id=2278'>Chattopadhyay, D.</a>, Verma, N., Duke, J., Bolchini, D.<br>
+			<strong><a href='/entry.php?id=2348'>Design and Evaluation of Trust - Eliciting Cues in Drug - Drug Interaction Alerts</a></strong><br>
+			<em>Ineracting with Computers, 2018</em>, Oxford University Press, The British Computer Society<br>
+			December 18, 2018<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2396'><img src='/resizedImages/500x280-crop-personalexposureubicomp2018.png' alt='' title='Toward a Bayesian Approach for Self- Tracking Personal Pollution Exposures' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<a href='/entry.php?id=2278'>Chattopadhyay, D.</a><br>
+			<strong><a href='/entry.php?id=2396'>Toward a Bayesian Approach for Self- Tracking Personal Pollution Exposures</a></strong><br>
+			<em>Sensors & Behaviuor Workshop '18, UbiComp/ISWC '18</em>, Singapore<br>
+			October 8, 2018<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2397'><img src='/resizedImages/500x280-crop-mycitymeterubicomp-2018.png' alt='' title='myCityMeter: Helping Older Adults Manage the Environmental Risk Factors for Cognitive Impairment' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<a href='/entry.php?id=2304'>Sakhnini, N.</a>, Yu, J., <a href='/entry.php?id=2278'>Chattopadhyay, D.</a><br>
+			<strong><a href='/entry.php?id=2397'>myCityMeter: Helping Older Adults Manage the Environmental Risk Factors for Cognitive Impairment</a></strong><br>
+			<em>UbiComp/ISWC '18 Adjunct</em>, Singapore, ACM ISBN 978-1-4503-5966-5/18/10<br>
+			October 8, 2018<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2349'><img src='/resizedImages/500x280-crop-chattopadhyay-2017-hci-beyond-presentations-preprint.png' alt='' title='Beyond presentation: Shared slideware control as a resource for collocated collaboration' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<a href='/entry.php?id=2278'>Chattopadhyay, D.</a>, Salvadori, F., O&rsquo;Hara, K,, Rintel, S.<br>
+			<strong><a href='/entry.php?id=2349'>Beyond presentation: Shared slideware control as a resource for collocated collaboration</a></strong><br>
+			<em>Journal of Human-Computer Interaction</em>, pp. 1-44<br>
+			November 4, 2017<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2350'><img src='/resizedImages/500x280-crop-cognition2017_debaleenac.png' alt='' title='Categorization-based stranger avoidance does not explain the uncanny valley effect (2016)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			MacDorman, K. F., <a href='/entry.php?id=2278'>Chattopadhyay, D.</a><br>
+			<strong><a href='/entry.php?id=2350'>Categorization-based stranger avoidance does not explain the uncanny valley effect (2016)</a></strong><br>
+			<em>Cognition</em>, vol 161, pp. 132-135, Elsevier B.V.<br>
+			January 18, 2017<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2351'><img src='/resizedImages/500x280-crop-journalofvision2016_debaleenac.png' alt='' title='Familiar faces rendered strange: Why inconsistent realism drives characters into the uncanny valley' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<a href='/entry.php?id=2278'>Chattopadhyay, D.</a>, MacDorman, K. F.<br>
+			<strong><a href='/entry.php?id=2351'>Familiar faces rendered strange: Why inconsistent realism drives characters into the uncanny valley</a></strong><br>
+			<em>Journal of Vision, 16(11):7</em>, pp. 1-25<br>
+			September 9, 2016<br>
+		</div>
+	</td>
+</tr>
+<!-- End Related List -->
+	</table>
+</div>
+<!-- End Related -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

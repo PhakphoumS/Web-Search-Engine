@@ -1,0 +1,2793 @@
+  
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js ie ie6 lt-ie9 lt-ie8 lt-ie7" lang="en-US"> <![endif]-->
+<!--[if IE 7]><html class="no-js ie ie7 lt-ie9 lt-ie8" lang="en-US"> <![endif]-->
+<!--[if IE 8]><html class="no-js ie ie8 lt-ie9" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js" lang="en-US"> <!--<![endif]-->
+
+    <head>
+
+<!-- Google Analytics script (RED and this site) -->
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+              (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    
+        ga('create', 'UA-20665772-1', 'auto');
+    
+        ga('create', 'UA-139850022-1', 'auto', 'gradTracker');
+    
+        ga('send', 'pageview');
+    
+        ga('gradTracker.send', 'pageview');
+      </script>
+<!-- End Google Analytics script (RED and this site) -->
+
+
+
+<!-- Google Tag Manager script for RED multisite -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+              j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})
+              (window,document,'script','dataLayer','GTM-W2Q8D2K');
+  </script>
+<!-- End Google Tag Manager script for RED multisite -->
+
+
+
+
+
+
+        <title>
+                            National &amp; International Opportunities | Graduate College | University of Illinois at Chicago
+                    </title>
+
+
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="pingback" href="https://grad.uic.edu/xmlrpc.php" />
+
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="/apple-touch-icon-60x60.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/apple-touch-icon-152x152.png" />
+<link rel="icon" type="image/png" href="/favicon-196x196.png" sizes="196x196" />
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16" />
+<link rel="icon" type="image/png" href="/favicon-128.png" sizes="128x128" />
+<meta name="application-name" content="&nbsp;"/>
+<meta name="msapplication-TileColor" content="#FFFFFF" />
+<meta name="msapplication-TileImage" content="mstile-144x144.png" />
+<meta name="msapplication-square70x70logo" content="mstile-70x70.png" />
+<meta name="msapplication-square150x150logo" content="mstile-150x150.png" />
+<meta name="msapplication-wide310x150logo" content="mstile-310x150.png" />
+<meta name="msapplication-square310x310logo" content="mstile-310x310.png" />
+
+    <link rel="stylesheet" href="https://grad.uic.edu/wp-content/themes/uic-red/main.css?v=1588698688" type="text/css" media="all" />
+    <link rel="stylesheet" href="https://grad.uic.edu/wp-content/themes/uic-red/theinhardt.css?v=1588698688" type="text/css" media="all">
+
+    <link rel='dns-prefetch' href='//www.uic.edu' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/grad.uic.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=5d22ad4e79d53a5a8c98a4d20d4dd9b6"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://grad.uic.edu/wp-includes/css/dist/block-library/style.min.css?ver=5d22ad4e79d53a5a8c98a4d20d4dd9b6' type='text/css' media='all' />
+<link rel='stylesheet' id='sb_instagram_styles-css'  href='https://grad.uic.edu/wp-content/plugins/instagram-feed/css/sb-instagram.min.css?ver=1.12.1' type='text/css' media='all' />
+<link rel='stylesheet' id='sb-font-awesome-css'  href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='https://grad.uic.edu/wp-content/plugins/tablepress/css/default.min.css?ver=1.9.2' type='text/css' media='all' />
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/2.2.3/jquery.min.js?ver=5d22ad4e79d53a5a8c98a4d20d4dd9b6'></script>
+<link rel='https://api.w.org/' href='https://grad.uic.edu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://grad.uic.edu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://grad.uic.edu/wp-includes/wlwmanifest.xml" /> 
+
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		if (window.wfLogHumanRan) { return; }
+		window.wfLogHumanRan = true;
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//grad.uic.edu/?wordfence_lh=1&hid=5F0C3FD9888E3E3C27DAB7B54A3B1146');
+</script>
+</head>
+      
+  <body>
+
+<!-- Google Tag Manager for RED multisite (noscript) -->
+<noscript>
+  <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W2Q8D2K" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager for RED multisite (noscript) -->
+
+
+
+
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  <div class="l-page page-template-default page page-id-13571 page-parent page-child parent-pageid-22688 post-type--page  site-type-b theme--navy is-sidebar  ">
+
+
+    <!--[if lte IE 9]>
+<div class="browser-stripe u-dark-region">
+  <div class="l-full">
+      <h2>Your browser is unsupported</h2>
+      <p>We recommend using the latest version of IE11, Edge, Chrome, Firefox or Safari.</p>
+  </div>
+</div>
+<![endif]-->
+<div class="browser-stripe u-dark-region ie10">
+  <div class="l-full">
+      <h2>Your browser is unsupported</h2>
+      <p>We recommend using the latest version of IE11, Edge, Chrome, Firefox or Safari.</p>
+  </div>
+</div>
+    
+<header class="l-header" role="banner">
+
+  
+  <div class="header-navigation">
+
+      <div id="skip" class="skip-menu assistive-text">
+  <p>
+    <span class="_main">
+    <a href="#article">Skip to the content of this page</a>,
+    </span>
+    <a class="_primary-menu" href="#menu-main">the main menu</a>,
+
+        <a class="_secondary-menu" href="#menu-secondary">the secondary menu</a>,
+    
+    
+    <a class="_search" href="#search">the site search form</a>,
+
+    <a class="_home" href="https://grad.uic.edu">the site home page</a>.
+  </p>
+</div>
+
+      <div class="eyebrow-mobile-wrapper js-eyebrow-mobile">
+<div class="eyebrow-mobile">
+            <div class="eyebrow-mobile-logo eyebrow-logo">
+            <a href="http://uic.edu" class="uic-logo-icon eyebrow-mobile-logo__uic-logo">
+ <svg aria-label="UIC.edu home" viewBox="0 0 55 55" xmlns="http://www.w3.org/2000/svg">
+ <title>UIC Logo</title>
+ <circle class="_circle" cx="27" cy="27" r="25" fill="none" />
+<path class="_mark" d="M49.73 23.917l-4.583 2.2c-.44-1.71-1.397-2.718-3.056-2.718-2.25 0-3.39 1.862-3.39 4.918 0 3.03 1.14 4.844 3.39 4.844 1.555 0 2.462-.83 2.954-2.203l4.79 1.707c-1.242 2.824-3.754 4.767-7.768 4.767-5.57 0-8.754-3.728-8.754-9.116 0-5.41 3.368-9.114 8.857-9.114 4.194 0 6.68 2.407 7.56 4.713zm-24.264-4.403h5.282v17.61h-5.282v-17.61zm-3.21 10.41c0 2.46-.258 3.65-.96 4.844-1.164 1.94-4.27 2.692-6.99 2.692-2.72 0-5.828-.753-6.993-2.692-.698-1.194-.96-2.384-.96-4.844v-10.41h5.284v10.513c0 1.192.157 1.968.596 2.486.416.492 1.09.726 2.073.726.983 0 1.657-.235 2.07-.727.44-.518.597-1.294.597-2.486V19.514h5.282v10.41zM54.5 27.5c0-14.912-12.09-27-27-27-14.913 0-27 12.088-27 27s12.087 27 27 27c14.91 0 27-12.088 27-27z" fill="#FFF " fill-rule="evenodd"/>
+</svg>
+</a>
+    </div>
+                <div class="site-title-eyebrow-mobile">
+          <a href="https://grad.uic.edu">Graduate College</a>
+        </div>
+    
+    <button aria-label="Search the site" class="search-toggle-mobile js-search-toggle-mobile">
+  <span class="icon-search ">
+        <span class="assistive-text">Search the site</span>
+      </span>
+    </button>
+    <button class="nav-header-toggle js-nav-header-toggle">
+      <span class="icon-menu ">
+      Toggle Menu
+      </span>
+    </button>
+  </div>
+  <div class="search-input-container-mobile">
+    <div class="search-input-container-mobile__content">
+      <div class="search-title">
+        Search
+        <a class="search-close search-toggle-mobile">
+          <svg aria-label="Close search box" width="100%" height="100%" viewBox="0 0 22 22">
+            <use xlink:href="https://grad.uic.edu/wp-content/themes/uic-red/images/svgs/svgs.svg#icon-close"></use>
+          </svg>
+        </a>
+      </div>
+      <form method="get" action="/search" role="search" aria-label="Search this site on your mobile device">
+        <input type="text" name="q" class="search-input-mobile" placeholder="Search..." tabindex="-1" aria-label="Search this site on your mobile device" disabled="">
+        <input type="submit" class="submit-button" name="search" value="Submit">
+      </form>
+    </div>
+  </div>
+</div>
+
+    <div class="header-navigation__eyebrow">
+
+                    <div class="header-navigation-logo header-logo">
+                        <a href="http://uic.edu" class="uic-logo-icon header-navigation-logo__uic-logo">
+ <svg aria-label="UIC.edu home" viewBox="0 0 55 55" xmlns="http://www.w3.org/2000/svg">
+ <title>UIC Logo</title>
+ <circle class="_circle" cx="27" cy="27" r="25" fill="none" />
+<path class="_mark" d="M49.73 23.917l-4.583 2.2c-.44-1.71-1.397-2.718-3.056-2.718-2.25 0-3.39 1.862-3.39 4.918 0 3.03 1.14 4.844 3.39 4.844 1.555 0 2.462-.83 2.954-2.203l4.79 1.707c-1.242 2.824-3.754 4.767-7.768 4.767-5.57 0-8.754-3.728-8.754-9.116 0-5.41 3.368-9.114 8.857-9.114 4.194 0 6.68 2.407 7.56 4.713zm-24.264-4.403h5.282v17.61h-5.282v-17.61zm-3.21 10.41c0 2.46-.258 3.65-.96 4.844-1.164 1.94-4.27 2.692-6.99 2.692-2.72 0-5.828-.753-6.993-2.692-.698-1.194-.96-2.384-.96-4.844v-10.41h5.284v10.513c0 1.192.157 1.968.596 2.486.416.492 1.09.726 2.073.726.983 0 1.657-.235 2.07-.727.44-.518.597-1.294.597-2.486V19.514h5.282v10.41zM54.5 27.5c0-14.912-12.09-27-27-27-14.913 0-27 12.088-27 27s12.087 27 27 27c14.91 0 27-12.088 27-27z" fill="#FFF " fill-rule="evenodd"/>
+</svg>
+</a>
+            </div>
+                <div class="header-navigation__eyebrow-menus">
+
+            <div class="header-navigation__logo-and-site-title">
+
+                                <div class="site-title-main -large">
+                                      <a href="https://grad.uic.edu">Graduate College</a>
+                                    </div>
+              
+            </div>
+          <nav class="header-menus js-header-menus " aria-label="Primary" role="navigation">
+
+  <div class="site-title-mobile-menu">
+    <a href="https://grad.uic.edu">Graduate College</a>
+  </div>
+
+  
+  <h2 class="assistive-text">Main Menu</h2>
+  <ul id="menu-main" class="menu menu-main" aria-label="Main Menu">
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-18452 menu-item-has-children">
+      <a 
+        class="menu-main__first-link"
+        href="/admissions/"
+        target="_self">
+
+        Admissions
+      </a>
+
+              <button class="menu-main__expand-item js-expand-item" role="button">
+          <svg class="menu-main__expand-icon" aria-label="Expand Admissions menu" width="32" height="32" viewBox="0 0 32 32">
+            <title>Expand Admissions menu</title>
+            <g fill="none" fill-rule="evenodd">
+              <ellipse class="menu-main__expand-circle" stroke-width="1" stroke="#001E62" fill="#001E62" cx="16" cy="16" rx="15.5" ry="15.5"></ellipse>
+              <path class="menu-main__expand-chevron" stroke-width="2" stroke="#fff" stroke-linecap="round" d="M12 18l4-4 4 4"></path>
+            </g>
+          </svg>
+        </button>
+
+        <div class="menu-main__submenus-container">
+          <ul class="menu-main__second-list">
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-23377 menu-item-has-children">
+                <a 
+                  class="menu-main__second-link"
+                  href="/admissions/degree-admission/"
+                  target="_self">
+
+                  Degree Admissions
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-18457">
+                <a 
+                  class="menu-main__second-link"
+                  href="/admissions/deadlines/"
+                  target="_self">
+
+                  Application Deadlines
+                </a>
+              </li>
+                      </ul>
+
+          <div class="menu-main__mega-menu-container">
+                      </div>
+        </div>
+          </li>
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current_page_ancestor menu-item-18450 menu-item-has-children">
+      <a 
+        class="menu-main__first-link"
+        href="/funding-awards/"
+        target="_self">
+
+        Funding &amp; Awards
+      </a>
+
+              <button class="menu-main__expand-item js-expand-item" role="button">
+          <svg class="menu-main__expand-icon" aria-label="Expand Funding &amp; Awards menu" width="32" height="32" viewBox="0 0 32 32">
+            <title>Expand Funding &amp; Awards menu</title>
+            <g fill="none" fill-rule="evenodd">
+              <ellipse class="menu-main__expand-circle" stroke-width="1" stroke="#001E62" fill="#001E62" cx="16" cy="16" rx="15.5" ry="15.5"></ellipse>
+              <path class="menu-main__expand-chevron" stroke-width="2" stroke="#fff" stroke-linecap="round" d="M12 18l4-4 4 4"></path>
+            </g>
+          </svg>
+        </button>
+
+        <div class="menu-main__submenus-container">
+          <ul class="menu-main__second-list">
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-22503 menu-item-has-children">
+                <a 
+                  class="menu-main__second-link"
+                  href="/funding-awards/graduate-funding-overview/"
+                  target="_self">
+
+                  Graduate Funding Overview
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-18504 menu-item-has-children">
+                <a 
+                  class="menu-main__second-link"
+                  href="/funding-awards/graduate-college-fellowships/"
+                  target="_self">
+
+                  Fellowships &amp; Awards
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-22805 menu-item-has-children">
+                <a 
+                  class="menu-main__second-link"
+                  href="/funding-awards/other-funding/"
+                  target="_self">
+
+                  Other Funding
+                </a>
+              </li>
+                      </ul>
+
+          <div class="menu-main__mega-menu-container">
+                      </div>
+        </div>
+          </li>
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-18449 menu-item-has-children">
+      <a 
+        class="menu-main__first-link"
+        href="/programs/"
+        target="_self">
+
+        Programs
+      </a>
+
+              <button class="menu-main__expand-item js-expand-item" role="button">
+          <svg class="menu-main__expand-icon" aria-label="Expand Programs menu" width="32" height="32" viewBox="0 0 32 32">
+            <title>Expand Programs menu</title>
+            <g fill="none" fill-rule="evenodd">
+              <ellipse class="menu-main__expand-circle" stroke-width="1" stroke="#001E62" fill="#001E62" cx="16" cy="16" rx="15.5" ry="15.5"></ellipse>
+              <path class="menu-main__expand-chevron" stroke-width="2" stroke="#fff" stroke-linecap="round" d="M12 18l4-4 4 4"></path>
+            </g>
+          </svg>
+        </button>
+
+        <div class="menu-main__submenus-container">
+          <ul class="menu-main__second-list">
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-22928">
+                <a 
+                  class="menu-main__second-link"
+                  href="/programs/graduate-college-courses/"
+                  target="_self">
+
+                  Graduate College Courses
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-25075">
+                <a 
+                  class="menu-main__second-link"
+                  href="/programs/graduate-program-in-neuroscience/"
+                  target="_self">
+
+                  Graduate Program in Neuroscience
+                </a>
+              </li>
+                      </ul>
+
+          <div class="menu-main__mega-menu-container">
+                      </div>
+        </div>
+          </li>
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-18451 menu-item-has-children">
+      <a 
+        class="menu-main__first-link"
+        href="/diversity/"
+        target="_self">
+
+        Diversity
+      </a>
+
+              <button class="menu-main__expand-item js-expand-item" role="button">
+          <svg class="menu-main__expand-icon" aria-label="Expand Diversity menu" width="32" height="32" viewBox="0 0 32 32">
+            <title>Expand Diversity menu</title>
+            <g fill="none" fill-rule="evenodd">
+              <ellipse class="menu-main__expand-circle" stroke-width="1" stroke="#001E62" fill="#001E62" cx="16" cy="16" rx="15.5" ry="15.5"></ellipse>
+              <path class="menu-main__expand-chevron" stroke-width="2" stroke="#fff" stroke-linecap="round" d="M12 18l4-4 4 4"></path>
+            </g>
+          </svg>
+        </button>
+
+        <div class="menu-main__submenus-container">
+          <ul class="menu-main__second-list">
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-18521">
+                <a 
+                  class="menu-main__second-link"
+                  href="/diversity/recruitment/"
+                  target="_self">
+
+                  Recruitment
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-23477">
+                <a 
+                  class="menu-main__second-link"
+                  href="/diversity/fellows-mentoring-support-initiative/"
+                  target="_self">
+
+                  Fellows Mentoring &amp; Support
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-23461">
+                <a 
+                  class="menu-main__second-link"
+                  href="/diversity/dfi-program/"
+                  target="_self">
+
+                  DFI Program
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-23466">
+                <a 
+                  class="menu-main__second-link"
+                  href="/funding-awards/graduate-college-fellowships/pif/"
+                  target="_self">
+
+                  PIF Program
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-24913">
+                <a 
+                  class="menu-main__second-link"
+                  href="/diversity/pbrc-prep/"
+                  target="_self">
+
+                  PBRC-PREP Program
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-18531 menu-item-has-children">
+                <a 
+                  class="menu-main__second-link"
+                  href="/diversity/srop-program/"
+                  target="_self">
+
+                  SROP Undergraduate Program
+                </a>
+              </li>
+                      </ul>
+
+          <div class="menu-main__mega-menu-container">
+                      </div>
+        </div>
+          </li>
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-22612 menu-item-has-children">
+      <a 
+        class="menu-main__first-link"
+        href="/academic-support/"
+        target="_self">
+
+        Academics
+      </a>
+
+              <button class="menu-main__expand-item js-expand-item" role="button">
+          <svg class="menu-main__expand-icon" aria-label="Expand Academics menu" width="32" height="32" viewBox="0 0 32 32">
+            <title>Expand Academics menu</title>
+            <g fill="none" fill-rule="evenodd">
+              <ellipse class="menu-main__expand-circle" stroke-width="1" stroke="#001E62" fill="#001E62" cx="16" cy="16" rx="15.5" ry="15.5"></ellipse>
+              <path class="menu-main__expand-chevron" stroke-width="2" stroke="#fff" stroke-linecap="round" d="M12 18l4-4 4 4"></path>
+            </g>
+          </svg>
+        </button>
+
+        <div class="menu-main__submenus-container">
+          <ul class="menu-main__second-list">
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-18496">
+                <a 
+                  class="menu-main__second-link"
+                  href="/academic-support/academic-dates-events/"
+                  target="_self">
+
+                  Dates &amp; Events
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-18555">
+                <a 
+                  class="menu-main__second-link"
+                  href="/academic-support/registration-information/"
+                  target="_self">
+
+                  Registration Info
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-18561 menu-item-has-children">
+                <a 
+                  class="menu-main__second-link"
+                  href="/academic-support/thesis/"
+                  target="_self">
+
+                  Thesis
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-18560 menu-item-has-children">
+                <a 
+                  class="menu-main__second-link"
+                  href="/academic-support/exams-defense/"
+                  target="_self">
+
+                  Exams &amp; Defense
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-22753">
+                <a 
+                  class="menu-main__second-link"
+                  href="/academic-support/graduate-college-policies/"
+                  target="_self">
+
+                  Policies &amp; Procedures
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-22812">
+                <a 
+                  class="menu-main__second-link"
+                  href="/academic-support/ta-enrichment/"
+                  target="_self">
+
+                  TA Enrichment
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-18562">
+                <a 
+                  class="menu-main__second-link"
+                  href="/academic-support/graduation-information/"
+                  target="_self">
+
+                  Graduation Info
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-23736">
+                <a 
+                  class="menu-main__second-link"
+                  href="/academic-support/student-resources/graduate-student-forms/"
+                  target="_self">
+
+                  Student Forms
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-22815">
+                <a 
+                  class="menu-main__second-link"
+                  href="/academic-support/student-resources/"
+                  target="_self">
+
+                  Student Resources
+                </a>
+              </li>
+                      </ul>
+
+          <div class="menu-main__mega-menu-container">
+                      </div>
+        </div>
+          </li>
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-23032 menu-item-has-children">
+      <a 
+        class="menu-main__first-link"
+        href="/about/"
+        target="_self">
+
+        About Us
+      </a>
+
+              <button class="menu-main__expand-item js-expand-item" role="button">
+          <svg class="menu-main__expand-icon" aria-label="Expand About Us menu" width="32" height="32" viewBox="0 0 32 32">
+            <title>Expand About Us menu</title>
+            <g fill="none" fill-rule="evenodd">
+              <ellipse class="menu-main__expand-circle" stroke-width="1" stroke="#001E62" fill="#001E62" cx="16" cy="16" rx="15.5" ry="15.5"></ellipse>
+              <path class="menu-main__expand-chevron" stroke-width="2" stroke="#fff" stroke-linecap="round" d="M12 18l4-4 4 4"></path>
+            </g>
+          </svg>
+        </button>
+
+        <div class="menu-main__submenus-container">
+          <ul class="menu-main__second-list">
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-25606">
+                <a 
+                  class="menu-main__second-link"
+                  href="/about/graduate-college-directory/"
+                  target="_self">
+
+                  Staff Directory
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-23099">
+                <a 
+                  class="menu-main__second-link"
+                  href="/about/faculty-listings/"
+                  target="_self">
+
+                  Faculty Listings
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-23883">
+                <a 
+                  class="menu-main__second-link"
+                  href="/about/gc-newsletters/"
+                  target="_self">
+
+                  Newsletters
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-25351">
+                <a 
+                  class="menu-main__second-link"
+                  href="/about/contact-us/"
+                  target="_self">
+
+                  Contact Us
+                </a>
+              </li>
+                      </ul>
+
+          <div class="menu-main__mega-menu-container">
+                      </div>
+        </div>
+          </li>
+  </ul>
+
+  <div class="l-eyebrow">
+
+    <h2 class="assistive-text">Eyebrow menu</h2>
+    <ul id="menu-eyebrow" class="menu menu-eyebrow" aria-label="Eyebrow menu">
+            <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-18468">
+            <a  href="/faculty-staff-resources/" target="_self">Faculty &amp; Staff Resources</a>
+        </li>
+            <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-18467">
+            <a  href="/alumni/" target="_self">Alumni</a>
+        </li>
+            <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-22722">
+            <a  href="/about/giving/" target="_self">+Give</a>
+        </li>
+    </ul>
+
+    <h2 class="assistive-text">UIC menu</h2>
+    <ul class="menu-uic">
+      <li class="_item">
+    <a href="http://uic.edu">UIC.edu</a>
+  </li>
+  <li class="_item">
+    <a href="http://maps.uic.edu/">Campus Map</a>
+  </li>
+</ul>
+
+
+
+    <div aria-label="Primary" role="search" class="search-wrapper">
+
+      <button id="search" class="search-toggle">
+        <span class="icon-search ">
+          <span class="assistive-text">Search</span>
+        </span>
+      </button>
+
+      <div class="search-input-container">
+        <div class="search-input-container__form">
+          <form method="get" action="/search" >
+            <input type="text" name="q" class="search-input" placeholder="Search..." tabindex="-1" aria-label="Search" disabled="">
+            <input type="submit" class="submit-button" name="search" value="Submit">
+          </form>
+        </div>
+      </div>
+
+    </div>
+
+
+  </div>
+
+
+</nav>
+        </div>
+    </div>
+
+    
+  </div>
+
+    
+        <a href="#menu-secondary" class="menu-secondary-anchor">
+      View Menu
+      <svg aria-label="Down arrow icon" width="32" height="32" viewBox="0 0 32 32" role="presentation">
+        <title>Down arrow icon</title>
+        <g fill="none" fill-rule="evenodd">
+          <circle class="_circle" stroke-width="1" stroke="#007Da5" fill="#fff" cx="16" cy="16" r="15"/>
+          <path class="_arrow" stroke-width="2" stroke="#001E62" stroke-linecap="round" d="M12 17l4 4 4-4M16 20v-9"/>
+        </g>
+      </svg>
+    </a>
+        
+</header>
+
+    <main id="main" class="l-content-wrapper" role="main">
+
+      
+                
+	      
+      <div class="l-full">
+
+        <div class="l-content ">
+
+          
+                      <nav class="breadcrumbs" aria-label="Breadcrumbs">
+  <h2 class="assistive-text">Breadcrumbs</h2>
+  <ol class="menu" vocab="https://schema.org/" typeof="BreadcrumbList">
+
+  
+          <li property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" href="https://grad.uic.edu"><span property="name">Graduate College</span></a>
+        <meta property="position" content="0">
+      </li>
+    
+  
+          <li property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" href="https://grad.uic.edu/funding-awards/"><span property="name">Funding &amp; Awards</span></a>
+        <meta property="position" content="1">
+      </li>
+    
+  
+          <li property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" href="https://grad.uic.edu/funding-awards/other-funding/"><span property="name">Other Funding</span></a>
+        <meta property="position" content="2">
+      </li>
+    
+  
+          <li property="itemListElement" typeof="ListItem"><span property="name">National &amp; International Opportunities</span>
+        <meta property="position" content="3">
+      </li>
+    
+  
+  </ol>
+</nav>
+          
+          <article class="post-type-page" id="article">
+            
+          <div class="intro-text">
+
+                      <h1 class="_title post-title">National &amp; International Opportunities</h1>
+              
+            
+              
+          <p class="_subtitle">UIC, U of I System, and Federal Opportunities</p>
+    
+        
+  </div>
+        <div class="components">
+
+  
+    
+      
+
+<section class="component  ">
+
+  
+    <div class="component-accordion js-component-accordion">
+
+    
+    <div class="component-description">
+                    <h2 id="uic-awards" class="__title invisible">UIC Awards</h2>
+                            <div class="__description">
+                <p>Graduate students at UIC are eligible to apply for a number of awards provided solely for students at UIC as well as awards for students enrolled in the University of Illinois system. The following awards are not handled by the Fellowships Office in the Graduate College.</p>
+
+            </div>
+            </div>
+
+    <dl class="component-accordion__accordion"
+        role="presentation">
+
+    <dt class="component-accordion__title"
+          role="heading"
+          aria-level="1">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-1-1"
+          id="tab-sectionID-1-1"
+          type="button">
+            Three-Minute Thesis (3MT)
+        </button>
+      </dt>
+
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-1-1"
+          id="panel-sectionID-1-1"
+          role="region">
+
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+
+  
+    
+      
+
+<div class="component  component--is-in-another-component">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="three-minute-thesis-3mt" class="__title invisible">Three-Minute Thesis (3MT)</h2>
+                    </div>
+
+    <figure class="_image captioned-image image-full">
+  <img src="https://grad.uic.edu/wp-content/uploads/sites/74/2020/02/GC-3MT_Logo_1090x596-1090x596.jpg" alt="Three Minute Thesis Logo">
+  </figure>
+  
+  <p>In order to submit an entry for the 3MT competition, please complete this two-part application process:</p>
+<ol>
+<li>Complete the application form using the link below.</li>
+<li>Upload your video submission to the Box folder using the link below. Your submission can be either a text document with a link to a video-hosting website (e.g. YouTube, Vimeo, etc.) or the video itself.</li>
+</ol>
+<p>If you are unable to load to box send a YouTube or other hosting link to tchris1@uic.edu with 3MT Video and your name in the subject line.</p>
+<p>Contact Theresa Christenson-Caballero for more details.</p>
+
+
+
+      <ul class="link-list">
+  <li class="_item">
+    <a  href="https://forms.uofi.uic.edu/sec/1948062" target="_blank">
+      Three-Minute Thesis Application
+    </a>
+  </li>
+  <li class="_item">
+    <a  href="https://uofi.box.com/s/l8twmeghq9su4qv6ok9ob22a3yeu3cv1" target="_blank">
+      Three-Minute Thesis Upload (Box Folder)
+    </a>
+  </li>
+  <li class="_item">
+    <a  href="http://threeminutethesis.org/" target="_blank">
+      Three-Minute Thesis Website
+    </a>
+  </li>
+</ul>
+  
+</div>
+
+  
+</div>
+
+    
+
+</div>
+          </div>
+      </dd>
+
+    <dt class="component-accordion__title"
+          role="heading"
+          aria-level="2">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-1-2"
+          id="tab-sectionID-1-2"
+          type="button">
+            UIC Office of Financial Aid and Special Scholarships
+        </button>
+      </dt>
+
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-1-2"
+          id="panel-sectionID-1-2"
+          role="region">
+
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+
+  
+    
+      
+
+<div class="component  component--is-in-another-component">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="office-of-financial-aid-and-special-scholarships" class="__title invisible">Office of Financial Aid and Special Scholarships</h2>
+                    </div>
+
+  
+  <p>Skip down to &#8220;State Programs&#8221; and &#8220;Institutional Programs.&#8221; For many of these, you will need to visit UIC SnAP.</p>
+
+
+
+      <ul class="link-list">
+  <li class="_item">
+    <a  href="https://financialaid.uic.edu/types-of-aid/scholarships/" target="_blank">
+      Student Financial Aid and Scholarships
+    </a>
+  </li>
+  <li class="_item">
+    <a  href="http://snap.uic.edu/" target="_blank">
+      UIC SnAP
+    </a>
+  </li>
+</ul>
+  
+</div>
+
+  
+</div>
+
+    
+
+</div>
+          </div>
+      </dd>
+
+    <dt class="component-accordion__title"
+          role="heading"
+          aria-level="3">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-1-3"
+          id="tab-sectionID-1-3"
+          type="button">
+            U of I System
+        </button>
+      </dt>
+
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-1-3"
+          id="panel-sectionID-1-3"
+          role="region">
+
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+
+  
+    
+      
+
+<div class="component  component--is-in-another-component">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="u-of-i-system" class="__title invisible">U of I System</h2>
+                    </div>
+
+  
+  <p>As a state institution, the University of Illinois provides waivers for children of U of I employees, children of veterans of Illinois, and senior citizens.</p>
+
+
+
+      <ul class="link-list">
+  <li class="_item">
+    <a  href="https://www.hr.uillinois.edu/benefits/tuitionwaivers/child-uofi" target="_blank">
+      Child of Employee - Attending University of Illinois
+    </a>
+  </li>
+  <li class="_item">
+    <a  href="http://osfa.illinois.edu/types-of-aid/children-of-veterans-tuition-waiver" target="_blank">
+      Children of Veterans Tuition Waiver
+    </a>
+  </li>
+  <li class="_item">
+    <a  href="http://www2.illinois.gov/veterans/documents/mia-pow-scholarship-application.pdf" target="_blank">
+      MIA/POW Scholarship
+    </a>
+  </li>
+  <li class="_item">
+    <a  href="http://www.isac.org/students/during-college/military-service.html/" target="_blank">
+      Illinois National Guard (ING) Grant Program
+    </a>
+  </li>
+  <li class="_item">
+    <a  href="http://www.isac.org/" target="_blank">
+      Illinois Veteran Grant (IVG) Program
+    </a>
+  </li>
+  <li class="_item">
+    <a  href="https://grad.uic.edu/funding-awards/other-funding/conacyt/" target="_self">
+      CONACYT
+    </a>
+  </li>
+</ul>
+  
+</div>
+
+  
+</div>
+
+    
+
+</div>
+          </div>
+      </dd>
+
+    <dt class="component-accordion__title"
+          role="heading"
+          aria-level="4">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-1-4"
+          id="tab-sectionID-1-4"
+          type="button">
+            Regional and Institutional Nomination Opportunities
+        </button>
+      </dt>
+
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-1-4"
+          id="panel-sectionID-1-4"
+          role="region">
+
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+
+  
+    
+      
+
+<div class="component  component--is-in-another-component">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="regional-and-institutional-nomination-opportunities" class="__title invisible">Regional and Institutional Nomination Opportunities</h2>
+                    </div>
+
+  
+  <p>The Graduate College regularly nominates outstanding theses and dissertations to the Midwest Association of Graduate Schools and the Council of Graduate Schools. Nominees are selected from among past winners of the annual Outstanding Thesis and Dissertation Award.</p>
+
+
+
+  
+</div>
+
+  
+</div>
+
+    
+
+</div>
+          </div>
+      </dd>
+
+    
+    </dl>
+  </div>
+
+  
+</section>
+
+    
+
+    
+      
+
+<section class="component  ">
+
+  
+    <div class="component-tab-group js-component-tab-group">
+    
+    <div class="component-description">
+                    <h2 id="us-federal-funding-opportunities-the-fulbrights" class="__title visible">US Federal Funding Opportunities - "The Fulbrights"</h2>
+                            <div class="__description">
+                <p>The Fulbright &#8220;brand&#8221; allows US students to go abroad and for foreign students to attend UIC. (There are also Fulbrights for post-docs and scholars to move in either direction, but they are not of our concern here.)</p>
+
+            </div>
+            </div>
+
+    <div class="component-tab-group__tabs">
+      <div class="tab-group">
+        <div class="tab-group__tablist" role="tablist" aria-label="US Federal Funding Opportunities - "The Fulbrights"">
+          <button
+              class="tab-group__button"
+              role="tab"
+              aria-controls="panel-tabID-2-1"
+              id="tab-tabID-2-1">
+
+              Fulbright Foreign Student Program
+            </button>
+          <button
+              class="tab-group__button"
+              role="tab"
+              aria-controls="panel-tabID-2-2"
+              id="tab-tabID-2-2">
+
+              Fulbright US Student Program
+            </button>
+          <button
+              class="tab-group__button"
+              role="tab"
+              aria-controls="panel-tabID-2-3"
+              id="tab-tabID-2-3">
+
+              Fulbright Public Policy Fellowship
+            </button>
+          <button
+              class="tab-group__button"
+              role="tab"
+              aria-controls="panel-tabID-2-4"
+              id="tab-tabID-2-4">
+
+              Fulbright-Hays
+            </button>
+                  </div>
+        <div class="tab-group__tabpanels">
+          <div
+              class="tab-group__tabpanel"
+              tabindex="0"
+              role="tabpanel"
+              id="panel-tabID-2-1"
+              aria-labelledby="tab-tabID-2-1">
+
+              <div class="components">
+
+  
+    
+      
+
+<section class="component  ">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="fulbright-foreign-student-program" class="__title invisible">Fulbright Foreign Student Program</h2>
+                    </div>
+
+  
+  <p>The Fulbright Foreign Student Program enables graduate students, young professionals and artists from abroad to study and conduct research in the United States. The Fulbright Foreign Student Program operates in more than 155 countries worldwide. Approximately 4,000 foreign students receive Fulbright scholarships each year.</p>
+<p>The Fulbright Foreign Student Program is administered by binational Fulbright Commissions/Foundations or U.S. Embassies. All Foreign Student Program applications are processed by these offices.</p>
+<p>Program eligibility and selection procedures vary widely by country. Please use the drop-down menu <a href="https://foreign.fulbrightonline.org/applicants">here</a> to find information about the Fulbright Program in your home country, including eligibility requirements and application guidelines. If your country is not listed there, you are not eligible to apply.</p>
+<p><em>The role of UIC’s Graduate College is to serve as liaison between the U.S. funding agency and the Office of Graduate Admissions, during the placement process, and then once matriculated at UIC, it services the fellowship waiver.</em></p>
+
+
+
+      <ul class="link-list">
+  <li class="_item">
+    <a  href="https://foreign.fulbrightonline.org/" target="_blank">
+      Fulbright Foreign Student Program
+    </a>
+  </li>
+  <li class="_item">
+    <a  href="https://foreign.fulbrightonline.org/applicants" target="_blank">
+      Find your home country
+    </a>
+  </li>
+</ul>
+  
+</div>
+
+  
+</section>
+
+    
+
+</div>
+            </div>
+          <div
+              class="tab-group__tabpanel"
+              tabindex="0"
+              role="tabpanel"
+              id="panel-tabID-2-2"
+              aria-labelledby="tab-tabID-2-2">
+
+              <div class="components">
+
+  
+    
+      
+
+<section class="component  ">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="fulbright-us-student-program" class="__title invisible">Fulbright US Student Program</h2>
+                    </div>
+
+  
+  <p>Fulbright fellowships, through the U.S. State Department provides for teaching, research, and study opportunities internationally for U.S. citizen students in various disciplines. Almost 200 countries are viable sites for placement. The national deadline is in October, but UIC graduate students must meet an earlier campus deadline and pass through a campus evaluation process. UIC’s campus deadline is <strong>September 10, 2020</strong>. Graduate students and alumni from UIC’s graduate programs should contact Benn Williams (bwilli7@uic.edu), their dedicated university Fulbright Program Advisor. (Undergraduates and undergraduate alumni should contact Kim Germain in the <a href="https://oef.uic.edu/contact-us-2/">Office of External Fellowships</a>.)</p>
+<p>For the 2020-2021 campaign, UIC had thirteen semi-finalists of whom six became finalists and one is an alternate. All seven are current graduate students, graduate-level professional students, or recent alumni of our graduate programs.</p>
+
+
+
+      <ul class="link-list">
+  <li class="_item">
+    <a  href="https://us.fulbrightonline.org/" target="_blank">
+      Fulbright US Student Program
+    </a>
+  </li>
+  <li class="_item">
+    <a  href="https://grad.uic.edu/funding-awards/other-funding/natl-internatl-opps/us-fulbright/" target="_self">
+      Fulbright Updates
+    </a>
+  </li>
+</ul>
+  
+</div>
+
+  
+</section>
+
+    
+
+</div>
+            </div>
+          <div
+              class="tab-group__tabpanel"
+              tabindex="0"
+              role="tabpanel"
+              id="panel-tabID-2-3"
+              aria-labelledby="tab-tabID-2-3">
+
+              <div class="components">
+
+  
+    
+      
+
+<section class="component  ">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="fulbright-public-policy-fellowship" class="__title invisible">Fulbright Public Policy Fellowship</h2>
+                    </div>
+
+  
+  <p>The Fulbright Public Policy Fellowship provides opportunities for U.S. early and mid-career professionals and practitioners to serve in professional placements in a foreign government ministry or institution in partner governments around the world. Fulbright Public Policy Fellows build mutual understanding and contribute to strengthening the public sector while cultivating public policy experience in their desired area of expertise. The Fulbright Public Policy Fellowship also includes an independent research component that focuses on an issue that is beneficial for the host ministry and the Fellow.</p>
+<p><strong>National deadline: September 16, 2019.</strong></p>
+
+
+
+      <ul class="link-list">
+  <li class="_item">
+    <a  href="https://www.cies.org/program/fulbright-public-policy-fellowship" target="_blank">
+      Fulbright Public Policy Fellowship
+    </a>
+  </li>
+</ul>
+  
+</div>
+
+  
+</section>
+
+    
+
+</div>
+            </div>
+          <div
+              class="tab-group__tabpanel"
+              tabindex="0"
+              role="tabpanel"
+              id="panel-tabID-2-4"
+              aria-labelledby="tab-tabID-2-4">
+
+              <div class="components">
+
+  
+    
+      
+
+<section class="component  ">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="fulbright-hays-doctoral-dissertation-research-abroad-ddra-fellowship-program" class="__title visible">Fulbright-Hays Doctoral Dissertation Research Abroad (DDRA) Fellowship Program</h2>
+                    </div>
+
+  
+  <p>The Fulbright-Hays Doctoral Dissertation Research Abroad (DDRA) Fellowship Program provides opportunities for full-time dissertation research abroad in modern foreign languages and area studies. Students may request funding for a period of no fewer than six months and no more than 12 months. Funds support travel expenses to and from the residence of the fellow and the country or countries of research; maintenance and dependents(s) allowances based on the location of research for the fellow and his or her dependent(s); an allowance for research-related expenses overseas; and health and accident insurance premiums. Applicants should plan to have a teaching career in the U.S. after completion of the doctorate. A distillation of the FOA can be found below. The application process is onerous — please communicate with the Fellowships and Awards Coordinator if you plan to apply.</p>
+<p><strong>The campus deadline is February 3, 2020.</strong></p>
+
+
+
+      <ul class="link-list">
+  <li class="_item">
+    <a  href="https://www.govinfo.gov/content/pkg/FR-2019-12-17/pdf/2019-27120.pdf" target="_blank">
+      Fulbright-Hays DDRA
+    </a>
+  </li>
+  <li class="_item">
+    <a  href="https://grad.uic.edu/funding-awards/other-funding/natl-internatl-opps/fulbright-hays/" target="_self">
+      Distillation of the FOA
+    </a>
+  </li>
+  <li class="_item">
+    <a  href="https://www2.ed.gov/programs/iegpsddrap/brochure-ddra.pdf" target="_blank">
+      Brochure
+    </a>
+  </li>
+</ul>
+  
+</div>
+
+  
+</section>
+
+    
+
+</div>
+            </div>
+                  </div>
+      </div>
+    </div>
+  </div>
+
+  
+</section>
+
+    
+
+    
+      
+
+<section class="component  ">
+
+  
+    <div class="component-tab-group js-component-tab-group">
+    
+    <div class="component-description">
+                    <h2 id="us-federal-funding-non-fulbrights" class="__title visible">US Federal Funding - "Non-Fulbrights"</h2>
+                            <div class="__description">
+                <p>A number of federal agencies offer funding for graduate students to study foreign languages and/or conduct research abroad. Below is a selection.</p>
+
+            </div>
+            </div>
+
+    <div class="component-tab-group__tabs">
+      <div class="tab-group">
+        <div class="tab-group__tablist" role="tablist" aria-label="US Federal Funding - "Non-Fulbrights"">
+          <button
+              class="tab-group__button"
+              role="tab"
+              aria-controls="panel-tabID-3-1"
+              id="tab-tabID-3-1">
+
+              Boren Fellowship
+            </button>
+          <button
+              class="tab-group__button"
+              role="tab"
+              aria-controls="panel-tabID-3-2"
+              id="tab-tabID-3-2">
+
+              Critical Language Scholarship
+            </button>
+          <button
+              class="tab-group__button"
+              role="tab"
+              aria-controls="panel-tabID-3-3"
+              id="tab-tabID-3-3">
+
+              National Science Foundation GRFP
+            </button>
+          <button
+              class="tab-group__button"
+              role="tab"
+              aria-controls="panel-tabID-3-4"
+              id="tab-tabID-3-4">
+
+              Smithsonian
+            </button>
+          <button
+              class="tab-group__button"
+              role="tab"
+              aria-controls="panel-tabID-3-5"
+              id="tab-tabID-3-5">
+
+              Woodrow Wilson Fellowships
+            </button>
+          <button
+              class="tab-group__button"
+              role="tab"
+              aria-controls="panel-tabID-3-6"
+              id="tab-tabID-3-6">
+
+              Title VIII in Eastern Europea and Eurasia
+            </button>
+          <button
+              class="tab-group__button"
+              role="tab"
+              aria-controls="panel-tabID-3-7"
+              id="tab-tabID-3-7">
+
+              US Department of Education
+            </button>
+                  </div>
+        <div class="tab-group__tabpanels">
+          <div
+              class="tab-group__tabpanel"
+              tabindex="0"
+              role="tabpanel"
+              id="panel-tabID-3-1"
+              aria-labelledby="tab-tabID-3-1">
+
+              <div class="components">
+
+  
+    
+      
+
+<section class="component  ">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="boren" class="__title invisible">Boren</h2>
+                    </div>
+
+  
+  <p>This award provides for a structured language study component to graduate education, in areas related to U.S. National Security (broadly defined). Fellowships provide up to $30,000 for domestic and overseas study/immersion (minimum 12 weeks and maximum one year overseas.) Preference is given to proposals for 6 months in duration for linguistic and cultural immersion, 3-6 months for applicants in the STEM fields. In exchange for funding, Boren Fellows commit to working in the federal government for at least one year after graduation.</p>
+<p>Graduate students apply through the Boren/IIE Slate portal for this fellowship in the early spring. The Fellowships and Awards Coordinator can assist with the fellowship application. (The Boren scholarship is for undergraduates.) UIC hosts a Boren representative-led info session almost annually. (Fall 2019 session was October 23, 2019.)</p>
+<p>Boren has a preference for students who wish to pursue a career in the federal government or in a contracting agency. The following is NOT an exclusive list of federal agencies for which Boren alumni find jobs: USAID; Corporation for National and Community Service; Departments of Agriculture, Commerce, Education, Energy, Defense, Health and Human Services (NIH, FDA), Justice, Interior, Labor, State, Treasury, Transportation, and Veteran Affairs; Congress.</p>
+<p><strong>Campus deadline: 11:59 p.m. on January 13, 2021</strong></p>
+
+
+
+      <ul class="link-list">
+  <li class="_item">
+    <a  href="https://borenawards.org" target="_blank">
+      Boren Fellowship
+    </a>
+  </li>
+  <li class="_item">
+    <a  href="https://borenawards.org/eligible-programs#languages" target="_blank">
+      Eligible Languages
+    </a>
+  </li>
+  <li class="_item">
+    <a  href="https://borenawards.org/initiatives" target="_blank">
+      Structured Initiatives
+    </a>
+  </li>
+  <li class="_item">
+    <a  href="https://borenawards.org/webinars" target="_blank">
+      Webinars
+    </a>
+  </li>
+  <li class="_item">
+    <a  href="https://borenawards.org/essays" target="_blank">
+      Essay Tips
+    </a>
+  </li>
+  <li class="_item">
+    <a  href="https://apply.iie.org/borenfellowship" target="_blank">
+      Apply
+    </a>
+  </li>
+</ul>
+  
+</div>
+
+  
+</section>
+
+    
+
+</div>
+            </div>
+          <div
+              class="tab-group__tabpanel"
+              tabindex="0"
+              role="tabpanel"
+              id="panel-tabID-3-2"
+              aria-labelledby="tab-tabID-3-2">
+
+              <div class="components">
+
+  
+    
+      
+
+<section class="component  ">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="cls" class="__title invisible">CLS</h2>
+                    </div>
+
+  
+  <p>Sponsored by the US Department of State, the Critical Language Scholarship (CLS) Program is an intensive overseas language and cultural immersion program for American students enrolled at U.S. colleges and universities. The program includes intensive language instruction (20 hours per week) and structured cultural enrichment experiences designed to promote rapid language gains. Students apply for a language &#8212; not a country. (Benn Williams is the liaison for graduate students.)</p>
+<p>Currently, CLS funds these languages:</p>
+<ul>
+<li><a href="https://clscholarship.org/languages/azerbaijani">Azerbaijani</a>, <a href="https://clscholarship.org/languages/bangla">Bangla</a>, <a href="https://clscholarship.org/languages/hindi">Hindi</a>, <a href="https://clscholarship.org/languages/indonesian">Indonesian</a>, <a href="https://clscholarship.org/languages/persian">Persian</a>, <a href="https://clscholarship.org/languages/punjabi">Punjabi</a>, <a href="https://clscholarship.org/languages/swahili">Swahili</a>, <a href="https://clscholarship.org/languages/turkish">Turkish</a>, and <a href="https://clscholarship.org/languages/urdu">Urdu</a>: No experience required;</li>
+<li><a href="https://clscholarship.org/languages/arabic">Arabic</a>, <a href="https://clscholarship.org/languages/korean">Korean</a>, <a href="https://clscholarship.org/languages/portuguese">Portuguese </a>and <a href="https://clscholarship.org/languages/russian">Russian</a>: One year of study required (by the time of the scholarship&#8217;s start);</li>
+<li><a href="https://clscholarship.org/languages/chinese">Chinese</a> and <a href="https://clscholarship.org/languages/japanese">Japanese</a>: Two years of study required (by the time of the scholarship&#8217;s start).</li>
+</ul>
+<p>Why CLS?  A new section of the website communicates the impact of the CLS Program (see links below). The page has links to specific pages on language learning outcomes and alumni stories. In short, the CLS Program contributes to U.S. national security and economic prosperity.</p>
+<p><strong>DEADLINE: Last year&#8217;s deadline was November 19, 2019. We anticipate a similar deadline for 2020.</strong></p>
+<p>Summer 2020 institutes were cancelled due to the global pandemic.</p>
+
+
+
+      <ul class="link-list">
+  <li class="_item">
+    <a  href="https://clscholarship.org/" target="_blank">
+      Critical Language Scholarship
+    </a>
+  </li>
+  <li class="_item">
+    <a  href="https://clscholarship.org/impact" target="_blank">
+      CLS Impact
+    </a>
+  </li>
+  <li class="_item">
+    <a  href="https://clscholarship.org/impact/language-learning" target="_blank">
+      CLS Learning Outcomes
+    </a>
+  </li>
+  <li class="_item">
+    <a  href="https://clscholarship.org/impact/alumni" target="_blank">
+      CLS Alumni Stories
+    </a>
+  </li>
+  <li class="_item">
+    <a  href="https://youtu.be/b2pyXe7Y2vM" target="_blank">
+      Info for Students
+    </a>
+  </li>
+  <li class="_item">
+    <a  href="https://clscholarship.org/assets/resources/apply/2020_Application.pdf" target="_blank">
+      2020 Application
+    </a>
+  </li>
+  <li class="_item">
+    <a  href="https://clscholarship.org/assets/resources/apply/2020_Application_Instructions.pdf" target="_blank">
+      2020 Application Instructions
+    </a>
+  </li>
+</ul>
+  
+</div>
+
+  
+</section>
+
+    
+
+</div>
+            </div>
+          <div
+              class="tab-group__tabpanel"
+              tabindex="0"
+              role="tabpanel"
+              id="panel-tabID-3-3"
+              aria-labelledby="tab-tabID-3-3">
+
+              <div class="components">
+
+  
+    
+      
+
+<section class="component  ">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="nsf-grfp" class="__title invisible">NSF GRFP</h2>
+                    </div>
+
+  
+  <p>This is a very generous award that currently funds students at a level of $34,000 for up to three years . A variety of disciplines are eligible to apply, so please check out the website. Students apply at-large&#8211;they do not submit via the Graduate College, nor the Office of the Vice Chancellor for Research. The Fellowships and Awards Coordinator enters the picture after the student receives the award to their studies at UIC.</p>
+
+
+
+      <ul class="link-list">
+  <li class="_item">
+    <a  href="https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf19590" target="_blank">
+      NSF GRFP
+    </a>
+  </li>
+</ul>
+  
+</div>
+
+  
+</section>
+
+    
+
+</div>
+            </div>
+          <div
+              class="tab-group__tabpanel"
+              tabindex="0"
+              role="tabpanel"
+              id="panel-tabID-3-4"
+              aria-labelledby="tab-tabID-3-4">
+
+              <div class="components">
+
+  
+    
+      
+
+<section class="component  ">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="smithsonian-institution-office-for-fellowships-and-internships" class="__title visible">Smithsonian Institution Office for Fellowships and Internships</h2>
+                    </div>
+
+  
+  <p>These are a number of options especially geared primarily (but not exclusively) toward art history and museum studies students.</p>
+
+
+
+      <ul class="link-list">
+  <li class="_item">
+    <a  href="https://www.smithsonianofi.com/fellowship-opportunities/" target="_blank">
+      Smithsonian Opportunities
+    </a>
+  </li>
+</ul>
+  
+</div>
+
+  
+</section>
+
+    
+
+</div>
+            </div>
+          <div
+              class="tab-group__tabpanel"
+              tabindex="0"
+              role="tabpanel"
+              id="panel-tabID-3-5"
+              aria-labelledby="tab-tabID-3-5">
+
+              <div class="components">
+
+  
+    
+      
+
+<section class="component  ">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="woodrow-wilson-fellowships" class="__title visible">Woodrow Wilson Fellowships</h2>
+                    </div>
+
+  
+  <p>The Woodrow Wilson National Fellowship Foundation administers a number of fellowships. Below is a selection.</p>
+
+
+
+      <ul class="link-list">
+  <li class="_item">
+    <a  href="https://woodrow.org/" target="_blank">
+      Woodrow Wilson Fellowships
+    </a>
+  </li>
+  <li class="_item">
+    <a  href="https://woodrow.org/fellowships/newcombe/" target="_blank">
+      Charlotte W. Newcombe Doctoral Dissertation Fellowship
+    </a>
+  </li>
+  <li class="_item">
+    <a  href="https://woodrow.org/fellowships/pickering/" target="_blank">
+      Pickering Fellowship
+    </a>
+  </li>
+  <li class="_item">
+    <a  href="https://woodrow.org/fellowships/womens-studies/" target="_blank">
+      Woodrow Wilson Dissertation Fellowship in Women’s Studies
+    </a>
+  </li>
+</ul>
+  
+</div>
+
+  
+</section>
+
+    
+
+</div>
+            </div>
+          <div
+              class="tab-group__tabpanel"
+              tabindex="0"
+              role="tabpanel"
+              id="panel-tabID-3-6"
+              aria-labelledby="tab-tabID-3-6">
+
+              <div class="components">
+
+  
+    
+      
+
+<section class="component  ">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="american-councils-for-international-education-title-viii-in-eastern-europe-and-eurasia" class="__title visible">American Councils for International Education – Title VIII in Eastern Europe and Eurasia</h2>
+                    </div>
+
+  
+  <p>Funded by the U.S. Department of State’s Program for Research and Training on Eastern Europe and the Independent States of the Former Soviet Union (Title VIII), the American Councils CRLT Program provides full support for U.S. graduate students, faculty, and independent scholars seeking to conduct in-country, independent research in Russia, Eurasia, and Eastern Europe, while increasing proficiency in languages of the region.</p>
+<p>Applicants should indicate their proposed research location(s) in the application. Applicants to the Research Scholar Program may only apply for research in a total of two countries maximum [from this list]: Albania; Armenia; Azerbaijan; Bosnia and Herzegovina; Bulgaria; Croatia; Estonia; Georgia; Kazakhstan; Kosovo; Kyrgyzstan; Latvia; Lithuania; Moldova; Montenegro; North Macedonia; Poland; Romania; Russia; Serbia; Tajikistan; Ukraine.</p>
+<h4><strong>Academic Fellowships in Russia (AFR)</strong></h4>
+<p>AFR is designed to expand the accessibility of Russia-based research while increasing U.S. knowledge and expertise on Russia. Fellowships last three to nine consecutive months and include round-trip international travel; housing and living stipends; visa support; overseas health, accident, and evacuation insurance; archive access; and logistical support. Following the completion of the research term, AFR fellows will return to the U.S. and share their findings through presentations, articles, and lectures in order to strengthen and broaden current scholarship in the social sciences related to Russia and U.S.-Russia relations.</p>
+<h4><strong>Combined Research and Language Training (CRLT) Program</strong></h4>
+<p>Designed to expand the accessibility of overseas research while increasing U.S. knowledge and expertise on the region, the CRLT Program supports fellows who, in addition to conducting overseas, policy-relevant research, seek to increase their language proficiency through targeted language instruction. Fellowships last three to nine consecutive months and include round-trip international travel; housing and living stipends; visa support; overseas health, accident, and evacuation insurance; archive access; weekly language instruction in the host country language; and logistical support. Following the completion of the research term, fellows will return to the U.S. and share their findings through presentations, articles, and lectures in order to strengthen and broaden current scholarship on the region.</p>
+<h4><strong>Research Scholar Program</strong></h4>
+<p>Designed to expand the accessibility of overseas research while increasing U.S. knowledge and expertise on the region, the Research Scholar Program supports fellows seeking to complete overseas, policy-relevant research. Fellowships last three to nine consecutive months and include round-trip international travel; housing and living stipends; visa support; overseas health, accident, and evacuation insurance; archive access; and logistical support. Following the completion of the research term, fellows will return to the U.S. and share their findings through presentations, articles, and lectures in order to strengthen and broaden current scholarship on the region.”</p>
+
+
+
+      <ul class="link-list">
+  <li class="_item">
+    <a  href="https://acresearchabroad.org/afr/" target="_blank">
+      Academic Fellowships in Russia (AFR)
+    </a>
+  </li>
+  <li class="_item">
+    <a  href="https://acresearchabroad.org/crlt/" target="_blank">
+      Combined Research and Language Training (CRLT)
+    </a>
+  </li>
+  <li class="_item">
+    <a  href="https://acresearchabroad.org/rs/" target="_blank">
+      Research Scholar Program
+    </a>
+  </li>
+</ul>
+  
+</div>
+
+  
+</section>
+
+    
+
+</div>
+            </div>
+          <div
+              class="tab-group__tabpanel"
+              tabindex="0"
+              role="tabpanel"
+              id="panel-tabID-3-7"
+              aria-labelledby="tab-tabID-3-7">
+
+              <div class="components">
+
+  
+    
+      
+
+<section class="component  ">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="us-department-of-education" class="__title invisible">US Department of Education</h2>
+                    </div>
+
+  
+  <p>While not the easiest sight to navigate, this outlines many of the federal options awarded to departments/programs that students can work under, along with individual grants available to students to apply at-large for consideration.</p>
+<p>A fellowship will affect federal student loan or work-study. Typically, students with fellowships may not be permitted to borrow small amounts of federal loans due to cost of attendance regulation.  Check with the Office of Student Financial Aid on eligibility requirements.</p>
+<p>If you have already received a refund for the current year in federal loans and you accept a fellowship, you may be responsible to return this refund to UIC.  Contact the Office of Student Financial Aid for further information.</p>
+<p>If applying for loans and/or work-study a Free Application for Federal Student Aid (FAFSA) must be completed.  See the Graduate Student Guide from the Office of Student Financial Aid for more information.</p>
+
+
+
+      <ul class="link-list">
+  <li class="_item">
+    <a  href="https://financialaid.uic.edu/" target="_blank">
+      UIC Financial Aid
+    </a>
+  </li>
+</ul>
+  
+</div>
+
+  
+</section>
+
+    
+
+</div>
+            </div>
+                  </div>
+      </div>
+    </div>
+  </div>
+
+  
+</section>
+
+    
+
+    
+      
+
+<section class="component  ">
+
+  
+    <div class="component-tab-group js-component-tab-group">
+    
+    <div class="component-description">
+                    <h2 id="select-national-and-international-competitions" class="__title visible">Select National and International Competitions</h2>
+                            <div class="__description">
+                <p>UIC is a preferred institution for certain competitions</p>
+
+            </div>
+            </div>
+
+    <div class="component-tab-group__tabs">
+      <div class="tab-group">
+        <div class="tab-group__tablist" role="tablist" aria-label="Select National and International Competitions">
+          <button
+              class="tab-group__button"
+              role="tab"
+              aria-controls="panel-tabID-4-1"
+              id="tab-tabID-4-1">
+
+              DAAD Study Scholarships and Research Grants
+            </button>
+          <button
+              class="tab-group__button"
+              role="tab"
+              aria-controls="panel-tabID-4-2"
+              id="tab-tabID-4-2">
+
+              Dolores Zohrab Liebmann Fellowship
+            </button>
+                  </div>
+        <div class="tab-group__tabpanels">
+          <div
+              class="tab-group__tabpanel"
+              tabindex="0"
+              role="tabpanel"
+              id="panel-tabID-4-1"
+              aria-labelledby="tab-tabID-4-1">
+
+              <div class="components">
+
+  
+    
+      
+
+<section class="component  ">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="daad" class="__title visible">DAAD</h2>
+                    </div>
+
+  
+  <p>This award funds study and research in Germany. Since UIC has been invited to be a priority institution, it has an internal competition each fall to evaluate students before they are then put forward to DAAD for consideration. (Students apply on their own for short-term grants with a duration of 1-6 months.) Study scholarships and long-term research grants (7-10 months) have the following campus deadline (noon) by field:  <strong>Architecture (September 24, 2019), Music (October 8), Performing Arts (October 24), Fine Art, Design/Visual Communication &amp; Film (November 14), All other fields (October 25)</strong>. Contact Benn Williams for more information (bwilli7uicedu).</p>
+<p>For the campus deadline, please submit to Mr. Williams the following documents:</p>
+<ol>
+<li>PDF version of your online application form (from the DAAD portal)</li>
+<li>CV (max. 3 pages) as Word document</li>
+<li>List of publications as Word document</li>
+<li> Extensive and detailed description of the research proposal which has been discussed with the<br />
+academic adviser and a description of previous research work (max. 5 pages) as Word document</li>
+<li>Schedule of planned research work as Word document</li>
+<li>Letter confirming supervision by an academic adviser in Germany, which refers to the applicant&#8217;s<br />
+proposal and confirms that the host institute will provide a workplace as PDF</li>
+<li>University degree certificates, scans of university-level diplomas as JPG or PDF</li>
+<li>Transcripts from all university studies and include the explanation of the grading system (undergraduate and graduate)</li>
+<li>DAAD <a href="https://www.daad.org/files/2016/09/Sprachnachweis_Formular.pdf">Sprachnachweis</a> ( If you have any knowledge<br />
+of German, submit this document signed by a faculty member (professors or teaching assistants) of the<br />
+German Department at your institution. If you have no knowledge of German and your research language in<br />
+Germany is English, be sure to submit this certificate anyway, indicating that your research language is<br />
+English, and write at the top &#8220;No knowledge of German.&#8221; (Please note that German is not a requirement for<br />
+the Research Grant)</li>
+</ol>
+<p>NB: A signed reference / referee report from a university professor in your major subject or discipline will need to be mailed by the referee to:</p>
+<p>DAAD</p>
+<p>Research Grant</p>
+<p>871 United Nations Plaza</p>
+<p>New York, NY 10017</p>
+
+
+
+      <ul class="link-list">
+  <li class="_item">
+    <a  href="https://www.daad.org/en/find-funding/graduate-opportunities/research-grants/short-term-research-grants/" target="_blank">
+      Short-term grants
+    </a>
+  </li>
+  <li class="_item">
+    <a  href="https://www.daad.org/en/find-funding/graduate-opportunities/study-scholarship/" target="_blank">
+      Study-scholarship grants
+    </a>
+  </li>
+  <li class="_item">
+    <a  href="https://www.daad.org/en/find-funding/graduate-opportunities/research-grants/research-grants-one-year-grants-7-12-months/" target="_blank">
+      One-year grants
+    </a>
+  </li>
+</ul>
+  
+</div>
+
+  
+</section>
+
+    
+
+</div>
+            </div>
+          <div
+              class="tab-group__tabpanel"
+              tabindex="0"
+              role="tabpanel"
+              id="panel-tabID-4-2"
+              aria-labelledby="tab-tabID-4-2">
+
+              <div class="components">
+
+  
+    
+      
+
+<section class="component  ">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="dolores-zohrab-liebmann-fellowship" class="__title visible">Dolores Zohrab Liebmann Fellowship</h2>
+                    </div>
+
+  
+  <p>The Dolores Zohrab Liebmann Fund was created for the purpose of funding advanced education and graduate study grants, which must be carried out entirely in the United States of America. The Dolores Zohrab Liebmann Fellowships are to be awarded only to candidates who have <strong>outstanding undergraduate records</strong>, have <strong>demonstrated a need for financial assistance</strong>, are <strong>citizens</strong> of the United States of America, are enrolled in accredited colleges and universities in the United States and have received baccalaureate degrees. <strong>Graduate and professional students are eligible.</strong></p>
+<p>The amount of each Fellowship will cover the cost of tuition and a stipend to be allocated towards room, board, living expenses and income taxes. The Trustee has set the stipend at <strong>$18,000</strong> for the award year.</p>
+<p><strong>The UIC campus deadline is January 10, 2020. </strong></p>
+<p>Required application materials:</p>
+<ul>
+<li>Application</li>
+<li>CV</li>
+<li>One certified copy of each undergraduate and graduate transcript to date.</li>
+<li>One copy of your graduate exam test scores.</li>
+<li>A Statement of Purpose up to three pages long (double spaced) which considers the relationship between your graduate level study and your intended personal and/or professional goals. Your Statement of Purpose must include a 10-15 line abstract at the top (included in the three pages) that explains, in <strong>LAYMAN’S</strong> terms, the essence of your proposed topic of study or dissertation, the methodology of its treatment and its anticipated impact on your field of study.</li>
+<li>Letter of Recommendation from Dean of Graduate School or Department Chair. [Latter preferred;  arrange to have it sent to the attention of Benn Williams &#8211; If you seek a letter from the Dean, she will provide it if you are selected to as the UIC nominee]</li>
+<li>Letters of Recommendation from at least two professors who have taught or worked closely with you. [Arrange to have sent to the attention of Benn Williams]</li>
+<li>One copy of your Free Application for Federal Student Aid (FAFSA).</li>
+<li>One copy of your Financial Aid Summary from UIC.</li>
+<li>One copy of your Federal Income Tax Return for the prior two years (including spouse’s returns, if applicable) [thus returns filed in 2018 and 2019 for the January 2020 deadline].</li>
+</ul>
+<p><strong>Applicants can send electronic files</strong> using the naming convention below to FERPA-approved Box: 2020_DZ.qnqsoykysfrp96ly@u.box.com.</p>
+<p><strong>Naming convention of files (using example of Rosa Parks):</strong> DZL_Year_NomineeLastNameFirstInitial-Component.pdf, e.g., DZL_2020_ParksR-Application.pdf, DZL_2020_ParksR-GRE.pdf, etc.</p>
+<p><strong>Confidential and hand-delivered materials should be sent to:</strong></p>
+<p>Benn Williams / UIC Graduate College (m/c 192) / 601 S. Morgan Street, 633UH / Chicago, IL 60607</p>
+<p><strong>The UIC campus deadline is January 10, 2020 to allow sufficient time to review materials.</strong></p>
+<p><strong>Institutional contact</strong> and DZL alum:  Benn Williams, Fellowships and Awards Coordinator, bwilli7uicedu.</p>
+<p>Per the funder&#8217;s instructions: Do not contact JPMorgan or members of the selection committee.</p>
+
+
+
+      <ul class="link-list">
+  <li class="_item">
+    <a  href="https://uofi.box.com/s/4ck7ig18tvoa6i3kr4qpj3ven0xs79zc" target="_blank">
+      DZL Application
+    </a>
+  </li>
+  <li class="_item">
+    <a  href="https://uofi.box.com/v/2019DZL-conditions" target="_blank">
+      DZL Conditions
+    </a>
+  </li>
+  <li class="_item">
+    <a  href="https://uofi.box.com/v/2019DZL-checklist" target="_blank">
+      DZL Checklist (informational only)
+    </a>
+  </li>
+</ul>
+  
+</div>
+
+  
+</section>
+
+    
+
+</div>
+            </div>
+                  </div>
+      </div>
+    </div>
+  </div>
+
+  
+</section>
+
+    
+
+</div>
+
+          </article>
+        </div>
+
+                                            
+                                 
+              
+                            
+                                 
+              
+                            
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+
+
+
+
+   
+                                 
+              
+
+                      <div class="l-sidebar">
+             <nav role="navigation" id="menu-secondary" aria-label="Secondary Funding &amp; Awards" class="menu-secondary">
+               <div class="menu-secondary__title-container">
+                 <h2 class="menu-secondary__title"><a  class="menu-secondary__title-link" href="https://grad.uic.edu/funding-awards/">Funding &amp; Awards</a></h2>
+                 <a  class="menu-secondary__back-to-content" href="#main">
+                   <svg aria-label="Back to main content" width="32" height="32" viewBox="0 0 32 32">
+                     <title>Back to main content</title>
+                     <g fill="none" fill-rule="evenodd">
+                       <circle class="_circle" fill="#fff" stroke="#007FA5" stroke-width="1" cx="16" cy="16" r="15"/>
+                       <path class="_arrow" d="M16 21v-9M12 15l4-4 4 4" stroke="#001E62" stroke-width="2" stroke-linecap="round"/>
+                     </g>
+                   </svg>
+                 </a>
+               </div>
+
+                <ul  class="menu ">
+                  
+                  <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-22503 menu-item-has-children">
+                    <a  href="/funding-awards/graduate-funding-overview/" target="_self"><span>Graduate Funding Overview</span>                          <span class="expand-item"></span></a>
+  <ul class="_child">
+    <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-18507">
+    <a href="/funding-awards/acceptance-of-offer-of-financial-support-april-15/" target="_self"><span>April 15th Resolution</span></a>    </li>
+    <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-18503">
+    <a href="/funding-awards/assistantships/" target="_self"><span>Assistantships</span></a>    </li>
+  </ul>
+                  </li>
+                  
+                  <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-18504 menu-item-has-children">
+                    <a  href="/funding-awards/graduate-college-fellowships/" target="_self"><span>Fellowships &amp; Awards</span>                          <span class="expand-item"></span></a>
+  <ul class="_child">
+    <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-22504">
+    <a href="/funding-awards/fellowship-office-info/" target="_self"><span>Fellowship Office Information</span></a>    </li>
+    <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-23638">
+    <a href="/funding-awards/graduate-college-waivers/" target="_self"><span>Graduate College Tuition &amp; Fee Waivers</span></a>    </li>
+    <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-22502">
+    <a href="/funding-awards/graduate-college-fellowships/pif/" target="_self"><span>UIC Pipeline to an Inclusive Faculty (PIF) Program</span></a>    </li>
+    <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-18508">
+    <a href="/funding-awards/graduate-college-fellowships/psp/" target="_self"><span>Graduate College Professional Success Program (PSP) for Fellows</span></a>    </li>
+    <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-22505">
+    <a href="/funding-awards/graduate-college-fellowships/emergency-grants/" target="_self"><span>Emergency Grants</span></a>    </li>
+  </ul>
+                  </li>
+                  
+                  <li class="_item  menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-22805 menu-item-has-children">
+                    <a  href="/funding-awards/other-funding/" target="_self"><span>Other Funding</span>                          <span class="expand-item"></span></a>
+  <ul class="_child">
+    <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-18516">
+    <a href="/funding-awards/other-funding/online-funding-resources/" target="_self"><span>Online Funding Resources</span></a>    </li>
+    <li class="_item  menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-13571 current_page_item menu-item-18509">
+    <a href="/funding-awards/other-funding/natl-internatl-opps/" target="_self"><span>National &amp; International Opportunities</span></a>    </li>
+  </ul>
+                  </li>
+                                  </ul>
+
+              </nav>
+            </div>
+       
+                            
+                                 
+              
+                            
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+
+
+
+
+   
+                                 
+              
+                            
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+
+
+
+
+   
+                                 
+              
+                            
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+
+   
+                                 
+              
+                            
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+
+
+
+
+   
+                                 
+              
+                            
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+                                 
+              
+                            
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+
+   
+                                 
+              
+                            
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+                                 
+              
+                            
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+
+
+
+
+   
+                                 
+              
+                            
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+
+
+
+
+   
+                                 
+              
+                            
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+
+
+
+
+   
+
+
+          
+                          </div>
+    </main>
+
+    
+        <footer id="footer" class="footer u-dark-region" role="contentinfo">
+
+  <div class="footer-contact">
+    <div class="l-full">
+
+          <div class="mega-footer-contact">
+
+    <div class="mega-footer-contact__brand mega-footer-contact__brand--wordmark">
+        <div class="footer-logo">
+                        <div class="footer-logo__wordmark-wrapper">
+                <div class="uic-wordmark -large uic-wordmark--mega-footer">
+
+  <div class="_mark">
+    <a href="http://uic.edu" class="uic-logo-icon ">
+ <svg aria-label="UIC.edu home" viewBox="0 0 55 55" xmlns="http://www.w3.org/2000/svg">
+ <title>UIC Logo</title>
+ <circle class="_circle" cx="27" cy="27" r="25" fill="none" />
+<path class="_mark" d="M49.73 23.917l-4.583 2.2c-.44-1.71-1.397-2.718-3.056-2.718-2.25 0-3.39 1.862-3.39 4.918 0 3.03 1.14 4.844 3.39 4.844 1.555 0 2.462-.83 2.954-2.203l4.79 1.707c-1.242 2.824-3.754 4.767-7.768 4.767-5.57 0-8.754-3.728-8.754-9.116 0-5.41 3.368-9.114 8.857-9.114 4.194 0 6.68 2.407 7.56 4.713zm-24.264-4.403h5.282v17.61h-5.282v-17.61zm-3.21 10.41c0 2.46-.258 3.65-.96 4.844-1.164 1.94-4.27 2.692-6.99 2.692-2.72 0-5.828-.753-6.993-2.692-.698-1.194-.96-2.384-.96-4.844v-10.41h5.284v10.513c0 1.192.157 1.968.596 2.486.416.492 1.09.726 2.073.726.983 0 1.657-.235 2.07-.727.44-.518.597-1.294.597-2.486V19.514h5.282v10.41zM54.5 27.5c0-14.912-12.09-27-27-27-14.913 0-27 12.088-27 27s12.087 27 27 27c14.91 0 27-12.088 27-27z" fill="#FFF " fill-rule="evenodd"/>
+</svg>
+</a>
+  </div>
+
+  <div class="_text">
+    <a href="https://grad.uic.edu">
+                  <span class="_line">Graduate</span>
+              <span class="_line">College</span>
+              </a>
+  </div>
+
+</div>
+            </div>
+            </div>
+    </div>
+
+  <div class="mega-footer-contact__menus">
+
+        <div class="mega-footer-contact__quick-menus _quick-menus">
+
+            <nav class="mega-footer-contact__quick-menu" id="menu1" aria-label="footer-menu-1">
+        <h2>Campus Resources</h2>
+        <ul id="menu-quick-1" class="menu menu-quick-1" aria-label="Campus Resources">
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-22484">
+      <a href="http://catalog.uic.edu/ucat/academic-calendar/" target="_blank">Academic Calendar</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-22478">
+      <a href="http://today.uic.edu" target="_blank">UIC Today</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-22485">
+      <a href="http://events.uic.edu/" target="_blank">Event Calendar</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-22486">
+      <a href="http://maps.uic.edu/" target="_blank">UIC Maps</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-22487">
+      <a href="http://uic.edu/about/visit-directions" target="_blank">Visit &amp; Directions</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-22488">
+      <a href="http://clery.uic.edu/" target="_blank">Clery Compliance</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-22489">
+      <a href="http://oae.uic.edu/UnlawfulDiscrimination/index.htm" target="_blank">Nondiscrimination Policy</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-22490">
+      <a href="http://oae.uic.edu/sexual-misconduct/" target="_blank">Title IX: Sexual Misconduct</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-22491">
+      <a href="http://financialaid.uic.edu/consumer-information/department-education-complaint-process/" target="_blank">Student Information Disclosures</a>
+    </li>
+  </ul>
+      </nav>
+      
+            <nav class="mega-footer-contact__quick-menu" id="menu2" aria-label="footer-menu-2">
+        <h2>Staff Resources</h2>
+        <ul id="menu-quick-2" class="menu menu-quick-2" aria-label="Staff Resources">
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-22482">
+      <a href="https://my.uic.edu/" target="_blank">my UIC</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-22483">
+      <a href="https://outlook.uic.edu/" target="_blank">UIC Outlook Online</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-22481">
+      <a href="https://accc.uic.edu/service/g-suite" target="_blank">GoogleApps@UIC</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-23714">
+      <a href="/wp-admin" target="_self">Site Login</a>
+    </li>
+  </ul>
+      </nav>
+      
+            <nav class="mega-footer-contact__quick-menu" id="menu3" aria-label="footer-menu-3">
+        <h2>Student Resources</h2>
+        <ul id="menu-quick-3" class="menu menu-quick-3" aria-label="Student Resources">
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-22494">
+      <a href="https://wellnesscenter.uic.edu/" target="_blank">Wellness Center</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-23611">
+      <a href="https://writingcenter.uic.edu/" target="_blank">Writing Center</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-23612">
+      <a href="https://wellnesscenter.uic.edu/resources-and-services/pop-up-pantry/" target="_blank">UIC Pop-Up Pantry</a>
+    </li>
+  </ul>
+      </nav>
+      
+    </div>
+    
+    
+  </div>
+
+  <div class="mega-footer-contact__contact">
+
+    <div class="_contact">
+      <h2>Contact</h2>
+      <div class="site-contact-container">  <div class="site-unit-name"><h3>Graduate College</h3></div>
+      <div class="site-address">601 S. Morgan St., 604 UH, 192, Chicago, Illinois 60607-7106</div>
+      <div class="site-phone">Phone: <a  href="tel:(312) 413-2550">(312) 413-2550</a></div>
+      <div class="site-fax">Fax: <a  href="tel:(312) 413-0185">(312) 413-0185</a></div>
+      <div class="site-email"><a  href="mailto:gradcoll@uic.edu">gradcoll@uic.edu</a></div>
+</div>
+      <div class="site-contact-container">        </div>
+    </div>
+
+    <div class="mega-footer-contact__site-social-links">
+       <div aria-label="Social Media Accounts" class="site-social-links">
+  <h2 class="site-social-links__header assistive-text">Social Media Accounts</h2>
+  <ul class="site-social-links__list">
+        <li class="site-social-links__list-item"><a  class="site-social-links__link facebook" href="https://www.facebook.com/UICGraduateCollege">
+      <svg class="site-social-links__link-icon site-social-links__link-icon-with-hover" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" aria-label="Facebook"><title>Facebook</title><path d="M17 26.7V15h3.2s.3-2 .4-4H17V8.3s.5-.9 1-.9h2.5c0-.6.2-2.4.3-4h-3.7c-5 0-4.9 3.9-4.9 4.5v3.2h-3v4h3.1v11.7H17z"/></svg>
+    </a></li>
+            <li class="site-social-links__list-item"><a  class="site-social-links__link linkedin" href="https://www.linkedin.com/school/university-of-illinois-at-chicago---graduate-college/">
+      <svg class="site-social-links__link-icon site-social-links__link-icon-with-hover" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" aria-label="LinkedIn"><title>LinkedIn</title><path d="M9 27h3.836V14.212H9V27zm2.4-19c-.67 0-1.24.24-1.704.712C9.234 9.185 9 9.77 9 10.452c0 .684.234 1.27.696 1.742.463.472 1.035.712 1.703.712.667 0 1.24-.24 1.702-.712.463-.473.697-1.058.697-1.74 0-.684-.235-1.27-.698-1.742C12.64 8.24 12.067 8 11.4 8zm15.025 7.18c-.934-.997-2.107-1.503-3.485-1.503-1.064 0-2.053.343-2.95 1.02v-.816H15.77V27h4.223v-7.262c0-.832.2-1.434.61-1.84.41-.408.88-.608 1.43-.608.732 0 1.573.268 1.573 2.357V27h4.222v-7.875c0-1.627-.47-2.954-1.4-3.946z" /></svg>
+    </a></li>
+            <li class="site-social-links__list-item"><a  class="site-social-links__link twitter" href="https://twitter.com/uicgradcollege?lang=en">
+      <svg class="site-social-links__link-icon site-social-links__link-icon-with-hover" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" aria-label="Twitter"><title>Twitter</title><path d="M25.4 9.4c-.7.3-1.5.6-2.4.7.9-.5 1.5-1.3 1.8-2.3-.8.5-1.7.8-2.6 1-.8-.8-1.8-1.3-3-1.3-2.3 0-4.1 1.9-4.1 4.1 0 .3 0 .6.1.9-3.4-.2-6.5-1.8-8.5-4.3-.4.6-.6 1.3-.6 2.1 0 1.4.7 2.7 1.8 3.4-.7 0-1.3-.2-1.9-.5v.1c0 2 1.4 3.7 3.3 4.1-.3.1-.7.1-1.1.1-.3 0-.5 0-.8-.1.5 1.6 2.1 2.8 3.9 2.9-1.4 1.1-3.2 1.8-5.1 1.8-.3 0-.7 0-1-.1 1.8 1.2 4 1.9 6.3 1.9 7.6 0 11.8-6.3 11.8-11.8v-.5c.9-.6 1.6-1.3 2.1-2.2z"/></svg>
+    </a></li>
+            <li class="site-social-links__list-item"><a  class="site-social-links__link instagram" href="https://www.instagram.com/uicgraduatecollege/">
+      <svg class="site-social-links__link-icon site-social-links__link-icon-with-hover" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" aria-label="Instagram"><title>Instagram</title><path fill="none" d="M15 18.8c2 0 3.6-1.6 3.6-3.6S17 11.5 15 11.5s-3.6 1.6-3.6 3.6 1.6 3.7 3.6 3.7z"/><path fill="none" d="M20 15.2c0 2.7-2.2 5-5 5s-5-2.2-5-5c0-.7.1-1.3.4-1.9H6.5V22c0 .9.7 1.6 1.6 1.6H22c.9 0 1.6-.7 1.6-1.6v-8.7h-3.9c.1.6.3 1.2.3 1.9z"/><path d="M21.9 5.1H11.5v5.8h-1.4V5.1H8.8v5.8H7.4V5.2c-1.3.2-2.3 1.4-2.3 2.9V22c0 1.6 1.3 3 3 3H22c1.6 0 3-1.3 3-3V8.1c-.1-1.7-1.4-3-3.1-3zm-2.6 3.4h2.4v2.4h-2.4V8.5zm-4.3 3c2 0 3.6 1.6 3.6 3.6S17 18.8 15 18.8s-3.6-1.6-3.6-3.6 1.6-3.7 3.6-3.7zm8.5 10.4c0 .9-.7 1.6-1.6 1.6H8.1c-.9 0-1.6-.7-1.6-1.6v-8.7h3.9c-.2.6-.4 1.2-.4 1.9 0 2.7 2.2 5 5 5s5-2.2 5-5c0-.7-.1-1.3-.4-1.9h3.9v8.7z"/></svg>
+    </a></li>
+              </ul>
+</div>
+    </div>
+  </div>
+</div>
+    
+    </div>
+  </div>
+
+  
+  <div class="footer-uic-menu">
+    <div class="l-full">
+
+      <div aria-label="UIC.edu Links">
+  <h2 class="assistive-text">UIC.edu links</h2>
+  <ul class="uic-footer-menu">
+    <li><strong><a href="https://uic.edu/">UIC.edu</a></strong></li>
+    <li><a href="https://catalog.uic.edu/ucat/academic-calendar/">Academic Calendar</a></li>
+    <li><a href="https://uicflames.com/">Athletics</a></li>
+    <li><a href="https://www.uic.edu/apps/departments-az/search">Campus Directory</a></li>
+    <li><a href="https://disabilityresources.uic.edu/">Disability Resources</a></li>
+    <li><a href="https://emergency.uic.edu/">Emergency Information</a></li>
+    <li><a href="https://today.uic.edu/events">Event Calendar</a></li>
+    <li><a href="https://uic.edu/about/job-opportunities">Job Openings</a></li>
+    <li><a href="https://library.uic.edu/">Library</a></li>
+    <li><a href="https://maps.uic.edu/">Maps</a></li>
+    <li><a href="https://ready.uic.edu/digital-materials/uic-safe-mobile-app/">UIC Safe Mobile App</a></li>
+    <li><a href="https://today.uic.edu/">UIC Today</a></li>
+    <li><a href="https://uihealth.uic.edu/">UI Health</a></li>
+    <li><a href="https://dos.uic.edu/student-veterans-affairs/">Veterans Affairs</a></li>
+  </ul>
+</div>
+
+    </div>
+  </div>
+
+  <div class="footer-legal">
+    <div class="l-full">
+
+      <div class="red-version">Powered by Red 2.38.0</div>
+
+<div class="site-copyright">
+  &copy; 2020 The Board of Trustees of the University of Illinois <span class="pipe-separator">|</span>
+  <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a>
+</div>
+
+<div class="campuses" aria-label="Campuses">
+  <h2 class="assistive-text">Campuses</h2>
+  <ul class="campuses-list">
+    <li><a href="https://www.uillinois.edu/">University of Illinois System</a></li>
+    <li><a href="https://illinois.edu/">Urbana-Champaign</a></li>
+    <li><a href="https://www.uis.edu/">Springfield</a></li>
+  </ul>
+</div>
+<div class="cookie-banner">
+  <div id="footer-bottom">
+    <a class="optanon-show-settings">Cookie Settings</a>
+  </div>
+</div>
+    </div>
+  </div>
+
+</footer>
+
+	    </div>
+
+
+  
+
+<!-- www.socialintents.com -->
+<script type="text/javascript">
+(function() {function socialintents(){
+    var siJsHost = (("https:" === document.location.protocol) ? "https://" : "http://");
+    var s = document.createElement('script');s.type = 'text/javascript';s.async = true;s.src = siJsHost+'www.socialintents.com/api/chat/socialintents.1.3.js#2c9fa23c717e066601717fabd71105b5';
+    var x = document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s, x);};
+if (window.attachEvent)window.attachEvent('onload', socialintents);else window.addEventListener('load', socialintents, false);})();
+</script>
+<!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://grad.uic.edu/wp-admin/admin-ajax.php";
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sb_instagram_js_options = {"sb_instagram_at":"","font_method":"svg"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://grad.uic.edu/wp-content/plugins/instagram-feed/js/sb-instagram.min.js?ver=1.12.1'></script>
+<script type='text/javascript' src='https://grad.uic.edu/wp-content/plugins/uic-red/js-admin/uic-publish-post-settings.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://grad.uic.edu/wp-content/plugins/uic-red/js-admin/acf-field-group-toggle.js?ver=1.0.0'></script>
+<script type='text/javascript' src='//www.uic.edu/apps/web-alert/alert.js?ver=3'></script>
+<script type='text/javascript' src='https://grad.uic.edu/wp-content/themes/uic-red/js/main.js?ver=1'></script>
+<script type='text/javascript' src='https://grad.uic.edu/wp-includes/js/wp-embed.min.js?ver=5d22ad4e79d53a5a8c98a4d20d4dd9b6'></script>
+
+
+
+  
+  
+  <script async src="https://cdn.cookielaw.org/consent/f5cc0259-ebf9-460e-b628-c1d661e5d3b6.js" type="text/javascript" charset="UTF-8"></script>
+
+  </body>
+</html>

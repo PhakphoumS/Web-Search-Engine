@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin List -->
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Page:</strong>
+		<a href='/list.php?id=1&amp;page=1'>1</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=2'>2</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=3'>3</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=4'><strong>4</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=5'>5</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=6'>6</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=7'>7</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=8'>8</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=9'>9</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=10'>10</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<div id='list_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin List List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1842'><img src='/resizedImages/500x280-crop-perfectparlor_mfa-2.jpg' alt='' title='The Perfect Parlor' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1842'>The Perfect Parlor</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=2'>Todd Margolis</a><br>
+			October 1, 2002 - January 10, 2003<br><br>
+			A Perfect Parlor explores how technology can augment human communication, interaction and perceptions when incorporated into personal, social and&hellip; <a href='/entry.php?id=1842'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1844'><img src='/resizedImages/500x280-crop-animagina.gif' alt='' title='Animagina' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1844'>Animagina</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=174'>Damin Keenan</a>, <a href='/entry.php?id=188'>Daria Tsoupikova</a>, <a href='/entry.php?id=189'>Helen-Nicole Kostis</a>, <a href='/entry.php?id=191'>Julieta Aguilera</a>, <a href='/entry.php?id=42'>Seung Kang</a>, <a href='/entry.php?id=187'>Tina Shah</a>, in collaboration with Alex Hill, Geoffrey Baum, Franz Fischnaller<br>
+			October 1, 2002 - March 1, 2003<br><br>
+			Animagina :: (life+imagination) An experimental collaborative VR project which plays with techno-topian / technopocalypse symbols in a conceptual&hellip; <a href='/entry.php?id=1844'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1858'><img src='/resizedImages/500x280-crop-daydreamer.gif' alt='' title='Daydreamer' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1858'><em>Daydreamer</em></a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=189'>Helen-Nicole Kostis</a><br>
+			October 1, 2002 - December 1, 2002<br><br>
+			Daydreamer is a VR hybrid environment consisting of two worlds the Real and the Imaginary. The real world exists in the City of Chicago, and the&hellip; <a href='/entry.php?id=1858'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1901'><img src='/resizedImages/500x280-crop-rutopia.gif' alt='' title='Rutopia' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1901'>Rutopia</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=188'>Daria Tsoupikova</a><br>
+			October 1, 2002 - March 1, 2003<br><br>
+			Rutopia is a virtual reality art project developed for the CAVE, GeoWall, passive and active stereo projection environments. It describes an ideal&hellip; <a href='/entry.php?id=1901'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1843'><img src='/resizedImages/500x280-crop-maya_single-2.jpg' alt='' title='Maya - Veil of Illusion' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1843'>Maya - Veil of Illusion</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=162'>Petra Gemeinboeck</a><br>
+			September 1, 2002 - March 28, 2003<br><br>
+			In Hindu-Buddhist concept, Maya stands for the constant movement of the universe, so powerfully masking the essence of all matter that the phenomenal&hellip; <a href='/entry.php?id=1843'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1852'><img src='/resizedImages/500x280-crop-cine_effects.jpg' alt='' title='Cinematic Effects for Virtual Enviroments' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1852'>Cinematic Effects for Virtual Enviroments</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=152'>Chris White</a><br>
+			September 1, 2002 - September 1, 2003<br><br>
+			The goal of this project is to produce cinematic quality effects in a real-time virtual enviroment. This required research and development to two&hellip; <a href='/entry.php?id=1852'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1851'><img src='/resizedImages/500x280-crop-virtual_bronzeville.jpg' alt='' title='Virtual Bronzeville' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1851'>Virtual Bronzeville</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=152'>Chris White</a>, James Sosnoski, Jeannette Rouselle, Courtney Jolliff, Diane Dinkins Carr<br>
+			August 1, 2002 - August 30, 2003<br><br>
+			The objective of the Virtual Bronzeville Project is to create a virtual model of the history of Bronzeville, Chicago. This model will illustrate&hellip; <a href='/entry.php?id=1851'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1832'><img src='/resizedImages/500x280-crop-confluxus_sm.jpg' alt='' title='Shared Spaces' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1832'>Shared Spaces</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=161'>Geoffrey Allen Baum</a>, <a href='/entry.php?id=165'>Keith Miller</a>, <a href='/entry.php?id=53'>Tim Portlock</a>, <a href='/entry.php?id=2'>Todd Margolis</a><br>
+			May 1, 2002 - August 31, 2002<br><br>
+			The Shared Spaces project is a collaborative virtual reality experience on a VR Portal installation system. The space is designed to be a community&hellip; <a href='/entry.php?id=1832'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1834'><img src='/resizedImages/500x280-crop-matisse_kineticart.jpg' alt='' title='Kites Flying In and Out of Space' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1834'>Kites Flying In and Out of Space</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=169'>Shalini Venkataraman</a>, <a href='/entry.php?id=73'>Tom Coffin</a>, Jacqueline Matisse-Monnier, Ray Kass, Ron Kriz, Rob Strouse, Francis Thompson, Paul Weilinga, Ulrike Kasper, Kukimoto Nobuyuki, Kurichi Kumar, Jie Wei, Brian Corrie<br>
+			May 1, 2002 - September 26, 2002<br><br>
+			Kites Flying In and Out of Space is a seminal work, as the first high bandwidth virtual-reality art piece ever created. The content is a study and&hellip; <a href='/entry.php?id=1834'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1833'><img src='/resizedImages/500x280-crop-city_cluster-2.jpg' alt='' title='CityCluster: From the Renaissance to the Gigabits Networking Age' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1833'>CityCluster: From the Renaissance to the Gigabits Networking Age</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=173'>Alex Hill</a>, <a href='/entry.php?id=175'>Franz Fischnaller</a>, <br><strong>collaborators:</strong> F.A.B.R.I.CATORS<br><strong>additional 3D environment modeling:</strong> Helen-Nicole Kostis<br>
+			April 1, 2002 - December 15, 2002<br><br>
+			CityCluster: From the Renaissance to the Gigabits Networking Age is a virtual reality and high-speed networking project that juxtaposes the&hellip; <a href='/entry.php?id=1833'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1828'><img src='/resizedImages/500x280-crop-pleaseadjust_185.gif' alt='' title='Please Adjust' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1828'>Please Adjust</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=2'>Todd Margolis</a><br>
+			January 1, 2002 - July 1, 2002<br><br>
+			With the growing amount of interactive artworks, questions over artistic control and intent have become more important than ever. Please Adjust&hellip; <a href='/entry.php?id=1828'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1830'><img src='/resizedImages/500x280-crop-liquidon.jpg' alt='' title='Liquidon' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1830'>Liquidon</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=60'>Joseph Tremonti</a><br>
+			September 1, 2001 - July 10, 2002<br><br>
+			Liquidon is an immersive, realtime, audio-visual composition that explores the field of ITC. ITC, an acronym for Instrumental Trans-Communication, is&hellip; <a href='/entry.php?id=1830'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1816'><img src='/resizedImages/500x280-crop-beatbox_dolinsky.jpg' alt='' title='Beat Box' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1816'>Beat Box</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=86'>Margaret Dolinsky</a>, Edward J. Dambik, Indiana University<br>
+			July 1, 2001 - September 1, 2002<br><br>
+			Beat Box presents networked CAVE&trade; participants with a playful arena of interactive virtual sound machines. Each of three machines has a unique&hellip; <a href='/entry.php?id=1816'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1824'><img src='/resizedImages/500x280-crop-yalu_id.jpg' alt='' title='ID:Illusion' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1824'>ID:Illusion</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=46'>Ya Lu Lin</a><br>
+			April 1, 2001 - May 11, 2002<br><br>
+			ID:Illusion is an artist&rsquo;s exploration of the subconscious as a metaphorical journey. <a href='/entry.php?id=1824'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1795'><img src='/resizedImages/500x280-crop-man+machine.gif' alt='' title='man+machine' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1795'>man+machine</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=2'>Todd Margolis</a><br>
+			February 1, 2001 - March 1, 2001<br><br>
+			Man+Machine is one in a series of ImmersaGrams that portray a clinical analysis of the evolution of the human species when aided by machine&hellip; <a href='/entry.php?id=1795'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<!-- End List List -->
+	</table>
+</div>
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Page:</strong>
+		<a href='/list.php?id=1&amp;page=1'>1</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=2'>2</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=3'>3</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=4'><strong>4</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=5'>5</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=6'>6</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=7'>7</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=8'>8</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=9'>9</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=10'>10</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<!-- End List -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

@@ -1,0 +1,203 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+    <base href='https://www.ihrp.uic.edu/content/about-our-fellows-affiliates' />
+    <title>Recognizing Excellence Among Our Colleagues</title>
+    <script src="https://www.ihrp.uic.edu/misc/jquery.js?v=1.4.4"></script>
+<script src="https://www.ihrp.uic.edu/misc/jquery-extend-3.4.0.js?v=1.4.4"></script>
+<script src="https://www.ihrp.uic.edu/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.ihrp.uic.edu/misc/drupal.js?q8vwl2"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/field_group/field_group.js?q8vwl2"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/themes/ihrp/js/script.js?q8vwl2"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"ihrp","theme_token":"0-bvAlYzp4Z9HWLe-XTr6VWKMmH_Eu7l4ofLOFgqq_Q","js":{"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/field_group\/field_group.js":1,"sites\/all\/themes\/ihrp\/js\/script.js":1}},"field_group":{"fieldset":"print"}});</script>
+    <script type="text/javascript">(function ($) { Drupal.behaviors.print = {attach: function() {$(window).load(function() {window.print();})}}})(jQuery);</script>    <meta name="robots" content="noindex, nofollow" />          <link rel='shortcut icon' href='https://www.ihrp.uic.edu/files/favicon.ico' type='image/x-icon' />
+        <style>
+@import url("https://www.ihrp.uic.edu/modules/system/system.base.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/system/system.menus.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/system/system.messages.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/system/system.theme.css?q8vwl2");
+</style>
+<style>
+@import url("https://www.ihrp.uic.edu/modules/aggregator/aggregator.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/comment/comment.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/date/date_api/date.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/field/theme/field.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/node/node.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/search/search.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/user/user.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/views/css/views.css?q8vwl2");
+</style>
+<style>
+@import url("https://www.ihrp.uic.edu/sites/all/modules/ctools/css/ctools.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/print/css/print.css?q8vwl2");
+</style>
+  </head>
+  <body>
+            <div class="print-site_name">Published on <em class="placeholder">Institute for Health Research and Policy | University of Illinois at Chicago</em> (<a href="https://www.ihrp.uic.edu">https://www.ihrp.uic.edu</a>)</div>
+    <p />
+    <div class="print-breadcrumb"><a href="/">Home</a> &gt; <a href="/content/institute-welcome-intro" title="">About</a> &gt; Fellows &amp; Affiliates</div>
+    <hr class="print-hr" />
+        <div class="print-content">
+<article class="node-2873 node node-page view-mode-print clearfix" about="/content/about-our-fellows-affiliates" typeof="sioc:Item foaf:Document">
+
+      <header>
+                    <h2 class="node__title node-title"><a href="https://www.ihrp.uic.edu/content/about-our-fellows-affiliates">Recognizing Excellence Among Our Colleagues</a> <span class="print-footnote">[1]</span></h2>
+            <span property="dc:title" content="Recognizing Excellence Among Our Colleagues" class="rdf-meta element-hidden"></span>
+      
+          </header>
+  
+	
+  <p>Each year the Institute for Health Research and Policy recognizes faculty-scientists&nbsp;and PhD-level researchers&nbsp;who conduct their studies with the support of IHRP.</p>
+<h2>
+	We honor these UIC researchers for their continued pursuit of research excellence in examining and reducing social&nbsp;determinants of health and improving well-being from a broad, multidisciplinary perspective.</h2>
+<p>We also are grateful for their commitment to fostering IHRP&#39;s intellectual community.</p>
+<h3>
+	Fellows</h3>
+<p>Each UIC Fellow below is a principal investigator of current IHRP-administered research or&nbsp;has contributed substantially as a co-investigator to multiple IHRP research projects.</p>
+<ul>
+	<li>
+		<a href="https://www.ihrp.uic.edu/researcher/michael-l-berbaum-phd">Michael Berbaum, PhD</a> <span class="print-footnote">[2]</span></li>
+	<li>
+		<a href="https://ahs.uic.edu/kinesiology-nutrition/directory/braunschweig-carol/">Carol Braunschweig, PhD, RD</a> <span class="print-footnote">[3]</span></li>
+	<li>
+		<a href="https://www.ihrp.uic.edu/researcher/frank-j-chaloupka-phd">Frank J. Chaloupka, PhD</a> <span class="print-footnote">[4]</span></li>
+	<li>
+		<a href="https://www.ihrp.uic.edu/researcher/jamie-f-chriqui-phd-mhs">Jamie Chriqui, PhD, MHS</a> <span class="print-footnote">[5]</span></li>
+	<li>
+		<a href="https://www.ihrp.uic.edu/researcher/kathleen-r-diviak-phd">Kathleen Diviak, PhD</a> <span class="print-footnote">[6]</span></li>
+	<li>
+		<a href="https://www.ihrp.uic.edu/researcher/david-dubois-phd">David DuBois, PhD</a> <span class="print-footnote">[7]</span></li>
+	<li>
+		<a href="https://www.ihrp.uic.edu/researcher/j-andrew-dykens-md-mph">Andrew Dykens, MD, MPH</a> <span class="print-footnote">[8]</span></li>
+	<li>
+		<a href="https://www.ihrp.uic.edu/researcher/marian-l-fitzgibbon-phd">Marian L. Fitzgibbon, PhD</a> <span class="print-footnote">[9]</span></li>
+	<li>
+		<a href="https://www.ihrp.uic.edu/researcher/ben-gerber-md-mph">Ben Gerber, MD, MPH</a> <span class="print-footnote">[10]</span></li>
+	<li>
+		<a href="https://www.ihrp.uic.edu/researcher/rachel-gordon-phd">Rachel Gordon, PhD&nbsp;</a> <span class="print-footnote">[11]</span></li>
+	<li>
+		<a href="https://www.ihrp.uic.edu/researcher/susan-l-hughes-dsw">Susan L. Hughes, DSW</a> <span class="print-footnote">[12]</span></li>
+	<li>
+		<a href="https://chicago.medicine.uic.edu/departments/academic-departments/neurology-rehabilitation/neurology-rehabilitation-faculty/name/yevgenya-kaydanova/">Yevgenya Kaydanova, MD, PhD</a> <span class="print-footnote">[13]</span></li>
+	<li>
+		<a href="https://www.ihrp.uic.edu/researcher/jonathan-d-klein-md-mph">Jonathan D. Klein MD, MPH</a> <span class="print-footnote">[14]</span></li>
+	<li>
+		<a href="https://www.ihrp.uic.edu/researcher/angela-kong-phd-mph-rd">Angela Kong, PhD, MPH, RD</a> <span class="print-footnote">[15]</span></li>
+	<li>
+		<a href="https://www.ihrp.uic.edu/researcher/jun-ma-md-phd">Jun Ma, MD, PhD</a> <span class="print-footnote">[16]</span></li>
+	<li>
+		<a href="https://www.ihrp.uic.edu/researcher/david-x-marquez-phd">David X. Marquez, PhD</a> <span class="print-footnote">[17]</span></li>
+	<li>
+		<a href="https://www.ihrp.uic.edu/researcher/molly-a-martin-md-mapp">Molly Martin, MD, MAPP</a> <span class="print-footnote">[18]</span></li>
+	<li>
+		<a href="https://www.ihrp.uic.edu/researcher/maryam-mirza-phd">Maryam Mirza, PhD</a> <span class="print-footnote">[19]</span></li>
+	<li>
+		<a href="https://www.ihrp.uic.edu/researcher/naoko-muramatsu-phd">Naoko Muramatsu, PhD</a> <span class="print-footnote">[20]</span></li>
+	<li>
+		<a href="https://ahs.uic.edu/kinesiology-nutrition/directory/odoms-young-angela/">Angela Odoms-Young, PhD</a> <span class="print-footnote">[21]</span></li>
+	<li>
+		<a href="https://www.ihrp.uic.edu/researcher/karen-e-peters-drph">Karen Peters, DrPH</a> <span class="print-footnote">[22]</span></li>
+	<li>
+		<a href="https://www.ihrp.uic.edu/researcher/caryn-e-peterson-phd">Caryn E. Peterson, PhD</a> <span class="print-footnote">[23]</span></li>
+	<li>
+		<a href="https://www.ihrp.uic.edu/researcher/lisa-m-powell-phd">Lisa Powell, PhD</a> <span class="print-footnote">[24]</span></li>
+	<li>
+		<a href="https://www.ihrp.uic.edu/researcher/oksana-pugach-phd">Oksana Pugach, PhD</a> <span class="print-footnote">[25]</span></li>
+	<li>
+		<a href="https://www.ihrp.uic.edu/researcher/reshma-shah-md">Reshma Shah, MD</a> <span class="print-footnote">[26]</span></li>
+	<li>
+		<a href="https://www.ihrp.uic.edu/researcher/lisa-k-sharp-phd">Lisa Sharp, PhD&nbsp;</a> <span class="print-footnote">[27]</span></li>
+	<li>
+		<a href="https://publichealth.uic.edu/academics/public-health-degrees/master-healthcare-administration/healthcare-administration-faculty/">Emily Stiehl, PhD&nbsp;</a> <span class="print-footnote">[28]</span></li>
+	<li>
+		<a href="https://econ.uic.edu/economics/faculty/john-a-tauras">John Tauras, PhD</a> <span class="print-footnote">[29]</span></li>
+	<li>
+		<a href="https://www.ihrp.uic.edu/researcher/lisa-tussing-humphreys-phd-ms-rd">Lisa Tussing-Humphreys, PhD, RD</a> <span class="print-footnote">[30]</span></li>
+	<li>
+		<a href="https://www.ihrp.uic.edu/researcher/tianxiu-wang-phd-ms">Tianxiu Wang, PhD, MS</a> <span class="print-footnote">[31]</span></li>
+	<li>
+		<a href="https://nursing.uic.edu/profiles/shannon-zenk/">Shannon Zenk, PhD, MPH, RN</a> <span class="print-footnote">[32]</span></li>
+</ul>
+<h3>
+	Affiliates</h3>
+<p>We also honor and welcome UIC researchers who recently joined our intellectual community and are developing new research with the Institute&rsquo;s support.</p>
+<ul>
+	<li>
+		<a href="https://soc.uic.edu/profiles/amy-bailey/">Amy Kate Bailey, PhD</a> <span class="print-footnote">[33]</span></li>
+	<li>
+		<a href="https://anth.uic.edu/profiles/doane-molly/">Molly Doane, PhD</a> <span class="print-footnote">[34]</span></li>
+	<li>
+		<a href="https://soc.uic.edu/profiles/krysan-maria/">Maria Krysan, PhD</a> <span class="print-footnote">[35]</span></li>
+	<li>
+		<a href="https://chicago.medicine.uic.edu/directory/name/helen-lee/">Helen H. Lee, MD</a> <span class="print-footnote">[36]</span></li>
+	<li>
+		<a href="https://soc.uic.edu/profiles/barbara-risman/">Barbara Risman, PhD</a> <span class="print-footnote">[37]</span></li>
+	<li>
+		<a href="https://clj.uic.edu/profiles/sarah-e-ullman/">Sarah E. Ullman, PhD</a> <span class="print-footnote">[38]</span></li>
+</ul>
+
+  
+</article><!-- /.node -->
+</div>
+    <div class="print-footer">
+<div id="block-block-43" class="block block-block first odd">
+
+      
+  <p><strong>Institute for Health Research and Policy of the University of Illinois at Chicago</strong><br />
+	Multidisciplinary Home of UIC Researchers Collaborating in the Social and Health Sciences</p>
+<p>1747 W. Roosevelt Road, MC 275, Westside Research Office Bldg., Chicago, IL 60608<br />
+	T: <a href="tel:(312) 996-7222">(312) 996-7222</a> · F: (312) 996-2703</p>
+<p><a href="http://www.uic.edu/">UIC.edu</a> · <a href="https://www.uic.edu/apps/find-people/search">Campus Directory</a> · <a href="http://disabilityresources.uic.edu/">Disability Resources</a> · <a href="/content/employment-ihrp">Job Openings</a> · <a href="https://maps.uic.edu/">Maps</a> · <a href="/content/contact-us">Contact Us</a></p>
+<p>© 2020 <a href="http://www.uillinois.edu/trustees/">The Board of Trustees of the University of Illinois</a> · Privacy Policy · Webmaster: <a href="mailto:IHRP-webfix@uic.edu">IHRP-webfix@uic.edu</a></p>
+
+</div>
+</div>
+    <hr class="print-hr" />
+          <div class="print-source_url">
+        <strong>Source URL (modified on 02/18/2020 - 4:52pm):</strong> https://www.ihrp.uic.edu/content/about-our-fellows-affiliates      </div>
+        <div class="print-links"><p><strong>Links</strong><br />[1] https://www.ihrp.uic.edu/content/about-our-fellows-affiliates<br />
+[2] https://www.ihrp.uic.edu/researcher/michael-l-berbaum-phd<br />
+[3] https://ahs.uic.edu/kinesiology-nutrition/directory/braunschweig-carol/<br />
+[4] https://www.ihrp.uic.edu/researcher/frank-j-chaloupka-phd<br />
+[5] https://www.ihrp.uic.edu/researcher/jamie-f-chriqui-phd-mhs<br />
+[6] https://www.ihrp.uic.edu/researcher/kathleen-r-diviak-phd<br />
+[7] https://www.ihrp.uic.edu/researcher/david-dubois-phd<br />
+[8] https://www.ihrp.uic.edu/researcher/j-andrew-dykens-md-mph<br />
+[9] https://www.ihrp.uic.edu/researcher/marian-l-fitzgibbon-phd<br />
+[10] https://www.ihrp.uic.edu/researcher/ben-gerber-md-mph<br />
+[11] https://www.ihrp.uic.edu/researcher/rachel-gordon-phd<br />
+[12] https://www.ihrp.uic.edu/researcher/susan-l-hughes-dsw<br />
+[13] https://chicago.medicine.uic.edu/departments/academic-departments/neurology-rehabilitation/neurology-rehabilitation-faculty/name/yevgenya-kaydanova/<br />
+[14] https://www.ihrp.uic.edu/researcher/jonathan-d-klein-md-mph<br />
+[15] https://www.ihrp.uic.edu/researcher/angela-kong-phd-mph-rd<br />
+[16] https://www.ihrp.uic.edu/researcher/jun-ma-md-phd<br />
+[17] https://www.ihrp.uic.edu/researcher/david-x-marquez-phd<br />
+[18] https://www.ihrp.uic.edu/researcher/molly-a-martin-md-mapp<br />
+[19] https://www.ihrp.uic.edu/researcher/maryam-mirza-phd<br />
+[20] https://www.ihrp.uic.edu/researcher/naoko-muramatsu-phd<br />
+[21] https://ahs.uic.edu/kinesiology-nutrition/directory/odoms-young-angela/<br />
+[22] https://www.ihrp.uic.edu/researcher/karen-e-peters-drph<br />
+[23] https://www.ihrp.uic.edu/researcher/caryn-e-peterson-phd<br />
+[24] https://www.ihrp.uic.edu/researcher/lisa-m-powell-phd<br />
+[25] https://www.ihrp.uic.edu/researcher/oksana-pugach-phd<br />
+[26] https://www.ihrp.uic.edu/researcher/reshma-shah-md<br />
+[27] https://www.ihrp.uic.edu/researcher/lisa-k-sharp-phd<br />
+[28] https://publichealth.uic.edu/academics/public-health-degrees/master-healthcare-administration/healthcare-administration-faculty/<br />
+[29] https://econ.uic.edu/economics/faculty/john-a-tauras<br />
+[30] https://www.ihrp.uic.edu/researcher/lisa-tussing-humphreys-phd-ms-rd<br />
+[31] https://www.ihrp.uic.edu/researcher/tianxiu-wang-phd-ms<br />
+[32] https://nursing.uic.edu/profiles/shannon-zenk/<br />
+[33] https://soc.uic.edu/profiles/amy-bailey/<br />
+[34] https://anth.uic.edu/profiles/doane-molly/<br />
+[35] https://soc.uic.edu/profiles/krysan-maria/<br />
+[36] https://chicago.medicine.uic.edu/directory/name/helen-lee/<br />
+[37] https://soc.uic.edu/profiles/barbara-risman/<br />
+[38] https://clj.uic.edu/profiles/sarah-e-ullman/<br />
+</p></div>
+      </body>
+</html>

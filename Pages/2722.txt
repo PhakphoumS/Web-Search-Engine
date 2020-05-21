@@ -1,0 +1,741 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Category -->
+<!-- Begin Category Pagination -->
+<div class='category_area'>
+	<div class='category_content'>
+		<h3>Cultural Heritage</h3><br>
+		<strong>Related:</strong>
+		<a href='/category.php?id=7&amp;related=1'>Art</a>&nbsp;&nbsp;
+		<a href='/category.php?id=7&amp;related=2'>Directory</a>&nbsp;&nbsp;
+		<a href='/category.php?id=7&amp;related=3'><strong>Events</strong></a>&nbsp;&nbsp;
+		<a href='/category.php?id=7&amp;related=4'>Papers</a>&nbsp;&nbsp;
+		<a href='/category.php?id=7&amp;related=5'>Research</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End Category Pagination -->
+<div class='category_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin Category List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2405'><img src='/resizedImages/500x280-crop-nmf_herstoryposter.jpg' alt='' title='UIC Electronic Visualization Laboratory Graduates and Staff Participate in Symposium &ldquo;Herstory: Digital Innovations&rdquo;' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2405'>UIC Electronic Visualization Laboratory Graduates and Staff Participate in Symposium &ldquo;Herstory: Digital Innovations&rdquo;</a></strong><br>
+			<a href='/entry.php?id=76'>Carolina Cruz-Neira</a>, <a href='/entry.php?id=92'>Copper Giloth</a>, <a href='/entry.php?id=5'>Dana M. Plepys</a>, <a href='/entry.php?id=86'>Margaret Dolinsky</a>, <a href='/entry.php?id=195'>Mary Rasmussen</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, Barbara Sykes<br>
+			October 18, 2018<br><br>
+			OCTOBER 18, 2018 - &ldquo;Herstory: Digital Innovations Symposium and Book Signing,&rdquo; celebrates the book &ldquo;New Media Futures (NMF): The&hellip; <a href='/entry.php?id=2405'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2256'><img src='/resizedImages/500x280-crop-newcity-cover-img_0762.jpeg' alt='' title='Newcity magazine rates UIC/EVL as &ldquo;Best place to get your geek on&rdquo;' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2256'>Newcity magazine rates UIC/EVL as &ldquo;Best place to get your geek on&rdquo;</a></strong><br>
+						November 6, 2016<br><br>
+			Newcity magazine is Chicago&rsquo;s only locally owned and operated cultural weekly, and has been covering Chicago&rsquo;s local scene for more than&hellip; <a href='/entry.php?id=2256'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1089'><img src='/resizedImages/500x280-crop-uicalumnidecember.png' alt='' title='Discoveries Channeled: Celebrating 30 Years of UIC' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1089'>Discoveries Channeled: Celebrating 30 Years of UIC</a></strong><br>
+						December 18, 2012<br><br>
+			EDITOR&rsquo;S NOTE: The &ldquo;UIC Alumni Magazine&rdquo; Winter 2012 publication features a review of some of the leading innovations UIC forged in&hellip; <a href='/entry.php?id=1089'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1061'><img src='/resizedImages/500x280-crop-scottrettberg.jpg' alt='' title='Visualizing Electronic Literature: Potential Research Applications in the ELMCIP Electronic Literature Knowledge Base' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1061'>Visualizing Electronic Literature: Potential Research Applications in the ELMCIP Electronic Literature Knowledge Base</a></strong><br>
+			Scott Rettberg, University of Bergen, Norway<br>
+			April 18, 2012<br><br>
+			GUEST SPEAKER: Scott Rettberg Wednesday, April 18, 2012 11AM Scott Rettberg, Associate Professor and the Director of the Digital Culture Research&hellip; <a href='/entry.php?id=1061'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=919'><img src='/resizedImages/500x280-crop-passingexcellences2009sm.jpg' alt='' title='SIGGRAPH 2009 Information Aesthetics Showcase' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=919'>SIGGRAPH 2009 Information Aesthetics Showcase</a></strong><br>
+			<a href='/entry.php?id=188'>Daria Tsoupikova</a>, <a href='/entry.php?id=222'>Robert Kooima</a><br>
+			August 3, 2009 - August 7, 2009<br><br>
+			EVL Associate Professor, Daria Tsoupikova in collaboration with EVL PhD alumni, Robert Kooima, Louisiana State University exhibit Passing Place for&hellip; <a href='/entry.php?id=919'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=848'><img src='/resizedImages/500x280-crop-isea08.png' alt='' title='ISEA 2008 Presentation' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=848'>ISEA 2008 Presentation</a></strong><br>
+			<a href='/entry.php?id=188'>Daria Tsoupikova</a><br>
+			July 25, 2008 - August 3, 2008<br><br>
+			EV assistant professor, Daria Tsoupikova presented Aesthetics as a Medium at the ISEA 2008, The International Symposium on Electronic Art held at the&hellip; <a href='/entry.php?id=848'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=798'><img src='/resizedImages/500x280-crop-spielogostandard.jpg' alt='' title='Presentations at the first SPIE Midwest / Chicago Conference' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=798'>Presentations at the first SPIE Midwest / Chicago Conference</a></strong><br>
+			<a href='/entry.php?id=188'>Daria Tsoupikova</a>, <a href='/entry.php?id=189'>Helen-Nicole Kostis</a><br>
+			November 10, 2007<br><br>
+			Virtual Reality Art as a Medium of Research and Exploration by Helen-Nicole Kostis and Development of the Interactive Art Visualization of the Kizhi&hellip; <a href='/entry.php?id=798'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=792'><img src='/resizedImages/500x280-crop-cipafoto.jpg' alt='' title='Passing Excellence Presented at the 21st Cultural Heritage Symposium' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=792'>Passing Excellence Presented at the 21st Cultural Heritage Symposium</a></strong><br>
+			<a href='/entry.php?id=188'>Daria Tsoupikova</a>, <a href='/entry.php?id=222'>Robert Kooima</a><br>
+			October 1, 2007 - October 6, 2007<br><br>
+			Daria Tsoupikova presented her paper entitled Passing Excellence, The Virtual Reality and Art Visualization of The Kizhi Ensemble to the 21st annual&hellip; <a href='/entry.php?id=792'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=791'><img src='/resizedImages/500x280-crop-rutopiasigg07.jpg' alt='' title='Rutopia 2 Presentation at SIGGRAPH 2007' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=791'>Rutopia 2 Presentation at SIGGRAPH 2007</a></strong><br>
+			<a href='/entry.php?id=173'>Alex Hill</a>, <a href='/entry.php?id=188'>Daria Tsoupikova</a>, Paulo Ang, Helen-Nicole Kostis, Javier Girado, Todd Margolis<br>
+			August 4, 2007 - August 6, 2007<br><br>
+			Daria Tsoupikova and Alex Hill presented VR art installation Rutopia 2 at the SIGGRAPH 2007 Art Gallery on August 4-6th at the state-of-the-art&hellip; <a href='/entry.php?id=791'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=735'><img src='/resizedImages/500x280-crop-sandinvarrierspie2007_dark.jpg' alt='' title='IS&amp;T / SPIE International Symposium 2007' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=735'>IS&amp;T / SPIE International Symposium 2007</a></strong><br>
+			<a href='/entry.php?id=4'>Brenda Lopez Silva</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=188'>Daria Tsoupikova</a>, <a href='/entry.php?id=189'>Helen-Nicole Kostis</a>, <a href='/entry.php?id=222'>Robert Kooima</a>, <a href='/entry.php?id=199'>Tom Peterka</a><br>
+			January 28, 2007 - February 1, 2007<br><br>
+			EVLers participate at the IS&amp;T / SPIE 19th Annual Symposium: Electronic Imaging / Science and Technology with the following paper presentations&hellip; <a href='/entry.php?id=735'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=712'><img src='/resizedImages/500x280-crop-igrid_logo_2005-2.jpg' alt='' title='iGRID 2005 :: The Global Lambda Integrated Facility (GLIF)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=712'>iGRID 2005 :: The Global Lambda Integrated Facility (GLIF)</a></strong><br>
+			<a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, Larry Smarr, EVL Staff and Students<br>
+			September 26, 2006 - September 30, 2006<br><br>
+			* All of the information contained below, along with more in-depth information on the event, is also avaliable on the iGrid 2005 website, which can&hellip; <a href='/entry.php?id=712'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=713'><img src='/resizedImages/500x280-crop-makebelieve.png' alt='' title='Makebelieve Design &amp; Consulting Designs New Museum Interactive Exhibits' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=713'><strong>Makebelieve Design &amp; Consulting</strong> Designs New Museum Interactive Exhibits</a></strong><br>
+			<a href='/entry.php?id=134'>Maria Roussou</a>, Dimitris Nastos <br>
+			September 15, 2006<br><br>
+			EVL alumna and fouder of makebelieve design &amp; consulting, Maria Roussou&rsquo;s (MFA &amp; MS 1997) proudly announces the opening of the new&hellip; <a href='/entry.php?id=713'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=751'><img src='/resizedImages/500x280-crop-diyarbakir_kids.jpg' alt='' title='EVL REU Receives Bialas Award' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=751'>EVL REU Receives Bialas Award</a></strong><br>
+			<a href='/entry.php?id=185'>Elisa Green</a><br>
+			April 30, 2006 - June 30, 2006<br><br>
+			The Gender and Women&rsquo;s Studies Department has named EVL REU Elisa Green as the recipient of the 2006 Mary B. Bialas Award. The Mary B. Bialas&hellip; <a href='/entry.php?id=751'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=670'><img src='/resizedImages/500x280-crop-mariafhw.jpg' alt='' title='Maria Roussou Keynote Speaker at Cultural Heritage and New Media Conference' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=670'>Maria Roussou Keynote Speaker at Cultural Heritage and New Media Conference</a></strong><br>
+			<a href='/entry.php?id=134'>Maria Roussou</a><br>
+			March 13, 2006 - March 15, 2006<br><br>
+			EVL alumna, Maria Roussou (MFA, MS 1997) is among the keynote speakers at the Conference on Cultural Heritage and New Media, Hong Kong, March 13-15&hellip; <a href='/entry.php?id=670'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=664'><img src='/resizedImages/500x280-crop-citycluster2.jpg' alt='' title='CityCluster at Malaga Arte y Technologia 2006 (M.A.R.T.E.06)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=664'>CityCluster at Malaga Arte y Technologia 2006 (M.A.R.T.E.06)</a></strong><br>
+			<a href='/entry.php?id=173'>Alex Hill</a>, <a href='/entry.php?id=175'>Franz Fischnaller</a>, <a href='/entry.php?id=207'>Sangyoon Lee</a><br>
+			February 7, 2006 - February 25, 2006<br><br>
+			CityCluster &ldquo;From the Renaissance to the Gigabits Networking Age&rdquo; A Virtual Reality &amp; High Speed Networking Project by Prof. Franz&hellip; <a href='/entry.php?id=664'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=640'><img src='/resizedImages/500x280-crop-igrid2005signs.jpg' alt='' title='iGrid 2005 &amp; GLIF Meeting a Tremendous Success' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=640'>iGrid 2005 &amp; GLIF Meeting a Tremendous Success</a></strong><br>
+			<a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, Calit2 at the University of California, San Diego, in cooperation with the Mathematics and Computer Science Division of Argonne National Laboratory, SURFnet, University of Amsterdam, and CANARIE<br>
+			September 26, 2005 - September 30, 2005<br><br>
+			The International Grid (iGrid) collaborative event showcases ongoing global collaborations in middleware development and applications research that&hellip; <a href='/entry.php?id=640'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=638'><img src='/resizedImages/500x280-crop-mmb2_185.jpg' alt='' title='Multimega Book In The Cave&reg; Building Virtual Rome, World Expo of Ancient Rome' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=638'>Multimega Book In The Cave&reg; Building Virtual Rome, World Expo of Ancient Rome</a></strong><br>
+			<a href='/entry.php?id=175'>Franz Fischnaller</a><br>
+			September 15, 2005 - November 15, 2005<br><br>
+			Milan, September 2005 MULTIMEGA BOOK IN THE CAVE&reg;. &ldquo;The shift from the printed+book&hellip; to the electronic text+digital skin&rdquo; by&hellip; <a href='/entry.php?id=638'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=633'><img src='/resizedImages/500x280-crop-homelandinsecurity.jpg' alt='' title='VIBE: Video in the Built Environment' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=633'>VIBE: Video in the Built Environment</a></strong><br>
+			<a href='/entry.php?id=9'>Drew Browning</a>, Annette Barbier<br>
+			August 2, 2005 - August 14, 2005<br><br>
+			Drew Browning and collaborator Annette Barbier have individual works in a site specific venue associated with the conference called VIBE: Video in&hellip; <a href='/entry.php?id=633'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=596'><img src='/resizedImages/500x280-crop-kites.jpg' alt='' title='Jackie Matisse: New Art Volant' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=596'>Jackie Matisse: New Art Volant</a></strong><br>
+			<a href='/entry.php?id=51'>Dave Pape</a>, Jackie Matisse<br>
+			May 26, 2005 - June 24, 2005<br><br>
+			EVL alumnus and Assistant Professor in the Department of Media Study of the University at Buffalo, Dave Pape collaborated with artist Jackie Matisse&hellip; <a href='/entry.php?id=596'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=595'><img src='/resizedImages/500x280-crop-seung_show.jpg' alt='' title='Instant Karma' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=595'>Instant Karma</a></strong><br>
+			<a href='/entry.php?id=42'>Seung Kang</a><br>
+			January 28, 2005<br><br>
+			Seung Kang presents his virtual reality artwork &ldquo;Instant Karma&rdquo; in the Electronic Visualization Laboratory CAVE, Friday, January 28&hellip; <a href='/entry.php?id=595'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=626'><img src='/resizedImages/500x280-crop-lipuma.gif' alt='' title='Josephine Lipuma talks about eternal joy: no words in a Public Space' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=626'>Josephine Lipuma talks about <em>eternal joy: no words</em> in a Public Space</a></strong><br>
+			<a href='/entry.php?id=47'>Josephine Lipuma</a><br>
+			November 24, 2004<br><br>
+			Josephine Lipuma presents an overview of the OUTVIDEO :: International video_art festival in public spaces, Ekaterinburg, Russia, May 5 - June 5&hellip; <a href='/entry.php?id=626'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=574'><img src='/resizedImages/500x280-crop-studio74.jpg' alt='' title='A Night of Art at Studio 74' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=574'>A Night of Art at Studio 74</a></strong><br>
+			<a href='/entry.php?id=189'>Helen-Nicole Kostis</a>, <a href='/entry.php?id=187'>Tina Shah</a><br>
+			November 12, 2004<br><br>
+			Foley-Rice Cadillac / Oldsmobile loft 644 W. Madison Street Friday, November 12, 7:30 - 11:00pm EVLers, Helen-Nicole Kostis and Tina Shah will be&hellip; <a href='/entry.php?id=574'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=625'><img src='/resizedImages/500x280-crop-pat_badani.jpg' alt='' title='Presentation by Pat Badani' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=625'>Presentation by Pat Badani</a></strong><br>
+			Pat Badani<br>
+			November 1, 2004<br><br>
+			Pat Badani is an inter-media artist working with new and existing technologies and their discourses. Her works embrace net.art, performative&hellip; <a href='/entry.php?id=625'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=570'><img src='/resizedImages/500x280-crop-city-2.jpg' alt='' title='CityCluster Showcased in Prague' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=570'>CityCluster Showcased in Prague</a></strong><br>
+			<a href='/entry.php?id=173'>Alex Hill</a>, <a href='/entry.php?id=175'>Franz Fischnaller</a><br>
+			October 25, 2004 - October 31, 2004<br><br>
+			CityCluster will be exhibited at the first e-AGORA Workshop, &ldquo;Shared Virtual Environments for Theatre&rdquo; at the Conference Center of&hellip; <a href='/entry.php?id=570'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=725'><img src='/resizedImages/500x280-crop-virtual_identities.jpg' alt='' title='Virtual Identities' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=725'>Virtual Identities</a></strong><br>
+			<a href='/entry.php?id=187'>Tina Shah</a><br>
+			October 6, 2004<br><br>
+			In today&rsquo;s world you are surrounded by an influx of images that suggest who you should be physically and mentally. Everyday whether you are&hellip; <a href='/entry.php?id=725'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=622'><img src='/resizedImages/500x280-crop-poliana_seminar.jpg' alt='' title='Parallels between Baroque Art and Neo-Baroque Aesthetics in Contemporary Entertainment' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=622'>Parallels between Baroque Art and Neo-Baroque Aesthetics in Contemporary Entertainment</a></strong><br>
+			<a href='/entry.php?id=203'>Poliana Tassini</a><br>
+			September 22, 2004<br><br>
+			Poliana Tassini presents the comparative analysis traced in Angela Ndalianis&rsquo; book &ldquo;Neo-Baroque Aesthetics and Contemporary&hellip; <a href='/entry.php?id=622'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=549'><img src='/resizedImages/500x280-crop-evshow.gif' alt='' title='Electronic Visualization Exhibit' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=549'>Electronic Visualization Exhibit</a></strong><br>
+			<a href='/entry.php?id=200'>Chip Collier</a>, <a href='/entry.php?id=188'>Daria Tsoupikova</a>, <a href='/entry.php?id=9'>Drew Browning</a>, <a href='/entry.php?id=175'>Franz Fischnaller</a>, <a href='/entry.php?id=189'>Helen-Nicole Kostis</a>, <a href='/entry.php?id=202'>HyeYun Park</a>, <a href='/entry.php?id=47'>Josephine Lipuma</a>, <a href='/entry.php?id=191'>Julieta Aguilera</a>, <a href='/entry.php?id=206'>Kapil Arora</a>, <a href='/entry.php?id=203'>Poliana Tassini</a>, <a href='/entry.php?id=205'>Romeu Bessa</a>, <a href='/entry.php?id=207'>Sangyoon Lee</a>, <a href='/entry.php?id=187'>Tina Shah</a>, Gabriele, Nicola<br>
+			May 7, 2004<br><br>
+			The Center for VR in the Arts presents innovative works in virtual reality, video, animation, and digital sculpture done by the Electronic&hellip; <a href='/entry.php?id=549'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=619'><img src='/resizedImages/500x280-crop-maria_roussou.jpg' alt='' title='Netmeeting with Maria Roussou' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=619'>Netmeeting with Maria Roussou</a></strong><br>
+			<a href='/entry.php?id=134'>Maria Roussou</a><br>
+			April 14, 2004<br><br>
+			Interactive virtual reality designer, researcher, producer, and educator, engaged in combining innovative technology with education and culture. For&hellip; <a href='/entry.php?id=619'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=620'><img src='/resizedImages/500x280-crop-bino_cool.jpg' alt='' title='Presentation by Bino and Cool' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=620'>Presentation by Bino and Cool</a></strong><br>
+			Bino Nord, Tomas Cool Colbengtson<br>
+			March 31, 2004<br><br>
+			Born in Sweden, Bino and Cool have been working together since 1998 as Artists In Residence at the Royal Institute of Technology (KTH) with&hellip; <a href='/entry.php?id=620'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=614'><img src='/resizedImages/500x280-crop-arselectronica.jpg' alt='' title='Netmeeting with Artistic Director of the ARS Electronica Center' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=614'>Netmeeting with Artistic Director of the ARS Electronica Center</a></strong><br>
+			Gerfried Stocker<br>
+			February 18, 2004<br><br>
+			Director of the ARS Electronica Center - Museum of the Future, Linz, Austria; Graduate of the Institute for Telecommunication Engineering and&hellip; <a href='/entry.php?id=614'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=613'><img src='/resizedImages/500x280-crop-petra_g.jpg' alt='' title='Netmeeting with Petra Gemeinboeck - EVL MFA Alumni' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=613'>Netmeeting with Petra Gemeinboeck - EVL MFA Alumni</a></strong><br>
+			<a href='/entry.php?id=162'>Petra Gemeinboeck</a><br>
+			February 11, 2004<br><br>
+			Architect and interactive media artist, born in Vienna, Austria, Petra has received her master&rsquo;s degree in architecture from the University of&hellip; <a href='/entry.php?id=613'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=612'><img src='/resizedImages/500x280-crop-citycluster.jpg' alt='' title='Franz Fischnaller Lectures on VR and Architecture' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=612'>Franz Fischnaller Lectures on VR and Architecture</a></strong><br>
+			<a href='/entry.php?id=175'>Franz Fischnaller</a><br>
+			February 4, 2004<br><br>
+			Franz Fischnaller is scheduled to hold a lecture about VR and Architecture and speak about his projects related to architecture. The lecture is part&hellip; <a href='/entry.php?id=612'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=531'><img src='/resizedImages/500x280-crop-franz_200-2.jpg' alt='' title='Spring AD 508 - Another Great Semester Ahead!' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=531'>Spring AD 508 - Another Great Semester Ahead!</a></strong><br>
+			<a href='/entry.php?id=196'>Chris Rosenthal</a>, <a href='/entry.php?id=175'>Franz Fischnaller</a>, EVL MFA students<br>
+			January 14, 2004 - April 28, 2004<br><br>
+			After a worthwhile experience full of intriguing guest artist lectures and discussions on new media in today&rsquo;s art world during the Fall AD508&hellip; <a href='/entry.php?id=531'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=608'><img src='/resizedImages/500x280-crop-artn.gif' alt='' title='Field Trip to art(n)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=608'>Field Trip to art(n)</a></strong><br>
+			Ellen Sandor &amp; Keith Miller<br>
+			November 19, 2003<br><br>
+			Presentation Structure: 1.) Ellen Sandor: Introduction to (art)n, tour of gallery 2.) Keith Miller: Technical demo of phscologram process 3.) AI&hellip; <a href='/entry.php?id=608'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=606'><img src='/resizedImages/500x280-crop-barbier.jpg' alt='' title='Presentation by Annette Barbier' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=606'>Presentation by Annette Barbier</a></strong><br>
+			Annette Barbier<br>
+			November 5, 2003<br><br>
+			Annette Barbier will show examples of her most recent interactive works and talk about the development of her work over the past 25 years. Barbier&hellip; <a href='/entry.php?id=606'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=517'><img src='/resizedImages/500x280-crop-seminar.gif' alt='' title='MFA AD508 Seminar Series' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=517'>MFA AD508 Seminar Series</a></strong><br>
+			<a href='/entry.php?id=9'>Drew Browning</a>, Electronic Visualization Students<br>
+			October 1, 2003 - November 20, 2003<br><br>
+			The Electronic Visualization Lab&rsquo;s Fall 2003 MFA AD508 Seminar Series meets every Wednesday from 2:00 - 4:00pm. The series begins with&hellip; <a href='/entry.php?id=517'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=601'><img src='/resizedImages/500x280-crop-milg.jpg' alt='' title='New MFA Student Presentations' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=601'>New MFA Student Presentations</a></strong><br>
+			<a href='/entry.php?id=202'>HyeYun Park</a>, <a href='/entry.php?id=206'>Kapil Arora</a><br>
+			September 17, 2003<br><br>
+			Kapil presents his degree project Titled: &ldquo;Virtual Dyaneshwari&rdquo; in which he explored spiritualism using Virtual Reality as a medium&hellip; <a href='/entry.php?id=601'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=600'><img src='/resizedImages/500x280-crop-chip_collier.jpg' alt='' title='New MFA Student Presentations' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=600'>New MFA Student Presentations</a></strong><br>
+			<a href='/entry.php?id=200'>Chip Collier</a>, <a href='/entry.php?id=201'>Mark Akgulian</a><br>
+			September 3, 2003<br><br>
+			Chip shows his portfolio work. Most of this is from his undergrad thesis. Mark presents some work done during his previous semester(s) at UIC using&hellip; <a href='/entry.php?id=600'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=504'><img src='/resizedImages/500x280-crop-stpetersburg.jpg' alt='' title='The Key to Saint Petersburg Demo' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=504'>The Key to Saint Petersburg Demo</a></strong><br>
+			<a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=189'>Helen-Nicole Kostis</a>, <a href='/entry.php?id=12'>Josephine Anstey</a><br>
+			May 24, 2003 - May 31, 2003<br><br>
+			EVL participated in a remote VR exhibition in St. Petersburg, Russia, held in conjunction with the city&rsquo;s 300th anniversary celebration&hellip; <a href='/entry.php?id=504'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=506'><img src='/resizedImages/500x280-crop-columbiacollege.gif' alt='' title='Steve Jones Lectures at Columbia College' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=506'>Steve Jones Lectures at Columbia College</a></strong><br>
+			<a href='/entry.php?id=11'>Steve Jones</a><br>
+			May 2, 2003<br><br>
+			Thread:CyberCulture The Academic Computing Department at Columbia College is pleased to announce Steve Jones, social historian, and editor of&hellip; <a href='/entry.php?id=506'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=482'><img src='/resizedImages/500x280-crop-vh_msi.jpg' alt='' title='Virtual Harlem Exhibited at the Museum of Science &amp; Industry' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=482'><em>Virtual Harlem</em> Exhibited at the Museum of Science &amp; Industry</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, Jim Sosnoski<br>
+			January 17, 2003 - March 2, 2003<br><br>
+			The Museum of Science and Industry has acquired a GeoWall, due in part to the efforts of Assistant Professor of Computer Science Andrew Johnson and&hellip; <a href='/entry.php?id=482'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=465'><img src='/resizedImages/500x280-crop-mmbsm.jpg' alt='' title='Multi Mega Book Adapted for Display in RAVE VR System' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=465'>Multi Mega Book Adapted for Display in RAVE VR System</a></strong><br>
+			<a href='/entry.php?id=175'>Franz Fischnaller</a>, Professor Patrick Bourdot<br>
+			October 1, 2002<br><br>
+			During the summer of 2002, the Electronic Visualization Laboratory and the University of Paris adapted &ldquo;The Multi Mega Book&rdquo; Virtual&hellip; <a href='/entry.php?id=465'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=422'><img src='/resizedImages/500x280-crop-icc.jpg' alt='' title='NTT Learning Systems Corporation Exhibition at ICC' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=422'>NTT Learning Systems Corporation Exhibition at ICC</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=60'>Joseph Tremonti</a>, <a href='/entry.php?id=12'>Josephine Anstey</a>, <a href='/entry.php?id=86'>Margaret Dolinsky</a>, <a href='/entry.php?id=162'>Petra Gemeinboeck</a>, <a href='/entry.php?id=2'>Todd Margolis</a><br>
+			June 22, 2001 - July 29, 2001<br><br>
+			EVLers exhibit their virtual reality artwork at Tokyo&rsquo;s NTT InterCommunication Center for the month of July. The opening and related symposiums&hellip; <a href='/entry.php?id=422'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=341'><img src='/resizedImages/500x280-crop-harlem.jpg' alt='' title='Virtual Harlem CAVE&reg; Demonstration MOBE 2000' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=341'>Virtual Harlem CAVE&reg; Demonstration MOBE 2000</a></strong><br>
+			<a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=12'>Josephine Anstey</a>, <a href='/entry.php?id=53'>Tim Portlock</a>, Bryan Carter, Bill Plummer, Blake Lewis, Thaddeus Parkinson, Jim Sosnoski, Jim Hall, Kevin Smith, Janice Lively, Erec Smith, Reema Kapur, Jeremy Bushnell<br>
+			September 30, 2000<br><br>
+			EVL, in collaboration with UIC&rsquo;s English Department and the Advanced Technology Center at the University of Missouri, hosted a reception and&hellip; <a href='/entry.php?id=341'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=356'><img src='/resizedImages/500x280-crop-inet2000.gif' alt='' title='The International Grid (iGrid) 2000' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=356'>The International Grid (iGrid) 2000</a></strong><br>
+			EVL faculty, staff, and students<br>
+			July 18, 2000 - July 21, 2000<br><br>
+			The International Grid (iGrid) 2000 exhibit, jointly sponsored and organized by the Electronic Visualization Laboratory (EVL) at the University of&hellip; <a href='/entry.php?id=356'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=460'><img src='/resizedImages/500x280-crop-bluepane.jpg' alt='' title='iGrid2000 Empowering Global Research Community Networking' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=460'>iGrid2000 Empowering Global Research Community Networking</a></strong><br>
+			<a href='/entry.php?id=23'>Alan Verlo</a>, <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=12'>Josephine Anstey</a>, <a href='/entry.php?id=157'>Laura Wolf</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, Tomonori Aoyama, Michael A. McRobbie, Jun Murai, Steven N. Goldstein, David O. Williams, Hiroshi Esaki, Laurin Herr, Natalie Van Osdol, Tomoko Imai, Hiroshi Imai, Akira Kato, Osamu Nakamura, Linda Winkler<br>
+			July 18, 2000 - July 21, 2000<br><br>
+			iGrid 2000, the International Grid, demonstrates how the power of today&rsquo;s research networks enables access to remote computing resources&hellip; <a href='/entry.php?id=460'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=403'><img src='/resizedImages/500x280-crop-ieeevr2000.jpg' alt='' title='IEEE Virtual Reality 2000' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=403'>IEEE Virtual Reality 2000</a></strong><br>
+			<a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=12'>Josephine Anstey</a><br>
+			March 18, 2000 - March 22, 2000<br><br>
+			Josephine Anstey and Dave Pape represented EVL at the IEEE Virtual Reality 2000 Conference with their presentation of the paper, &ldquo;The Thing&hellip; <a href='/entry.php?id=403'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=402'><img src='/resizedImages/500x280-crop-thing.jpg' alt='' title='The Thing Growing MFA Show' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=402'>The Thing Growing MFA Show</a></strong><br>
+			<a href='/entry.php?id=12'>Josephine Anstey</a><br>
+			March 9, 2000 - March 10, 2000<br><br>
+			Josephine Anstey&rsquo;s MFA Thesis show, The Thing Growing, takes place March 2000. The Thing Growing is a Virtual Reality Fiction in which the user&hellip; <a href='/entry.php?id=402'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=349'><img src='/resizedImages/500x280-crop-spie2000.gif' alt='' title='Electronic Imaging 2000; The Engineering Reality of Virtual Reality' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=349'>Electronic Imaging 2000; The Engineering Reality of Virtual Reality</a></strong><br>
+			<a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=12'>Josephine Anstey</a><br>
+			January 23, 2000 - January 28, 2000<br><br>
+			Josephine Anstey and Dave Pape presented a research paper, &ldquo;Building a VR Narrative&rdquo; at the Photonics West / SPIE 2000 Conference. The&hellip; <a href='/entry.php?id=349'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=345'><img src='/resizedImages/500x280-crop-artech99.jpg' alt='' title='Mediartech 99' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=345'>Mediartech 99</a></strong><br>
+			<a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=12'>Josephine Anstey</a><br>
+			May 25, 1999 - May 29, 1999<br><br>
+			Josephine Anstey and Dave Pape represented EVL at the Mediartech 99 Conference. &ldquo;The Thing Growing&rdquo;, a virtual, interactive narrative&hellip; <a href='/entry.php?id=345'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=382'><img src='/resizedImages/500x280-crop-infowar.jpg' alt='' title='EVLers at Ars Electronic Festival &rsquo;98' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=382'>EVLers at Ars Electronic Festival &rsquo;98</a></strong><br>
+			<a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=70'>Hisham Bizri</a>, <a href='/entry.php?id=12'>Josephine Anstey</a>, <a href='/entry.php?id=134'>Maria Roussou</a><br>
+			September 7, 1998 - September 12, 1998<br><br>
+			EVLers presented two VR art applications in the Ars Electronica (AEC) CAVE for the InfoWar Festival: &ldquo;Mitologies&rdquo; (H. Bizri, M. Roussou&hellip; <a href='/entry.php?id=382'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=334'><img src='/resizedImages/500x280-crop-sig98.gif' alt='' title='EVLers at SIGGRAPH 98' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=334'>EVLers at SIGGRAPH 98</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=111'>Gary Lindahl</a>, <a href='/entry.php?id=70'>Hisham Bizri</a>, <a href='/entry.php?id=12'>Josephine Anstey</a>, Jim Costigan, M. Dolinsky, Andrew Johnson, Jason Leigh, Tom Coffin, Christina Vasilakis, Maria Roussou<br>
+			July 19, 1998 - July 24, 1998<br><br>
+			EVL&rsquo;s participation in SIGGRAPH 98 included virtual reality demonstrations using an ImmersaDesk2 in the &ldquo;Guerilla VR&rdquo; venue at the&hellip; <a href='/entry.php?id=334'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=329'><img src='/resizedImages/500x280-crop-mediartech.gif' alt='' title='Mediartech 98' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=329'>Mediartech 98</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=51'>Dave Pape</a><br>
+			March 23, 1998 - March 29, 1998<br><br>
+			Mediartech 1998 Digital Renaissance Show featured Electronic Visualization Laboratory (EVL) virtual reality applications showcased on an ImmersaDesk&hellip; <a href='/entry.php?id=329'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=324'><img src='/resizedImages/500x280-crop-s97.gif' alt='' title='SIGGRAPH &rsquo;97 Participation' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=324'>SIGGRAPH &rsquo;97 Participation</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=74'>Jim Costigan</a>, <a href='/entry.php?id=104'>Joe Insley</a>, <a href='/entry.php?id=12'>Josephine Anstey</a>, <a href='/entry.php?id=86'>Margaret Dolinsky</a>, <a href='/entry.php?id=16'>Tom Moher</a>, <a href='/entry.php?id=103'>Tomoko Imai</a>, Christina Vasilakis, Franz Fishnaller, Yesi Maharaj Singh<br>
+			August 3, 1997 - August 8, 1997<br><br>
+			Electronic Visualization Laboratory (EVL) students and faculty presented a research paper on the NICE project as part of the SIGGRAPH&hellip; <a href='/entry.php?id=324'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<!-- End Category List -->
+	</table>
+</div>
+<!-- End Category -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

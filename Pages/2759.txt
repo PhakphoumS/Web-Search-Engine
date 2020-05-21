@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Category -->
+<!-- Begin Category Pagination -->
+<div class='category_area'>
+	<div class='category_content'>
+		<h3>Human Factors</h3><br>
+		<strong>Related:</strong>
+		<a href='/category.php?id=12&amp;related=1'>Art</a>&nbsp;&nbsp;
+		<a href='/category.php?id=12&amp;related=2'>Directory</a>&nbsp;&nbsp;
+		<a href='/category.php?id=12&amp;related=3'>Events</a>&nbsp;&nbsp;
+		<a href='/category.php?id=12&amp;related=4'>Papers</a>&nbsp;&nbsp;
+		<a href='/category.php?id=12&amp;related=5'><strong>Research</strong></a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End Category Pagination -->
+<div class='category_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin Category List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2347'><img src='/resizedImages/500x280-crop-hai_9981-2.jpg' alt='' title='UIC Human-Computer Interaction (HCI) Laboratory' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2347'>UIC Human-Computer Interaction (HCI) Laboratory</a></strong><br>
+			<a href='/entry.php?id=2278'>Debaleena Chattopadhyay</a><br>
+			January 1, 2017 - Ongoing<br><br>
+			The Human-Computer Interaction (HCI) Laboratory at the University of Illinois at Chicago (UIC) is led by assistant professor Debaleena Chattopadhyay&hellip; <a href='/entry.php?id=2347'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2316'><img src='/resizedImages/500x280-crop-continuumrendering.png' alt='' title='MRI - Development of Continuum: A Virtualized Attentive Environment for Amplified Collaboration' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2316'>MRI - Development of Continuum: A Virtualized Attentive Environment for Amplified Collaboration</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=2278'>Debaleena Chattopadhyay</a>, <a href='/entry.php?id=2052'>G. Elisabeta Marai</a>, <a href='/entry.php?id=2368'>Jack O'Donnell</a>, <a href='/entry.php?id=285'>Jillian Aurisano</a>, <a href='/entry.php?id=2322'>Joe Borowicz</a>, <a href='/entry.php?id=24'>Jonas Talandis</a>, <a href='/entry.php?id=2371'>Kayla Condrella</a>, <a href='/entry.php?id=2370'>Kenan Arica</a>, <a href='/entry.php?id=49'>Lance Long</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=2367'>Michael Avendano</a>, <a href='/entry.php?id=2453'>Navya Reddy</a>, <a href='/entry.php?id=14'>Robert V. Kenyon</a>, <a href='/entry.php?id=2445'>Sumayya Siddiqui</a>, <a href='/entry.php?id=2448'>Szymon Popowski</a>, <a href='/entry.php?id=2303'>Vijayraj Mahida</a>, Barbara DiEugenio<br>
+			October 1, 2016 - September 30, 2019<br><br>
+			Just as NSF cyberinfrastructure produces greater volumes and varieties of data from data storage systems, online instrumentation and major&hellip; <a href='/entry.php?id=2316'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2218'><img src='/resizedImages/500x280-crop-sageboard_pellolio.png' alt='' title='SAGEBoard: a Whiteboard for Large Multitouch Displays' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2218'>SAGEBoard: a Whiteboard for Large Multitouch Displays</a></strong><br>
+						August 16, 2015 - May 3, 2016<br><br>
+			SAGEBoard is an electronic whiteboard for tiled touch displays that can be used locally or shared between remote collaborators. An electronic&hellip; <a href='/entry.php?id=2218'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2044'><img src='/misc/default_500x280.png' alt='' title='Enhancing Nurse Effectiveness via Augmented Communication Tools' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2044'>Enhancing Nurse Effectiveness via Augmented Communication Tools</a></strong><br>
+			<a href='/entry.php?id=2473'>Angus Forbes</a>, J. Carrington, M. Surdeanu<br>
+			September 23, 2014 - June 30, 2017<br><br>
+			Our interdisciplinary team of computer science and health care researchers will develop augmented communication tools (ACTs) within a prototype&hellip; <a href='/entry.php?id=2044'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2002'><img src='/resizedImages/500x280-crop-articulate-yiwen_sm-2.png' alt='' title='Articulate: a Semi-automated System for Translating Natural Language Queries into Meaningful Visualizations' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2002'>Articulate: a Semi-automated System for Translating Natural Language Queries into Meaningful Visualizations</a></strong><br>
+			<a href='/entry.php?id=2306'>Abeer Alsaiari</a>, <a href='/entry.php?id=2472'>Abhinav Kumar</a>, <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=285'>Jillian Aurisano</a>, <a href='/entry.php?id=2322'>Joe Borowicz</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=2303'>Vijayraj Mahida</a>, <a href='/entry.php?id=250'>Yiwen Sun</a>, Barbara DiEugenio<br>
+			March 1, 2009 - Ongoing<br><br>
+			While many visualization tools exist that offer sophisticated functions for charting complex data, they still expect users to possess a high degree&hellip; <a href='/entry.php?id=2002'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1968'><img src='/resizedImages/500x280-crop-roomquake-2.jpg' alt='' title='RoomQuake' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1968'>RoomQuake</a></strong><br>
+			<a href='/entry.php?id=16'>Tom Moher</a><br>
+			January 2, 2006 - April 1, 2006<br><br>
+			Roomquake is a distributed simulation of a series of earthquakes using PDAs as simulated (position-dependent) seismographs. Roomquake was designed to&hellip; <a href='/entry.php?id=1968'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1902'><img src='/resizedImages/500x280-crop-pavispdasm.jpg' alt='' title='PAVIS: Pervasive Adaptive Visualization and Interaction Service' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1902'>PAVIS: Pervasive Adaptive Visualization and Interaction Service</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=216'>Arun Rao</a>, <a href='/entry.php?id=4'>Brenda Lopez Silva</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=212'>Javid Alimohideen</a>, <a href='/entry.php?id=191'>Julieta Aguilera</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, Robert Grossman, Mike Sabala<br>
+			December 10, 2005 - May 15, 2007<br><br>
+			PAVIS: Pervasive Adaptive Visualization and Interaction Service is an adaptive system intended to automatically generate resource-aware&hellip; <a href='/entry.php?id=1902'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1979'><img src='/resizedImages/500x280-crop-pace.png' alt='' title='Personal Augmented Computing Environment (PACE)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1979'>Personal Augmented Computing Environment (PACE)</a></strong><br>
+			<a href='/entry.php?id=14'>Robert V. Kenyon</a>, <a href='/entry.php?id=232'>Xun Luo</a><br>
+			August 16, 2005 - May 1, 2008<br><br>
+			Personal Augmented Computing Environment (PACE) focuses upon the research challenges affecting the development of applications for personal mobile&hellip; <a href='/entry.php?id=1979'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1889'><img src='/resizedImages/500x280-crop-geowall2sm_darker.jpg' alt='' title='GeoWall2 for Informal Science Education in Museums' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1889'>GeoWall2 for Informal Science Education in Museums</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, Patrick Hamilton, Science Museum of Minnesota, Paul Morin, Geology and Geophysics, University of Minnesota<br>
+			May 1, 2005 - January 13, 2009<br><br>
+			The GeoWall2 is a tiled advanced visualization system (5x3 array of LCD panels) designed to cost-effectively serve Geoscience applications that&hellip; <a href='/entry.php?id=1889'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1893'><img src='/resizedImages/500x280-crop-embeddedphenonmena.jpg' alt='' title='Embedded Phenomena' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1893'>Embedded Phenomena</a></strong><br>
+			<a href='/entry.php?id=4'>Brenda Lopez Silva</a>, <a href='/entry.php?id=252'>Brian Uphoff</a>, <a href='/entry.php?id=246'>Darshan Bhatt</a>, <a href='/entry.php?id=253'>Peter Malcolm</a>, <a href='/entry.php?id=16'>Tom Moher</a><br>
+			January 1, 2004 - December 31, 2009<br><br>
+			Embedded Phenomena is an emerging framework intended to support science inquiry in K-6 classrooms. The basic idea is to use simulation to map&hellip; <a href='/entry.php?id=1893'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1846'><img src='/resizedImages/500x280-crop-morphing_karltimm-3.jpg' alt='' title='Real-Time Video View Morphing' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1846'>Real-Time Video View Morphing</a></strong><br>
+			<a href='/entry.php?id=59'>Karl Timm</a><br>
+			March 1, 2002 - September 1, 2003<br><br>
+			Real-Time Video View Morphing is a real-time virtual video camera application based on view morphing. This system takes video input from multiple&hellip; <a href='/entry.php?id=1846'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1684'><img src='/resizedImages/500x280-crop-cavern_logo-2.jpg' alt='' title='Collaboration and Visualization over High Speed Networks' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1684'>Collaboration and Visualization over High Speed Networks</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=56'>Chris Scharver</a>, <a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=35'>Javier Girado</a>, <a href='/entry.php?id=52'>Kyoung Shin Park</a>, <a href='/entry.php?id=45'>Michael Lewis</a>, <a href='/entry.php?id=44'>Naveen Krishnaprasad</a>, <a href='/entry.php?id=30'>Yongjoo Cho</a>, T. Imai, R. Fang, Y. Lin, T. Portlock, B. Silva, L. Wang, J. Eliason, J. Ge, E. He, A. Nayak, S. Venkatamaran<br>
+			March 1, 2001 - February 28, 2003<br><br>
+			This research focuses on the development of Tele-immersive (collaborative virtual reality) applications, the middleware (software infrastructure)&hellip; <a href='/entry.php?id=1684'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1680'><img src='/resizedImages/500x280-crop-two_bodies-2.jpg' alt='' title='ASCI Advanced Projector Consortium' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1680'>ASCI Advanced Projector Consortium</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, Argonne National Laboratory: R. Stevens, M. Hereld, San Diego Supercomputer Center: B. Pailthorpe, N. Bordes<br>
+			January 1, 2000 - January 1, 2002<br><br>
+			Organized for the US Department of Energy VIEWS (Visualization and Interactive Environments for Weapons Simulation) program. The Advanced Projector&hellip; <a href='/entry.php?id=1680'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1802'><img src='/resizedImages/500x280-crop-continum_185-2.jpg' alt='' title='The Continuum Project' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1802'>The Continuum Project</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=196'>Chris Rosenthal</a>, <a href='/entry.php?id=56'>Chris Scharver</a>, <a href='/entry.php?id=38'>Eric He</a>, <a href='/entry.php?id=215'>Gideon Goldman</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=24'>Jonas Talandis</a>, <a href='/entry.php?id=52'>Kyoung Shin Park</a>, <a href='/entry.php?id=45'>Michael Lewis</a>, <a href='/entry.php?id=44'>Naveen Krishnaprasad</a>, <a href='/entry.php?id=169'>Shalini Venkataraman</a>, Atul Nayak, Jinghua Ge, Brenda Silva, Joshua Eliason, Tomoko Imai, Abhinav Kapoor, Nikita Sawant, Ben Goldstein<br>
+			January 1, 2000 - January 1, 2003<br><br>
+			The goal of the Continuum Project is to develop integrated ubiquitous tools and environments and to study how these tools can be used to enhance&hellip; <a href='/entry.php?id=1802'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1782'><img src='/resizedImages/500x280-crop-quickworlds-2.jpg' alt='' title='QuickWorlds' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1782'>QuickWorlds</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=16'>Tom Moher</a>, <a href='/entry.php?id=46'>Ya Lu Lin</a><br>
+			September 1, 1999 - Unknown<br><br>
+			Since our larger learning research projects such as Correlations and the Round Earth require high levels of time and effort commitment from teachers&hellip; <a href='/entry.php?id=1782'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1803'><img src='/resizedImages/500x280-crop-abot_185.jpg' alt='' title='AccessBot' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1803'>AccessBot</a></strong><br>
+			<a href='/entry.php?id=75'>Alan Cruz</a>, <a href='/entry.php?id=23'>Alan Verlo</a>, <a href='/entry.php?id=5'>Dana M. Plepys</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=35'>Javier Girado</a>, <a href='/entry.php?id=24'>Jonas Talandis</a>, <a href='/entry.php?id=129'>Maggie Rawlings</a>, <a href='/entry.php?id=43'>Muhammad Ali Khan</a>, <a href='/entry.php?id=34'>Ray Fang</a>, Tom DeFanti<br>
+			May 1, 1998 - May 1, 2000<br><br>
+			The goal of the AccessBot project is to provide a new form of access for the disabled that integrates teleconferencing with life-sized display&hellip; <a href='/entry.php?id=1803'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1969'><img src='/resizedImages/500x280-crop-rndearth_present.jpg' alt='' title='The Round Earth Project' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1969'>The Round Earth Project</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=121'>Carlos Orrego</a>, <a href='/entry.php?id=65'>Joseph Alexander</a>, <a href='/entry.php?id=134'>Maria Roussou</a>, <a href='/entry.php?id=16'>Tom Moher</a>, M. Gillingham, J. Hemmerich, J. Jain, M. Orr, S. Ohlsson, T. DeFanti<br>
+			October 1, 1997 - September 1, 2000<br><br>
+			The Round Earth Project is investigating how virtual reality technology can be used to help teach concepts that are counter-intuitive to a&hellip; <a href='/entry.php?id=1969'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1742'><img src='/resizedImages/500x280-crop-4dmath.gif' alt='' title='Dimension Land' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1742'>Dimension Land</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=25'>Craig Barnes</a>, <a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=74'>Jim Costigan</a>, <a href='/entry.php?id=101'>Milana Huang</a>, Jim Danowski<br>
+			September 1, 1996 - May 1, 1997<br><br>
+			In Dimension Land a remotely located instructor uses a shared virtual environment and the three dimensions of VR to teach about hypercubes and 4D&hellip; <a href='/entry.php?id=1742'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1970'><img src='/resizedImages/500x280-crop-dimensionlandavatar4.gif' alt='' title='A Comparsion of Video, Avatar &amp; Face-To-Face in Collaborative Virtual Learning Environments' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1970'>A Comparsion of Video, Avatar &amp; Face-To-Face in Collaborative Virtual Learning Environments</a></strong><br>
+			<a href='/entry.php?id=74'>Jim Costigan</a><br>
+			September 1, 1996 - May 1, 1997<br><br>
+			The use of communication technology has an effect on communication. Studies have been conducted that show these effects vary by transmission channel&hellip; <a href='/entry.php?id=1970'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1965'><img src='/resizedImages/500x280-crop-casa2.gif' alt='' title='CASA: Computer Augmentation for Smart Architectonics' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1965'>CASA: Computer Augmentation for Smart Architectonics</a></strong><br>
+			<a href='/entry.php?id=146'>Christina Vasilakis</a>, <a href='/entry.php?id=25'>Craig Barnes</a>, <a href='/entry.php?id=21'>Jason Leigh</a><br>
+			August 1, 1994 - May 1, 1995<br><br>
+			Homes or buildings that utilize technology in order to be &ldquo;smart,&rdquo; computer augmented, automated, &ldquo;intuitive,&rdquo; energy&hellip; <a href='/entry.php?id=1965'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<!-- End Category List -->
+	</table>
+</div>
+<!-- End Category -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Entry -->
+<table id='entry_area' class='fixedTable'>
+	<tr>
+		<td style='width:676px;'>
+			<div id='entry_info'>
+<!-- Begin Entry Info -->
+<h3>SpiderSense</h3><br>
+<div class='entry_content'>
+	<strong>Researchers:</strong> <a href='/entry.php?id=281'>Victor Mateevitsi</a><br><br>
+<!-- Begin Entry Description -->
+SpiderSense is a wearable device that projects the wearer&rsquo;s near environment on the skin and allows for directional awareness of objects around him. The millions of sensory receptors that cover the skin presents opportunities for conveying alerts and messages.<br><br>
+
+Drawing inspiration from Spiderman&rsquo;s SpiderSense, the Human Augmentics wearable tactile display utilizes the skin&rsquo;s pressure receptors to communicate an awareness of the surrounding environment by conveying information about the wearer&rsquo;s distance from surrounding objects. While previous tactile vests communicate directional information, SpiderSense creates an actual feeling of the environment by conveying distance information from objects by applying pressure on the skin. SpiderSense consists of a series of Sensor Modules that are positioned on the body of the user. The Sensor Modules scan the environment using ultrasound to alert the user of objects that are closer than 60 feet. Worn at strategic points over the body, the user can potentially gain a sense of all the obstacles that surround him.<br><br>
+
+One can envision two categories of broad applications of SpiderSense: compensating for a dysfunctional or missing sense (i.e. visually or hearing impaired); or supplementing the existing senses (spatial awarness in a spacesuit or seeing behind one&rsquo;s head).<br><br><br><br>
+<!-- End Entry Description -->
+	<strong>Email:</strong> <a href='mailto:vmatee2@uic.edu'>vmatee2@uic.edu</a><br><br>
+	<strong>Date:</strong> August 16, 2012 - February 7, 2013
+</div>
+<!-- End Entry Info -->
+			</div>
+		</td>
+		<td style='width:374px;'>
+			<div id='entry_sidebar'>
+<!-- Begin Entry Sidebar -->
+<div id='entry_image_small'>
+	<img style='left:0; ' src='/resizedImages/350x622-spidersense-2.png' alt='' title='SpiderSense' width='350' height='386'>
+</div>
+<span class='smallText'>SpiderSense on a blindfolded user - L. Long, EVL</span><br><br>
+<div class='entry_content'>
+	<h3>Related Entries</h3>
+	<strong>Directory:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=281'>Victor Mateevitsi</a></li>
+	</ul><br>
+	<strong>Events:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2430'>UIC alumnus Victor Mateevitsi&rsquo;s SpiderSense jacket included in MSI&rsquo;s Wired to Wear&trade; exhibition</a></li>
+		<li><a href='/entry.php?id=2343'>Doctoral Defense Announcement: &ldquo;Supporting Navigation with a Torso Wearable Tactile Display&rdquo;</a></li>
+		<li><a href='/entry.php?id=2242'>UIC/EVL Students Recognized in 2016 UIC Image of Research Competition</a></li>
+		<li><a href='/entry.php?id=2190'>Victor Mateevitsi participating in TEDxUofIChicago, April 8, 2016</a></li>
+		<li><a href='/entry.php?id=2181'>Can a Spider-Man-inspired jacket help the blind get around Chicago?</a></li>
+		<li><a href='/related.php?id=2040&amp;related=3'><strong>View more&hellip;</strong></a></li>
+	</ul><br>
+	<strong>Papers:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2408'>Supporting Navigation with a Torso Wearable Tactile Display</a></li>
+	</ul><br>
+	<h3>Related Categories</h3>
+	<ul>
+		<li><a href='/category.php?id=3&amp;related=5'>Applications</a></li>
+		<li><a href='/category.php?id=9&amp;related=5'>Devices</a></li>
+	</ul>
+</div>
+<!-- End Entry Sidebar-->
+			</div>
+		</td>
+	</tr>
+</table>
+<!-- End Entry -->
+<script>
+	// Making both divs the same height is much easier in JavaScript
+	var entryInfo = document.getElementById("entry_info");
+	var entrySidebar = document.getElementById("entry_sidebar");
+	
+	if (entryInfo && entrySidebar) {
+		var maxHeight = Math.max(entryInfo.offsetHeight, entrySidebar.offsetHeight)-20;
+		entryInfo.style.height = maxHeight+"px";
+		entrySidebar.style.height = maxHeight+"px";
+	}
+</script>
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

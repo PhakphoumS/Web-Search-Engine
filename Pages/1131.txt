@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Entry -->
+<table id='entry_area' class='fixedTable'>
+	<tr>
+		<td style='width:676px;'>
+			<div id='entry_info'>
+<!-- Begin Entry Info -->
+<h3>UIC Computer Science/EVL Marai Developing Computer Programs to Aid Cancer Patients</h3>
+<div id='entry_image_large'><img style='left:17px;' src='/resizedImages/1280x720-lmarai_tluciani_jtrabucco-2.jpg' alt='' title='UIC Computer Science/EVL Marai Developing Computer Programs to Aid Cancer Patients' width='606' height='360'></div>
+<span class='smallText'>Liz Marai with graduate students Tim Luciani and Juan Trelles Trabucco standing in EVL&rsquo;s CAVE2 hybrid reality system with diagrams of patient data depicting head and neck lymph nodes affected by disease spread. - (Not pictured: Peter Hanula, also Marai’s graduate student, who works on these awards.)</span><br><br>
+<div class='entry_content'>
+	<strong>Participants:</strong> <a href='/entry.php?id=2052'>G. Elisabeta Marai</a>, <a href='/entry.php?id=2250'>Juan Trelles Trabucco</a>, <a href='/entry.php?id=2251'>Peter Hanula</a>, <a href='/entry.php?id=2189'>Timothy Luciani</a><br><br>
+	<strong>Institutions:</strong> MD Anderson Cancer Center, University of Iowa, University of Minnesota<br><br>
+<!-- Begin Entry Description -->
+A November 27, 2018 story on the University of Illinois Cancer Center&rsquo;s website profiles leading-edge cancer and computer science research being conducted by G. Elisabeta (Liz) Marai, a UIC Associate Professor of Computer Science and the department&rsquo;s Electronic Visualization Laboratory (EVL), and a member of the Cancer Center.<br><br>
+Specifically, this article highlights two major grants to Marai from the National Institutes of Health (NIH) and National Cancer Institute (NCI) to work with collaborators at other institutions on the design and development of computer programs to assist medical professionals determine the best treatment options for cancer patients, specifically those suffering from head and neck cancer.<br><br>
+With collaborators at MD Anderson Cancer Center, University of Iowa, and University of Minnesota (NIH/NCI R01 grant CA214825-01), Marai and her graduate students are developing a computing methodology that will precisely determine health outcomes for patients with head and neck cancers based on demographics, toxicity and complex imaging data. While there are &ldquo;large, rich repositories of patient data… risk prediction algorithms for cancers are rudimentary and incorporate minimal patient characteristics, largely due to a lack of computational methodologies....This research has the potential to change the standard of care and outcomes of treatment,&rdquo; Marai explains.<br><br>  
+A second NIH/NCI grant (R01 CA225190-01) enables Marai and the above-mentioned collaborators to develop computer models that combine imaging data, such as radiation dosage and spatial distribution, and nonspatial data, such as demographics and toxicity, in order to identify similar patients and assist medical professionals predict optimal treatment options. This research has the potential to improve the standard of care and the quality of life of surviving patients - not only for head and neck, lung, or brain cancer, but for other chronic conditions, such as mental health disorders, substance abuse diseases, or diabetes.<br><br>
+<a href="https://cancer.uillinois.edu/marai-developing-computer-programs-to-aid-cancer-patients/">Read the entire story.</a><br><br>
+<!-- End Entry Description -->
+	<strong>Date:</strong> November 27, 2018 - Ongoing
+</div>
+<!-- End Entry Info -->
+			</div>
+		</td>
+		<td style='width:374px;'>
+			<div id='entry_sidebar'>
+<!-- Begin Entry Sidebar -->
+<div class='entry_content'>
+	<h3>Related Entries</h3>
+	<strong>Directory:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2052'>G. Elisabeta Marai</a></li>
+		<li><a href='/entry.php?id=2251'>Peter Hanula</a></li>
+		<li><a href='/entry.php?id=2189'>Timothy Luciani</a></li>
+		<li><a href='/entry.php?id=2250'>Juan Trelles Trabucco</a></li>
+	</ul><br>
+	<strong>Events:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2283'>CS/EVL Associate Professor Marai awarded NIH R01 from the National Cancer Institute</a></li>
+	</ul><br>
+	<strong>Research:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2333'>QuBBD: Precision E-Radiomics for Dynamic Big Head & Neck Cancer Data</a></li>
+		<li><a href='/entry.php?id=2334'>SMART-ACT: Spatial Methodologic Approaches for Risk Assessment and Therapeutic Adaptation in Cancer Treatment</a></li>
+	</ul><br>
+	<h3>Related Categories</h3>
+	<ul>
+		<li><a href='/category.php?id=3&amp;related=3'>Applications</a></li>
+		<li><a href='/category.php?id=20&amp;related=3'>Software</a></li>
+		<li><a href='/category.php?id=24&amp;related=3'>User Groups</a></li>
+		<li><a href='/category.php?id=35&amp;related=3'>Visual Analytics</a></li>
+		<li><a href='/category.php?id=36&amp;related=3'>Visual Informatics</a></li>
+		<li><a href='/category.php?id=27&amp;related=3'>Visualization</a></li>
+	</ul>
+</div>
+<!-- End Entry Sidebar-->
+			</div>
+		</td>
+	</tr>
+</table>
+<!-- End Entry -->
+<script>
+	// Making both divs the same height is much easier in JavaScript
+	var entryInfo = document.getElementById("entry_info");
+	var entrySidebar = document.getElementById("entry_sidebar");
+	
+	if (entryInfo && entrySidebar) {
+		var maxHeight = Math.max(entryInfo.offsetHeight, entrySidebar.offsetHeight)-20;
+		entryInfo.style.height = maxHeight+"px";
+		entrySidebar.style.height = maxHeight+"px";
+	}
+</script>
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

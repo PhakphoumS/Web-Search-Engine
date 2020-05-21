@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin List -->
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Page:</strong>
+		<a href='/list.php?id=5&amp;page=1'>1</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=2'>2</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=3'>3</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=4'>4</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=5'>5</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=6'>6</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=7'><strong>7</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=8'>8</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=9'>9</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=10'>10</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=11'>11</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=12'>12</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=13'>13</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=14'>14</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=15'>15</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=16'>16</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=17'>17</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<div id='list_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin List List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1927'><img src='/resizedImages/500x280-crop-pointvr-2.jpg' alt='' title='A Point-Based Remote Visualization Pipeline For Large-Scale Virtual Reality' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1927'>A Point-Based Remote Visualization Pipeline For Large-Scale Virtual Reality</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=163'>Jinghua Ge</a><br>
+			March 1, 2005 - March 1, 2007<br><br>
+			This research project focuses on a distributed visualization pipeline which combines VR technologies and remote computing resources through high&hellip; <a href='/entry.php?id=1927'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1906'><img src='/resizedImages/500x280-crop-translight_logo.png' alt='' title='TransLight / StarLight&#8480;' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1906'>TransLight / StarLight&#8480;</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=2454'>Jade Almaguer</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, Alan Verlo, Laura Wolf, Steve Sander, Patrick Hallihan, Lance Long, Linda Winkler, Rick Summerhill, Roberto Sabatino, Erik-Jan Bos, Kees Neggers, Joe Mambretti<br>
+			February 1, 2005 - January 31, 2010<br><br>
+			TransLight / StarLight&#8480; and TransLight / Pacific Wave&#8480; are complementary efforts funded by the U.S. National Science Foundation (NSF) to&hellip; <a href='/entry.php?id=1906'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1890'><img src='/resizedImages/500x280-crop-lambdacam.png' alt='' title='LambdaCam' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1890'>LambdaCam</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=183'>Rajvikram Singh</a><br>
+			December 1, 2004 - June 1, 2005<br><br>
+			LambdaCam is a real-time screen capture and distribution utility for cluster driven tiled-displays. It allows users to remotely view the output of&hellip; <a href='/entry.php?id=1890'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1911'><img src='/resizedImages/500x280-crop-mappoint.jpg' alt='' title='MapPoint' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1911'>MapPoint</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=187'>Tina Shah</a>, Christopher Turek<br>
+			September 1, 2004 - December 5, 2004<br><br>
+			Its Friday night and the weekend&rsquo;s here, you need to unwind&hellip; Where&rsquo;s the party? The object of MapPoint is to drive around the city&hellip; <a href='/entry.php?id=1911'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1897'><img src='/resizedImages/500x280-crop-driving-varrier-thumb.jpg' alt='' title='Electro' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1897'>Electro</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=222'>Robert Kooima</a><br>
+			August 16, 2004 - Ongoing<br><br>
+			Electro is an application development environment designed for use on both cluster-driven tiled displays and desktop systems. Electro is based on the&hellip; <a href='/entry.php?id=1897'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1914'><img src='/resizedImages/500x280-crop-hapticdentistry.gif' alt='' title='Haptics-Based Virtual Reality Periodontal Training Simulator' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1914'>Haptics-Based Virtual Reality Periodontal Training Simulator</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=182'>Cristian J. Luciano</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			August 16, 2004 - October 17, 2006<br><br>
+			The haptics-based virtual reality periodontal training simulator project focuses upon the research and development of a prototype dental simulator&hellip; <a href='/entry.php?id=1914'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2104'><img src='/resizedImages/500x280-crop-desertviewsdesertdeaths-2.png' alt='' title='Desert Views, Desert DeathsDeveloped by Lucy Petrovic and Johnie Hugh Horn&copy; 2004-2007' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2104'>Desert Views, Desert Deaths<br>Developed by Lucy Petrovic and Johnie Hugh Horn<br>&copy; 2004-2007</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=124'>Lucy Petrovich</a><br>
+			August 1, 2004 - August 1, 2007<br><br>
+			&ldquo;Desert Views, Desert Deaths&rdquo; is an interactive, immersive, stereoscopic environment using CAVE technology that addresses the U.S./Mexico&hellip; <a href='/entry.php?id=2104'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1886'><img src='/resizedImages/500x280-crop-immersivetouch-2.jpg' alt='' title='ImmersiveTouch&trade;' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1886'>ImmersiveTouch&trade;</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=182'>Cristian J. Luciano</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, Pat Banerjee, Lucian Florea<br>
+			August 1, 2004 - Ongoing<br><br>
+			ImmersiveTouch&trade; is the next generation of augmented virtual reality technology. ImmersiveTouch&trade; is the first system that integrates a&hellip; <a href='/entry.php?id=1886'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1905'><img src='/resizedImages/500x280-crop-lambdatable_comp2.gif' alt='' title='LambdaTable' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1905'>LambdaTable</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=221'>Cole Krumbholz</a>, <a href='/entry.php?id=245'>Hyejung Hur</a>, <a href='/entry.php?id=21'>Jason Leigh</a><br>
+			August 1, 2004 - June 17, 2009<br><br>
+			The LambdaTable is a tiled LCD tabletop display connected to high-bandwidth optical networks that supports interactive group-based visualization of&hellip; <a href='/entry.php?id=1905'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1883'><img src='/resizedImages/500x280-crop-corewall_2004.jpg' alt='' title='CoreWall' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1883'>CoreWall</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=216'>Arun Rao</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=213'>Nicholas Schwarz</a>, <a href='/entry.php?id=228'>Yu-Chung Chen</a>, Paul Morin (University of Minnesota)<br>
+			May 16, 2004 - May 15, 2011<br><br>
+			CoreWall is an integrated visualization tool for the study of lake and ocean sediment cores. It is a collaborative project among the University of&hellip; <a href='/entry.php?id=1883'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1874'><img src='/resizedImages/500x280-crop-lambdavision_1.jpg' alt='' title='LambdaVision' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1874'>LambdaVision</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=208'>Byungil Jeong</a>, <a href='/entry.php?id=170'>Charles Zhang</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=44'>Naveen Krishnaprasad</a>, <a href='/entry.php?id=213'>Nicholas Schwarz</a>, <a href='/entry.php?id=183'>Rajvikram Singh</a>, <a href='/entry.php?id=227'>Ratko Jagodic</a>, <a href='/entry.php?id=209'>Venkatram Vishwanath</a><br>
+			May 1, 2004 - August 31, 2008<br><br>
+			LambdaVision is an ultra-high-resolution visualization and networking instrument for research and education in geoscience, computer science and other&hellip; <a href='/entry.php?id=1874'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1873'><img src='/resizedImages/500x280-crop-3duopad_image2.jpg' alt='' title='3.D.UO.PAD' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1873'>3.D.UO.PAD</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=207'>Sangyoon Lee</a><br>
+			January 10, 2004 - May 31, 2004<br><br>
+			&ldquo;3.D.UO.PAD&rdquo; is an interactive 3D sketchpad. With an immersive 3D display system such as CAVE or CWALL, the user can draw and carve using&hellip; <a href='/entry.php?id=1873'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1868'><img src='/resizedImages/500x280-crop-geowall2-2.jpg' alt='' title='The Personal GeoWall 2 (PG-2)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1868'>The Personal GeoWall 2 (PG-2)</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, Nicholas Schwarz, Arun Rao<br>
+			January 1, 2004 - May 1, 2004<br><br>
+			GeoWall is an affordable PC / Mac / Linux 3D passive-stereo projection display developed by the University of Illinois at Chicago, Electronic&hellip; <a href='/entry.php?id=1868'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1882'><img src='/resizedImages/500x280-crop-sagebridge1b-s.jpg' alt='' title='SAGE: Scalable Adaptive Graphics Environment' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1882'>SAGE: Scalable Adaptive Graphics Environment</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=168'>Allan Spale</a>, <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=216'>Arun Rao</a>, <a href='/entry.php?id=208'>Byungil Jeong</a>, <a href='/entry.php?id=170'>Charles Zhang</a>, <a href='/entry.php?id=215'>Gideon Goldman</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=44'>Naveen Krishnaprasad</a>, <a href='/entry.php?id=213'>Nicholas Schwarz</a>, <a href='/entry.php?id=183'>Rajvikram Singh</a>, <a href='/entry.php?id=227'>Ratko Jagodic</a>, <a href='/entry.php?id=211'>Vaidya Chandrasekhar</a>, <a href='/entry.php?id=209'>Venkatram Vishwanath</a><br>
+			January 1, 2004 - November 17, 2013<br><br>
+			The Scalable Adaptive Graphics Environment (SAGE) is a distributed computing architecture for supporting two non-trivial problems in visualization&hellip; <a href='/entry.php?id=1882'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1888'><img src='/resizedImages/500x280-crop-treasure_hunt.png' alt='' title='Treasure Hunt' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1888'>Treasure Hunt</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=188'>Daria Tsoupikova</a>, Vera Pless, Janet Beissinger, Rong Zeng<br>
+			January 1, 2004 - Ongoing<br><br>
+			Treasure Hunt is an interactive educational game for middle grade children based on the use of Cryptography. The goal of this game is to find a&hellip; <a href='/entry.php?id=1888'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<!-- End List List -->
+	</table>
+</div>
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Page:</strong>
+		<a href='/list.php?id=5&amp;page=1'>1</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=2'>2</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=3'>3</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=4'>4</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=5'>5</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=6'>6</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=7'><strong>7</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=8'>8</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=9'>9</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=10'>10</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=11'>11</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=12'>12</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=13'>13</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=14'>14</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=15'>15</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=16'>16</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=17'>17</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<!-- End List -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

@@ -1,0 +1,209 @@
+<!DOCTYPE html PUBLIC  "-//W3C//DTD XHTML 1.0 Transitional//EN"  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html id="ctl00_html" xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+<head id="ctl00_Head1"><title>
+	View File
+</title><script id="ctl00_js_8c2a37d5602b170c39d33fc4faec5f6c" type="text/javascript" src="/javascript/jquery.latest.js"></script><script id="ctl00_js_47956c7a713f993a02ee18a90b1bbcdc" type="text/javascript" src="/javascript/jquery.migrate.js"></script><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><link href="../App_Themes/default/merged.css" type="text/css" rel="stylesheet" /><script type="text/javascript" src="/javascript/GoogleAnalytics.js"></script> 
+<script type="text/javascript">
+var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-31815900']);_gaq.push(['_setDomainName','none']);_gaq.push(['_setAllowLinker', true]);_gaq.push(['_trackPageview']);  (function() {    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);  })(); 
+fileDownloadTracker(1497, 1581, '', ''); 
+</script>
+<link id="ctl00_css_c33e5b847dd32474ec31d4c41fdce6cb" href="/common/pages/PortalThemeStyle.ashx?templateId=127" rel="stylesheet" type="text/css" media="all" /></head>
+<body id="ctl00_PageBody" style="margin: 0px; width: 100%; text-align: center;border: 0px;">
+    
+
+<div id="mobile_banner"></div>
+
+    <form method="post" action="./One.aspx?objectId=1325362&amp;contextId=1508&amp;parentId=1325351" id="aspnetForm">
+<input type="hidden" name="ctl00_RadStyleSheetManager1_TSSM" id="ctl00_RadStyleSheetManager1_TSSM" value="" />
+<input type="hidden" name="ctl00_ScriptManager1_TSM" id="ctl00_ScriptManager1_TSM" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTMxNjc3NTM3NQ9kFgJmD2QWAgIBDxYGHgV4bWxucwUcaHR0cDovL3d3dy53My5vcmcvMTk5OS94aHRtbB4EbGFuZwUFZW4tVVMeCHhtbDpsYW5nBQVlbi1VUxYCAgMPFgIeBXN0eWxlBTltYXJnaW46IDBweDsgd2lkdGg6IDEwMCU7IHRleHQtYWxpZ246IGNlbnRlcjtib3JkZXI6IDBweDsWAgIBD2QWBAIYDw8WAh4HVmlzaWJsZWhkZAInD2QWBAICD2QWAmYPZBYCZg9kFgICAQ9kFgICAQ8PFgYeCEltYWdlVXJsBS5+L2NvbW1vbi9yZXNvdXJjZXMvc2hhcmVkL2ltYWdlcy90ZW1wL2hvbWUuZ2lmHg1BbHRlcm5hdGVUZXh0BQRIb21lHwRnZGQCBA9kFgQCAw9kFhoCAQ8PFgIeC05hdmlnYXRlVXJsBS0vY29tbW9uL3BhZ2VzL0Rpc3BsYXlGaWxlLmFzcHg/aXRlbUlkPTEzMjUzNjJkFgJmDw8WAh8FBUgvY29tbW9uL3Jlc291cmNlcy9zaGFyZWQvaW1hZ2VzL2ljb25UaGVtZXMvNDh4NDgvY3NfZmlsZS9wZGZfZGVmYXVsdC5naWZkZAIDDw8WBB8HBS0vY29tbW9uL3BhZ2VzL0Rpc3BsYXlGaWxlLmFzcHg/aXRlbUlkPTEzMjUzNjIeBFRleHQFKERlZW1lZCBFeHBvcnQgQ2VydGlmaWNhdGlvbiBGb3JtIDExLjIwMTRkZAIFDw8WCh8FBTV+L2NvbW1vbi9yZXNvdXJjZXMvZW5fVVMvZGVmYXVsdC9pbWFnZXMvbG9ja19vcGVuLmdpZh8GBRVUaGlzIGZpbGUgaXMgdW5sb2NrZWQeB1Rvb2xUaXAFFVRoaXMgZmlsZSBpcyB1bmxvY2tlZB4HRW5hYmxlZGgfBGhkZAIHDw8WAh8IBQZBdXRob3JkZAIJDw8WAh8IBQZhaG9iYW5kZAILDw8WAh8IBQRTaXplZGQCDQ8PFgIfCAUHODMuMiBLQmRkAg8PDxYCHwgFCkNyZWF0ZWQgT25kZAIRDw8WAh8IBRMxMi8yMC8yMDE5IDEyOjExIFBNZGQCEw8PFgIfCAUOVmVyc2lvbiBOdW1iZXJkZAIVDw8WAh8IBQExZGQCGQ8PFgIfCGVkZAIbDxYCHwRoFgJmD2QWAmYPDxYCHwgFEVBsYWdpYXJpc20gUmVwb3J0ZGQCBQ8PFgIeDUZvcnVtVmlld01vZGUFBHRyZWVkFgRmD2QWAmYPZBYEZg9kFgJmDw8WBh8IBQtBZGQgQ29tbWVudB8HBbsBL3dvcmtzcGFjZXMvT25lLmFzcHg/b2JqZWN0SWQ9MTMyNTM2MiZjb250ZXh0SWQ9MTUwOCZhY3Rpb249YWRkJm9iamVjdFR5cGU9d29ya3NwYWNlX2NvbW1lbnQmcmV0dXJuVG89JTJmd29ya3NwYWNlcyUyZk9uZS5hc3B4JTNmb2JqZWN0SWQlM2QxMzI1MzYyJTI2Y29udGV4dElkJTNkMTUwOCUyNnBhcmVudElkJTNkMTMyNTM1MR8EaGRkAgEPZBYCZg8PFgIfCAUJRmxhdCBWaWV3ZGQCBA88KwAJAQAPFgQeCERhdGFLZXlzFgAeC18hSXRlbUNvdW50ZmRkZNocPItt/RkjZ0vglRYZzfMFlbtt" />
+
+<script type="text/javascript">
+            
+                function OpenNewWindow(url, arguments)
+                {  
+                    return window.open(url, "",arguments);
+                }
+
+                function OpenNewWindowJS(url, ignore, arguments){  
+                    return OpenNewWindow(url, arguments);  
+                }
+
+
+                function OpenNewWindowNoReturn(url, arguments){  
+                    OpenNewWindow(url, arguments);  
+                }
+
+              </script> 
+<script src="/common/javascript/PLMoreDropDown.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+function _search(){var frm=document.forms['aspnetForm'];if(!frm)frm=document.aspnetForm;window.location='/workspaces/Search.aspx?contextId='+frm.SearchPlace.value+'&place='+frm.SearchOne.value+'&searchTerm='+escape(frm.SearchTerm.value).replace(/\+/g, '%2C').replace(/\"/g,'%22').replace(/'/g, '%27');}
+            function clickButton(e, buttonid)
+            { 
+              var bt = document.getElementById(buttonid); 
+              if (typeof bt == 'object')
+		        { 
+
+                    if (navigator.appName.indexOf('Microsoft Internet Explorer')>(-1)){ 
+                          if (event.keyCode == 13){ 
+                                bt.click(); 
+                                return false; 
+                          } 
+                    } 
+	    	        else
+			        {
+	                  if (e.keyCode == 13)
+	          	        { 
+                                bt.click(); 
+                                return false; 
+                          } 
+                    } 
+              } 
+            } //]]>
+</script>
+
+<script src="/Common/JavaScript/Common_Control.js" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Zrjj72i5wsvjwLKDhe2L4eKDikhEiOSWX9h2e896ZKeZK2s6WEqxLydrptjPu9iu28wxWTyA8w1mvISsoMbvtFhjqXPHvwfuAZTgv2cHRTU04oHu0&amp;t=f2cd5c5" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=LcBpVdtHt9cbpa2wwMjvfkYWVVIIq1JVvaXWpHJY_ur6MW0XHzbKrFtqY6pzUPtoNmlVveey6p6bGX8vI3oZ1-uPqvcNdz5f2nSyYZQ4k1_WZMLRp74g3HfZVSmlf8wVmJKaLOm9SHKsnNMaFg3-ZMNno2E1&amp;t=f2cd5c5" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+Sys.Services._AuthenticationService.DefaultWebServicePath = '../Authentication_JSON_AppService.axd';
+//]]>
+</script>
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="53C4ED4C" />
+    
+    
+   
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+            
+            
+    
+    
+            
+    
+    
+    
+    
+    
+    
+    
+    
+            
+    
+            
+    
+    
+    
+    
+    
+    
+            
+    
+    
+    
+    
+    
+    <div id="publinks"></div><div id="wrapper"><div class="banner"><h2 class="map">UIC Office of International Services</h2><map name="map3" id="map3"><area shape="rect" coords="3,3,252,20" href="/home" alt="Office of International Services"></area><area shape="rect" coords="4,23,113,36" href="/home" alt="Office of International Services"></area></map><a href="" title="Home"><img src="/UserFiles/Servers/Server_1497/Image/Custom Theme/oisheaderNEW2.jpg" border="0" width="970" height="270" alt="Office of International Services" usemap="#map3"></img></a></div><div class="container"><div class="horizontalnavbar"></div><div id="navbar"><table id="ctl00_ContentItemsNavBar1_tblItems" border="0" cellpadding="1" cellspacing="0">
+	<tr>
+		<td width="6"></td>
+		<td>
+          <img id="ctl00_ContentItemsNavBar1_imgIcon" src="../common/resources/shared/images/temp/home.gif" alt="Home" />&nbsp;
+        </td>
+		<td><a title="UICOISNEW" class="ContextBar" id="ContentItemsNavBar_server_node" href="https://www.ois.uic.edu/">UICOISNEW</a>&nbsp;<img src="../common/resources/shared/images/separator.gif" alt=">" />&nbsp;<a title="Workspaces" class="ContextBar" href="/workspaces/One.aspx?objectId=1508&amp;contextId=1508">Workspaces</a>&nbsp;<img src="../common/resources/shared/images/separator.gif" alt=">" />&nbsp;<a title="UICOIS" class="ContextBar" href="/workspaces/One.aspx?objectId=1603&amp;contextId=1508">UICOIS</a>&nbsp;<img src="../common/resources/shared/images/separator.gif" alt=">" />&nbsp;<a title="PDF Forms - Fillable" class="ContextBar" href="/workspaces/One.aspx?objectId=189146&amp;contextId=1508">PDF Forms - Fillable</a>&nbsp;<img src="../common/resources/shared/images/separator.gif" alt=">" />&nbsp;<a title="Employment Forms" class="ContextBar" href="/workspaces/One.aspx?objectId=1325351&amp;contextId=1508">Employment Forms</a>&nbsp;<img src="../common/resources/shared/images/separator.gif" alt=">" />&nbsp;<span class="ContextBar">Deemed Export Certification ...</span></td>
+	</tr>
+</table>
+</div><div id="server_contents">
+    
+
+
+<table id="tbl" cellspacing="0" cellpadding="1">
+	<tr>
+		<td valign="top">
+            <a id="ctl00_ContentPlaceHolder1_ctl00_hlImg" href="/common/pages/DisplayFile.aspx?itemId=1325362"><img id="ctl00_ContentPlaceHolder1_ctl00_img" src="/common/resources/shared/images/iconThemes/48x48/cs_file/pdf_default.gif" /></a>
+        </td>
+		<td valign="top">
+			<table class="tbl" rules="rows" cellspacing="0" cellpadding="2" width="450">
+				<tr>
+					<td class="tbl_header" colspan="2" style="border-top:1px solid #cccccc" >
+						<table cellspacing="0" cellpadding="0" border="0" rules="rows" >
+							<tr>
+								<td width="100%">
+                                    <a id="ctl00_ContentPlaceHolder1_ctl00_hlFileName" href="/common/pages/DisplayFile.aspx?itemId=1325362">Deemed Export Certification Form 11.2014</a>&nbsp;
+                                </td>
+								<td>
+                                    
+                                </td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				
+                <tr>
+					<td class="tbl_row_text" width="30%"><span id="ctl00_ContentPlaceHolder1_ctl00_lblAuthor">Author</span></td>
+					<td class="tbl_row_data" width="70%"><span id="ctl00_ContentPlaceHolder1_ctl00_lblAuthorV">ahoban</span></td>
+				</tr>
+				<tr>
+					<TD class="tbl_row_text">
+						<span id="ctl00_ContentPlaceHolder1_ctl00_lblSize">Size</span>
+					</TD>
+					<TD class="tbl_row_data">
+						<span id="ctl00_ContentPlaceHolder1_ctl00_lblSizeV">83.2 KB</span>
+					</TD>
+				</tr>
+				<tr>
+					<td class="tbl_row_text"><span id="ctl00_ContentPlaceHolder1_ctl00_lblCreatedOn">Created On</span></td>
+					<td class="tbl_row_data"><span id="ctl00_ContentPlaceHolder1_ctl00_lblCreatedOnV">12/20/2019 12:11 PM</span></td>
+				</tr>
+				<tr>
+					<td class="tbl_row_text"><span id="ctl00_ContentPlaceHolder1_ctl00_lblVersionNumber">Version Number</span></td>
+					<td class="tbl_row_data"><span id="ctl00_ContentPlaceHolder1_ctl00_lblVersionNumberV">1</span></td>
+				</tr>
+				<tr>
+				<td class="tbl_row_text"><span id="ctl00_ContentPlaceHolder1_ctl00_lblDescription">Description</span></td>
+					<td class="tbl_row_data"><span id="ctl00_ContentPlaceHolder1_ctl00_lblDescriptionV"></span></td>
+				</tr>
+				
+			</table>
+		</td>
+	</tr>
+</table>
+<br/><table id="ctl00_ContentPlaceHolder1_ctl01_tblAddComment" border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+		<td></td>
+		<td class="plain_text" align="right"><a id="ctl00_ContentPlaceHolder1_ctl01_lbtnViewMode" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$ctl01$lbtnViewMode&#39;,&#39;&#39;)">Flat View</a></td>
+	</tr>
+</table>
+
+
+<table class="datagrid_header_table" border="0" cellpadding="1" cellspacing="0" width="100%">
+	<tr>
+		<td><span>Comments</span></td>
+	</tr>
+
+</table>
+</div></div><div id="footer"><p><a href="/programs/first_friends/" title="OIS First Friends Program"><img src="/UserFiles/Servers/Server_1497/Image/Photos/First_Friends_larger-300x49.png" alt="First Friends Icon" height="41" width="150"></img></a> | <a href="http://www.twitter.com/UIC_OIS/" title="OIS Twitter Feed"><img src="/UserFiles/Servers/Server_1497/Image/Photos/Follow_Us_on_twitter.png" alt="Twitter Icon" height="41" width="150"></img></a> | <a href="https://www.facebook.com/pages/Office-of-International-Services-University-of-Illinois-at-Chicago/237371776297506" title="OIS Facebook Page"><img src="/UserFiles/Servers/Server_1497/Image/Photos/facebook.jpg" alt="Facebook Icon" height="41" width="150"></img></a></p><p><a href="/site_map">Site Map</a> | <a href="http://www.vpaa.uillinois.edu/policies/web_privacy.asp?bch=0">Privacy Statement</a> | Copyright 2012 The Board of Trustees of the University of Illinois</p></div><div id="publinks"></div></div></form>
+    <script type="text/javascript">
+        window.isMobile = 0 == 1;
+        if (!theForm) {
+                var theForm = document.forms['aspnetForm'];
+                if (!theForm) 
+                    theForm = document.aspnetForm;
+            }
+            if (theForm) {
+                theForm.action = window.location.href;
+            }
+    </script>
+</body>
+</html>
+

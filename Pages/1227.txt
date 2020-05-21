@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Entry -->
+<table id='entry_area' class='fixedTable'>
+	<tr>
+		<td style='width:676px;'>
+			<div id='entry_info'>
+<!-- Begin Entry Info -->
+<h3>UIC/EVL Victor Mateevitsi Pitches SpiderSense on Discovery Science&rsquo;s &ldquo;All-American Makers&rdquo; TV Show</h3>
+<div id='entry_image_large'><img style='left:0;' src='/resizedImages/1280x720-spidersense-amer_makers-20160203_185234_hdr-marcocavallo.jpg' alt='' title='UIC/EVL Victor Mateevitsi Pitches SpiderSense on Discovery Science&rsquo;s &ldquo;All-American Makers&rdquo; TV Show' width='640' height='338'></div>
+<span class='smallText'>Victor Mateevitsi welcomes friends and colleagues to his viewing party for the All-American Makers TV show featuring SpiderSense at MATTER headquarters. - Marco Cavallo, UIC/EVL</span><br><br>
+<div class='entry_content'>
+	<strong>Participants:</strong> <a href='/entry.php?id=281'>Victor Mateevitsi</a><br><br>
+	<strong>URL:</strong> <a href='http://spider-sense.com/' target='_blank'>http://spider-sense.com/</a><br><br>
+<!-- Begin Entry Description -->
+by Maxine D. Brown<br><br>
+February 3, 2016 - Victor Mateevitsi, a PhD student in the Computer Science Department at the University of Illinois at Chicago (UIC), and a recipient of the 2015 Dean&rsquo;s Scholar Award, was a featured future entrepreneur on the TV show &ldquo;All-American Makers&rdquo; on the Discovery Science channel (Season 2, Episode 9, titled &ldquo;Superpowers for Sale&rdquo;). On February 3, 2016, he held a viewing party for friends and colleagues at MATTER, a health-tech incubator for entrepreneurs located at Chicago&rsquo;s Merchandise Mart.<br><br>
+The TV show &ldquo;All-American Makers&rdquo; regularly features four entrepreneurs whose products are reviewed by three judges - a successful entrepreneur and a very technical guy who rigorously test and deconstruct the products, and a venture capitalist who wants to invest in sure things. For each product, the show takes the viewers through the testing and analysis phase, followed by trials and opinions from members of a focus group, and ultimately the venture capitalist&rsquo;s decision on whether or not he will invest.<br><br>
+Mateevitsi introduced SpiderSense 2.0, a more portable version (a jacket) of his original SpiderSense wearable technology that can sense one&rsquo;s environment and inform the visually impaired about obstacles in their path. Mateevitsi initially created SpiderSense as a class project for the UIC course &ldquo;Human Augmentics,&rdquo; and has continued developing it while a research assistant at the UIC Electronic Visualization Laboratory (EVL) under his advisor, Andy Johnson, associate professor of Computer Science and EVL director of research. SpiderSense is at the core of his PhD work on human augmentics, which explores the value of wearable technologies to expand the capabilities and characteristics of humans.<br><br>
+The first part of the show had two of the judges examine and test the product. While SpiderSense can detect objects between 0 to 60 inches away from the user (the distance is programmable), the show had a person wearing SpiderSense try to navigate a cluttered path while blindfolded, and the path appeared to be 36 inches wide (at least to this viewer, who was watching the TV program). So, the sensors tingled all the time, the user got disoriented, and he knocked over some of the obstacles in his path. One suggestion, later in the show, was to have a switch so that the device could either tingle when there were obstacles or when there were no obstacles in a user&rsquo;s way.<br><br> 
+Then came the focus group. This group fortunately included a visually impaired man and a firefighter, who both praised SpiderSense's&rsquo; possibilities for detecting obstacles in their paths.<br><br>
+Viewers were excited to learn that the judges gave Mateevitsi a score 7 out of 10 — the second best score on the show!<br><br>
+Viewers hopes were then crushed, as the venture capitalist decided not to fund Mateevitsi...at least, not yet. He thought SpiderSense a great invention, and encouraged Mateevitsi to continue development and to form a team to help market and manufacture it.<br><br>
+Mateevitsi was gracious to the judges throughout the show, and thanked them for their advice. His &ldquo;to do&rdquo; list for SpiderSense is growing longer, but first order of business is to complete his PhD.<br><br>
+This <a href="http://www.sciencechannel.com/tv-shows/all-american-makers/">TV show is available online</a> but currently restricted to those who subscribe to the Discovery Science channel.<br><br>
+<a href="http://spider-sense.com/">Information on SpiderSense.</a><br><br>
+<a href="http://news.uic.edu/students-spidersense-featured-on-discovery-science">UIC News press release.</a><br><br>
+<!-- End Entry Description -->
+	<strong>Email:</strong> <a href='mailto:maxine@uic.edu'>maxine@uic.edu</a><br><br>
+	<strong>Date:</strong> February 3, 2016
+</div>
+<!-- End Entry Info -->
+			</div>
+		</td>
+		<td style='width:374px;'>
+			<div id='entry_sidebar'>
+<!-- Begin Entry Sidebar -->
+<div class='entry_content'>
+	<h3>Related Entries</h3>
+	<strong>Directory:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=281'>Victor Mateevitsi</a></li>
+	</ul><br>
+	<strong>Events:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2190'>Victor Mateevitsi participating in TEDxUofIChicago, April 8, 2016</a></li>
+		<li><a href='/entry.php?id=2181'>Can a Spider-Man-inspired jacket help the blind get around Chicago?</a></li>
+		<li><a href='/entry.php?id=1170'>SpiderSense at Adler After Dark</a></li>
+		<li><a href='/entry.php?id=1175'>National Geographic Kids book features UIC / EVL SpiderSense</a></li>
+		<li><a href='/entry.php?id=1127'>SpiderSense: CPL Innovation Lab Program</a></li>
+		<li><a href='/related.php?id=2160&amp;related=3'><strong>View more&hellip;</strong></a></li>
+	</ul><br>
+	<strong>Papers:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=1623'>Sensing the environment through SpiderSense</a></li>
+	</ul><br>
+	<strong>Research:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2040'>SpiderSense</a></li>
+	</ul><br>
+	<h3>Related Categories</h3>
+	<ul>
+		<li><a href='/category.php?id=3&amp;related=3'>Applications</a></li>
+		<li><a href='/category.php?id=32&amp;related=3'>Human Augmentics</a></li>
+		<li><a href='/category.php?id=16&amp;related=3'>MS / PhD Thesis</a></li>
+		<li><a href='/category.php?id=24&amp;related=3'>User Groups</a></li>
+	</ul>
+</div>
+<!-- End Entry Sidebar-->
+			</div>
+		</td>
+	</tr>
+</table>
+<!-- End Entry -->
+<script>
+	// Making both divs the same height is much easier in JavaScript
+	var entryInfo = document.getElementById("entry_info");
+	var entrySidebar = document.getElementById("entry_sidebar");
+	
+	if (entryInfo && entrySidebar) {
+		var maxHeight = Math.max(entryInfo.offsetHeight, entrySidebar.offsetHeight)-20;
+		entryInfo.style.height = maxHeight+"px";
+		entrySidebar.style.height = maxHeight+"px";
+	}
+</script>
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

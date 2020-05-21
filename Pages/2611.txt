@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin List -->
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Page:</strong>
+		<a href='/list.php?id=1&amp;page=1'>1</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=2'>2</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=3'>3</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=4'>4</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=5'>5</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=6'>6</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=7'>7</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=8'><strong>8</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=9'>9</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=10'>10</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<div id='list_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin List List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1961'><img src='/resizedImages/500x280-crop-mmb5_185.jpg' alt='' title='The Multi Mega Book in the CAVE&trade;' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1961'>The Multi Mega Book in the CAVE&trade;</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=175'>Franz Fischnaller</a>, <a href='/entry.php?id=12'>Josephine Anstey</a>, <a href='/entry.php?id=103'>Tomoko Imai</a>, Yesi Maharaj Singh, Alfredo Miti<br>
+			September 1, 1996 - December 1, 1997<br><br>
+			&ldquo;The Multi-Mega Book in the CAVE&trade;&rdquo; juxtaposes the Print Revolution and the Information Revolution, and consists of two cities, an&hellip; <a href='/entry.php?id=1961'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1948'><img src='/resizedImages/500x280-crop-drmgrls_07.jpg' alt='' title='Dream Grrrls' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1948'>Dream Grrrls</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=139'>Grit Sehmisch</a>, <a href='/entry.php?id=17'>Joe Reitzer</a>, <a href='/entry.php?id=86'>Margaret Dolinsky</a><br>
+			June 1, 1996 - May 15, 1997<br><br>
+			Dream Grrrls is a real-time interactive CAVE&trade; virtual art environment created by Margaret Dolinsky and Grit Sehmisch. Dream Grrrls debuted at&hellip; <a href='/entry.php?id=1948'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1731'><img src='/resizedImages/500x280-crop-avatar1.gif' alt='' title='Gallery of Motions' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1731'>Gallery of Motions</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=15'>Alan Millman</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=104'>Joe Insley</a>, <a href='/entry.php?id=13'>Louis H. Kauffman</a>, <a href='/entry.php?id=101'>Milana Huang</a>, <a href='/entry.php?id=95'>Robert Grzeszczuk</a>, <a href='/entry.php?id=79'>Sumit Das</a>, R. Barger, S. McGreevy<br>
+			February 1, 1996 - June 1, 1996<br><br>
+			A sculpture garden and gallery where even the plants and buildings move, with tours conducted by an animated guide. The garden is comprised of&hellip; <a href='/entry.php?id=1731'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1921'><img src='/resizedImages/500x280-crop-lesgirls.gif' alt='' title='Les Girls' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1921'>Les Girls</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=12'>Josephine Anstey</a><br>
+			January 1, 1996 - December 1, 1996<br><br>
+			&ldquo;Well you&rsquo;re asking, is it autobiographical? Is it true? Did it happen?&rdquo; Of course. Here are the photos. This website explores the&hellip; <a href='/entry.php?id=1921'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1689'><img src='/resizedImages/500x280-crop-vibrafloor.jpg' alt='' title='Vibrafloor: Sound-based Virtual Reality' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1689'>Vibrafloor: Sound-based Virtual Reality</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=17'>Joe Reitzer</a>, <a href='/entry.php?id=145'>Marcus Thiebaux</a><br>
+			January 1, 1996 - March 1, 1997<br><br>
+			Using the CAVE Virtual Reality Theater as inspiration, Reitzer, an adjunct assistant professor in UIC&rsquo;s School of Art and Design and a graduate&hellip; <a href='/entry.php?id=1689'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1690'><img src='/resizedImages/500x280-crop-handprints.gif' alt='' title='Handprints' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1690'>Handprints</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=134'>Maria Roussou</a>, Paul Brenner<br>
+			January 1, 1996 - June 14, 1996<br><br>
+			&ldquo;Handprints&rdquo; (Spring &rsquo;96) is a work of interactive fiction which lives on the web. The first few pages establish the beginning of a&hellip; <a href='/entry.php?id=1690'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1962'><img src='/resizedImages/500x280-crop-mitologies2.jpg' alt='' title='Mitologies 2' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1962'>Mitologies 2</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=75'>Alan Cruz</a>, <a href='/entry.php?id=15'>Alan Millman</a>, <a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=70'>Hisham Bizri</a>, <a href='/entry.php?id=65'>Joseph Alexander</a>, <a href='/entry.php?id=134'>Maria Roussou</a>, <a href='/entry.php?id=103'>Tomoko Imai</a><br>
+			January 1, 1996 - January 1, 1997<br><br>
+			Mitologies is a collaborative virtual reality artwork for the CAVE&trade;. It is loosely based on the Cretan myth of the Minotaur, Dante&rsquo;s&hellip; <a href='/entry.php?id=1962'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1713'><img src='/resizedImages/500x280-crop-vomit.gif' alt='' title='Vomit Mountain' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1713'>Vomit Mountain</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=21'>Jason Leigh</a><br>
+			January 1, 1996 - April 1, 1996<br><br>
+			The CAVE&trade; virtual reality roller coaster ride called &ldquo;Vomit Mountain&rdquo; allows the user to design a roller coaster by first flying&hellip; <a href='/entry.php?id=1713'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1714'><img src='/resizedImages/500x280-crop-jaws.gif' alt='' title='Jaws of Death' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1714'>Jaws of Death</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=73'>Tom Coffin</a><br>
+			January 1, 1996 - April 1, 1996<br><br>
+			The &ldquo;Jaws of Death&rdquo; is a virtual reality torture chamber - a cacophony of sound and color which fully envelopes the participant in the&hellip; <a href='/entry.php?id=1714'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1715'><img src='/resizedImages/500x280-crop-psycho.gif' alt='' title='Psychotunnel' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1715'>Psychotunnel</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=134'>Maria Roussou</a><br>
+			January 1, 1996 - April 1, 1996<br><br>
+			&ldquo;Psychotunnel&rdquo;, a three-dimensional whirling vortex, transported participants to an abstract virtual world. It was one of a number of&hellip; <a href='/entry.php?id=1715'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1733'><img src='/resizedImages/500x280-crop-tentuniv.gif' alt='' title='Orgworld' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1733'>Orgworld</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=113'>Deb Lowman (1966-2018)</a><br>
+			November 1, 1995 - March 1, 1996<br><br>
+			Orgworldis a virtual reality experience that is exhibited on EVL&rsquo;s ImmersaDesk&trade;. Orgworld brings static objects to life, in the process&hellip; <a href='/entry.php?id=1733'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1750'><img src='/resizedImages/500x280-crop-llpic01.jpg' alt='' title='Lucifer Lounge' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1750'>Lucifer Lounge</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=104'>Joe Insley</a><br>
+			November 1, 1995 - March 1, 1996<br><br>
+			&ldquo;Lucifer Lounge&rdquo; to a large extent deals with struggles, both internal and external. In some ways the viewers / participants, primarily&hellip; <a href='/entry.php?id=1750'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1753'><img src='/resizedImages/500x280-crop-m2.gif' alt='' title='Waterlogged' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1753'>Waterlogged</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=104'>Joe Insley</a><br>
+			November 1, 1995 - March 1, 1996<br><br>
+			&ldquo;Waterlogged&rdquo; deals with struggle. The viewer is confronted with a large-scale rendition of individuals struggling to breath and break&hellip; <a href='/entry.php?id=1753'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1697'><img src='/resizedImages/500x280-crop-aqua3.gif' alt='' title='Aquasphere' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1697'>Aquasphere</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=75'>Alan Cruz</a><br>
+			September 1, 1995 - October 1, 1996<br><br>
+			This application was an experiment in trying to create a very realistic environment by using complex models other than texture maps. The application&hellip; <a href='/entry.php?id=1697'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1768'><img src='/resizedImages/500x280-crop-ocean.jpg' alt='' title='Ocean Planet Flyby' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1768'>Ocean Planet Flyby</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=51'>Dave Pape</a><br>
+			September 1, 1995 - July 1, 1996<br><br>
+			This project was created for the Smithsonian&rsquo;s Ocean Planet exhibition. It&rsquo;s a 2 minute animation of a flyby of the Pacific Ocean. The&hellip; <a href='/entry.php?id=1768'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<!-- End List List -->
+	</table>
+</div>
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Page:</strong>
+		<a href='/list.php?id=1&amp;page=1'>1</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=2'>2</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=3'>3</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=4'>4</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=5'>5</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=6'>6</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=7'>7</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=8'><strong>8</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=9'>9</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=10'>10</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<!-- End List -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

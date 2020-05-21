@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Entry -->
+<table id='entry_area' class='fixedTable'>
+	<tr>
+		<td style='width:676px;'>
+			<div id='entry_info'>
+<!-- Begin Entry Info -->
+<h3>SAGE2 Project Management Application</h3>
+<div id='entry_image_large'><img style='left:0;' src='/resizedImages/1280x720-caterpillar.png' alt='' title='SAGE2 Project Management Application' width='640' height='261'></div>
+<span class='smallText'>Example of Caterpillar 'manual' project management workflow session. - photo courtesy: Lisa Creger, Caterpillar</span><br><br>
+<div class='entry_content'>
+		<strong>Funding:</strong> Caterpillar Inc.<br><br>
+<!-- Begin Entry Description -->
+Caterpillar Inc. is working with the UIC Electronic Visualization Laboratory (EVL) to develop a SAGE2&trade; application to enable distributed teams to collaborate on project planning and scheduling.<br><br>
+Planning and scheduling the design, development, engineering and manufacturing processes of construction equipment with worldwide teams and suppliers is an extraordinarily complex task. Caterpillar, inspired by &ldquo;StickySchedule,&rdquo; an interactive SAGE2 multi-user application for conference scheduling, asked whether EVL could help automate their project management workflow, which is currently a very manual process.<br><br>
+The goal is to develop an innovative SAGE2 application to enable people from different Caterpillar units to schedule interdependent tasks over several months or years using electronic post-it notes on a large tiled display. The resulting schedule would be translated into a spreadsheet, which would then be input to project management software. SAGE2 would also enable groups to work collaboratively over distance, whereas now, everyone must be in the same room at the same time. Today, these management plans are updated only a couple times per year due to the high labor and cost of travel.  This tool will enable these planning sessions to occur for significantly less labor and cost, resulting in a more regular update by the extended team.<br><br>
+Additional information:<br>
+<a href="http://sage2.sagecommons.org">SAGE2 Website</a><br>
+<a href="http://sage2.sagecommons.org/download/2117/">StickySchedule Paper</a><br>
+<a href="http://apps.sagecommons.org/">StickySchedule App</a><br><br>
+Project team:<br>
+Lisa Creger, Lean Product Development Advisor, Innovation & Technology Development Division (ITDD), Caterpillar<br>
+Peter E. Cooper, Product Development Manager, Medium Wheel Loaders, Caterpillar<br>
+Luc Renambot, Computer Science Research Professor and EVL SAGE2 Project Manager, UIC<br>
+Tommaso Massari, Computer Science MS student and EVL Research Assistant, UIC<br><br>
+<!-- End Entry Description -->
+	<strong>Email:</strong> <a href='mailto:renambot@uic.edu'>renambot@uic.edu</a><br><br>
+	<strong>Date:</strong> January 1, 2018 - May 15, 2018
+</div>
+<!-- End Entry Info -->
+			</div>
+		</td>
+		<td style='width:374px;'>
+			<div id='entry_sidebar'>
+<!-- Begin Entry Sidebar -->
+<div class='entry_content'>
+	<h3>Related Entries</h3>
+	<strong>Research:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2218'>SAGEBoard: a Whiteboard for Large Multitouch Displays</a></li>
+		<li><a href='/entry.php?id=2042'>SAGE2&trade; Scalable Amplified Group Environment</a></li>
+		<li><a href='/entry.php?id=1882'>SAGE: Scalable Adaptive Graphics Environment</a></li>
+	</ul><br>
+	<h3>No Related Categories</h3>
+</div>
+<!-- End Entry Sidebar-->
+			</div>
+		</td>
+	</tr>
+</table>
+<!-- End Entry -->
+<script>
+	// Making both divs the same height is much easier in JavaScript
+	var entryInfo = document.getElementById("entry_info");
+	var entrySidebar = document.getElementById("entry_sidebar");
+	
+	if (entryInfo && entrySidebar) {
+		var maxHeight = Math.max(entryInfo.offsetHeight, entrySidebar.offsetHeight)-20;
+		entryInfo.style.height = maxHeight+"px";
+		entrySidebar.style.height = maxHeight+"px";
+	}
+</script>
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

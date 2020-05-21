@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Category -->
+<!-- Begin Category Pagination -->
+<div class='category_area'>
+	<div class='category_content'>
+		<h3>Supercomputing</h3><br>
+		<strong>Related:</strong>
+		<a href='/category.php?id=22&amp;related=2'>Directory</a>&nbsp;&nbsp;
+		<a href='/category.php?id=22&amp;related=3'>Events</a>&nbsp;&nbsp;
+		<a href='/category.php?id=22&amp;related=4'>Papers</a>&nbsp;&nbsp;
+		<a href='/category.php?id=22&amp;related=5'><strong>Research</strong></a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End Category Pagination -->
+<div class='category_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin Category List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1994'><img src='/resizedImages/500x280-crop-lv2_andyjason.jpg' alt='' title='OptIPlanet Cyber-Mashup' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1994'>OptIPlanet Cyber-Mashup</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a><br>
+			September 1, 2009 - August 31, 2012<br><br>
+			STCI: OptIPlanet Cyber-Mashup: Persistent Visualization and Collaboration Services for Global Cyber Infrastructure The goal of this project is to&hellip; <a href='/entry.php?id=1994'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1980'><img src='/resizedImages/500x280-crop-rtk.png' alt='' title='RTK: The Rails Toolkit' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1980'>RTK: The Rails Toolkit</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=248'>Sungwon Nam</a>, <a href='/entry.php?id=209'>Venkatram Vishwanath</a><br>
+			January 1, 2007 - Ongoing<br><br>
+			RTK is an open source API that enables applications to co-schedule CPU cores, GPUs, Memory and Network resources within multi- and many- core&hellip; <a href='/entry.php?id=1980'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1942'><img src='/resizedImages/500x280-crop-kisti_display400.png' alt='' title='OptIPuter and Global Lambda Visualization Facility (GLVF)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1942'>OptIPuter and Global Lambda Visualization Facility (GLVF)</a></strong><br>
+			<a href='/entry.php?id=23'>Alan Verlo</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			September 1, 2005 - Ongoing<br><br>
+			The Global Lambda Visualization Facility (GLVF), established in September 2005, addresses the need to integrate visualization and collaboration&hellip; <a href='/entry.php?id=1942'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2053'><img src='/resizedImages/500x280-crop-effectiveviz.jpg' alt='' title='Effective Use of Large Visualization Displays' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2053'>Effective Use of Large Visualization Displays</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=208'>Byungil Jeong</a>, <a href='/entry.php?id=245'>Hyejung Hur</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=259'>Khairi Reda</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=227'>Ratko Jagodic</a><br>
+			January 2, 2002 - Ongoing<br><br>
+			Global-scale cyberinfrastructure, whether sensor nets or supercomputers, is transforming the way teams of scientists and engineers study and&hellip; <a href='/entry.php?id=2053'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1684'><img src='/resizedImages/500x280-crop-cavern_logo-2.jpg' alt='' title='Collaboration and Visualization over High Speed Networks' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1684'>Collaboration and Visualization over High Speed Networks</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=56'>Chris Scharver</a>, <a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=35'>Javier Girado</a>, <a href='/entry.php?id=52'>Kyoung Shin Park</a>, <a href='/entry.php?id=45'>Michael Lewis</a>, <a href='/entry.php?id=44'>Naveen Krishnaprasad</a>, <a href='/entry.php?id=30'>Yongjoo Cho</a>, T. Imai, R. Fang, Y. Lin, T. Portlock, B. Silva, L. Wang, J. Eliason, J. Ge, E. He, A. Nayak, S. Venkatamaran<br>
+			March 1, 2001 - February 28, 2003<br><br>
+			This research focuses on the development of Tele-immersive (collaborative virtual reality) applications, the middleware (software infrastructure)&hellip; <a href='/entry.php?id=1684'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1748'><img src='/resizedImages/500x280-crop-datamining.jpg' alt='' title='Data-Mining Visualization' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1748'>Data-Mining Visualization</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, Stuart Bailey, Kartik Ganeshan, Robert Grossman<br>
+			September 1, 1998 - December 1, 1999<br><br>
+			The Health Care field is data rich, but information poor. Data exists from admissions, laboratory, radiology, and pharmacy systems, as well as from&hellip; <a href='/entry.php?id=1748'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1675'><img src='/resizedImages/500x280-crop-ncsalogo.gif' alt='' title='NCSA: National Computational Science Alliance' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1675'>NCSA: National Computational Science Alliance</a></strong><br>
+			<a href='/entry.php?id=6'>Thomas A. DeFanti</a>, L. Smarr, R. Abdulla, C. Bender, D. Ceperley, J. Connolly, R. GileJ. Hennessy, K. Kennedy;. McRae, J. Ostriker, D. Reed, R. Stevens, M. Vernon, P. Woodward<br>
+			October 1, 1997 - September 30, 2005<br><br>
+			After 10 years, the NSF Supercomputer Centers Program was replaced with the NSF Partnerships for Advanced Computational Infrastructure (PACI)&hellip; <a href='/entry.php?id=1675'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1847'><img src='/resizedImages/500x280-crop-ncsa_logo2.gif' alt='' title='Alliance Expeditions' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1847'>Alliance Expeditions</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, National Center for Supercomputing Applications, Argnonne National Laboratory, Network for Earthquake Simulation, Earthscope, GriPhyN, TeraGrid communities<br>
+			October 1, 1997 - September 30, 2004<br><br>
+			For the past 17 years, EVL&rsquo;s partnership with NCSA and the Alliance has enabled the rapid deployment and acceptance of EVL&rsquo;s advanced&hellip; <a href='/entry.php?id=1847'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1892'><img src='/resizedImages/500x280-crop-anrlogo-6.jpg' alt='' title='Advanced Networking Research' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1892'>Advanced Networking Research</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a><br>
+			January 1, 1996 - Ongoing<br><br>
+			Advanced Networking Research (ANR) has been a focus of EVL&rsquo;s work over the last decade. The ANR encompasses the development of an advanced&hellip; <a href='/entry.php?id=1892'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1764'><img src='/resizedImages/500x280-crop-foundries.gif' alt='' title='Visualization of Casting Process in Foundries' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1764'>Visualization of Casting Process in Foundries</a></strong><br>
+			<a href='/entry.php?id=122'>Mike Papka</a>, <a href='/entry.php?id=72'>Steven Cohen</a>, R. Schmitt, H. Domanus, J. Rowlan, T. Disz<br>
+			September 1, 1993 - August 1, 1994<br><br>
+			This application models the pouring of a fluidity spiral used to measure the distance metal can flow in a channel before being stopped by&hellip; <a href='/entry.php?id=1764'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1708'><img src='/resizedImages/500x280-crop-spacetime-2.gif' alt='' title='Spacetime Splashes: Catching the Wave of Einstein&rsquo;s Equations' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1708'>Spacetime Splashes: Catching the Wave of Einstein&rsquo;s Equations</a></strong><br>
+			<a href='/entry.php?id=93'>Jon Goldman</a>, <a href='/entry.php?id=135'>Trina Roy</a>, Joan Masso, Ed Seidel, Paul Walker, Dan Weber<br>
+			November 1, 1992 - July 15, 1994<br><br>
+			Astrophysicists are interested in applying virtual reality and scientific visualization to spacetime simulations to help them better understand and&hellip; <a href='/entry.php?id=1708'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1709'><img src='/resizedImages/500x280-crop-005bryan.gif' alt='' title='The Fluid Universe: Rayleigh-Taylor Instability in Fluid Flow' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1709'>The Fluid Universe: Rayleigh-Taylor Instability in Fluid Flow</a></strong><br>
+			<a href='/entry.php?id=93'>Jon Goldman</a>, <a href='/entry.php?id=135'>Trina Roy</a>, Greg Bryan, Mike Norman<br>
+			November 1, 1992 - July 15, 1994<br><br>
+			This interactive simulation of Rayleigh-Taylor instability shows what happens when a heavier fluid lies on top of a lighter fluid. The gravitational&hellip; <a href='/entry.php?id=1709'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1723'><img src='/resizedImages/500x280-crop-432verlo.gif' alt='' title='Topological Surface Deformation' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1723'>Topological Surface Deformation</a></strong><br>
+			<a href='/entry.php?id=23'>Alan Verlo</a>, <a href='/entry.php?id=13'>Louis H. Kauffman</a><br>
+			November 1, 1992 - July 15, 1994<br><br>
+			The CAVE&rsquo;s immersive virtual environment enables participants to walk around mathematical shapes, step through complex surfaces, or move a&hellip; <a href='/entry.php?id=1723'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1759'><img src='/resizedImages/500x280-crop-bigbang.gif' alt='' title='The Fluid Universe: Formation of Structures After the Big Bang' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1759'>The Fluid Universe: Formation of Structures After the Big Bang</a></strong><br>
+			<a href='/entry.php?id=93'>Jon Goldman</a>, <a href='/entry.php?id=135'>Trina Roy</a>, M. Norman, G. Bryan<br>
+			November 1, 1992 - November 1, 1993<br><br>
+			The physics of fluid flow coupled with gravity is of crucial importance to the understanding of many astrophysical phenomena. In this application&hellip; <a href='/entry.php?id=1759'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1761'><img src='/resizedImages/500x280-crop-mathenautics.gif' alt='' title='Mathenautics: Three-Eighths of Thurston&rsquo;s Eight-Fold Way' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1761'>Mathenautics: Three-Eighths of Thurston&rsquo;s Eight-Fold Way</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=102'>Randy Hudson</a>, George Francis, Charlie Gunn, The Geometry Center<br>
+			November 1, 1992 - November 1, 1993<br><br>
+			Mathematicians study the behavior of lines and curves on the surfaces of different shapes, such as a sphere and a donut-shaped torus. While these&hellip; <a href='/entry.php?id=1761'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1762'><img src='/resizedImages/500x280-crop-vis5d2.gif' alt='' title='Distributed VIS-5D for Large Atmospheric Simulations' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1762'>Distributed VIS-5D for Large Atmospheric Simulations</a></strong><br>
+			<a href='/entry.php?id=282'>Bill Hibbard</a>, <a href='/entry.php?id=72'>Steven Cohen</a>, B. Paul, A. Battaiola, G. Tripoli, P. Pokrandt<br>
+			November 1, 1992 - November 1, 1993<br><br>
+			A simulation of Hurricane Gilbert, using VIS-5D software, lets CAVE participants stand inside the hurricane, experiencing such phenomena as wind&hellip; <a href='/entry.php?id=1762'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1694'><img src='/resizedImages/500x280-crop-purkinje.gif' alt='' title='Realistic Modeling of Brain Structures with Remote Interaction between Simulations of the Inferior Olivary Neuron &amp; the Cerebellar Purkinje Cell' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1694'>Realistic Modeling of Brain Structures with Remote Interaction between Simulations of the Inferior Olivary Neuron &amp; the Cerebellar Purkinje Cell</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, Computational Neuroscience Lab at CALTECH<br>
+			August 1, 1991 - August 1, 1992<br><br>
+			Up until now, modeling of single neurons and neural networks has been relegated to single workstations or parallel computers. Our work involves the&hellip; <a href='/entry.php?id=1694'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<!-- End Category List -->
+	</table>
+</div>
+<!-- End Category -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

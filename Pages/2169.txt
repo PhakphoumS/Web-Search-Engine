@@ -1,0 +1,395 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+  <title>Lisa M. Powell, PhD | Institute for Health Research and Policy | University of Illinois at Chicago</title>
+
+  <meta name="verify-v1" content="M3D7RktfZuClXLKtfBxpnsbmXcHxs+8um0cJ6n3SKFE=" />
+<meta name="description" content="Dr. Lisa M. Powell is director and professor of the Division of Health Policy and Administration in the UIC School of Public Health." />
+
+  
+  <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/researcher/lisa-m-powell-phd" />
+<link rel="shortlink" href="/node/1299" />
+<link rel="shortcut icon" href="https://www.ihrp.uic.edu/files/favicon.ico" type="image/vnd.microsoft.icon" />
+  <style>
+@import url("https://www.ihrp.uic.edu/modules/system/system.base.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/system/system.messages.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/system/system.theme.css?q8vwl2");
+</style>
+<style>
+@import url("https://www.ihrp.uic.edu/modules/aggregator/aggregator.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/comment/comment.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/date/date_api/date.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/field/theme/field.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/node/node.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/search/search.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/user/user.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/views/css/views.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/ckeditor/css/ckeditor.css?q8vwl2");
+</style>
+<style>
+@import url("https://www.ihrp.uic.edu/sites/all/modules/ctools/css/ctools.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/forward/forward.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/print/print_ui/css/print_ui.theme.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/css/nice_menus.css?q8vwl2");
+</style>
+<style>
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/tabs.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/print.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/style.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/zen.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/html-elements.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/ihrp_menu.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/ihrp_researcher.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/ihrp_study.css?q8vwl2");
+</style>
+  
+    <link rel="stylesheet" href="/sites/all/themes/ihrp/css/ihrp_main.css" type="text/css"/>
+  
+
+
+  <!--[if IE]>
+    <link rel="stylesheet" href="sites/all/themes/ihrp/css/ie.css" type="text/css"/>
+   
+    <style type="text/css">
+      /* place css fixes for all versions of IE in this conditional comment */
+      .thrColFixHdr #sidebar2, .thrColFixHdr #sidebar1 { padding-top: 30px; }
+      .thrColFixHdr #mainContent { zoom: 1; }
+      /* the above proprietary zoom property gives IE the hasLayout it needs to avoid several bugs */
+    </style>
+  <![endif]-->
+
+  <!--[if IE 5]>
+    <style type="text/css">
+      /* place css box model fixes for IE 5* in this conditional comment */
+      .thrColFixHdr #sidebar1 { width: 180px; }
+      .thrColFixHdr #sidebar2 { width: 190px; }
+    </style>
+  <![endif]-->
+
+  <script src="https://www.ihrp.uic.edu/misc/jquery.js?v=1.4.4"></script>
+<script src="https://www.ihrp.uic.edu/misc/jquery-extend-3.4.0.js?v=1.4.4"></script>
+<script src="https://www.ihrp.uic.edu/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.ihrp.uic.edu/misc/drupal.js?q8vwl2"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/js/jquery.bgiframe.js?v=2.1"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/js/jquery.hoverIntent.js?v=0.5"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/js/superfish.js?v=1.4.8"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/js/nice_menus.js?v=1.0"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/google_analytics/googleanalytics.js?q8vwl2"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-4417342-1", {"cookieDomain":"auto"});ga("send", "pageview");</script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/field_group/field_group.js?q8vwl2"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/themes/ihrp/js/script.js?q8vwl2"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"ihrp","theme_token":"bWf98opk9lvMZJ2zn8mBon8CfhJHDnak93iM_PbTSGY","js":{"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/mimedetect\/nice_menus\/js\/jquery.bgiframe.js":1,"sites\/all\/modules\/mimedetect\/nice_menus\/js\/jquery.hoverIntent.js":1,"sites\/all\/modules\/mimedetect\/nice_menus\/js\/superfish.js":1,"sites\/all\/modules\/mimedetect\/nice_menus\/js\/nice_menus.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/field_group\/field_group.js":1,"sites\/all\/themes\/ihrp\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/forward\/forward.css":1,"sites\/all\/modules\/print\/print_ui\/css\/print_ui.theme.css":1,"sites\/all\/modules\/mimedetect\/nice_menus\/css\/nice_menus.css":1,"sites\/all\/themes\/zen\/ihrp\/ihrp_menu.css":1,"sites\/all\/themes\/ihrp\/system.menus.css":1,"sites\/all\/themes\/ihrp\/css\/tabs.css":1,"sites\/all\/themes\/ihrp\/css\/print.css":1,"sites\/all\/themes\/ihrp\/css\/style.css":1,"sites\/all\/themes\/ihrp\/css\/zen.css":1,"sites\/all\/themes\/ihrp\/css\/html-elements.css":1,"sites\/all\/themes\/ihrp\/css\/ihrp_menu.css":1,"sites\/all\/themes\/ihrp\/css\/ihrp_researcher.css":1,"sites\/all\/themes\/ihrp\/css\/ihrp_study.css":1}},"nice_menus_options":{"delay":"0","speed":"fast"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/researcher\/lisa-m-powell-phd":true},"field_group":{"no_style":"full","fieldset":"full"}});</script>
+</head>
+
+<body class="thrColFixHdr html not-front not-logged-in no-sidebars page-node page-node- page-node-1299 node-type-researcher section-researcher not-front not-logged-in page-node page-node- page-node-1299 node-type-researcher 
+ not-logged-in not-front type-researcher">
+
+  
+  <div id="page"><div id="page-inner">
+    <a name="top" id="navigation-top"></a>
+    <div role="banner" id="header"><div id="header-inner" class="clear-block" role="navigation" aria-label="Top Menu">
+      <a href="/"><img src="/sites/all/themes/ihrp/images/IHRP_Logo.png" alt="Institute for Health Research and Policy" title="I H R P home page" /></a>
+
+      <!-- the following is the code for the little blue top menu  -->
+      <span class="littleBlueMenu">
+        <a href="/people/list">People</a>
+        <a href="/content/contact-us">Contact Us</a>
+         
+            <a href="/print/1299">Print this page</a>		        <a href="/forward/?path=node/1299">E-mail to a Colleague</a>		          </span>
+      
+	             <div id="primary">
+        </div> <!-- /#primary -->
+      
+      
+    </div></div> <!-- /#header-inner, /#header -->
+
+    <div role="main" id="main"><div id="main-inner" class="clear-block with-navbar">
+      <div id="content"><div id="content-inner">
+                  <div id="search-box">
+              <div class="region region-search-form">
+    <div id="block-search-form" class="block block-search first last odd" role="search">
+
+      
+  <form action="/researcher/lisa-m-powell-phd" method="post" id="search-block-form" accept-charset="UTF-8"><div>
+<div class="container-inline">
+  <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-8GbTholMtRs8A3gprgVGuDPXV7QlG2qfsIutGVDqs60" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+</div>
+  </div>
+          </div> <!-- /#search-box -->
+                          <div id="content-top">
+              <div class="region region-content-top">
+    <div id="block-nice-menus-1" class="block block-nice-menus first last odd">
+
+        <h2 class="block__title block-title"><span class="nice-menu-hide-title">Main menu</span></h2>
+    
+  <ul class="nice-menu nice-menu-down nice-menu-main-menu" id="nice-menu-1"><li class="menu__item menu-11518 menuparent  menu-path-node-4984 first odd "><a href="/content/institute-welcome-intro" title="" class="menu__link">About</a><ul><li class="menu__item menu-11516 menu-path-node-4984 first odd "><a href="/content/institute-welcome-intro" class="menu__link">Welcome</a></li>
+<li class="menu__item menu-11514 menu-path-node-4983  even "><a href="/content/about-mission-social-health-sciences-research" class="menu__link">Mission</a></li>
+<li class="menu__item menu-11524 menu-path-node-4996  odd "><a href="/content/admin-IHRP-snapshot" class="menu__link">IHRP Snapshot</a></li>
+<li class="menu__item menu-7001 menu-path-node-2873  even "><a href="/content/about-our-fellows-affiliates" class="menu__link">Fellows &amp; Affiliates</a></li>
+<li class="menu__item menu-2114 menu-path-node-1357  odd "><a href="/content/employment-ihrp" class="menu__link">Jobs</a></li>
+<li class="menu__item menu-11585 menu-path-node-5034  even last"><a href="/content/media-professionals" class="menu__link">For Media Professionals</a></li>
+</ul></li>
+<li class="menu__item menu-11523 menuparent  menu-path-node-5036  even "><a href="/content/about-advantages-UIC-researchers" title="" class="menu__link">Why IHRP? </a><ul><li class="menu__item menu-11588 menu-path-node-5036 first odd "><a href="/content/about-advantages-UIC-researchers" title="" class="menu__link">Advantages</a></li>
+<li class="menu__item menu-11521 menu-path-node-18  even "><a href="/content/why-ihrp-research-faqs" class="menu__link">FAQs</a></li>
+<li class="menu__item menu-11515 menu-path-node-4982  odd last"><a href="/content/learn-more-join-us" class="menu__link">Affiliate with IHRP</a></li>
+</ul></li>
+<li class="menu__item menu-11533 menuparent  menu-path-node-5027  odd "><a href="/content/scientific-resources-intro" class="menu__link">Scientific Resources</a><ul><li class="menu__item menu-11582 menu-path-node-5027 first odd "><a href="/content/scientific-resources-intro" title="" class="menu__link">Overview</a></li>
+<li class="menu__item menu-11522 menu-path-node-23  even "><a href="/content/institute-leadership" class="menu__link">Leadership</a></li>
+<li class="menu__item menu-11052 menu-path-node-4683  odd "><a href="/center/data-management-core-for-all-UIC-researchers" class="menu__link">Data Management Core</a></li>
+<li class="menu__item menu-2054 menu-path-node-1584  even "><a href="/center/methodology-research-core-for-all-UIC-researchers" class="menu__link">Methodology Research Core</a></li>
+<li class="menu__item menu-2064 menu-path-node-39  odd last"><a href="/content/training-every-stage-research-careers" class="menu__link">Training</a></li>
+</ul></li>
+<li class="menu__item menu-11532 menuparent  menu-path-node-4999  even "><a href="/content/admin-resources-intro" title="" class="menu__link">Administrative Resources</a><ul><li class="menu__item menu-11531 menu-path-node-4999 first odd "><a href="/content/admin-resources-intro" class="menu__link">Overview</a></li>
+<li class="menu__item menu-11584 menu-path-node-4979  even "><a href="/content/admin-grants-finance" class="menu__link">Grants &amp; Finance</a></li>
+<li class="menu__item menu-11507 menu-path-node-4978  odd "><a href="/content/admin-human-resources-team" class="menu__link">Human Resources</a></li>
+<li class="menu__item menu-11505 menu-path-node-4977  even "><a href="/content/admin-computing-environment" class="menu__link">Data Tech and Security</a></li>
+<li class="menu__item menu-11508 menu-path-node-4825  odd "><a href="/content/admin-communications" class="menu__link">Communications</a></li>
+<li class="menu__item menu-11511 menu-path-node-4980  even last"><a href="/content/resources-facilities" class="menu__link">Facilities</a></li>
+</ul></li>
+<li class="menu__item menu-11535 menuparent  menu-path-node-4803  odd last"><a href="/content/our-research-focus" title="" class="menu__link">Research</a><ul><li class="menu__item menu-11534 menu-path-node-4803 first odd "><a href="/content/our-research-focus" class="menu__link">Scientific Focus</a></li>
+<li class="menu__item menu-2130 menu-path-studies-list-current-all  even "><a href="/studies/list/current/all" title="" class="menu__link">Studies</a></li>
+<li class="menu__item menu-11408 menu-path-researchers-list-all  odd "><a href="/researchers/list/all" title="" class="menu__link">Researchers</a></li>
+<li class="menu__item menu-2030 menuparent  menu-path-node-1563  even "><a href="/content/centers" class="menu__link">Centers</a><ul><li class="menu__item menu-2086 menu-path-node-7 first odd "><a href="/center/center-research-health-and-aging" class="menu__link">Center for Research on Health and Aging</a></li>
+<li class="menu__item menu-2087 menu-path-node-8  even last"><a href="/center/health-policy-center" class="menu__link">Health Policy Center</a></li>
+</ul></li>
+<li class="menu__item menu-11504 menuparent  menu-path-node-4975  odd "><a href="/content/project-websites" class="menu__link">Project Websites</a><ul><li class="menu__item menu-10646 menu-path-gouicedu-asthmaaction first odd "><a href="http://go.uic.edu/AsthmaAction" title="" class="menu__link">Asthma Action</a></li>
+<li class="menu__item menu-2079 menu-path-scecdp-ihrpuicedu-  even "><a href="https://cecdp-ihrp.uic.edu/" title="" class="menu__link">Cancer Education and Career Development Program</a></li>
+<li class="menu__item menu-10737 menu-path-co-opchicagoihrpuicedu-  odd "><a href="http://co-opchicago.ihrp.uic.edu/" title="" class="menu__link">CO-OP Chicago</a></li>
+<li class="menu__item menu-10499 menu-path-fitandstrongorg-  even "><a href="http://fitandstrong.org/" title="" class="menu__link">Fit &amp; Strong!</a></li>
+<li class="menu__item menu-10548 menu-path-node-79  odd "><a href="/center/center-research-health-and-aging/midwest-roybal-center" title="IHRP is the home of the Midwest Roybal Center, funded continuously by the National Institute on Aging since 1998." class="menu__link">Midwest Roybal Center</a></li>
+<li class="menu__item menu-10501 menu-path-tobacconomicsorg-  even last"><a href="http://tobacconomics.org/" title="" class="menu__link">Tobacconomics</a></li>
+</ul></li>
+<li class="menu__item menu-11517 menu-path-news-list  even last"><a href="/news/list" title="" class="menu__link">News</a></li>
+</ul></li>
+</ul>
+
+</div>
+  </div>
+          </div> <!-- /#content-top -->
+        
+        
+		
+		<div id="content-area">
+                      <div class="tabs"></div>
+          
+          
+          							<h1 class="title">Lisa M. Powell, PhD</h1>
+			          
+	        
+          
+
+
+
+<div style="position: relative; width: 63%; float: left;">
+
+      <div class="field-field-researcher-photo">
+      <img src="https://www.ihrp.uic.edu/files/Powell-2014-150w.jpg" />
+    </div>
+  
+  <h2>
+      Professor and Director of Health Policy and Administration  </h2>
+
+  <p>
+    <p>Lisa Powell is professor and division director of health policy and administration in the University of Illinois at Chicago (UIC) School of Public Health. She directs the Illinois Prevention Research Center, and is a&nbsp;<a href="/content/about-our-fellows-affiliates">Fellow</a>&nbsp;of the Institute for Health Research and Policy at the UIC. She also holds an appointment as a Fellow at Queen&#39;s University in Kingston, Ontario, Canada. Prior to joining UIC, Dr. Powell was an associate professor of economics in the School of Policy Studies at Queen&#39;s University.</p>
+<p>Professor Powell has published and presented numerous papers in the area of labor economics. More recently, her research has focused on the economics of health. She has examined the impact of alcohol use among youth and educational and violence-related outcomes and the importance of peer effects on youth smoking behavior. Much of Professor Powell&#39;s current work focuses on the impact of economic and environmental factors on physical activity and obesity. She is the principal investigator of the Illinois Prevention Research Center, funded by the Centers for Disease Control and Prevention, at IHRP.</p>
+<p>Dr. Powell was named UIC Distinguished Researcher of the Year in the Social Sciences for 2013.</p>
+  </p>
+
+  <p>
+    <h2>Research Interests</h2>
+  </p>
+  <p>
+    <p>Dr. Powell&#39;s current research is on assessing the importance of economic and environmental factors (such as food prices and access to food stores, restaurants, and parks, gyms and other facilities for physical activity, school policies, and media) on food consumption and physical activity behaviors and as determinants of BMI and the prevalence of obesity.</p>
+  </p>
+
+  <p>
+    <h2>Recent and Noteworthy Publications</h2>
+  </p>
+  <p>
+    <p>Find more articles by Dr. Powell on&nbsp;<a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Powell+LM">this PubMed list</a>.&nbsp;</p>
+<p>Zenk SN, Leider J, Pugach O, Pipito AA, Powell LM. Changes in Beverage Marketing at Stores Following the Oakland Sugar-Sweetened Beverage Tax. Am J Prev Med. 2020 Mar 12. pii: S0749-3797(20)30039-8. doi: 10.1016/j.amepre.2019.12.014.</p>
+<p>Powell LM, Leider J, L&eacute;ger PT. The Impact of a Sweetened Beverage Tax on Beverage Volume Sold in Cook County, Illinois, and Its Border Area. Ann Intern Med. 2020 Feb 25. doi: 10.7326/M19-2961.</p>
+<p>Marinello S, Pipito AA, Leider J, Pugach O, Powell LM. The impact of the Oakland sugar-sweetened beverage tax on bottled soda and fountain drink prices in fast-food restaurants. Prev Med Rep. 2019 Dec 23;17:101034. doi: 10.1016/j.pmedr.2019.101034.</p>
+<p>Singleton CR, Li Y, Odoms-Young A, Zenk SN, Powell LM. Change in Food and Beverage Availability and Marketing Following the Introduction of a Healthy Food Financing Initiative-Supported Supermarket. Am J Health Promot. 2019 May;33(4):525-533. doi: 10.1177/0890117118801744.&nbsp;</p>
+<p>Leider J, Powell LM. Sugar-sweetened beverage prices: Variations by beverage, food store, and neighborhood characteristics, 2017. Prev Med Rep. 2019 Apr 29;15:100883. doi: 10.1016/j.pmedr.2019.100883.&nbsp;</p>
+<p>Chaloupka FJ, Powell LM, Warner KE. The Use of Excise Taxes to Reduce Tobacco, Alcohol, and Sugary Beverage Consumption. Annu Rev Public Health. 2019;40:187&ndash;201. doi:10.1146/annurev-publhealth-040218-043816.&nbsp;</p>
+<p>Tarlov E, Wing C, Gordon HS, Matthews SA, Jones KK, Powell LM, Zenk SN. Does Effectiveness of Weight Management Programs Depend on the Food Environment? Health Serv Res. 2018 Dec;53(6):4268-4290. doi: 10.1111/1475-6773.13043. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/30246454">See abstract</a>]</p>
+<p>Zenk SN, Tarlov E, Powell LM, et al. Weight and Veterans&#39; Environments Study (WAVES) I and II: Rationale, Methods, and Cohort Characteristics. Am J Health Promot. 2018;32(3):779&ndash;794. doi:10.1177/0890117117694448.&nbsp;</p>
+<p>Zenk SN, Tarlov E, Wing CM, Matthews SA, Tong H, Jones KK, Powell L. Long-Term Weight Loss Effects of a Behavioral Weight Management Program: Does the Community Food Environment Matter? Int J Environ Res Public Health. 2018 Jan 26;15(2). pii: E211. doi: 10.3390/ijerph15020211. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/29373556">See abstract</a>]</p>
+<p>Wada R, Chaloupka FJ, Powell LM, Jernigan DH. Employment impacts of alcohol taxes. Prev Med. 2017;105S:S50&ndash;S55. doi:10.1016/j.ypmed.2017.08.013.</p>
+<p>Glanz K, Handy SL, Henderson KE, Slater SJ, Davis EL, Powell LM. Built environment assessment: Multidisciplinary perspectives. SSM Popul Health. 2016 Feb 13;2:24-31. doi: 10.1016/j.ssmph.2016.02.002. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/29349125">See abstract</a>]</p>
+<p>Rimkus L, Isgor Z, Ohri-Vachaspati P, Zenk SN, Powell LM, Barker DC, Chaloupka FJ. Disparities in the Availability and Price of Low-Fat and Higher-Fat Milk in US Food Stores by Community Characteristics. J Acad Nutr Diet. 2015 Dec;115(12):1975-85. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/26048532">See abstract.</a>]</p>
+<p>Nguyen BT, Powell LM. Supplemental nutrition assistance program participation and sugar-sweetened beverage consumption, overall and by source. Prev Med. 2015 Dec;81:82-6. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/26303370">See abstract.</a>]</p>
+<p>Glanz K, Handy SL, Henderson KE, Slater SJ, Davis EL, Powell LM.&nbsp; Built environment assessment: Multidisciplinary perspectives. SSM Popul Health. 2016 Dec;2:24-31. [<a href="http://www.sciencedirect.com/science/article/pii/S2352827316000069">See article.</a>]</p>
+<p>Powell LM, Kumanyika SK, Isgor Z, Rimkus L, Zenk SN, Chaloupka FJ. Price promotions for food and beverage products in a nationwide sample of food stores. Prev Med. 2016 May;86:106-13. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/26827618">See abstract.</a>]</p>
+<p>Nguyen BT, Powell LM. Supplemental nutrition assistance program participation and sugar-sweetened beverage consumption, overall and by source. Prev Med. 2015 Dec;81:82-86. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/26303370">See abstract.</a>]</p>
+<p>Zenk SN, Powell LM, Isgor Z, Rimkus L, Barker DC, Chaloupka FJ. Prepared food availability in U.S. food stores: a national study. Am J Prev Med. 2015 Oct;49(4):553-62. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/25913149">See abstract.</a>]</p>
+<p>Schermbeck RM, Powell LM. Nutrition recommendations and the Children&rsquo;s Food and Beverage Advertising Initiative&rsquo;s 2014 approved food and beverage product list. Prev Chronic Dis. 2015;12:140472. [<a href="https://www.cdc.gov/pcd/issues/2015/14_0472.htm">See abstract.</a>]</p>
+<p>Powell LM, Nguyen BT, Dietz WH. Energy and nutrient intake from pizza in the United States. Pediatrics. 2015 Jan 19. [Epub ahead of print] [<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4306796/">See abstract.</a>]</p>
+<p>Zenk SN, Powell LM, Rimkus L, Isgor Z, Barker DC, Ohri-Vachaspati P, Chaloupka F. Relative and absolute availability of healthier food and beverage alternatives across communities in the United States.&nbsp;Am J Public Health. 2014 Nov;104(11):2170-2178. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/25211721">See abstract.</a>]</p>
+<p>Ohri-Vachaspati P, Isgor Z, Rimkus L, Powell LM, Barker DC, Chaloupka FJ. Child-directed marketing inside and on the exterior of fast food restaurants. Prev Med. 2015 Jan;48(1):22-30. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/25441231">See abstract.</a>]</p>
+<p>Mandal B, Powell LM. Child care choices, food intake, and children&#39;s obesity status in the United States. Econ Hum Biol. 2014 Jul;14:50-61. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/24958453">See abstract.</a>]</p>
+<p>Kornfield R, Szczypka G, Powell LM, Emery SL. Televised obesity-prevention advertising across US media markets: exposure and content, 2010-2011. Public Health Nutr. 2014 Jul 30:1-11. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/25076385">See abstract.</a>]</p>
+<p>Nguyen BT, Powell LM. The impact of restaurant consumption among US adults: effects on energy and nutrient intakes Public Health Nutr. 2014 Jul 30:1-8. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/25076113">See abstract.</a>]</p>
+<p>Powell LM, Wada R, Kumanyika SK. Racial/ethnic and income disparities in child and adolescent exposure to food and beverage television ads across the U.S. media markets. Health Place. 2014 Jul 30;29:124-131. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/25086271">See abstract.</a>]</p>
+<p>Powell LM, Wada R, Persky JJ, Chaloupka FJ. Employment impact of sugar-sweetened beverage taxes. Am J Public Health. 2014 Apr;104(4):672-7. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/24524492">See abstract.</a>]</p>
+<p>Isgor Z, Powell LM, Wang Y. Multivariable analysis of the association between fathers&#39; and youths&#39; physical activity in the United States. BMC Public Health. 2013 Nov 14;13(1):1075. [<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3924346/">See abstract.</a>]</p>
+<p>Powell LM, Schermbeck RM, Chaloupka FJ. Nutritional content of food and beverage products in television advertisements seen on children&#39;s programming. Child Obes. 2013 Nov 8;2013 Dec;9(6):524-31. [<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4975920/">See abstract.</a>]</p>
+<p>Zenk SN, Powell LM, Odoms-Young AM, Krauss R, Fitzgibbon ML, Block D, Campbell RT. Impact of the revised Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) food package policy on fruit and vegetable prices. J Acad Nutr Diet. 2014 Feb;114(2):288-96. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/24183996">See abstract.</a>]</p>
+<p>Taber DR, Chriqui JF, Perna FM, Powell LM, Slater SJ, Chaloupka FJ. Association between state physical education (PE) requirements and PE participation, physical activity, and body mass index change. Prev Med. 2013 Nov;57(5):629-33. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/23978523">See abstract.</a>]</p>
+<p>Powell LM, Harris JL, Fox T. Food marketing expenditures aimed at youth: putting the numbers in context. Am J Prev Med. 2013 Oct;45(4):453-61. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/24050422">See abstract.</a>]</p>
+<p>Rimkus L, Powell LM, Zenk SN, Han E, Ohri-Vachaspati P, Pugach O, Barker DC, Resnick EA, Quinn CM, Myllyluoma J, Chaloupka FJ. Development and reliability testing of a food store observation form. J Nutr Educ Behav. 2013 Nov-Dec;45(6):540-8. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/24819996">See abstract.</a>]</p>
+<p>Chriqui JF, Chaloupka FJ, Powell LM, Eidson SS. A typology of beverage taxation: multiple approaches for obesity prevention and obesity prevention-related revenue generation. J Public Health Policy.&nbsp;2013 May 23.&nbsp;Aug;34(3):403-23. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/23698157">See abstract.</a>]</p>
+<p>Taber DR, Chriqui JF, Powell L, Chaloupka FJ. Association between state laws governing school meal nutrition content and student weight status: implications for new USDA school meal standards. JAMA Pediatr. 2013 Jun 1;167(6):513-9. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/23978523">See abstract.</a>]</p>
+<p>Han E, Kim TH, Powell LM. Beverage consumption and individual-level associations in South Korea. BMC Public Health. 2013 Mar 6;13(1):195. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/23497024">See abstract.</a>]</p>
+<p>Han E, Powell LM, Kim TH. Trends in exposure to television food advertisements in South Korea. Appetite. 2013 Mar;62:225-31. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/23108149">See abstract.</a>]</p>
+<p>Powell LM, Chriqui JF, Khan T, Wada R, Chaloupka FJ. Assessing the potential effectiveness of food and beverage taxes and subsidies for improving public health: a systematic review of prices, demand and body weight outcomes. Obes Rev. 2013 Feb;14(2):110-28. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/23174017">See abstract.</a>]</p>
+<p>Powell LM, Nguyen BT. Fast-food and full-service restaurant consumption among children and adolescents: effect on energy, beverage, and nutrient intake. JAMA Pediatr. 2013 Jan;167(1):14-20. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/23128151">See abstract.</a>]</p>
+  </p>
+
+  <p>
+    <h2>Honors and Awards</h2>
+  </p>
+  <p>
+    <p>IHRP&nbsp;Fellow</p>
+<p>UIC Distinguished Researcher of the Year in Social Sciences and the Humanities, 2013<br />
+	&nbsp;</p>
+  </p>
+</div>
+
+
+<div style="float:right; width: 32%;" class="right-sidebar">
+<p><strong>Contact Info</strong></p>
+
+<p>
+  Phone: (312) 413-8468<br />
+
+  Fax: (312) 996-2703<br />
+
+
+  E-mail: <a href="mailto:powelll@uic.edu">powelll@uic.edu</a><br />
+</p>
+
+  <p><p>&nbsp;</p>
+<p><strong>Institute for Health Research and Policy</strong><br />
+	University of Illinois at Chicago (MC 275)<br />
+	448 Westside Research Office Bldg.<br />
+	1747 West Roosevelt Road<br />
+	Chicago, IL 60608</p>
+</p>
+
+<br />
+
+  <strong>Other Title(s)</strong><br />
+	<p>Director, Illinois Prevention Research Center<br />
+	Research Professor, Department of Economics<br />
+	Member, UI Cancer Center&nbsp;</p>
+  <br />
+
+
+  <p>
+    <strong>IHRP Affiliation(s)</strong>
+  </p>
+  <ul>
+        	      <li><a href="../center/health-policy-center">Health Policy Center</a></li>
+      </ul>
+  <br />
+
+  <p>
+    <strong>Current IHRP Research Studies (PI)</strong>
+  </p>
+  <ul>
+        	    	<li><a href="../study/evaluation-local-level-sweetened-beverage-taxation-united-states">Evaluation of Local-Level Sweetened Beverage Taxation in the United States</a></li>
+        	    	<li><a href="../study/iprc-nutrition-and-obesity-policy-research-and-evaluation-network-collaborating-center">Illinois PRC - Nutrition and Obesity Policy Research and Evaluation Network</a></li>
+        	    	<li><a href="../study/illinois-prevention-research-center-supporting-policy-and-environmental-change">Illinois Prevention Research Center (Illinois PRC): Supporting Policy & Environmental Change</a></li>
+      </ul>
+  <br />
+
+  <p>
+    <strong>Current IHRP Research Studies (Co-I)</strong>
+  </p>
+  <ul>
+          <li><a href="../study/iprc-physical-activity-policy-research-network-collaborating-center">Illinois PRC - Physical Activity Policy Research Network</a></li>
+          <li><a href="../study/studying-implementation-and-outcomes-policies-relevant-childhood-obesity">Studying the Implementation and Outcomes of Policies Relevant for Childhood Obesity</a></li>
+      </ul>
+  <br />
+
+
+
+  <p>
+    <strong>Recently Completed Research</strong>
+  </p>
+  <p>
+    <ul>
+	<li>
+		<a href="/study/association-between-local-and-state-sugar-sweetened-beverage-taxes-beverage-purchasing-pattern">Association Between Local and State Sugar-Sweetened Beverage Taxes, Beverage Purchasing Patterns and Weight</a></li>
+	<li>
+		<a href="http://www.ihrp.uic.edu/study/bridging-gap-research-informing-policies-and-practices-healthy-youth-2014-2015">Bridging the Gap: Research Informing Policies and Practices for Healthy Youth</a></li>
+	<li>
+		<a href="http://www.ihrp.uic.edu/study/childrens-exposure-fast-food-advertising-new-evidence-attention-and-content-through-eye">Children&#39;s Exposure to Fast Food Advertising: New Evidence on Attention and Content through Eye-Tracking</a></li>
+	<li>
+		<a href="http://www.ihrp.uic.edu/study/social-and-health-effects-changes-alcohol-prices-research-collaborative">Social and Health Effects of Changes in Alcohol Prices: A Research Collaborative</a></li>
+	<li>
+		<a href="http://www.ihrp.uic.edu/study/television-advertising-and-childrens-diet-activity-and-obesity-prevalence">Television Advertising and Children&#39;s Diet, Activity, and Obesity Prevalence</a></li>
+</ul>
+  </p>
+
+</div>
+        </div>
+
+        		
+      </div></div> <!-- /#content-inner, /#content -->
+
+              <div id="navbar"><div id="navbar-inner">
+
+          <a name="navigation" id="navigation"></a>
+
+          
+        </div></div> <!-- /#navbar-inner, /#navbar -->
+      
+
+    </div></div> <!-- /#main-inner, /#main -->
+
+    <div id="footer"><div id="footer-inner">
+      <div id="footer-message">  <footer id="footer" class="region region-footer">
+    <div id="block-block-43" class="block block-block first last odd">
+
+      
+  <p><strong>Institute for Health Research and Policy of the University of Illinois at Chicago</strong><br />
+	Multidisciplinary Home of UIC Researchers Collaborating in the Social and Health Sciences</p>
+<p>1747 W. Roosevelt Road, MC 275, Westside Research Office Bldg., Chicago, IL 60608<br />
+	T: <a href="tel:(312) 996-7222">(312) 996-7222</a> · F: (312) 996-2703</p>
+<p><a href="http://www.uic.edu/">UIC.edu</a> · <a href="https://www.uic.edu/apps/find-people/search">Campus Directory</a> · <a href="http://disabilityresources.uic.edu/">Disability Resources</a> · <a href="/content/employment-ihrp">Job Openings</a> · <a href="https://maps.uic.edu/">Maps</a> · <a href="/content/contact-us">Contact Us</a></p>
+<p>© 2020 <a href="http://www.uillinois.edu/trustees/">The Board of Trustees of the University of Illinois</a> · Privacy Policy · Webmaster: <a href="mailto:IHRP-webfix@uic.edu">IHRP-webfix@uic.edu</a></p>
+
+</div>
+  </footer>
+</div>
+
+    </div></div> <!-- /#footer-inner, /#footer -->
+
+    
+    
+  </div></div> <!-- /#page-inner, /#page -->
+    <script src="sites/all/themes/ihrp/js/customize-twitter-1.1/customize-twitter-1.1.min.js" type="text/javascript"></script>
+  <script>
+	var options = {
+    	"url": "sites/all/themes/ihrp/css/twitter.css",
+		"timeout_length": 1800
+	};
+	CustomizeTwitterWidget(options);
+</script>
+</body>
+</html>

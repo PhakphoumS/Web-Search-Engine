@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin List -->
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Page:</strong>
+		<a href='/list.php?id=1&amp;page=1'>1</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=2'><strong>2</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=3'>3</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=4'>4</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=5'>5</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=6'>6</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=7'>7</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=8'>8</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=9'>9</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=10'>10</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<div id='list_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin List List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1996'><img src='/resizedImages/500x280-crop-passingplacesgames_new.png' alt='' title='Passing Place for Games' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1996'>Passing <strong>Place for Games</strong></a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=188'>Daria Tsoupikova</a>, University of Illinois at Chicago; Robert Kooima, Louisiana State University<br>
+			August 1, 2007 - August 1, 2009<br><br>
+			Passing &ldquo;Place for Games&rdquo; visualizes the world famous Kizhi site as high-resolution 3D environment. The goal of this project is to create&hellip; <a href='/entry.php?id=1996'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1976'><img src='/resizedImages/500x280-crop-chiasmus.png' alt='' title='Chiasmus' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1976'>Chiasmus</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=235'>Steve Cady</a><br>
+			February 1, 2007 - July 25, 2008<br><br>
+			Chiasmus is EVLer Stephen Cady&rsquo;s MFA thesis research project; it is a responsive and dynamically reflective, two-sided volumetric projection&hellip; <a href='/entry.php?id=1976'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1924'><img src='/resizedImages/500x280-crop-kizhi5.jpg' alt='' title='Passing Excellence' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1924'>Passing Excellence</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=188'>Daria Tsoupikova</a>, <a href='/entry.php?id=222'>Robert Kooima</a><br>
+			June 1, 2006 - Ongoing<br><br>
+			&ldquo;Passing Excellence&rdquo; is an artistic visualization research project centered on the world famous architectural ensemble Kizhi. The Kizhi&hellip; <a href='/entry.php?id=1924'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1918'><img src='/resizedImages/500x280-crop-simultaneous.jpg' alt='' title='Chronoscopic' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1918'>Chronoscopic</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=235'>Steve Cady</a><br>
+			January 1, 2006 - May 15, 2006<br><br>
+			From the telegraph to modern live satellite feeds, a flattening of time and space has occurred via technologies concerned with communication and&hellip; <a href='/entry.php?id=1918'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1920'><img src='/resizedImages/500x280-crop-lee_pan_2.jpg' alt='' title='Pan' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1920'>Pan</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=207'>Sangyoon Lee</a><br>
+			January 1, 2006 - May 13, 2006<br><br>
+			Pan is an interactive visual installation that facilitates a collaborative performance among users. The title of the work is a Korean word that&hellip; <a href='/entry.php?id=1920'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1909'><img src='/resizedImages/500x280-crop-cue_evl_webpage1.jpg' alt='' title='Cue' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1909'>Cue</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=187'>Tina Shah</a><br>
+			November 1, 2005 - July 14, 2006<br><br>
+			In all of us we have stored away memories and experiences that can be conjured up with the slightest trigger. A personal encounter of mine consists&hellip; <a href='/entry.php?id=1909'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1916'><img src='/resizedImages/500x280-crop-skin-2.jpg' alt='' title='skin' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1916'>skin</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=189'>Helen-Nicole Kostis</a>, Sound composition &amp; design: John Kannenberg,  The artist acknowledges Robert Kooima for his technical expertise, wonderful guidance and help, Lighting: Stephen Cady<br>
+			August 1, 2005 - November 1, 2006<br><br>
+			skin is a real-time interactive installation that visualizes a dialogue between physical and digital senses of &ldquo;touch&rdquo;. The installation&hellip; <a href='/entry.php?id=1916'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1900'><img src='/resizedImages/500x280-crop-rutopia2-2.gif' alt='' title='Rutopia 2' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1900'>Rutopia 2</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=188'>Daria Tsoupikova</a><br>
+			February 1, 2005 - October 1, 2005<br><br>
+			&ldquo;Rutopia 2&rdquo; is a collaborative virtual reality art project designed for interaction and display on the CAVE or CWall (configurable wall)&hellip; <a href='/entry.php?id=1900'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1887'><img src='/resizedImages/500x280-crop-synthecology-2.png' alt='' title='synthecology' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1887'>synthecology</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=161'>Geoffrey Allen Baum</a>, <a href='/entry.php?id=189'>Helen-Nicole Kostis</a>, <a href='/entry.php?id=202'>HyeYun Park</a>, <a href='/entry.php?id=37'>Marientina Gotsis</a>, <a href='/entry.php?id=2'>Todd Margolis</a>, Ben Chang, Dan St. Clair, Hyunjoo Oh, Robb Drinkwater, Jon Greene<br>
+			January 10, 2005 - June 24, 2005<br><br>
+			Compose, sculpt, and improvise with other musicians and artists in an ephemeral garden of sonic lifeforms. Synthecology invites visitors in this&hellip; <a href='/entry.php?id=1887'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1910'><img src='/resizedImages/500x280-crop-lmib-2.jpg' alt='' title='Loose Minds in a Box' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1910'>Loose Minds in a Box</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=189'>Helen-Nicole Kostis</a>, <a href='/entry.php?id=187'>Tina Shah</a><br>
+			December 1, 2004 - April 1, 2005<br><br>
+			InterPlay: Loose Minds in a Box was a collaborative work that explored the basic characteristics of the &ldquo;box&rdquo;. The box served as a&hellip; <a href='/entry.php?id=1910'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1899'><img src='/resizedImages/500x280-crop-arcaniuscopy.gif' alt='' title='Arcanius' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1899'>Arcanius</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=215'>Gideon Goldman</a>, <a href='/entry.php?id=191'>Julieta Aguilera</a><br>
+			September 1, 2004 - March 1, 2005<br><br>
+			Not long ago, in a galaxy not far away&hellip; The Centauri of the Lightwalker&rsquo;s Guild, the traditional explorers of the Nebulous Empire, have&hellip; <a href='/entry.php?id=1899'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1894'><img src='/resizedImages/500x280-crop-unfoldingspace.jpg' alt='' title='UNFOLDING SPACE' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1894'>UNFOLDING SPACE</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=191'>Julieta Aguilera</a><br>
+			August 16, 2004 - March 10, 2006<br><br>
+			The form of space is used to evoke a sublime environment that dramatically transforms by expanding and contracting, according to the position of the&hellip; <a href='/entry.php?id=1894'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1870'><img src='/resizedImages/500x280-crop-virtual_set.jpg' alt='' title='Dinner at the Fairy Castle: A Virtual Set' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1870'>Dinner at the Fairy Castle: A Virtual Set</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=9'>Drew Browning</a>, <a href='/entry.php?id=189'>Helen-Nicole Kostis</a>, <a href='/entry.php?id=207'>Sangyoon Lee</a>, <a href='/entry.php?id=187'>Tina Shah</a>, Ruby Seniva<br>
+			March 1, 2004 - May 7, 2004<br><br>
+			Dinner at the Fairy Castle is an experimental project aimed at low cost alternatives to keying in actors in traditional movie sets. Using a virtual&hellip; <a href='/entry.php?id=1870'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1879'><img src='/resizedImages/500x280-crop-po-24.gif' alt='' title='P.O-2.4 [memory]' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1879'>P.O-2.4 [memory]</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=202'>HyeYun Park</a><br>
+			February 1, 2004 - February 1, 2005<br><br>
+			P.O - 2.4 is a 3D animation based on a traditional painting that was exhibited as part of my BFA thesis project in 2000. &ldquo;I am part of&hellip; <a href='/entry.php?id=1879'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1869'><img src='/resizedImages/500x280-crop-enternaljoy_04-2.jpg' alt='' title='eternal joy: no words' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1869'><em>eternal joy: no words</em></a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=47'>Josephine Lipuma</a><br>
+			January 1, 2004 - January 1, 2003<br><br>
+			eternal joy: no words video - 00.30 seconds eternal joy: no words is an experimental work which confronts Josephine&rsquo;s choice to travel inside&hellip; <a href='/entry.php?id=1869'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<!-- End List List -->
+	</table>
+</div>
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Page:</strong>
+		<a href='/list.php?id=1&amp;page=1'>1</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=2'><strong>2</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=3'>3</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=4'>4</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=5'>5</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=6'>6</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=7'>7</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=8'>8</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=9'>9</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=10'>10</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<!-- End List -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

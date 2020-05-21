@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Entry -->
+<table id='entry_area' class='fixedTable'>
+	<tr>
+		<td style='width:676px;'>
+			<div id='entry_info'>
+<!-- Begin Entry Info -->
+<h3>Effective Use of Large Visualization Displays</h3>
+<div id='entry_image_large'><img style='left:0;' src='/resizedImages/1280x720-effectiveviz.jpg' alt='' title='Effective Use of Large Visualization Displays' width='640' height='276'></div>
+<span class='smallText'>EVLers using 'Articulate' to analyze information on large-scale display wall. - L. Long, EVL</span><br><br>
+<div class='entry_content'>
+	<strong>Researchers:</strong> <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=208'>Byungil Jeong</a>, <a href='/entry.php?id=245'>Hyejung Hur</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=259'>Khairi Reda</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=227'>Ratko Jagodic</a><br><br>
+<!-- Begin Entry Description -->
+Global-scale cyberinfrastructure, whether sensor nets or supercomputers, is transforming the way teams of scientists and engineers study and understand complex systems - whether physical, geological, biological, environmental, or atmospheric - from the micro to the macro scale, in both time and space. These systems also produce greater volumes of data than ever before, which need to be correlated and interpreted in order for researchers to gain insight and knowledge. This has created a major challenge for researchers, who must now learn to manage the increased scale and complexity of their work.<br><br>
+
+Visualization is still the most effective means for researchers to gain insight - one-third of the human brain is devoted to processing visual information. In the scientific discovery process visualization serves three important roles: it can help to quickly verify the correctness of a complex simulation model during initial development; it can make simulation results more immediately available when tightly integrated with the model; and, it can help make solutions more easily understood by lay audiences.<br><br>
+
+High-resolution displays are becoming common, and graphics cards are able to drive more displays and higher-resolution displays. While the capability to drive these displays is there, this is not enough to create effective collaboration visualization spaces.  We are working to create spaces with the following characteristics:<br><br>
+
+<ol>
+<li>A large, high-resolution display that approaches the sphere of influence and perception of a human, while providing a pixel density that comes close to matching the visual acuity of the human visual system.</li><br>
+<li>Support for stereoscopic rendering for 3D datasets. The benefit of stereoscopy is not limited to 3D datasets however. 2D representations can greatly benefit from stereoscopy, providing an extra perceptual channel to encode additional data (such as time). </li><br>
+<li>Support for naturalistic interactions: to offer a truly hybrid 2D/3D visualization platform, such environments should support a wide variety of interactions, including keyboard/mouse, 6 degrees-of-freedom joysticks, head tracking for a viewer-centered perspective, and voice-activated interfaces. The appropriate configuration is, of course, application dependent. </li><br>
+<li>A space to encourage multiple, co-located scientists to collaborate. The ability to solve complex problems involving big data often requires a variety of scientific expertise. Therefore, hybrid environments should provide an inviting space where scientists can comfortably sit together, analyze, and interpret data.</li><br>
+<li>A software layer that is able to leverage the hardware to simultaneously display multiple related datasets and utilize hybrid 2D/3D visualization and interaction modalities. </li>
+</ol><br><br>
+<!-- End Entry Description -->
+	<strong>Email:</strong> <a href='mailto:ajohnson@uic.edu'>ajohnson@uic.edu</a><br><br>
+	<strong>Date:</strong> January 2, 2002 - Ongoing
+</div>
+<!-- End Entry Info -->
+			</div>
+		</td>
+		<td style='width:374px;'>
+			<div id='entry_sidebar'>
+<!-- Begin Entry Sidebar -->
+<div class='entry_content'>
+	<h3>Related Entries</h3>
+	<strong>Directory:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=208'>Byungil Jeong</a></li>
+		<li><a href='/entry.php?id=227'>Ratko Jagodic</a></li>
+		<li><a href='/entry.php?id=21'>Jason Leigh</a></li>
+		<li><a href='/entry.php?id=259'>Khairi Reda</a></li>
+		<li><a href='/entry.php?id=245'>Hyejung Hur</a></li>
+		<li><a href='/related.php?id=2053&amp;related=2'><strong>View more&hellip;</strong></a></li>
+	</ul><br>
+	<strong>Papers:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2055'>Evaluating User Behavior and Strategy During Visual Exploration</a></li>
+		<li><a href='/entry.php?id=1642'>Expanding the Porthole: Leveraging Large, High-Resolution Displays in Exploratory Visual Analysis</a></li>
+		<li><a href='/entry.php?id=1634'>Visualization Design Patterns for Ultra-Resolution Display Environments</a></li>
+		<li><a href='/entry.php?id=1632'>Visualizing Large-Scale Atomistic Simulations in Ultra-Resolution Immersive Environments</a></li>
+		<li><a href='/entry.php?id=1628'>Articulate: Creating Meaningful Visualizations from Natural Language (chapter)</a></li>
+		<li><a href='/related.php?id=2053&amp;related=4'><strong>View more&hellip;</strong></a></li>
+	</ul><br>
+	<strong>Research:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2316'>MRI - Development of Continuum: A Virtualized Attentive Environment for Amplified Collaboration</a></li>
+		<li><a href='/entry.php?id=2016'>CAVE2: Next-Generation Virtual-Reality and Visualization Hybrid Environment for Immersive Simulation and Information Analysis</a></li>
+		<li><a href='/entry.php?id=1971'>Cyber-Commons</a></li>
+		<li><a href='/entry.php?id=1839'>The OptIPuter</a></li>
+		<li><a href='/entry.php?id=1863'>GeoWall 2</a></li>
+		<li><a href='/related.php?id=2053&amp;related=5'><strong>View more&hellip;</strong></a></li>
+	</ul><br>
+	<h3>Related Categories</h3>
+	<ul>
+		<li><a href='/category.php?id=3&amp;related=5'>Applications</a></li>
+		<li><a href='/category.php?id=17&amp;related=5'>Multimedia</a></li>
+		<li><a href='/category.php?id=19&amp;related=5'>Networking</a></li>
+		<li><a href='/category.php?id=22&amp;related=5'>Supercomputing</a></li>
+		<li><a href='/category.php?id=27&amp;related=5'>Visualization</a></li>
+	</ul>
+</div>
+<!-- End Entry Sidebar-->
+			</div>
+		</td>
+	</tr>
+</table>
+<!-- End Entry -->
+<script>
+	// Making both divs the same height is much easier in JavaScript
+	var entryInfo = document.getElementById("entry_info");
+	var entrySidebar = document.getElementById("entry_sidebar");
+	
+	if (entryInfo && entrySidebar) {
+		var maxHeight = Math.max(entryInfo.offsetHeight, entrySidebar.offsetHeight)-20;
+		entryInfo.style.height = maxHeight+"px";
+		entrySidebar.style.height = maxHeight+"px";
+	}
+</script>
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

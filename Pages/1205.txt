@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Entry -->
+<table id='entry_area' class='fixedTable'>
+	<tr>
+		<td style='width:676px;'>
+			<div id='entry_info'>
+<!-- Begin Entry Info -->
+<h3>UIC CS/EVL PhD student Arthur Nishimoto receives 2016 UIC Chancellor's Student Service Award</h3>
+<div id='entry_image_large'><img style='left:49px;' src='/resizedImages/1280x720-evl-fleetcommander-arthur_ljl4415-medium.jpg' alt='' title='UIC CS/EVL PhD student Arthur Nishimoto receives 2016 UIC Chancellor's Student Service Award' width='542' height='360'></div>
+<span class='smallText'>Arthur Nishimoto stands in front of EVL’s Cyber-Commons that is running his video game &ldquo;Fleet Commander,&rdquo; an homage to the epic battles in Star Wars&rsquo; Return of the Jedi. - L. Long, EVL/UIC</span><br><br>
+<div class='entry_content'>
+	<strong>Participants:</strong> <a href='/entry.php?id=270'>Arthur Nishimoto</a><br><br>
+<!-- Begin Entry Description -->
+Arthur Nishimoto, a PhD student in the UIC Computer Science Department and a Research Assistant at the UIC Electronic Visualization Laboratory (EVL), is a recipient of the 2016 UIC Chancellor&rsquo;s Student Service Award. He will be honored, along with other students who have made exceptional contributions to the campus, at the 44th Annual Chancellor&rsquo;s Student Service and Leadership Awards (CSSLA) Ceremony this evening.<br><br>
+The CSSLA recognizes outstanding student leaders and student volunteers who, while maintaining high academic achievement, demonstrate a commitment to the UIC community through participation in student organizations and campus activities and throughout the greater Chicagoland area through active service and community engagement.<br><br>
+Nishimoto was recommended by Professor Daria Tsoupikova, Associate Professor of Design Technology in the UIC College of Architecture, Design and the Arts, and an EVL faculty member. While Nishimoto has been collaborating with Tsoupikova for several years on several virtual-reality art projects, most recently &ldquo;Hearts and Minds: The Interrogations Project,&rdquo; she recommended him for this award based on his long-term contributions to the success of EVL, the Computer Science Department and to UIC. Specifically, she noted his &ldquo;competence, creativity, personal initiative, commitment to his work, dedication to the success of the Lab, Department and University, as well as his research and academic achievements.&rdquo;<br><br>
+Among Nishimoto&rsquo;s extracurricular activities, he was a member of the student delegation sent to Washington DC to present the UIC Obama Presidential Library Proposal to Congressional staffers; he converted architectural plans for a new UIC College of Engineering building into the CAVE2 virtual environment; he developed a procedure to port interactive 3D programs written in the Unity programming language into the CAVE2 environment, which is now used in several computer science courses; he has mentored many EVL undergraduates; he never tires of assisting EVL with numerous demos and tours; and, his virtual-reality tribute to the Star Trek Enterprise, developed in his spare time, is a major highlight of EVL&rsquo;s CAVE2 demos. Also, Nishimoto has received Honorable Mention in the 2014 and 2011 UIC Graduate College&rsquo;s Image of Research contests for his work on graphical user interfaces and on a multi-user electronic paint program.<br><br>
+<!-- End Entry Description -->
+	<strong>Email:</strong> <a href='mailto:maxine@uic.edu'>maxine@uic.edu</a><br><br>
+	<strong>Date:</strong> April 14, 2016
+</div>
+<!-- End Entry Info -->
+			</div>
+		</td>
+		<td style='width:374px;'>
+			<div id='entry_sidebar'>
+<!-- Begin Entry Sidebar -->
+<div class='entry_content'>
+	<h3>Related Entries</h3>
+	<strong>Directory:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=270'>Arthur Nishimoto</a></li>
+	</ul><br>
+	<strong>Research:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2166'>Proposed UIC College of Engineering Building Rendition in the CAVE2&trade; Hybrid Reality Environment</a></li>
+		<li><a href='/entry.php?id=2208'>Hearts and Minds: The Interrogations Project</a></li>
+		<li><a href='/entry.php?id=2165'>CAVE2/Unity Simulator</a></li>
+		<li><a href='/entry.php?id=2042'>SAGE2&trade; Scalable Amplified Group Environment</a></li>
+		<li><a href='/entry.php?id=2014'>Spaced Out</a></li>
+		<li><a href='/related.php?id=2209&amp;related=5'><strong>View more&hellip;</strong></a></li>
+	</ul><br>
+	<h3>Related Categories</h3>
+	<ul>
+		<li><a href='/category.php?id=3&amp;related=3'>Applications</a></li>
+		<li><a href='/category.php?id=16&amp;related=3'>MS / PhD Thesis</a></li>
+		<li><a href='/category.php?id=20&amp;related=3'>Software</a></li>
+		<li><a href='/category.php?id=38&amp;related=3'>Video Games</a></li>
+		<li><a href='/category.php?id=27&amp;related=3'>Visualization</a></li>
+		<li><a href='/category.php?id=28&amp;related=3'>VR</a></li>
+		<li><a href='/category.php?id=29&amp;related=3'>VR Art</a></li>
+	</ul>
+</div>
+<!-- End Entry Sidebar-->
+			</div>
+		</td>
+	</tr>
+</table>
+<!-- End Entry -->
+<script>
+	// Making both divs the same height is much easier in JavaScript
+	var entryInfo = document.getElementById("entry_info");
+	var entrySidebar = document.getElementById("entry_sidebar");
+	
+	if (entryInfo && entrySidebar) {
+		var maxHeight = Math.max(entryInfo.offsetHeight, entrySidebar.offsetHeight)-20;
+		entryInfo.style.height = maxHeight+"px";
+		entrySidebar.style.height = maxHeight+"px";
+	}
+</script>
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Entry -->
+<table id='entry_area' class='fixedTable'>
+	<tr>
+		<td style='width:676px;'>
+			<div id='entry_info'>
+<!-- Begin Entry Information -->
+<div style='margin-top:0;' id='entry_image_large'><img style='left:80px;' src='/resizedImages/1280x720-byungil_jeong.jpg' alt='' title='Byungil Jeong' width='480' height='360'></div>
+<div class='entry_content'>
+	<h3>Related Entries</h3>
+	<strong>Art:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=1898'>Burrow Chase</a></li>
+	</ul><br>
+	<strong>Events:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=1027'>Jeong Software Engineer at WesternGeco / Schlumberger</a></li>
+		<li><a href='/entry.php?id=827'>Call Me! SAGE Visualcasting Enables Gigabit-Linked Collaborators to Link-up and Work Together in High-Definition</a></li>
+		<li><a href='/entry.php?id=824'>Byungil Jeong&rsquo;s PhD Thesis Defense</a></li>
+		<li><a href='/entry.php?id=810'>New Sharpwall Installed at Sharp Labs in Portland</a></li>
+		<li><a href='/entry.php?id=802'>Supercomputing &rsquo;07 - SC07</a></li>
+		<li><a href='/related.php?id=208&amp;related=3'><strong>View more&hellip;</strong></a></li>
+	</ul><br>
+	<strong>Research:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=1928'>Visualcasting</a></li>
+		<li><a href='/entry.php?id=1874'>LambdaVision</a></li>
+		<li><a href='/entry.php?id=1882'>SAGE: Scalable Adaptive Graphics Environment</a></li>
+		<li><a href='/entry.php?id=2053'>Effective Use of Large Visualization Displays</a></li>
+		<li><a href='/entry.php?id=1825'>TeraVision</a></li>
+		<li><a href='/related.php?id=208&amp;related=5'><strong>View more&hellip;</strong></a></li>
+	</ul>
+</div>
+<!-- End Entry Information -->
+			</div>
+		</td>
+		<td style='width:374px;'>
+			<div id='entry_sidebar'>
+<!-- Begin Entry Sidebar -->
+<div class='entry_content'>
+	<h3>Byungil Jeong</h3>
+	PhD Graduate, 2008<br>
+	EVL, Computer Science Department<br>
+	<a href='mailto:myprelude@gmail.com'>myprelude@gmail.com</a><br><br>
+	<a href='http://www.evl.uic.edu/bijeong/index.html' target='_blank'>http://www.evl.uic.edu/bijeong/index.html</a><br><br>
+	<h3>Bibliography</h3>
+	<ul>
+		<li><a href='/entry.php?id=1615'>Hur, H., Jagodic, R., Jeong, B., Johnson, A., Leigh, J., Nam, S., Peterka, T., Renambot, L., Sandin, D., Sun, Y., Talandis, J., Scalable Resolution Display Walls, <em>Proceedings of the IEEE, Issue 99</em>, pp. 1-15, May 1, 2012</a></li>
+		<li><a href='/entry.php?id=1583'>Brown, M., Hur,H., Jagodic, R., Jeong, B., Johnson, A., Leigh, J., Nam, S., Renambot, L., Ultrascale Collaborative Visualization Using a Display-Rich Global Cyberinfrastructure, <em>IEEE Computer Graphics and Applications</em>, vol 30, no 3, doi:10.1109/MCG.2010.45, pp. 71-83, May 1, 2010</a></li>
+		<li><a href='/entry.php?id=1576'>Deshpande, S., Jeong, B., Leigh, J., Nam, S., Renambot, L., Vishwanath, V., Multiapplication Intertile Synchronization on Ultra-High-Resolution Display Walls, <em>To be published in the proceedings of ACM Multimedia Systems 2010</em>, Scottsdale, Arizona USA, ACM, February 22, 2010</a></li>
+		<li><a href='/bibliography.php?id=208'><strong>View more&hellip;</strong></a></li>
+	</ul>
+</div>
+<!-- End Entry Sidebar-->
+			</div>
+		</td>
+	</tr>
+</table>
+<!-- End Entry -->
+<script>
+	// Making both divs the same height is much easier in JavaScript
+	var entryInfo = document.getElementById("entry_info");
+	var entrySidebar = document.getElementById("entry_sidebar");
+	
+	if (entryInfo && entrySidebar) {
+		var maxHeight = Math.max(entryInfo.offsetHeight, entrySidebar.offsetHeight)-20;
+		entryInfo.style.height = maxHeight+"px";
+		entrySidebar.style.height = maxHeight+"px";
+	}
+</script>
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

@@ -1,0 +1,510 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin List -->
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Year:</strong>
+		<a href='/list.php?id=4&amp;year=2020'>2020</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2019'>2019</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2018'>2018</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2017'>2017</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2016'>2016</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2015'>2015</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2014'>2014</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2013'>2013</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2012'>2012</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2011'>2011</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2010'>2010</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2009'>2009</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2008'>2008</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2007'>2007</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2006'>2006</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2005'>2005</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2004'>2004</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2003'>2003</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2002'>2002</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2001'>2001</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2000'>2000</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1999'>1999</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1998'><strong>1998</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1997'>1997</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1996'>1996</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1995'>1995</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1994'>1994</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1993'>1993</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1992'>1992</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1991'>1991</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1990'>1990</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1989'>1989</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1987'>1987</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1985'>1985</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1984'>1984</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1977'>1977</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1976'>1976</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<div id='list_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin List List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1225'><img src='/misc/default_500x280.png' alt='' title='Are you Waving or Drowning? Art, Interaction, Manipulation and Complexity' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=12'>Anstey, J.</a><br>
+			<strong><a href='/entry.php?id=1225'>Are you Waving or Drowning? Art, Interaction, Manipulation and Complexity</a></strong><br>
+			<em>Leonardo Electronic Almanac</em>, vol 6, no 11<br>
+			December 17, 1998<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1226'><img src='/resizedImages/500x280-crop-xp.jpg' alt='' title='XP: An Authoring System for Immersive Art Exhibitions' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=51'>Pape, D.</a>, <a href='/entry.php?id=103'>Imai, T.</a>, <a href='/entry.php?id=12'>Anstey, J.</a>, <a href='/entry.php?id=134'>Roussou, M.</a>, <a href='/entry.php?id=6'>DeFanti, T.</a><br>
+			<strong><a href='/entry.php?id=1226'>XP: An Authoring System for Immersive Art Exhibitions</a></strong><br>
+			<em>Proceedings of Fourth International Conference on Virtual Systems and Multimedia</em>, Gifu, Japan<br>
+			November 18, 1998<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1227'><img src='/resizedImages/500x280-crop-articulatedavatar.jpg' alt='' title='Multi-disciplinary Experiences with CAVERNsoft Tele-Immersive Applications' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=6'>DeFanti, T.</a><br>
+			<strong><a href='/entry.php?id=1227'>Multi-disciplinary Experiences with CAVERNsoft Tele-Immersive Applications</a></strong><br>
+			<em>Proceedings of Fourth International Conference on Virtual Systems and Multimedia</em>, Gifu, Japan<br>
+			November 18, 1998<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1228'><img src='/resizedImages/500x280-crop-limbo.jpg' alt='' title='LIMBO / VTK: A Tool for Rapid Tele-Immersive Visualization' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=21'>Leigh, J.</a>, Rajlich, P., Stein, R., <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=6'>DeFanti T.</a><br>
+			<strong><a href='/entry.php?id=1228'>LIMBO / VTK: A Tool for Rapid Tele-Immersive Visualization</a></strong><br>
+			<em>Proceedings of IEEE Visualizaton &rsquo;98</em>, Research Triangle Park, NC<br>
+			October 18, 1998<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1229'><img src='/resizedImages/500x280-crop-startap-2.jpg' alt='' title='Preliminary STAR TAP&#8480; Tele-Immersion Experiments between Chicago and Singapore' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=52'>Park, K.</a>, <a href='/entry.php?id=14'>Kenyon, R.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=6'>DeFanti T.</a>, Wong, H.<br>
+			<strong><a href='/entry.php?id=1229'>Preliminary STAR TAP&#8480; Tele-Immersion Experiments between Chicago and Singapore</a></strong><br>
+			<em>Proceedings of HPCAsia &rsquo;98</em>, Singapore, pp. 687-693<br>
+			September 22, 1998<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1231'><img src='/resizedImages/500x280-crop-idesk3render.jpg' alt='' title='Personal Tele-Immersion Devices' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=6'>DeFanti, T.</a>, <a href='/entry.php?id=7'>Sandin, D.</a>, <a href='/entry.php?id=20'>Dawe, G.</a>, <a href='/entry.php?id=178'>Brown, M.</a>, <a href='/entry.php?id=129'>Rawlings, M.</a>, <a href='/entry.php?id=111'>Lindahl, G.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=21'>Leigh, J.</a><br>
+			<strong><a href='/entry.php?id=1231'>Personal Tele-Immersion Devices</a></strong><br>
+			<em>Proceedings of 7th IEEE International Symposium on High Performance Distributed Computing</em>, Chicago, IL, pp. 198-205<br>
+			July 28, 1998<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1232'><img src='/misc/default_500x280.png' alt='' title='Application Experiences with the Globus Toolkit' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			Brunett, S., Czajkowski, K., Foster, I., <a href='/entry.php?id=10'>Johnson, A.</a>, Kesselman, C., <a href='/entry.php?id=21'>Leigh, J.</a>, Tuecke, S.<br>
+			<strong><a href='/entry.php?id=1232'>Application Experiences with the Globus Toolkit</a></strong><br>
+			<em>Proceedings of 7th IEEE International Symposium on High Performance Distributed Computing</em>, Chicago, IL, pp. 81-89<br>
+			July 28, 1998<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1235'><img src='/resizedImages/500x280-crop-rebus.jpg' alt='' title='Virtual Environment as Rebus' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=86'>Dolinsky, M.</a><br>
+			<strong><a href='/entry.php?id=1235'>Virtual Environment as Rebus</a></strong><br>
+			<em>Proceedings of Consciousness Reframed, International CAiiA Research Conference</em>, University of Wales College, Newport<br>
+			July 20, 1998<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1233'><img src='/resizedImages/500x280-crop-lasmeninas.jpg' alt='' title='Las Meninas: The Articulation of Vision' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=70'>Bizri, H.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=146'>Vasilakis, C.</a><br>
+			<strong><a href='/entry.php?id=1233'>Las Meninas: The Articulation of Vision</a></strong><br>
+			<em>Visual Proceedings of SIGGRAPH &rsquo;98</em>, Orlando, FL, pp. 307<br>
+			July 19, 1998<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1234'><img src='/resizedImages/500x280-crop-stereovideo.jpg' alt='' title='Optimizing Stereo Video Formats for Projection Based Virtual Reality' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=111'>Lindahl, G.</a>, <a href='/entry.php?id=6'>DeFanti, T.</a>, <a href='/entry.php?id=7'>Sandin, D.</a>, <a href='/entry.php?id=20'>Dawe, G.</a>, <a href='/entry.php?id=178'>Brown, M.</a><br>
+			<strong><a href='/entry.php?id=1234'>Optimizing Stereo Video Formats for Projection Based Virtual Reality</a></strong><br>
+			<em>Visual Proceedings of SIGGRAPH &rsquo;98</em>, Orlando, FL, pp. 307<br>
+			July 19, 1998<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1230'><img src='/resizedImages/500x280-crop-multiway.jpg' alt='' title='Multiway Tele-Immersion at Supercomputing &rsquo;97, or Why We Used $6,000,000 Worth of VR Equipment to do the Hokey Pokey' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=74'>Costigan, J.</a><br>
+			<strong><a href='/entry.php?id=1230'>Multiway Tele-Immersion at Supercomputing &rsquo;97, or Why We Used $6,000,000 Worth of VR Equipment to do the Hokey Pokey</a></strong><br>
+			<em>IEEE Computer Graphics and Applications</em>, vol 18, no 4, pp. 6-9<br>
+			July 1, 1998<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1236'><img src='/resizedImages/500x280-crop-grtbarrier.jpg' alt='' title='Virtual Great Barrier Reef: A Theoretical Approach Towards an Evolving, Interactive VR Environment Using a Distributed DOME and CAVE&reg; System' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			Refsland, S., Ojika, T., <a href='/entry.php?id=6'>DeFanti, T.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=21'>Leigh, J.</a>, Loeffler, C., Tu, X.<br>
+			<strong><a href='/entry.php?id=1236'>Virtual Great Barrier Reef: A Theoretical Approach Towards an Evolving, Interactive VR Environment Using a Distributed DOME and CAVE&reg; System</a></strong><br>
+			<em>Proceedings of 1st International Conference on Virtual Worlds, Lecture Notes in Artificial Intelligence</em>, no 1434, Paris, France, Springer Verlag, pp. 323-336, Jean-Claude Heudin (Ed.)<br>
+			July 1, 1998<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1240'><img src='/resizedImages/500x280-crop-vrstory.jpg' alt='' title='Las Meninas in VR: Storytelling and the Illusion in Art' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=70'>Bizri, H.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=146'>Vasilakis, C.</a><br>
+			<strong><a href='/entry.php?id=1240'>Las Meninas in VR: Storytelling and the Illusion in Art</a></strong><br>
+			<em>Proceedings of 1st International Conference on Virtual Worlds, Lecture Notes in Artificial Intelligence</em>, no 1434, Paris, France, Springer Verlag, pp. 360-372, Jean-Claude Heudin Ed<br>
+			July 1, 1998<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1241'><img src='/resizedImages/500x280-crop-mitologes.jpg' alt='' title='Mitologies: Medieval Labyrinth Narratives in Virtual Reality' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=134'>Roussou, M.</a>, <a href='/entry.php?id=70'>Bizri, H.</a><br>
+			<strong><a href='/entry.php?id=1241'>Mitologies: Medieval Labyrinth Narratives in Virtual Reality</a></strong><br>
+			<em>Proceedings of 1st International Conference on Virtual Worlds</em>, Paris, France<br>
+			July 1, 1998<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1388'><img src='/misc/default_500x280.png' alt='' title='Data Input Model for Virtual Reality-Aided Facility Layout' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			Zetu, D., Banerjee, P., <a href='/entry.php?id=138'>Schneider, P.</a><br>
+			<strong><a href='/entry.php?id=1388'>Data Input Model for Virtual Reality-Aided Facility Layout</a></strong><br>
+			<em>IIE Trans.</em>, vol 30, no 7, pp. 597-620<br>
+			June 1, 1998<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1242'><img src='/misc/default_500x280.png' alt='' title='Advanced Electronic Visualization and Virtual Reality Technologies for Education and Research Training' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=38'>Shenai, K.</a>, McShane, E., <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=6'>DeFanti, T.</a><br>
+			<strong><a href='/entry.php?id=1242'>Advanced Electronic Visualization and Virtual Reality Technologies for Education and Research Training</a></strong><br>
+			<em>Proceedings of CATE-98</em>, Cancun, Mexico, pp. 3-6<br>
+			May 27, 1998<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1243'><img src='/misc/default_500x280.png' alt='' title='We Sing the Body Electric: Imagining the Body in Electronic Art' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=12'>Anstey, J.</a><br>
+			<strong><a href='/entry.php?id=1243'>We Sing the Body Electric: Imagining the Body in Electronic Art</a></strong><br>
+			<em>Leonardo Electronic Almanac</em>, vol 6, no 4<br>
+			May 15, 1998<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1244'><img src='/resizedImages/500x280-crop-calibration.jpg' alt='' title='Line of Sight Method for Tracker Calibration in Projection-Based VR Systems' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=78'>Czernuszenko, M.</a>, <a href='/entry.php?id=7'>Sandin, D.</a>, <a href='/entry.php?id=6'>DeFanti, T.</a><br>
+			<strong><a href='/entry.php?id=1244'>Line of Sight Method for Tracker Calibration in Projection-Based VR Systems</a></strong><br>
+			<em>Proceedings of 2nd International Immersive Projection Technology Workshop</em>, Ames, Iowa<br>
+			May 11, 1998<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1315'><img src='/resizedImages/500x280-crop-jasonthesis.jpg' alt='' title='CAVERN and a Unified Approach to Support Realtime Networking and Persistence in Tele-immersion' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=21'>Leigh, J.</a><br>
+			<strong><a href='/entry.php?id=1315'>CAVERN and a Unified Approach to Support Realtime Networking and Persistence in Tele-immersion</a></strong><br>
+			<em>EVL, PhD Dissertation - Doctor of Philosophy in Electrical Engineering and Computer Science</em>, Graduate College, University of Illinois at Chicago<br>
+			May 1, 1998<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1245'><img src='/misc/default_500x280.png' alt='' title='Modeling and Analysis of a Virtual Reality System with Time Petri Nets' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			Mascarenhas, R., Karumuri, D., Buy, U., <a href='/entry.php?id=14'>Kenyon, R.</a><br>
+			<strong><a href='/entry.php?id=1245'>Modeling and Analysis of a Virtual Reality System with Time Petri Nets</a></strong><br>
+			<em>Proceedings of the ISEA Conference</em>, Tokyo, Japan<br>
+			April 20, 1998<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1246'><img src='/resizedImages/500x280-crop-k-12.gif' alt='' title='Evaluation of an Immersive Collaborative Virtual Learning Environment for K-12 Education' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=134'>Roussou, M.</a>, Gillingham, M., <a href='/entry.php?id=16'>Moher, T.</a><br>
+			<strong><a href='/entry.php?id=1246'>Evaluation of an Immersive Collaborative Virtual Learning Environment for K-12 Education</a></strong><br>
+			<em>American Educational Research Association Annual Meeting (AERA)</em>, San Deigo, CA<br>
+			April 13, 1998<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1247'><img src='/resizedImages/500x280-crop-caveanimation.jpg' alt='' title='Animation in the CAVE&reg;' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=12'>Anstey, J.</a>, <a href='/entry.php?id=51'>Pape, D.</a><br>
+			<strong><a href='/entry.php?id=1247'>Animation in the CAVE&reg;</a></strong><br>
+			<em>Animation World Magazine</em>, vol 3<br>
+			April 1, 1998<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1248'><img src='/resizedImages/500x280-crop-cavern.jpg' alt='' title='CAVERN: The CAVE&reg; Research Network' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=6'>DeFanti, T.</a>, <a href='/entry.php?id=178'>Brown, M.</a>, <a href='/entry.php?id=7'>Sandin, D.</a><br>
+			<strong><a href='/entry.php?id=1248'>CAVERN: The CAVE&reg; Research Network</a></strong><br>
+			<em>Proceedings of 1st International Symposium on Multimedia Virtual Laboratory</em>, Tokyo, Japan, pp. 15-27<br>
+			March 25, 1998<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1249'><img src='/resizedImages/500x280-crop-nice_cave.jpg' alt='' title='The NICE Project: Learning Together in a Virtual World' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=134'>Roussou, M.</a>, <a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=25'>Barnes, C.</a>, <a href='/entry.php?id=146'>Vasilakis, C.</a>, <a href='/entry.php?id=16'>Moher, T.</a><br>
+			<strong><a href='/entry.php?id=1249'>The NICE Project: Learning Together in a Virtual World</a></strong><br>
+			<em>Proceedings of VRAIS &rsquo;98</em>, Atlanta, GA, pp. 176-183<br>
+			March 14, 1998<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1326'><img src='/misc/default_500x280.png' alt='' title='Estimation of Time Varying Delay Time in Non-Stationary Linear Systems: An Approach to Monitor Human Operator Adaptation in Manual Tracking Tasks' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			Boer, E., <a href='/entry.php?id=14'>Kenyon, R.</a><br>
+			<strong><a href='/entry.php?id=1326'>Estimation of Time Varying Delay Time in Non-Stationary Linear Systems: An Approach to Monitor Human Operator Adaptation in Manual Tracking Tasks</a></strong><br>
+			<em>IEEE Trans. Man, Systems and Cybern.</em>, vol 28, no 1, pp. 89-99<br>
+			January 1, 1998<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1250'><img src='/resizedImages/500x280-crop-straitdope.jpg' alt='' title='Strait Dope: A Pandora&rsquo;s Box of Excitement and Interaction' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=86'>Dolinsky, M.</a><br>
+			<strong><a href='/entry.php?id=1250'>Strait Dope: A Pandora&rsquo;s Box of Excitement and Interaction</a></strong><br>
+			<em>VRML Developers Journal</em>, vol 1, no 1, pp. 16-18<br>
+			January 1, 1998<br>
+		</div>
+	</td>
+</tr>
+<!-- End List List -->
+	</table>
+</div>
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Year:</strong>
+		<a href='/list.php?id=4&amp;year=2020'>2020</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2019'>2019</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2018'>2018</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2017'>2017</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2016'>2016</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2015'>2015</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2014'>2014</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2013'>2013</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2012'>2012</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2011'>2011</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2010'>2010</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2009'>2009</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2008'>2008</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2007'>2007</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2006'>2006</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2005'>2005</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2004'>2004</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2003'>2003</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2002'>2002</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2001'>2001</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2000'>2000</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1999'>1999</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1998'><strong>1998</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1997'>1997</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1996'>1996</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1995'>1995</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1994'>1994</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1993'>1993</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1992'>1992</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1991'>1991</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1990'>1990</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1989'>1989</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1987'>1987</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1985'>1985</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1984'>1984</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1977'>1977</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1976'>1976</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<!-- End List -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

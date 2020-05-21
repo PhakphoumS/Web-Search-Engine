@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin List -->
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Page:</strong>
+		<a href='/list.php?id=1&amp;page=1'>1</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=2'>2</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=3'>3</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=4'>4</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=5'>5</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=6'><strong>6</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=7'>7</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=8'>8</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=9'>9</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=10'>10</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<div id='list_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin List List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1788'><img src='/resizedImages/500x280-crop-infi-small.jpg' alt='' title='Infinite Studio' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1788'>Infinite Studio</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=2'>Todd Margolis</a><br>
+			January 7, 2000 - May 15, 2000<br><br>
+			Infinite Studio is a new paradigm of &ldquo;art-making,&rdquo; that allows the user to create, in real-time, interactive virtual reality artwork from&hellip; <a href='/entry.php?id=1788'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1805'><img src='/resizedImages/500x280-crop-lipuma-2.gif' alt='' title='Through the Looking Glass of Josephine Lipuma' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1805'>Through the Looking Glass of Josephine Lipuma</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=47'>Josephine Lipuma</a><br>
+			January 5, 2000 - May 15, 2001<br><br>
+			This networked virtual reality CAVE&trade; application explores a wonderland inspired by Lewis Carroll&rsquo;s popular story. The VR artist lures the&hellip; <a href='/entry.php?id=1805'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1798'><img src='/resizedImages/500x280-crop-fluers-2.jpg' alt='' title='Les Fleurs du Mal' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1798'>Les Fleurs du Mal</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=60'>Joseph Tremonti</a><br>
+			January 1, 2000 - May 15, 2000<br><br>
+			This virtual environment is the first of a planned series based on the works of French poet Charles Baudelaire. The poetry serves as a conceptual&hellip; <a href='/entry.php?id=1798'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1813'><img src='/resizedImages/500x280-crop-syna1-small.jpg' alt='' title='EVL: Alive on the Grid' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1813'>EVL: Alive on the Grid</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=173'>Alex Hill</a>, <a href='/entry.php?id=29'>Beth Cerny Pati&ntilde;o</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=9'>Drew Browning</a>, <a href='/entry.php?id=161'>Geoffrey Allen Baum</a>, <a href='/entry.php?id=12'>Josephine Anstey</a>, <a href='/entry.php?id=47'>Josephine Lipuma</a>, <a href='/entry.php?id=86'>Margaret Dolinsky</a>, <a href='/entry.php?id=37'>Marientina Gotsis</a>, <a href='/entry.php?id=162'>Petra Gemeinboeck</a>, <a href='/entry.php?id=46'>Ya Lu Lin</a>, Brenda Lopez Silva, Todd Margolis, Keith Miller, Dave Pape, Tim Portlock, Joseph Tremonti, Annette Barbier, Dan Neveu<br>
+			January 1, 2000 - September 1, 2001<br><br>
+			Networking, sound and interaction are all key elements of Dan Sandin&rsquo;s EVL: Alive on the Grid, a collection of virtual art worlds where local&hellip; <a href='/entry.php?id=1813'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1751'><img src='/resizedImages/500x280-crop-mil_reactor_185.jpg' alt='' title='Shared Miletus' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1751'>Shared Miletus</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=12'>Josephine Anstey</a>, <a href='/entry.php?id=134'>Maria Roussou</a>, Athanasios Gaitatzes<br>
+			January 1, 2000 - June 1, 2000<br><br>
+			&ldquo;Shared Miletus&rdquo; is a cultural heritage demonstration which takes visitors on a shared virtual voyage through the ancient Greek city of&hellip; <a href='/entry.php?id=1751'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1841'><img src='/resizedImages/500x280-crop-eliasonoverpop.jpg' alt='' title='Overpop' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1841'>Overpop</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=33'>Joshua Eliason</a><br>
+			November 1, 1999 - January 1, 2003<br><br>
+			Artist Statement: This series of photographs depicts interaction within a population confined to a restricted space. The population residing within&hellip; <a href='/entry.php?id=1841'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1718'><img src='/resizedImages/500x280-crop-lockup2.jpg' alt='' title='LOCKUP' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1718'>LOCKUP</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=2'>Todd Margolis</a><br>
+			August 1, 1999 - January 1, 2000<br><br>
+			LOCKUP is an installation, performance and interactive narrative in Virtual Reality that explores the realm of possibilities open to us when we alter&hellip; <a href='/entry.php?id=1718'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1775'><img src='/resizedImages/500x280-crop-harlem_cave.jpg' alt='' title='Virtual Harlem' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1775'>Virtual Harlem</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=4'>Brenda Lopez Silva</a>, <a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=12'>Josephine Anstey</a>, <a href='/entry.php?id=11'>Steve Jones</a>, <a href='/entry.php?id=53'>Tim Portlock</a>, Bryan Carter, Bill Plummer, Thaddeus Parkinson, Jim Sosnoski, Jennifer Brody, Jim Fletcher, Jim Hall, Richard Besel, Janice Lively, Ken McAllister, John Warnock, Ron Scott, Marvin Landis, Thomas Kinney<br>
+			August 1, 1999 - August 1, 2000<br><br>
+			EVL is working with Central Missouri State University, the University of Missouri and the University of Arizona on the Virtual Harlem project, a&hellip; <a href='/entry.php?id=1775'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1790'><img src='/resizedImages/500x280-crop-end.gif' alt='' title='VEIL - For the Queen of All Our Hearts' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1790'>VEIL - For the Queen of All Our Hearts</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=1'>John Landry</a><br>
+			June 1, 1999 - Ongoing<br><br>
+			&ldquo;VEIL - For the Queen of All Our Hearts&rdquo; is a collaborative web art piece. Utilizing material appropriated from other websites, its&hellip; <a href='/entry.php?id=1790'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1799'><img src='/resizedImages/500x280-crop-uzume01s.jpg' alt='' title='Uzume' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1799'>Uzume</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=162'>Petra Gemeinboeck</a>, Roland Blach, Virtual Environments, Fraunhofer Institute Stuttgart, Germany;Nicolaj Kirisits, Interactive Audio Environment, Vienna, Austria<br>
+			January 1, 1999 - February 1, 2000<br><br>
+			&ldquo;Uzume&rdquo; is named after a Japanese Shinto goddess and means &ldquo;whirling&rdquo;. The story of Uzume tells of a dance with which she&hellip; <a href='/entry.php?id=1799'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1773'><img src='/resizedImages/500x280-crop-h_n.jpg' alt='' title='Historiae Naturalis' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1773'>Historiae Naturalis</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=51'>Dave Pape</a><br>
+			January 1, 1999 - May 1, 1999<br><br>
+			Historiae Naturalis is a visualization of the biological sciences of the 16th century and earlier. Specifically, it is based on the natural history&hellip; <a href='/entry.php?id=1773'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1784'><img src='/resizedImages/500x280-crop-dreambox.gif' alt='' title='Dreambox' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1784'>Dreambox</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=173'>Alex Hill</a>, <a href='/entry.php?id=29'>Beth Cerny Pati&ntilde;o</a>, <a href='/entry.php?id=4'>Brenda Lopez Silva</a>, <a href='/entry.php?id=2'>Todd Margolis</a>, <a href='/entry.php?id=46'>Ya Lu Lin</a><br>
+			January 1, 1999 - May 1, 1999<br><br>
+			The Dreambox project is a collaboration between digital media artists and scientists to create a dynamic virtual environment that reflects the&hellip; <a href='/entry.php?id=1784'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1796'><img src='/resizedImages/500x280-crop-truth.gif' alt='' title='TRUTH' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1796'>TRUTH</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=2'>Todd Margolis</a><br>
+			August 1, 1998 - August 1, 1999<br><br>
+			An interactive 3D metaphor on metaphysical meanderings. This computer graphic experiment explores conspiracies between various subjects, ranging from&hellip; <a href='/entry.php?id=1796'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1967'><img src='/resizedImages/500x280-crop-cityofbrass2.jpg' alt='' title='City of Brass' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1967'>City of Brass</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=75'>Alan Cruz</a>, <a href='/entry.php?id=70'>Hisham Bizri</a>, <a href='/entry.php?id=39'>Jakub Hryniewicz</a>, <a href='/entry.php?id=89'>Tom Frisch</a>, Barbara Herman, Bill Biagi, Ines Sommer, Rudi Robis, Andrew Foust<br>
+			August 1, 1998 - April 18, 2000<br><br>
+			An MFA thesis project, the &ldquo;City of Brass&rdquo; (Adapted from &ldquo;A Thousand Nights and One Night&rdquo;) is a film by Hisham Bizri and&hellip; <a href='/entry.php?id=1967'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1949'><img src='/resizedImages/500x280-crop-rave_frisch.jpg' alt='' title='Rave Culture' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1949'>Rave Culture</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=89'>Tom Frisch</a><br>
+			May 1, 1998 - April 30, 1999<br><br>
+			Rave Culture is a short documentary film about the culture, scene, and experiences that revolve around a rave party. Shot on location at six Chicago&hellip; <a href='/entry.php?id=1949'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<!-- End List List -->
+	</table>
+</div>
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Page:</strong>
+		<a href='/list.php?id=1&amp;page=1'>1</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=2'>2</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=3'>3</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=4'>4</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=5'>5</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=6'><strong>6</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=7'>7</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=8'>8</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=9'>9</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=10'>10</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<!-- End List -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

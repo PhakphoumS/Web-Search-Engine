@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Category -->
+<!-- Begin Category Pagination -->
+<div class='category_area'>
+	<div class='category_content'>
+		<h3>Augmented Reality</h3><br>
+		<strong>Related:</strong>
+		<a href='/category.php?id=39&amp;related=2'>Directory</a>&nbsp;&nbsp;
+		<a href='/category.php?id=39&amp;related=3'>Events</a>&nbsp;&nbsp;
+		<a href='/category.php?id=39&amp;related=4'>Papers</a>&nbsp;&nbsp;
+		<a href='/category.php?id=39&amp;related=5'><strong>Research</strong></a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End Category Pagination -->
+<div class='category_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin Category List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2237'><img src='/resizedImages/500x280-crop-smohan_cave2.png' alt='' title='Music Instruction in a Virtual/Augmented Environment' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2237'>Music Instruction in a Virtual/Augmented Environment</a></strong><br>
+			<a href='/entry.php?id=2236'>Shreyas Mohan</a><br>
+			June 1, 2016 - August 15, 2016<br><br>
+			This project&rsquo;s purpose was to investigate the ability of virtual reality to teach music. An application was developed for the CAVE2&trade; and&hellip; <a href='/entry.php?id=2237'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2177'><img src='/resizedImages/500x280-crop-digitalquest_ieee_vr_image-2.png' alt='' title='DigitalQuest: A Mixed Reality Approach to Scavenger Hunts' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2177'>DigitalQuest: A Mixed Reality Approach to Scavenger Hunts</a></strong><br>
+			<a href='/entry.php?id=2156'>Marco Cavallo</a><br>
+			March 19, 2016 - March 23, 2016<br><br>
+			Despite much progress and increased interest, mixed reality applications are not yet in widespread use by the general public. Our framework&hellip; <a href='/entry.php?id=2177'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2171'><img src='/resizedImages/500x280-crop-riverwalkar.png' alt='' title='Riverwalk: Incorporating Historical Photographs in Public Outdoor Augmented Reality Experiences' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2171'>Riverwalk: Incorporating Historical Photographs in Public Outdoor Augmented Reality Experiences</a></strong><br>
+			<a href='/entry.php?id=2473'>Angus Forbes</a>, <a href='/entry.php?id=2156'>Marco Cavallo</a>, Geoffrey Alan Rhodes, Assistant Professor at the School of The Art Institute of Chicago<br>
+			January 1, 2016 - Ongoing<br><br>
+			The Chicago 0,0 Riverwal AR experience provides a novel, interactive way for users to explore historical photographs sourced from museum archives. As&hellip; <a href='/entry.php?id=2171'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2178'><img src='/resizedImages/500x280-crop-3dcity_mcavallo_image.jpg' alt='' title='3D City Reconstruction From Google Street View' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2178'>3D City Reconstruction From Google Street View</a></strong><br>
+			<a href='/entry.php?id=2156'>Marco Cavallo</a><br>
+			January 1, 2016<br><br>
+			Google Street View can be considered as an online browsable dataset consisting of billions of street-level panoramic images acquired all around the&hellip; <a href='/entry.php?id=2178'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2215'><img src='/resizedImages/500x280-crop-covallo_mr.png' alt='' title='Merging Worlds: A Location-based Approach to Mixed Reality' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2215'>Merging Worlds: A Location-based Approach to Mixed Reality</a></strong><br>
+			<a href='/entry.php?id=2473'>Angus Forbes</a>, <a href='/entry.php?id=2156'>Marco Cavallo</a><br>
+			August 16, 2015 - May 15, 2016<br><br>
+			This research explores a novel approach to the design of Mixed Reality (MR) applications, which combines elements from markerless and location-based&hellip; <a href='/entry.php?id=2215'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<!-- End Category List -->
+	</table>
+</div>
+<!-- End Category -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

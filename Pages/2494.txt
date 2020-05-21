@@ -1,0 +1,740 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin List -->
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Year:</strong>
+		<a href='/list.php?id=3&amp;year=2020'>2020</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2019'>2019</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2018'>2018</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2017'>2017</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2016'>2016</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2015'><strong>2015</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2014'>2014</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2013'>2013</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2012'>2012</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2011'>2011</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2010'>2010</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2009'>2009</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2008'>2008</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2007'>2007</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2006'>2006</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2005'>2005</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2004'>2004</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2003'>2003</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2002'>2002</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2001'>2001</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2000'>2000</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1999'>1999</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1998'>1998</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1997'>1997</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1996'>1996</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1995'>1995</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1994'>1994</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1993'>1993</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1992'>1992</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1987'>1987</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1979'>1979</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1976'>1976</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1975'>1975</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1974'>1974</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1973'>1973</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<div id='list_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin List List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2152'><img src='/resizedImages/500x280-crop-bactogenie_ljl4637-medium.jpg' alt='' title='UIC CS/EVL PhD student Jillian Aurisano receives 2015 UIC Chancellor&rsquo;s Award Winner' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2152'>UIC CS/EVL PhD student Jillian Aurisano receives 2015 UIC Chancellor&rsquo;s Award Winner</a></strong><br>
+			<a href='/entry.php?id=285'>Jillian Aurisano</a><br>
+			December 22, 2015<br><br>
+			Jillian Aurisano, a UIC Computer Science (CS) PhD student and Research Assistant in the Electronic Visualization Laboratory (EVL), was a recipient of&hellip; <a href='/entry.php?id=2152'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2153'><img src='/resizedImages/500x280-crop-uhcybercanoe.png' alt='' title='University of Hawai&rsquo;i Data Visualization Expert to Build Top System' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2153'>University of Hawai&rsquo;i Data Visualization Expert to Build Top System</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a><br>
+			December 22, 2015<br><br>
+			Thanks to a major research infrastructure grant from the National Science Foundation (NSF), the University of Hawai&rsquo;i (UH) will be home to one&hellip; <a href='/entry.php?id=2153'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2154'><img src='/resizedImages/500x280-crop-lynch-sandin-medium.png' alt='' title='Apple Executive Kevin Lynch Speaks at UIC&rsquo;s Mid-year Commencement' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2154'>Apple Executive Kevin Lynch Speaks at UIC&rsquo;s Mid-year Commencement</a></strong><br>
+						December 22, 2015<br><br>
+			Kevin Lynch, Vice President of Technology at Apple, where he leads the software team for the Apple Watch, was the keynote speaker at the UIC midyear&hellip; <a href='/entry.php?id=2154'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2151'><img src='/resizedImages/500x280-crop-teamitaly.png' alt='' title='UIC&rsquo;s &ldquo;Team Italy&rdquo; participates in Chicago Hackathon for Wildlife challenge' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2151'>UIC&rsquo;s &ldquo;Team Italy&rdquo; participates in Chicago Hackathon for Wildlife challenge</a></strong><br>
+			<a href='/entry.php?id=2156'>Marco Cavallo</a><br>
+			December 17, 2015<br><br>
+			Hacking for wildlife: students use technology to save the animals The challenge was inspired by public backlash over the hunting of Cecil the Lion in&hellip; <a href='/entry.php?id=2151'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2148'><img src='/resizedImages/500x280-crop-sage2-displays-cybercommons-2.png' alt='' title='The SAGE2&trade; BOF presentation at SC15 is now posted online.' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2148'>The SAGE2&trade; BOF presentation at SC15 is now posted online.</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a><br>
+			November 17, 2015<br><br>
+			SAGE2&trade;: Scalable Amplified Group Environment for Global Collaboration Birds of a Feather (BOF) Tuesday, November 17 12:15PM - 01:15PM Room: 13A&hellip; <a href='/entry.php?id=2148'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2146'><img src='/resizedImages/500x280-crop-microsoftinternship.png' alt='' title='Summer Internship Enables UIC/EVL Student to Work on Multi-Person Virtual Reality' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2146'>Summer Internship Enables UIC/EVL Student to Work on Multi-Person Virtual Reality</a></strong><br>
+			<a href='/entry.php?id=281'>Victor Mateevitsi</a><br>
+			November 10, 2015<br><br>
+			Victor Mateevitsi, a University of Illinois at Chicago (UIC) PhD student in the Computer Science (CS) Department and the Electronic Visualization&hellip; <a href='/entry.php?id=2146'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2145'><img src='/resizedImages/500x280-crop-utsdataarena_bensimons_indabrc.jpg' alt='' title='Presentation Ben Simons, University of Technology Sydney (UTS)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2145'>Presentation Ben Simons, University of Technology Sydney (UTS)</a></strong><br>
+						November 4, 2015<br><br>
+			ABSTRACT The University of Technology Sydney (UTS) opened the UTS Data Arena in July 2015. The Data Arena is an interactive 3D-Stereo Data Science&hellip; <a href='/entry.php?id=2145'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2143'><img src='/resizedImages/500x280-crop-tasondoc.png' alt='' title='Textual Annotation Tools for SAGE2' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2143'>Textual Annotation Tools for SAGE2</a></strong><br>
+			<a href='/entry.php?id=300'>Krishna Bharadwaj</a><br>
+			November 2, 2015<br><br>
+			Krishna Bhradwaj&rsquo;s MS Thesis Defense Committee: Andrew Johnson, Luc Renambot, Liz Marai Abstract: The amount of data that we deal with, on a&hellip; <a href='/entry.php?id=2143'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2136'><img src='/resizedImages/500x280-crop-visap15_catalogcover-2.png' alt='' title='Exhibition Opening - IEEE VIS 2015 Arts Program (VISAP&rsquo;15)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2136'>Exhibition Opening - IEEE VIS 2015 Arts Program (VISAP&rsquo;15)</a></strong><br>
+			<a href='/entry.php?id=2473'>Angus Forbes</a>, <a href='/entry.php?id=188'>Daria Tsoupikova</a><br>
+			October 27, 2015<br><br>
+			The IEEE VIS 2015 Arts Program, or VISAP&rsquo;15, showcases innovative artwork and research that explores the exciting and increasingly prominent&hellip; <a href='/entry.php?id=2136'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2144'><img src='/resizedImages/500x280-crop-cavewithstudents1999_sm.png' alt='' title='Innovative Discoveries From the University of Illinois' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2144'>Innovative Discoveries From the University of Illinois</a></strong><br>
+						October 27, 2015<br><br>
+			The Office of the Vice President for Research of the University of Illinois has published the report &ldquo;Innovative Discoveries From the&hellip; <a href='/entry.php?id=2144'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2141'><img src='/resizedImages/500x280-crop-darksky.png' alt='' title='EVL has leadership roles in international IEEE Visualization 2015 conference' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2141'>EVL has leadership roles in international IEEE Visualization 2015 conference</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=2473'>Angus Forbes</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=188'>Daria Tsoupikova</a>, <a href='/entry.php?id=2052'>G. Elisabeta Marai</a>, <a href='/entry.php?id=285'>Jillian Aurisano</a>, <a href='/entry.php?id=302'>Kyle Almryde</a>, <a href='/entry.php?id=157'>Laura Wolf</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=122'>Mike Papka</a><br>
+			October 25, 2015 - October 30, 2015<br><br>
+			The week of October 25, 2015, the international IEEE Visualization (VIS) 2015 conference is being held in downtown Chicago, and the Electronic&hellip; <a href='/entry.php?id=2141'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2140'><img src='/resizedImages/500x280-crop-carolina001-2.jpg' alt='' title='EVL Alumna Opens Emerging Analytics Center at University of Arkansas' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2140'>EVL Alumna Opens Emerging Analytics Center at University of Arkansas</a></strong><br>
+						October 16, 2015 - October 17, 2015<br><br>
+			EVL PhD alumna and director of the University of Arkansas Little Rock&rsquo;s Emerging Analytics Center, Carolina Cruz-Neira hosts the inaugural open&hellip; <a href='/entry.php?id=2140'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2138'><img src='/resizedImages/500x280-crop-scott-barrows.jpg' alt='' title='Medical Simulation and Interactive Education at the Jump Center' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2138'>Medical Simulation and Interactive Education at the Jump Center</a></strong><br>
+						October 14, 2015<br><br>
+			Scott Barrows, Director of Simulation Programming at the Jump Trading Simulation &amp; Education Center in Peoria, Illinois presents his team&rsquo;s&hellip; <a href='/entry.php?id=2138'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2142'><img src='/resizedImages/500x280-crop-chi-bsi-catherine-cook-school-ct0029557646-20150624.jpg' alt='' title='One Chicago grade school is transforming education with EVL technologies' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2142'>One Chicago grade school is transforming education with EVL technologies</a></strong><br>
+			<a href='/entry.php?id=273'>JD Pirtle</a><br>
+			October 13, 2015<br><br>
+			JD Pirtle, a UIC alumnus with an MFA in Electronic Visualization from the College of Architecture and the Arts (now renamed College of Architecture&hellip; <a href='/entry.php?id=2142'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2135'><img src='/misc/default_500x280.png' alt='' title='&ldquo;Show Me Data.&rdquo; Observational Study of a Conversational Interface in Visual Data Exploration' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2135'>&ldquo;Show Me Data.&rdquo; Observational Study of a Conversational Interface in Visual Data Exploration</a></strong><br>
+			<a href='/entry.php?id=285'>Jillian Aurisano</a><br>
+			October 7, 2015<br><br>
+			EVL PhD candidate, Jillian Aurisano present her research in data visualization and exploration using a conversational interface. Visual data&hellip; <a href='/entry.php?id=2135'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2132'><img src='/resizedImages/500x280-crop-mlewis_techmtg.png' alt='' title='From Disasterville to Semantic Big Data Queries and Distributed Computing; Michael Lewis's PhD Journey' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2132'>From Disasterville to Semantic Big Data Queries and Distributed Computing; Michael Lewis's PhD Journey</a></strong><br>
+			<a href='/entry.php?id=45'>Michael Lewis</a><br>
+			September 23, 2015<br><br>
+			EVL PhD candidate, Michael Lewis summarizes his research contributions at EVL with an in depth view of his PhD research and summer internship at&hellip; <a href='/entry.php?id=2132'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2131'><img src='/resizedImages/500x280-crop-evl_ctabus.jpg' alt='' title='UIC&rsquo;s CAVE2&trade; showcased on CTA buses' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2131'>UIC&rsquo;s CAVE2&trade; showcased on CTA buses</a></strong><br>
+						September 17, 2015<br><br>
+			As you walk through downtown Chicago, don&rsquo;t be surprised to advertisements for the University of Illinois at Chicago (UIC) popping up on city&hellip; <a href='/entry.php?id=2131'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2130'><img src='/resizedImages/500x280-crop-alibabagroup_logo.png' alt='' title='When Big Data Meets Cyber-Crime' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2130'>When Big Data Meets Cyber-Crime</a></strong><br>
+						September 15, 2015<br><br>
+			Senior data analyst, Wei Xie in the Alibaba Safety and Security Intelligence Center will present Alibaba's work on large-scale data visualization and&hellip; <a href='/entry.php?id=2130'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2129'><img src='/resizedImages/500x280-crop-virtual_harlem.jpg' alt='' title='Virtual Harlem Lives On' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2129'>Virtual Harlem Lives On</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a><br>
+			August 23, 2015<br><br>
+			The Electronic Visualization Laboratory (EVL) at University of Illinois at Chicago was an early participant in the project &ldquo;Virtual&hellip; <a href='/entry.php?id=2129'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2128'><img src='/resizedImages/500x280-crop-data-duplication.jpg' alt='' title='Data-Intensive Remote Collaboration using Scalable Visualizations in Heterogeneous Display Spaces' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2128'>Data-Intensive Remote Collaboration using Scalable Visualizations in Heterogeneous Display Spaces</a></strong><br>
+			<a href='/entry.php?id=290'>Thomas Marrinan</a><br>
+			August 21, 2015<br><br>
+			PhD candidate Tommy Marrinan defends his dissertation on remote collaboration research. Committee: Andrew Johnson (chair and advisor) Luc Renambot&hellip; <a href='/entry.php?id=2128'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2118'><img src='/resizedImages/500x280-crop-evl-carlos-josh-brook.jpg' alt='' title='Computer Research Association Funds UIC Computer Science Undergrads to Pursue Careers in Research' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2118'>Computer Research Association Funds UIC Computer Science Undergrads to Pursue Careers in Research</a></strong><br>
+			<a href='/entry.php?id=2119'>Brook Habtegiorgis</a>, <a href='/entry.php?id=2120'>Carlos Uribe</a>, <a href='/entry.php?id=2052'>G. Elisabeta Marai</a>, <a href='/entry.php?id=2099'>Joshua Rodriguez</a><br>
+			August 6, 2015<br><br>
+			UIC Computer Science Undergraduate Students&rsquo; Potential Accelerates with a Special Mentorship August 6, 2015 UIC Computer Science (CS)&hellip; <a href='/entry.php?id=2118'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2117'><img src='/resizedImages/500x280-crop-spaceattributecube_vis.png' alt='' title='Visualization of time-series biological data with spatial and non-spatial features embedded' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2117'>Visualization of time-series biological data with spatial and non-spatial features embedded</a></strong><br>
+			<a href='/entry.php?id=2076'>Chihua Ma</a><br>
+			July 22, 2015<br><br>
+			EVL PhD candidate Chihua Ma presents approaches for visualizing biological data at EVL's summer tech talks. As biological systems dynamically change&hellip; <a href='/entry.php?id=2117'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2114'><img src='/resizedImages/500x280-crop-anl_mira.png' alt='' title='Data Movement Optimization Framework (OPTIQ)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2114'>Data Movement Optimization Framework (OPTIQ)</a></strong><br>
+			<a href='/entry.php?id=294'>Huy A. Bui</a><br>
+			July 15, 2015<br><br>
+			EVL PhD candidate Huy Bui presents his dissertation focusing on the optimization of data movement. Committee: Andrew Johnson, Chair and Advisor Ugo&hellip; <a href='/entry.php?id=2114'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2115'><img src='/misc/default_500x280.png' alt='' title='Visual Encodings for Spectral Information in Turbulent Combustion Simulation Datasets, in an Immersive Environment' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2115'>Visual Encodings for Spectral Information in Turbulent Combustion Simulation Datasets, in an Immersive Environment</a></strong><br>
+						July 15, 2015<br><br>
+			EVL Research Experience Undergraduates Brook Habtegiorgis and Evan Kreft present their research in turbulent combustion concepts, equations and&hellip; <a href='/entry.php?id=2115'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2110'><img src='/resizedImages/500x280-crop-vmateevitsi_techweek.png' alt='' title='Victor Mateevitsi to speak at Techweek Chicago' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2110'>Victor Mateevitsi to speak at Techweek Chicago</a></strong><br>
+			<a href='/entry.php?id=281'>Victor Mateevitsi</a><br>
+			June 26, 2015<br><br>
+			Techweek is a national organization that hosts week-long events - including a 2-day technology conference and expo in several major cities, to engage&hellip; <a href='/entry.php?id=2110'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2111'><img src='/resizedImages/500x280-crop-darksky00003.png' alt='' title='Halos in a Dark Sky: Visualizing the Universe' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2111'>Halos in a Dark Sky: Visualizing the Universe</a></strong><br>
+			<a href='/entry.php?id=302'>Kyle Almryde</a><br>
+			June 24, 2015<br><br>
+			EVL PhD candidate and Research Assistant, Kyle Almryde discusses the Dark Sky Universe simulation and the development of a Dark Matter Halo&hellip; <a href='/entry.php?id=2111'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2108'><img src='/resizedImages/500x280-crop-sage2-displays-cybercommons.png' alt='' title='Data-Intensive Remote Collaboration using Scalable Visualizations in Heterogeneous Display Spaces' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2108'>Data-Intensive Remote Collaboration using Scalable Visualizations in Heterogeneous Display Spaces</a></strong><br>
+			<a href='/entry.php?id=290'>Thomas Marrinan</a><br>
+			June 17, 2015<br><br>
+			EVL PhD candidate, Thomas Marrinan presents his research on SAGE2 (Scalable Amplified Group Environment). Abstract: Commercial software, such as&hellip; <a href='/entry.php?id=2108'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2106'><img src='/resizedImages/500x280-crop-joelputnam.jpg' alt='' title='Forum Studio and Mu/Dai discuss the intersection of digital UX space and Architecture' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2106'>Forum Studio and Mu/Dai discuss the intersection of digital UX space and Architecture</a></strong><br>
+						June 10, 2015<br><br>
+			Representatives from Forum Studio and Mu/Dai present their company&rsquo;s projects, as well as a collaborative research project focusing on the&hellip; <a href='/entry.php?id=2106'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2107'><img src='/resizedImages/500x280-crop-linked-view-screenshot.png' alt='' title='Exploring BioPax and the Pathway Commons API Using Linked Views' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2107'>Exploring BioPax and the Pathway Commons API Using Linked Views</a></strong><br>
+			<a href='/entry.php?id=303'>Paul Murray</a><br>
+			June 10, 2015<br><br>
+			PhD candidate Paul Murray presents his research in biological data visualization techniques. The Pathway Commons web service brings together several&hellip; <a href='/entry.php?id=2107'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2100'><img src='/resizedImages/500x280-crop-nishimotouserinterfaceresearch.png' alt='' title='SAGE2 Multi-User Touch Centric Interface  and Unity3D in CAVE2: First Steps in a More Interactive Virtual World' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2100'>SAGE2 Multi-User Touch Centric Interface  and Unity3D in CAVE2: First Steps in a More Interactive Virtual World</a></strong><br>
+			<a href='/entry.php?id=270'>Arthur Nishimoto</a><br>
+			June 3, 2015<br><br>
+			EVL PhD candidate, Arthur Nishimoto presents his research in user-interface design for multi-user touch display environments, followed by an overview&hellip; <a href='/entry.php?id=2100'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2096'><img src='/resizedImages/500x280-crop-steve_haroz.jpg' alt='' title='ISOTYPE Visualization – Working Memory, Performance, and Engagement with Pictographs (S. Haroz, Northwestern University)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2096'>ISOTYPE Visualization – Working Memory, Performance, and Engagement with Pictographs (S. Haroz, Northwestern University)</a></strong><br>
+						May 27, 2015<br><br>
+			Northwestern University postdoctoral research associate, Steve Haroz presents his research in brain perception of visual information at EVL&hellip; <a href='/entry.php?id=2096'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2097'><img src='/resizedImages/500x280-crop-starwars-vectorgeneral.jpg' alt='' title='As UIC celebrates 50 years, alumni list top 50 events: Star Wars CGI is one of them' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2097'>As UIC celebrates 50 years, alumni list top 50 events: Star Wars CGI is one of them</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=295'>Steve Heminover</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, Larry Cuba<br>
+			May 27, 2015<br><br>
+			To celebrate the 50th anniversary of the University of Illinois at Chicago (UIC) - back when it was named University of Illinois Chicago Circle&hellip; <a href='/entry.php?id=2097'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2095'><img src='/resizedImages/500x280-crop-chi-timothy-killeen-aj-ct0028631832-20150507.jpg' alt='' title='New U of I President Killeen visits UIC Electronic Visualization Laboratory as part of a campus tour' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2095'>New U of I President Killeen visits UIC Electronic Visualization Laboratory as part of a campus tour</a></strong><br>
+						May 16, 2015<br><br>
+			EDITOR&rsquo;S NOTE: On May 5, 2015, Timothy L. Killeen, the new president of the University of Illinois, toured UIC accompanied by a reporter from&hellip; <a href='/entry.php?id=2095'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2092'><img src='/resizedImages/500x280-crop-michael-lewis.jpg' alt='' title='A Path Approach to Processing and Retrieving Large Scale Linked Data within a Super-Computing Environment' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2092'>A Path Approach to Processing and Retrieving Large Scale Linked Data within a Super-Computing Environment</a></strong><br>
+			<a href='/entry.php?id=45'>Michael Lewis</a><br>
+			May 14, 2015<br><br>
+			EVL PhD candidate, Michael Lewis presents his thesis research: Thursday, May 14, 2015, 11:00 AM EVL Cyber-Commons Room 2068 ERF Abstract Many large&hellip; <a href='/entry.php?id=2092'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2091'><img src='/resizedImages/500x280-crop-katekeahy_anl.jpg' alt='' title='&ldquo;Chameleon&rdquo; Science Cloud - Kate Keahy, Argonne National Laboratory' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2091'>&ldquo;Chameleon&rdquo; Science Cloud - Kate Keahy, Argonne National Laboratory</a></strong><br>
+						May 13, 2015<br><br>
+			Kate Keahey, Senior Fellow of the Computation Institute, University of Chicago, and a Scientist in the Mathematics and Computer Science Division of&hellip; <a href='/entry.php?id=2091'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2090'><img src='/resizedImages/500x280-crop-c_de_laat-dec-2014.jpg' alt='' title='Developments in Smart and Secure Cyber Infrastructure for Science' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2090'>Developments in Smart and Secure Cyber Infrastructure for Science</a></strong><br>
+						May 5, 2015<br><br>
+			EVL visting scholar and professor at the University of Amsterdam, Dr. Cees de Laat presents research conducted by the System and Network Engineering&hellip; <a href='/entry.php?id=2090'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2088'><img src='/resizedImages/500x280-crop-130312-victor-coe-ronhernandez.jpg' alt='' title='UIC/EVL Victor Mateevitsi Receives 2015 UIC Dean&rsquo;s Scholar Award' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2088'>UIC/EVL Victor Mateevitsi Receives 2015 UIC Dean&rsquo;s Scholar Award</a></strong><br>
+			<a href='/entry.php?id=281'>Victor Mateevitsi</a><br>
+			April 30, 2015<br><br>
+			Victor Mateevitsi, a PhD student in the Computer Science Department and a Research Assistant in the Electronic Visualization Laboratory (EVL) at the&hellip; <a href='/entry.php?id=2088'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2089'><img src='/resizedImages/500x280-crop-aurisano-jillian-may2012_ljl9773-2-small-2.jpg' alt='' title='UIC/EVL Jillian Aurisano Receives 2015 UIC Chancellor&rsquo;s Student Service and Leadership Award' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2089'>UIC/EVL Jillian Aurisano Receives 2015 UIC Chancellor&rsquo;s Student Service and Leadership Award</a></strong><br>
+			<a href='/entry.php?id=285'>Jillian Aurisano</a><br>
+			April 30, 2015<br><br>
+			Jillian Aurisano, a PhD student in the Computer Science Department and a Research Assistant in the Electronic Visualization Laboratory (EVL) at the&hellip; <a href='/entry.php?id=2089'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2082'><img src='/resizedImages/500x280-crop-andy_johnson_podcast.jpg' alt='' title='Andrew Johnson, UIC/EVL Director of Research, on Radio panel discussion &ldquo;Talking Science Fiction&rdquo;' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2082'>Andrew Johnson, UIC/EVL Director of Research, on Radio panel discussion &ldquo;Talking Science Fiction&rdquo;</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a><br>
+			April 22, 2015<br><br>
+			APRIL 22, 2015 - Andrew E. Johnson, UIC Computer Science associate professor and Electronic Visualization Laboratory director of research&hellip; <a href='/entry.php?id=2082'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2083'><img src='/resizedImages/500x280-crop-iitvis_articulateslide.jpg' alt='' title='In the Loop: Maxine D. Brown' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2083'>In the Loop: Maxine D. Brown</a></strong><br>
+			<a href='/entry.php?id=178'>Maxine Brown</a><br>
+			April 21, 2015<br><br>
+			EVL Director, Maxine D. Brown presents EVL's latest research in collaborative tools and technologies at Chicago's Illinois Institute of Technology&hellip; <a href='/entry.php?id=2083'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2079'><img src='/resizedImages/500x280-crop-tamaramunzner-ubcsynergy2010nov.png' alt='' title='Visualization Analysis and Design, Dr. Tamara Munzner' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2079'>Visualization Analysis and Design, Dr. Tamara Munzner</a></strong><br>
+						April 9, 2015<br><br>
+			Thursday, April 9th 11:00 am - noon Room 1000, SEO (851 S. Morgan) Dr. Tamara Munzner, professor University of British Columbia presents her&hellip; <a href='/entry.php?id=2079'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2081'><img src='/resizedImages/500x280-crop-710entrancesuperiorbuilding-4.jpg' alt='' title='The Global StarLight Software Defined Networking Exchange (SDX): A Novel Advanced International Communications Facility' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2081'>The Global StarLight Software Defined Networking Exchange (SDX): A Novel Advanced International Communications Facility</a></strong><br>
+						March 26, 2015<br><br>
+			Chicago, IL - March 26, 2015 A five-year grant to develop an international Software Defined Networking Exchange (SDX) at the StarLight&hellip; <a href='/entry.php?id=2081'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2080'><img src='/resizedImages/500x280-crop-cityworks.jpg' alt='' title='UI LABS Announces CityWorks: UIC is a Founding Member' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2080'>UI LABS Announces CityWorks: UIC is a Founding Member</a></strong><br>
+						March 23, 2015<br><br>
+			On March 23, 2015, UI LABS announced a new initiative called &ldquo;CityWorks&rdquo; to address urban infrastructure challenges that face Chicago and&hellip; <a href='/entry.php?id=2080'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2075'><img src='/resizedImages/500x280-crop-timjohnson.jpg' alt='' title='Tim Johnson (UIC Survey Research Laboratory) Presents the Basics of Research Design, User Studies and Surveys' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2075'>Tim Johnson (UIC Survey Research Laboratory) Presents the Basics of Research Design, User Studies and Surveys</a></strong><br>
+						March 18, 2015<br><br>
+			Wednesday, March 18, 2015 1:00pm - 2:00pm Timothy Johnson, PhD, is a professor in the Department of Public Administration in the UIC College of Urban&hellip; <a href='/entry.php?id=2075'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2073'><img src='/resizedImages/500x280-crop-chris-brown_pianistcomposer.jpg' alt='' title='AES@UIC March Meeting - &ldquo;Supercollider Software for Live, Interactive Performance and Improvisation&rdquo;' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2073'>AES@UIC March Meeting - &ldquo;Supercollider Software for Live, Interactive Performance and Improvisation&rdquo;</a></strong><br>
+						March 13, 2015 - March 31, 2015<br><br>
+			Professor Chris Brown, director of the Mills Center of Contemporary Music will be present &ldquo;Supercollider Software for Live, Interactive&hellip; <a href='/entry.php?id=2073'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2072'><img src='/resizedImages/500x280-crop-v_mateevisti.jpg' alt='' title='UIC/EVL Victor Mateevitsi participates in Innovation U' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2072'>UIC/EVL Victor Mateevitsi participates in Innovation U</a></strong><br>
+			<a href='/entry.php?id=281'>Victor Mateevitsi</a><br>
+			February 26, 2015<br><br>
+			Victor Mateevitsi is one of the speakers participating in this evening’s Innovation U, which is part of Chicago Inno&rsquo;s Winter Event Series&hellip; <a href='/entry.php?id=2072'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2071'><img src='/resizedImages/500x280-crop-vmateevitsi_oscar.jpg' alt='' title='UIC grad student Victor Mateevitsi attends Academy Awards for Scientific and Technical Awards' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2071'>UIC grad student Victor Mateevitsi attends Academy Awards for Scientific and Technical Awards</a></strong><br>
+			<a href='/entry.php?id=281'>Victor Mateevitsi</a><br>
+			February 20, 2015<br><br>
+			EDITOR&rsquo;S NOTE: While most of us will enjoy watching the Academy Awards this coming Sunday evening, some Oscars were already presented to&hellip; <a href='/entry.php?id=2071'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2058'><img src='/resizedImages/500x280-crop-liz-marai-img_1230.jpg' alt='' title='EVL Announces New Faculty Member: G. Elisabeta Marai' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2058'>EVL Announces New Faculty Member: G. Elisabeta Marai</a></strong><br>
+						February 3, 2015<br><br>
+			G. Elisabeta (Liz) Marai, PhD, has joined the faculty of the Computer Science Department and the Electronic Visualization Laboratory (EVL) at the&hellip; <a href='/entry.php?id=2058'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2051'><img src='/resizedImages/500x280-crop-articulate_eager.jpg' alt='' title='UIC &ldquo;Articulate&rdquo; cited as 1 of 10 cool network and computing research projects' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2051'>UIC &ldquo;Articulate&rdquo; cited as 1 of 10 cool network and computing research projects</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=285'>Jillian Aurisano</a>, Barbara Di Eugenio, Leland Wilkerson<br>
+			January 23, 2015<br><br>
+			EDITOR&rsquo;S NOTE: Network World, published by IDG (International Data Group) company, is the premier provider of information, intelligence and&hellip; <a href='/entry.php?id=2051'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<!-- End List List -->
+	</table>
+</div>
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Year:</strong>
+		<a href='/list.php?id=3&amp;year=2020'>2020</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2019'>2019</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2018'>2018</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2017'>2017</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2016'>2016</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2015'><strong>2015</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2014'>2014</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2013'>2013</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2012'>2012</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2011'>2011</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2010'>2010</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2009'>2009</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2008'>2008</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2007'>2007</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2006'>2006</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2005'>2005</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2004'>2004</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2003'>2003</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2002'>2002</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2001'>2001</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2000'>2000</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1999'>1999</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1998'>1998</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1997'>1997</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1996'>1996</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1995'>1995</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1994'>1994</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1993'>1993</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1992'>1992</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1987'>1987</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1979'>1979</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1976'>1976</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1975'>1975</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1974'>1974</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1973'>1973</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<!-- End List -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

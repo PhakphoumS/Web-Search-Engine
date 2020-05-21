@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Entry -->
+<table id='entry_area' class='fixedTable'>
+	<tr>
+		<td style='width:676px;'>
+			<div id='entry_info'>
+<!-- Begin Entry Info -->
+<h3>UIC Electronic Visualization Laboratory to be Featured in &ldquo;Chicago New Media 1973-1992&rdquo; Exhibition</h3>
+<div id='entry_image_large'><img style='left:95px;' src='/resizedImages/1280x720-spiral5ptl_danielsandin.jpg' alt='' title='UIC Electronic Visualization Laboratory to be Featured in &ldquo;Chicago New Media 1973-1992&rdquo; Exhibition' width='450' height='360'></div>
+<span class='smallText'>Dan Sandin, Tom DeFanti, and Mimi Shevitz, Spiral PTL, Video, 1980, In the collections of the Museum of Modern Art&rsquo;s video art and the School of the Art Institute of Chicago&rsquo;s Video Data Bank.</span><br><br>
+<div class='entry_content'>
+	<strong>Participants:</strong> <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br><br>
+<!-- Begin Entry Description -->
+OCTOBER 15, 2018 - &ldquo;Chicago New Media 1973-1992&rdquo; is a public exhibition, to be held November 1 - December 15, 2018, that illuminates the largely untold story of Chicago&rsquo;s computer-based art and design legacy, and provides new historical understanding of the artists and organizations that contributed to digital art and technology in the latter half of the 20th Century. The Electronic Visualization Laboratory (EVL) at the University of Illinois at Chicago (UIC) is prominently featured. The exhibition spans the dates EVL was founded (1973) as a joint effort of the UIC Computer Science (CS) department and the School of Art and Design, through EVL&rsquo;s introduction of the CAVE&trade; automatic virtual environment (1992).<br><br>
+The &ldquo;Chicago New Media 1973-1992&rdquo; exhibition is part of Terra Foundation&rsquo;s major citywide celebration of the unique and vital role Chicago plays as America&rsquo;s crossroads of creativity and commerce. It is curated by VGA Gallery, an art organization devoted to video games and new media, and will be held at Gallery 400, 400 South Peoria St., Chicago, IL 60607. <a href="https://www.artdesignchicago.org/events/chicago-new-media-1973-1992">More information.</a><br><br>
+On November 1, 2018, 2:00-4:00pm, &ldquo;Chicago New Media&rdquo; will host a Symposium, to include EVL co-founders and professors emeritus Tom DeFanti (CS) and Dan Sandin (Art & Design). Reservations are free, but REQUIRED. <a href="https://www.artdesignchicago.org/events/chicago-new-media-symposium">Information.</a><br><br>
+On November 1, 2018, 5:00-8:00pm, &ldquo;Chicago New Media 1973-1992&rdquo; will host an opening event. Exhibiting artists and guests from near and far plan to attend. <a href="https://www.artdesignchicago.org/events/chicago-new-media-exhibition-opening">Information.</a><br><br>
+On November 7, 2018, 6:00-7:30pm, &ldquo;Chicago New Media&rdquo; is organizing a &ldquo;CAVE2&trade; Demonstration with Dan Sandin&rdquo; to be held at EVL. Sandin will demo his experiential artwork &ldquo;Particle Dreams in Spherical Harmonics&rdquo; in the CAVE2 hybrid-reality environment. Reservations are free, but REQUIRED. <a href="https://www.artdesignchicago.org/events/cave2-demonstration-with-dan-sandin-and-robert-kooima">Information.</a><br><br>
+<a href="https://www.artdesignchicago.org/">Information on the Terra Foundation&rsquo;s overall citywide art and design show.</a><br><br>
+<i>CAVE and CAVE2 are trademarks of the University of Illinois Board of Trustees.</i><br><br>
+<!-- End Entry Description -->
+	<strong>Date:</strong> October 15, 2018
+</div>
+<!-- End Entry Info -->
+			</div>
+		</td>
+		<td style='width:374px;'>
+			<div id='entry_sidebar'>
+<!-- Begin Entry Sidebar -->
+<div class='entry_content'>
+	<h3>Related Entries</h3>
+	<strong>Directory:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=7'>Daniel J. Sandin</a></li>
+		<li><a href='/entry.php?id=6'>Thomas A. DeFanti</a></li>
+	</ul><br>
+	<strong>Events:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2412'>Reader reviews &ldquo;Chicago New Media 1973-1992&ldquo; exhibition featuring UIC Electronic Visualization Laboratory</a></li>
+	</ul><br>
+	<strong>Research:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2016'>CAVE2: Next-Generation Virtual-Reality and Visualization Hybrid Environment for Immersive Simulation and Information Analysis</a></li>
+	</ul><br>
+	<h3>Related Categories</h3>
+	<ul>
+		<li><a href='/category.php?id=17&amp;related=3'>Multimedia</a></li>
+		<li><a href='/category.php?id=25&amp;related=3'>Video / Film</a></li>
+		<li><a href='/category.php?id=27&amp;related=3'>Visualization</a></li>
+		<li><a href='/category.php?id=28&amp;related=3'>VR</a></li>
+		<li><a href='/category.php?id=29&amp;related=3'>VR Art</a></li>
+	</ul>
+</div>
+<!-- End Entry Sidebar-->
+			</div>
+		</td>
+	</tr>
+</table>
+<!-- End Entry -->
+<script>
+	// Making both divs the same height is much easier in JavaScript
+	var entryInfo = document.getElementById("entry_info");
+	var entrySidebar = document.getElementById("entry_sidebar");
+	
+	if (entryInfo && entrySidebar) {
+		var maxHeight = Math.max(entryInfo.offsetHeight, entrySidebar.offsetHeight)-20;
+		entryInfo.style.height = maxHeight+"px";
+		entrySidebar.style.height = maxHeight+"px";
+	}
+</script>
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

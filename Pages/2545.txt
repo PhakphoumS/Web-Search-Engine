@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin List -->
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Year:</strong>
+		<a href='/list.php?id=4&amp;year=2020'>2020</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2019'>2019</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2018'>2018</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2017'>2017</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2016'>2016</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2015'>2015</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2014'>2014</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2013'>2013</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2012'>2012</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2011'>2011</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2010'>2010</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2009'>2009</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2008'>2008</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2007'>2007</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2006'>2006</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2005'>2005</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2004'>2004</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2003'><strong>2003</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2002'>2002</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2001'>2001</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2000'>2000</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1999'>1999</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1998'>1998</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1997'>1997</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1996'>1996</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1995'>1995</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1994'>1994</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1993'>1993</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1992'>1992</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1991'>1991</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1990'>1990</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1989'>1989</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1987'>1987</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1985'>1985</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1984'>1984</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1977'>1977</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1976'>1976</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<div id='list_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin List List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1369'><img src='/resizedImages/500x280-crop-seismic_wave_vis.png' alt='' title='Visualizing Seismic Wave Propagation' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			van Keken, P., Tromp, J., Komatitsch, D., <a href='/entry.php?id=169'>Venkataraman, S.</a>, <a href='/entry.php?id=213'>Schwarz, N.</a>, <a href='/entry.php?id=192'>Renambot, L.</a>, <a href='/entry.php?id=21'>Leigh, J.</a><br>
+			<strong><a href='/entry.php?id=1369'>Visualizing Seismic Wave Propagation</a></strong><br>
+			<em>Eos. Trans. AGU, 84(46), Fall Meet. Suppl., Abstract ED31E-01</em><br>
+			December 8, 2003<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1383'><img src='/misc/default_500x280.png' alt='' title='Using 3D Glyph Visualization to Explore Real-time Seismic Data on Immersive and High-resolution Display Systems' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=192'>Renambot, L.</a>, <a href='/entry.php?id=166'>Nayak, A.</a>, Lindquist, K., Kilb, D., Newman, R., Vernon, F.<br>
+			<strong><a href='/entry.php?id=1383'>Using 3D Glyph Visualization to Explore Real-time Seismic Data on Immersive and High-resolution Display Systems</a></strong><br>
+			<em>Eos Trans. AGU, 84(46), Fall Meet. Suppl., Abstract xxxxx-xx, 2003</em><br>
+			December 7, 2003<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1513'><img src='/resizedImages/500x280-crop-youngjoo_thesis.jpg' alt='' title='A Layered Architecture Supporting The Collaborative Design Of Virtual Environments For Science Inquiry' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=30'>Cho, Y.</a><br>
+			<strong><a href='/entry.php?id=1513'>A Layered Architecture Supporting The Collaborative Design Of Virtual Environments For Science Inquiry</a></strong><br>
+			<em>EVL, PhD Dissertation</em><br>
+			October 1, 2003<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1359'><img src='/resizedImages/500x280-crop-scaffolding_palmtrees.gif' alt='' title='Scaffolding Children&rsquo;s Scientific Data Collection in a Virtual Field' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=30'>Cho, Y.</a>, <a href='/entry.php?id=16'>Moher, T.</a>, <a href='/entry.php?id=10'> Johnson, A.</a><br>
+			<strong><a href='/entry.php?id=1359'>Scaffolding Children&rsquo;s Scientific Data Collection in a Virtual Field</a></strong><br>
+			<em>VSMM 2003 Conference Proceeding</em><br>
+			September 1, 2003<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1361'><img src='/resizedImages/500x280-crop-kyoung_thesis.jpg' alt='' title='Enhancing Cooperative Work In Amplified Collaboration Environments' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=52'>Park, K.</a><br>
+			<strong><a href='/entry.php?id=1361'>Enhancing Cooperative Work In Amplified Collaboration Environments</a></strong><br>
+			<em>EVL, PhD Dissertation</em><br>
+			September 1, 2003<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1414'><img src='/misc/default_500x280.png' alt='' title='A Framework For Efficient and More Realistic Haptics Applications' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=182'>Luciano, C.</a>, Banerjee, P., <a href='/entry.php?id=6'>DeFanti, T.</a>, Mehrotra, S.<br>
+			<strong><a href='/entry.php?id=1414'>A Framework For Efficient and More Realistic Haptics Applications</a></strong><br>
+			<em>Proceedings of 23rd ASME International Computers and Information Engineering Conference, September 2003, Chicago</em><br>
+			September 1, 2003<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1366'><img src='/resizedImages/500x280-crop-k_timm_disser.jpg' alt='' title='Real-Time View Morphing of Video Streams' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=59'>Timm, K.</a><br>
+			<strong><a href='/entry.php?id=1366'>Real-Time View Morphing of Video Streams</a></strong><br>
+			<em>PhD Dissertation, Doctor of Philosophy in Computer Science, EVL Department of Computer Science</em>, Chiacgo, IL<br>
+			August 1, 2003<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1436'><img src='/resizedImages/500x280-crop-terascope.jpg' alt='' title='TeraScope: Distributed Visual Data Mining of Terascale Data Sets over Photonic Networks' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=170'>Zhang, C.</a>, <a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=6'>DeFanti, T.A.</a>, Mazzucco, M., <a href='/entry.php?id=133'>Grossman, R.</a><br>
+			<strong><a href='/entry.php?id=1436'>TeraScope: Distributed Visual Data Mining of Terascale Data Sets over Photonic Networks</a></strong><br>
+			<em>Journal of Future Generation Computer Systems (FGCS)</em>, vol 19, no 6, Elsevier Science Press, pp. 935-944<br>
+			August 1, 2003<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1437'><img src='/resizedImages/500x280-crop-kitespaper.jpg' alt='' title='Kites flying in and out of space - distributed physically based art on the grid' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=169'>Venkataraman, S.</a>, <a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=73'>Coffin, T.</a><br>
+			<strong><a href='/entry.php?id=1437'>Kites flying in and out of space - distributed physically based art on the grid</a></strong><br>
+			<em>Journal of Future Generation Computer Systems (FGCS)</em>, vol 19, no 6, Elsevier Science Press, pp. 973-982<br>
+			August 1, 2003<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1438'><img src='/resizedImages/500x280-crop-igrid2002logo.gif' alt='' title='Experimental Studies Using Photonic Data Services at iGrid 2002' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=237'>Grossman R.</a>, Gu, Y., Hamelburg, D., Hanley, D., Hong, X., Levera, J., Lillethun, D., Mazzucco, M., Mambretti, J., Weinberger, J.<br>
+			<strong><a href='/entry.php?id=1438'>Experimental Studies Using Photonic Data Services at iGrid 2002</a></strong><br>
+			<em>Journal of Future Generation Computer Systems (FGCS)</em>, vol 19, no 6, Elsevier Science Press, pp. 945-956<br>
+			August 1, 2003<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1352'><img src='/resizedImages/500x280-crop-morphing_karltimm-2.jpg' alt='' title='Real-Time Video View Morphing' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=59'>Timm, K.</a><br>
+			<strong><a href='/entry.php?id=1352'>Real-Time Video View Morphing</a></strong><br>
+			<em>Proceedings of SIGGRAPH 03 : International Conference on Computer Graphics and Interactive Techniques</em>, San Diego, CA, ACM SIGGRAPH<br>
+			July 28, 2003<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1354'><img src='/resizedImages/500x280-crop-vritualfieldgps2.jpg' alt='' title='&ldquo;Field&rdquo; Work' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=16'>Moher, T.</a>, <a href='/entry.php?id=30'>Cho, Y.</a>, Edelson, D., Russell, E.<br>
+			<strong><a href='/entry.php?id=1354'>&ldquo;Field&rdquo; Work</a></strong><br>
+			<em>SIGGRAPH 2003 Educators Program</em>, San Diego, CA<br>
+			July 27, 2003<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1539'><img src='/resizedImages/500x280-crop-inside_out.png' alt='' title='INSIDE_OUT' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=37'>Gotsis, M.</a><br>
+			<strong><a href='/entry.php?id=1539'>INSIDE_OUT</a></strong><br>
+			<em>Submitted as partial fulfillment of the requirements for the degree of Master of Fine Art, Graduate College</em>, University of Illinois at Chicago<br>
+			June 27, 2003<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1353'><img src='/resizedImages/500x280-crop-continum_185.jpg' alt='' title='Impact of Display-rich Environments for Enhancing Task Parallelism and Group Awareness in Advanced Collaborative Environments' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=52'>Park, K.S.</a>, <a href='/entry.php?id=192'>Renambot, L.</a><br>
+			<strong><a href='/entry.php?id=1353'>Impact of Display-rich Environments for Enhancing Task Parallelism and Group Awareness in Advanced Collaborative Environments</a></strong><br>
+			<em>Proceedings of The Global Grid Forum, GGF8 : Workshop on Advanced Collaboration Environments</em>, Seattle, WA<br>
+			June 24, 2003<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1355'><img src='/resizedImages/500x280-crop-wace_optiputer_new.jpg' alt='' title='An Experimental OptIPuter Architecture for Data-Intensive Collaborative Visualization' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=192'>Renambot, L.</a>, <a href='/entry.php?id=6'>DeFanti, T.</a>, <a href='/entry.php?id=178'>Brown, M.</a>, <a href='/entry.php?id=38'>He, E</a>, <a href='/entry.php?id=44'>Krishnaprasad, N.</a>, Meerasa, J., <a href='/entry.php?id=166'>Nayak, A.</a>, <a href='/entry.php?id=52'>Park, K.</a>, <a href='/entry.php?id=183'>Singh, R.</a>, <a href='/entry.php?id=169'>Venkataraman, S.</a>, <a href='/entry.php?id=170'>Zhang, C.</a>, Livingston, D., McLaughlin, M.<br>
+			<strong><a href='/entry.php?id=1355'>An Experimental OptIPuter Architecture for Data-Intensive Collaborative Visualization</a></strong><br>
+			<em>3rd Workshop on Advanced Collaborative Environments (in conjunction with the High Performance Distributed Computing Conference)</em>, Seattle, WA<br>
+			June 22, 2003<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1440'><img src='/resizedImages/500x280-crop-igrid2002brownneegers.jpeg' alt='' title='3rd Biennial International Grid Applications-driven Testbed Event, Amsterdam, The Netherlands, 23-26 September 2002' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=6'>Edited by DeFanti, T.A.</a>, <a href='/entry.php?id=178'>Brown, M.</a>, de Laat, C.<br>
+			<strong><a href='/entry.php?id=1440'>3rd Biennial International Grid Applications-driven Testbed Event, Amsterdam, The Netherlands, 23-26 September 2002</a></strong><br>
+			<em>Future Generation Computer Systems</em>, vol 19, no 6, Elsevier Science B.V.<br>
+			June 1, 2003<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1405'><img src='/misc/default_500x280.png' alt='' title='Measuring the Effectiveness of Presence and Immersive Tendencies on the Conceptual Design Review Process' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			Banerjee, P., Basu-Mallick, D.<br>
+			<strong><a href='/entry.php?id=1405'>Measuring the Effectiveness of Presence and Immersive Tendencies on the Conceptual Design Review Process</a></strong><br>
+			<em>ASME Journal of Computing and Information Science in Engineering</em>, vol 3, no 2, pp. 166-169<br>
+			February 1, 2003<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1349'><img src='/resizedImages/500x280-crop-facetrackerscreenshot.png' alt='' title='Real-time Camera-based Face Detection using a Modified LAMSTAR Neural Network System' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=35'>Girado, J.</a>, <a href='/entry.php?id=7'>Sandin, D.</a>, <a href='/entry.php?id=6'>DeFanti, T.</a>, <a href='/entry.php?id=157'>Wolf, L.</a><br>
+			<strong><a href='/entry.php?id=1349'>Real-time Camera-based Face Detection using a Modified LAMSTAR Neural Network System</a></strong><br>
+			<em>Proceedings of IS&amp;T / SPIE&rsquo;s 15th Annual Symposium Electronic Imaging 2003, Applications of Artificial Neural Networks in Image Processing V</em>, San Jose, California, pp. 20-24<br>
+			January 21, 2003<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1362'><img src='/misc/default_500x280.png' alt='' title='Quanta: a toolkit for high performance data delivery' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=6'>DeFanti, T.</a>, <a href='/entry.php?id=21'>Leigh, J.</a>, Yu, O., <a href='/entry.php?id=44'>Krishnaprasad, N.</a>, <a href='/entry.php?id=33'>Eliason, J.</a>, <a href='/entry.php?id=212'>Alimohideen, J.</a>, <a href='/entry.php?id=38'>He, E.</a><br>
+			<strong><a href='/entry.php?id=1362'>Quanta: a toolkit for high performance data delivery</a></strong><br>
+			<em>Future Generation Computer Systems 1005 (2003)</em>, pp. 1-15<br>
+			January 1, 2003<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1413'><img src='/misc/default_500x280.png' alt='' title='Progress in the Development of a Haptic / Virtual Reality Simulation Program for Scaling and Root Planing' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			Steinberg, A.D., Banerjee, P., Drummond, J., Zefran, M.<br>
+			<strong><a href='/entry.php?id=1413'>Progress in the Development of a Haptic / Virtual Reality Simulation Program for Scaling and Root Planing</a></strong><br>
+			<em>CD ROM Proceddings, National Dentistry Conference, San Antonio, 2003</em><br>
+			January 1, 2003<br>
+		</div>
+	</td>
+</tr>
+<!-- End List List -->
+	</table>
+</div>
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Year:</strong>
+		<a href='/list.php?id=4&amp;year=2020'>2020</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2019'>2019</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2018'>2018</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2017'>2017</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2016'>2016</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2015'>2015</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2014'>2014</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2013'>2013</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2012'>2012</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2011'>2011</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2010'>2010</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2009'>2009</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2008'>2008</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2007'>2007</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2006'>2006</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2005'>2005</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2004'>2004</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2003'><strong>2003</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2002'>2002</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2001'>2001</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2000'>2000</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1999'>1999</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1998'>1998</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1997'>1997</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1996'>1996</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1995'>1995</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1994'>1994</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1993'>1993</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1992'>1992</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1991'>1991</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1990'>1990</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1989'>1989</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1987'>1987</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1985'>1985</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1984'>1984</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1977'>1977</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1976'>1976</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<!-- End List -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

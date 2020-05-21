@@ -1,0 +1,609 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin List -->
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Year:</strong>
+		<a href='/list.php?id=4&amp;year=2020'>2020</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2019'>2019</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2018'>2018</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2017'>2017</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2016'>2016</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2015'>2015</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2014'>2014</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2013'>2013</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2012'>2012</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2011'>2011</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2010'>2010</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2009'>2009</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2008'>2008</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2007'>2007</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2006'><strong>2006</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2005'>2005</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2004'>2004</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2003'>2003</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2002'>2002</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2001'>2001</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2000'>2000</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1999'>1999</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1998'>1998</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1997'>1997</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1996'>1996</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1995'>1995</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1994'>1994</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1993'>1993</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1992'>1992</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1991'>1991</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1990'>1990</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1989'>1989</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1987'>1987</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1985'>1985</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1984'>1984</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1977'>1977</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1976'>1976</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<div id='list_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin List List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1458'><img src='/resizedImages/500x280-crop-nsfnettopology.jpg' alt='' title='AR-PIN / PDC: Flexible Advance Reservation of Intradomain and Interdomain Lightpaths' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=38'>He, E.</a>, <a href='/entry.php?id=149'>Wang, X.</a>, <a href='/entry.php?id=209'>Vishwanath, V.</a>, <a href='/entry.php?id=21'>Leigh, J.</a><br>
+			<strong><a href='/entry.php?id=1458'>AR-PIN / PDC: Flexible Advance Reservation of Intradomain and Interdomain Lightpaths</a></strong><br>
+			<em>IEEE GLOBECOM 2006</em><br>
+			November 27, 2006<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1472'><img src='/resizedImages/500x280-crop-lambdavisionsage.jpg' alt='' title='High-Performance Dynamic Graphics Streaming for Scalable Adaptive Graphics Environment' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=208'>Jeong, B.</a>, <a href='/entry.php?id=192'>Renambot, L.</a>, <a href='/entry.php?id=227'>Jagodic, R.</a>, <a href='/entry.php?id=183'>Singh, R.</a>, <a href='/entry.php?id=191'>Aguilera, J.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=21'>Leigh, J.</a><br>
+			<strong><a href='/entry.php?id=1472'>High-Performance Dynamic Graphics Streaming for Scalable Adaptive Graphics Environment</a></strong><br>
+			<em>Proceedings of SC06</em>, Tampa, FL<br>
+			November 11, 2006<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1470'><img src='/resizedImages/500x280-crop-skin.jpg' alt='' title='Skin, 2006' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=189'>Kostis, H.</a><br>
+			<strong><a href='/entry.php?id=1470'>Skin, 2006</a></strong><br>
+			<em>Thesis Documentation in Partial Fulfillment of the Requirements for the Degree of Masters in Fine Art in Electronic Visualization</em><br>
+			November 1, 2006<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1473'><img src='/resizedImages/500x280-crop-geowall-cga.jpg' alt='' title='GeoWall: Stereoscopic Visualization for Geoscience Research and Education' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=21'>Leigh, J.</a>,  Morin, P., Van Keken, P.<br>
+			<strong><a href='/entry.php?id=1473'>GeoWall: Stereoscopic Visualization for Geoscience Research and Education</a></strong><br>
+			<em>IEEE Computer Graphics and Applications</em>, vol 26, no 6, pp. 10-14<br>
+			November 1, 2006<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1459'><img src='/resizedImages/500x280-crop-gridnets.png' alt='' title='A Flexible Advance Reservation Model for Multi-Domain WDM Optical Networks' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=38'>He, E.</a>, <a href='/entry.php?id=149'>Wang, X.</a>, <a href='/entry.php?id=21'>Leigh, J.</a><br>
+			<strong><a href='/entry.php?id=1459'>A Flexible Advance Reservation Model for Multi-Domain WDM Optical Networks</a></strong><br>
+			<em>IEEE Communications Society / Create-Net  GRIDNETS 2006</em>, San Jose, CA<br>
+			October 1, 2006<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1460'><img src='/resizedImages/500x280-crop-medicalsage.jpg' alt='' title='Real-time Multi-scale Brain Data Acquisition, Assembly, and Analysis using an End to End OptIPuter' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=183'>Singh, R.</a>, <a href='/entry.php?id=213'>Schwarz, N.</a>, Taesombut, N., Lee, D., <a href='/entry.php?id=208'>Jeong, B.</a>, <a href='/entry.php?id=192'>Renambot, L.</a>, Lin, A., West, R., Otsuka, H., Peltier, S., Martone, M., Nozaki, K., <a href='/entry.php?id=21'>Leigh, J.</a>, Ellisman, M.<br>
+			<strong><a href='/entry.php?id=1460'>Real-time Multi-scale Brain Data Acquisition, Assembly, and Analysis using an End to End OptIPuter</a></strong><br>
+			<em>Future Generation Computer Systems</em>, vol 22, no 8, Elsevier, pp. 1032-1039<br>
+			October 1, 2006<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1461'><img src='/resizedImages/500x280-crop-lambdabridge.jpg' alt='' title='LambdaBridge: A Scalable Architecture for Future Generation Terabit Applications' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=149'>Wang, X.</a>, <a href='/entry.php?id=209'>Vishwanath, V.</a>, <a href='/entry.php?id=208'>Jeong, B.</a>, <a href='/entry.php?id=227'>Jagodic, R.</a>, <a href='/entry.php?id=38'>He, E.</a>, <a href='/entry.php?id=192'>Renambot, L.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=21'>Leigh J.</a><br>
+			<strong><a href='/entry.php?id=1461'>LambdaBridge: A Scalable Architecture for Future Generation Terabit Applications</a></strong><br>
+			<em>Broadnets 2006 - Third International Conference on Broadband Communications, Networks, and Systems</em>, San Jose, CA<br>
+			October 1, 2006<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1462'><img src='/resizedImages/500x280-crop-glivigrid2005.png' alt='' title='The Global Lambda Visualization Facility: An International Ultra-High-Definition Wide-Area Visualization Collaboratory' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=192'>Renambot, L.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=208'>Jeong, B.</a>, <a href='/entry.php?id=227'>Jagodic, R.</a>, <a href='/entry.php?id=213'>Schwarz, N.</a>, <a href='/entry.php?id=219'>Svistula, D.</a>, <a href='/entry.php?id=183'>Singh, R.</a>, <a href='/entry.php?id=191'>Aguilera, J.</a>, <a href='/entry.php?id=149'>Wang, X.</a>, <a href='/entry.php?id=209'>Vishwanatha, V.</a>, <a href='/entry.php?id=4'>Lopez Silva, B.A.</a>, <a href='/entry.php?id=7'>Sandin, D.</a>, <a href='/entry.php?id=199'>Peterka, T.</a>, <a href='/entry.php?id=35'>Girado, J.</a>, <a href='/entry.php?id=222'>Kooima, R.</a>, <a href='/entry.php?id=163'>Gea, J.</a>, <a href='/entry.php?id=49'>Long, L.</a>, <a href='/entry.php?id=23'>Verlo, A.</a>, <a href='/entry.php?id=6'>DeFanti, T.</a>, <a href='/entry.php?id=178'>Brown, M.</a>, Cox, D.<br>
+			<strong><a href='/entry.php?id=1462'>The Global Lambda Visualization Facility: An International Ultra-High-Definition Wide-Area Visualization Collaboratory</a></strong><br>
+			<em>Future Generation Computer Systems</em>, vol 22, no 8, Elsevier, pp. 964-971<br>
+			October 1, 2006<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1463'><img src='/resizedImages/500x280-crop-terabitlan.jpg' alt='' title='The First Functional Demonstration of Optical Virtual Concatenation as a Technique for Achieving Terabit Networking' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=225'>Hirano, A.</a>, <a href='/entry.php?id=192'>Renambot, L.</a>, <a href='/entry.php?id=208'>Jeong, B.</a>, <a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=23'>Verlo, A.</a>, <a href='/entry.php?id=209'>Vishwanath, V.</a>, <a href='/entry.php?id=183'>Singh, R.</a>, <a href='/entry.php?id=191'>Aguilera, J.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=6'>DeFanti, T.</a>, <a href='/entry.php?id=49'>Long, L.</a>, <a href='/entry.php?id=213'>Schwarz, N.</a>, <a href='/entry.php?id=178'>Brown, M.</a>, Nagatsu, N., Tsukishima, Y., Tomizawa, M., Miyamoto, Y., Jinno, M., Takigawa, Y., Ishida, O.<br>
+			<strong><a href='/entry.php?id=1463'>The First Functional Demonstration of Optical Virtual Concatenation as a Technique for Achieving Terabit Networking</a></strong><br>
+			<em>Future Generation Computer Systems</em>, vol 22, no 8, Elsevier, pp. 964-971<br>
+			October 1, 2006<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1468'><img src='/resizedImages/500x280-crop-fgcs-2006-cover.jpg' alt='' title='Special issue on the International Grid (iGrid) 2005 Workshop' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			Smarr, L., <a href='/entry.php?id=178'>Brown, M.</a>, <a href='/entry.php?id=6'>DeFanti, T</a>, de Laat, C. (guest editors)<br>
+			<strong><a href='/entry.php?id=1468'>Special issue on the International Grid (iGrid) 2005 Workshop</a></strong><br>
+			<em>Future Generation Computer Systems, The International Journal of Grid Computing: Theory, Methods and Applications, Elsevier B.V.</em>, vol 22, no 8, Elsevier<br>
+			October 1, 2006<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1469'><img src='/resizedImages/500x280-crop-personalvarrier_user.jpg' alt='' title='Personal Varrier: Autostereoscopic Virtual Reality for Distributed Scientific Visualization' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=199'>Peterka, T.</a>, <a href='/entry.php?id=7'>D. Sandin, D.</a>, <a href='/entry.php?id=163'>Ge, J.</a>, <a href='/entry.php?id=35'>Girado, J.</a>, <a href='/entry.php?id=222'>Kooima, R.</a>, <a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=145'>Thiebaux, M.</a>, <a href='/entry.php?id=6'>DeFanti, T.</a><br>
+			<strong><a href='/entry.php?id=1469'>Personal Varrier: Autostereoscopic Virtual Reality for Distributed Scientific Visualization</a></strong><br>
+			<em>Future Generation Computing Systems</em>, vol 22, no 8, pp. 976-983<br>
+			October 1, 2006<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1488'><img src='/resizedImages/500x280-crop-he_phdthesis.png' alt='' title='A Flexible Advance Reservation Model for Multi-Domain WDM Optical Networks (PhD Thesis)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=38'>He, D.</a><br>
+			<strong><a href='/entry.php?id=1488'>A Flexible Advance Reservation Model for Multi-Domain WDM Optical Networks (PhD Thesis)</a></strong><br>
+			<em>Thesis as partial fulfillment of the requirements of the degree of Doctor of Philosophy in Computer Science of the University of Illinois at Chicago</em><br>
+			September 23, 2006<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1457'><img src='/misc/default_500x280.png' alt='' title='Modeling and Visualizing the Particle Beam in the Rare Isotope Accelerator' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=132'>Rosenthal, C.</a>, Erdelyi, B.<br>
+			<strong><a href='/entry.php?id=1457'>Modeling and Visualizing the Particle Beam in the Rare Isotope Accelerator</a></strong><br>
+			<em>Journal of Undergraduate Research</em>, vol 6, Washington, D.C., U.S. Department of Energy<br>
+			September 1, 2006<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1484'><img src='/resizedImages/500x280-crop-embc06sm.jpg' alt='' title='Measuring Finger Flexion and Activity Trends over a 25 Hour Period using a Low Cost Wireless Device' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			Simone, L., Nappinnai, S., <a href='/entry.php?id=232'>Luo, X.</a>, Jia, Y., Kamper, D.<br>
+			<strong><a href='/entry.php?id=1484'>Measuring Finger Flexion and Activity Trends over a 25 Hour Period using a Low Cost Wireless Device</a></strong><br>
+			<em>In Proceedings of the 28th International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC &rsquo;06)</em>, New York, NY<br>
+			August 30, 2006<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1492'><img src='/resizedImages/500x280-crop-visualcasting-2.jpg' alt='' title='Visualcasting - Scalable Real-Time Image Distribution in Ultra-High Resolution Display Environments' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=208'>Jeong, B.</a><br>
+			<strong><a href='/entry.php?id=1492'>Visualcasting - Scalable Real-Time Image Distribution in Ultra-High Resolution Display Environments</a></strong><br>
+			<em>Electronic Visualization Lab - Preliminary Prospectus</em><br>
+			July 15, 2006<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1464'><img src='/resizedImages/500x280-crop-corelyzer.jpg' alt='' title='Corelyzer: Scalable Geologic Core Visualization using OSX, Java and OpenGL' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=216'>Rao, A.</a>, <a href='/entry.php?id=38'>Chen, Y.</a>, <a href='/entry.php?id=181'>Lee, S.</a>, <a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=192'>Renambot, L.</a><br>
+			<strong><a href='/entry.php?id=1464'>Corelyzer: Scalable Geologic Core Visualization using OSX, Java and OpenGL</a></strong><br>
+			<em>Apple&rsquo;s Worldwide Developers Conference 2006</em><br>
+			July 8, 2006<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1486'><img src='/resizedImages/500x280-crop-krumbholz_fitts.jpg' alt='' title='Tangible User Interface Testing on the LambdaTable: A High Resolution Tiled LCD Tabletop' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=221'>Krumbholz, C.</a>, <a href='/entry.php?id=222'>Kooima, R.</a>, <a href='/entry.php?id=216'>Rao, A.</a><br>
+			<strong><a href='/entry.php?id=1486'>Tangible User Interface Testing on the LambdaTable: A High Resolution Tiled LCD Tabletop</a></strong><br>
+			<em>EVL Technical Paper Publication,  20060721_krumbholz</em><br>
+			July 1, 2006<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1483'><img src='/resizedImages/500x280-crop-mlmtapic.png' alt='' title='Pervasive Web Community Structure Summarization: A Machine Learning Approach' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=232'>Luo, X.</a>, <a href='/entry.php?id=14'>Kenyonm R. V.</a>, Guan, Y.<br>
+			<strong><a href='/entry.php?id=1483'>Pervasive Web Community Structure Summarization: A Machine Learning Approach</a></strong><br>
+			<em>In Proceedings of the 2006 International Conference on Machine Learning; Models, Technologies &amp; Applications (MLMTA &rsquo;06)</em>, Las Vegas, NV<br>
+			June 29, 2006<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1448'><img src='/resizedImages/500x280-crop-heliodisplay.gif' alt='' title='HelioRoom: Problem-solving in a whole class visual simulation' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=16'>Thompson, M., Moher, T.</a><br>
+			<strong><a href='/entry.php?id=1448'>HelioRoom: Problem-solving in a whole class visual simulation</a></strong><br>
+			<em>Proceedings International Conference of the Learning Sciences (ICLS 2006)</em>, Bloomington, IN<br>
+			June 1, 2006<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1474'><img src='/resizedImages/500x280-crop-pan4.jpg' alt='' title='Pan' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=181'>Lee, S.</a><br>
+			<strong><a href='/entry.php?id=1474'>Pan</a></strong><br>
+			<em>MFA Thesis</em><br>
+			May 13, 2006<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1455'><img src='/misc/default_500x280.png' alt='' title='Wide-Area experiments with LambdaStream over dedicated high-bandwidth networks' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=209'>Vishwanath, V.</a>, <a href='/entry.php?id=21'>J. Leigh</a>, <a href='/entry.php?id=38'>E. He</a>, <a href='/entry.php?id=178'>M. D. Brown</a>, <a href='/entry.php?id=49'>L. Long</a>, <a href='/entry.php?id=192'>L. Renambot</a>, <a href='/entry.php?id=23'>A. Verlo</a>, <a href='/entry.php?id=149'>X. Wang</a>, <a href='/entry.php?id=6'>T. A. DeFanti</a><br>
+			<strong><a href='/entry.php?id=1455'>Wide-Area experiments with LambdaStream over dedicated high-bandwidth networks</a></strong><br>
+			<em>IEEE INFOCOM 2006</em><br>
+			April 24, 2006<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1442'><img src='/resizedImages/500x280-crop-pavis.jpg' alt='' title='PAVIS - Pervasive Adaptive Visualization and Interaction Service' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=212'>Alimohideen, J.</a>, <a href='/entry.php?id=192'>Renambot, L.</a>, <a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=237'>Grossman, R.</a>, Sabala, M.<br>
+			<strong><a href='/entry.php?id=1442'>PAVIS - Pervasive Adaptive Visualization and Interaction Service</a></strong><br>
+			<em>CHI 06 Workshop on Information Visualization and Interaction Techniques for Collaboration Across Multiple Displays</em>, Montreal, Canada<br>
+			April 22, 2006<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1445'><img src='/resizedImages/500x280-crop-sagechi06.jpg' alt='' title='Collaborative Visualization using High-Resolution Tiled Displays' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=192'>Renambot, L.</a>, <a href='/entry.php?id=208'>Jeong, B.</a>, <a href='/entry.php?id=227'>Jagodic, R.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=191'>Aguilera, J.</a><br>
+			<strong><a href='/entry.php?id=1445'>Collaborative Visualization using High-Resolution Tiled Displays</a></strong><br>
+			<em>CHI 06 Workshop on Information Visualization and Interaction Techniques for Collaboration Across Multiple Displays</em>, Montreal, Canada<br>
+			April 22, 2006<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1447'><img src='/resizedImages/500x280-crop-embeddedphenomena.jpg' alt='' title='Embedded Phenomena: Supporting Science Learning with Classroom-sized Distributed Simulations' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=16'>Moher, T.</a><br>
+			<strong><a href='/entry.php?id=1447'>Embedded Phenomena: Supporting Science Learning with Classroom-sized Distributed Simulations</a></strong><br>
+			<em>Proceedings ACM Conference on Human Factors in Computing Systems (CHI 2006)</em>, Montreal, Canada<br>
+			April 22, 2006<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1449'><img src='/resizedImages/500x280-crop-roombugs.jpg' alt='' title='RoomBugs: Simulating Insect Infestations in Elementary Classrooms using Commodity Hardware' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=68'>Barron, M.</a>, <a href='/entry.php?id=16'>Moher, T.</a>, Maharry, J.<br>
+			<strong><a href='/entry.php?id=1449'>RoomBugs: Simulating Insect Infestations in Elementary Classrooms using Commodity Hardware</a></strong><br>
+			<em>ACM Conference on Human Factors in Computing Systems (CHI 2006) Extended Abstracts</em>, Montreal, Canada<br>
+			April 22, 2006<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1454'><img src='/resizedImages/500x280-crop-unfoldingthesis.jpg' alt='' title='UNFOLDING SPACEThesis Project Documentation' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=191'>Aguilera, J.</a><br>
+			<strong><a href='/entry.php?id=1454'>UNFOLDING SPACE<br>Thesis Project Documentation</a></strong><br>
+			<em>EVL, MFA Thesis</em><br>
+			April 14, 2006<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1451'><img src='/misc/default_500x280.png' alt='' title='Co-Present Distributed Simulations of Science Phenomena for K-8 Learners: A Technology Designers&rsquo; Round-Robin Symposium' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=16'>Moher, T.</a>, <a href='/entry.php?id=163'>Rogers, Y.</a>, <a href='/entry.php?id=61'>Quintana, C.</a>, Joiner, R.<br>
+			<strong><a href='/entry.php?id=1451'>Co-Present Distributed Simulations of Science Phenomena for K-8 Learners: A Technology Designers&rsquo; Round-Robin Symposium</a></strong><br>
+			<em>Annual Conference of the American Education Research Association</em>, San Francisco, CA<br>
+			April 7, 2006<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1450'><img src='/resizedImages/500x280-crop-roomquake.jpg' alt='' title='RoomQuake: Learning, Self-Concept, and Growth of a Community of Practice in a Persistent Whole-Classroom Simulation' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=16'>Moher, T.</a>, Hussain, S., <a href='/entry.php?id=68'>Barron, M.</a>, <a href='/entry.php?id=22'>Thompson, M.</a><br>
+			<strong><a href='/entry.php?id=1450'>RoomQuake: Learning, Self-Concept, and Growth of a Community of Practice in a Persistent Whole-Classroom Simulation</a></strong><br>
+			<em>Annual Conference of the American Education Research Association</em>, San Francisco, CA<br>
+			April 1, 2006<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1446'><img src='/resizedImages/500x280-crop-2006pdp48.jpg' alt='' title='The First Application-Driven Lambda-on-Demand Field Trial over a US Nationwide Network' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=248'>Tsukinama, Y.</a>, <a href='/entry.php?id=225'>Hirano, A.</a>, Nagatsu, N., Ohara, T., Imajuku, W., Jinno, M., Takigawa, Y., Hagimoto, K., <a href='/entry.php?id=192'>Renambot, L.</a>, <a href='/entry.php?id=208'> Jeong, B.</a>, <a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=6'>DeFanti, T.</a>, <a href='/entry.php?id=23'>Verlo, A.</a>, Winkler, L.<br>
+			<strong><a href='/entry.php?id=1446'>The First Application-Driven Lambda-on-Demand Field Trial over a US Nationwide Network</a></strong><br>
+			<em>Proceedings of OFC / NFOEC 2006 (Optical Fiber Communication/ National Fiber Optic Enginners Conference)</em>, Anaheim, CA, pp. PDP48, IEEE / ComSoc, IEEE / LEOS, OSA<br>
+			March 5, 2006<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1465'><img src='/resizedImages/500x280-crop-rutopiapaper.gif' alt='' title='RUTOPIA 2' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=188'>Tsoupikova, D.</a><br>
+			<strong><a href='/entry.php?id=1465'>RUTOPIA 2</a></strong><br>
+			<em>EVA 2006 London Conference Proceedings</em>, 2 Park Gate Court, 68-79 Hight Street, Hampton Hill, Middx TW12 1PB, EVA 2006 Conferences International, pp. 231-239, James Hemsley and Suzanne Keene<br>
+			March 1, 2006<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1441'><img src='/resizedImages/500x280-crop-pdflnet2006chart.gif' alt='' title='A Case for UDP Offload Engines in LambdaGrids' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=209'>Vishwanath, V.</a>, Balaji, P., Feng, W., <a href='/entry.php?id=21'>Leigh, J.</a>, Panda, D.K.<br>
+			<strong><a href='/entry.php?id=1441'>A Case for UDP Offload Engines in LambdaGrids</a></strong><br>
+			<em>Proceedings of The Fourth International Workshop on Protocols for Fast Long-Distance Networks (PFLDnet 2006)</em>, Nara, Japan<br>
+			February 2, 2006<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1432'><img src='/resizedImages/500x280-crop-icadi06.png' alt='' title='VR Post-Stroke Hand Opening Rehabilitation: An Approach Utilizing Virtual Reality, Body Orthosis and Pneumatic Device' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=232'>Luo, X.</a>, <a href='/entry.php?id=14'>Kenyon, R.</a>, Kamper, D.<br>
+			<strong><a href='/entry.php?id=1432'>VR Post-Stroke Hand Opening Rehabilitation: An Approach Utilizing Virtual Reality, Body Orthosis and Pneumatic Device</a></strong><br>
+			<em>Proceedings of the 2006 International Conference on Aging, Disability and Independence</em><br>
+			February 1, 2006<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1435'><img src='/resizedImages/500x280-crop-immersivetough.gif' alt='' title='Second Generation Haptic Ventriculostomy Simulator Using the ImmersiveTouch&trade; System' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=182'>Luciano, C.</a>, Banerjee, P., Lemole, M.G., Charbel, F.<br>
+			<strong><a href='/entry.php?id=1435'>Second Generation Haptic Ventriculostomy Simulator Using the ImmersiveTouch&trade; System</a></strong><br>
+			<em>Medicine Meets Virtual Reality 14</em>, Long Beach, CA<br>
+			January 24, 2006<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1443'><img src='/resizedImages/500x280-crop-unfolding2.jpg' alt='' title='Virtual Reality and the Unfolding of Higher Dimensions' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=191'>Aguilera, J.</a><br>
+			<strong><a href='/entry.php?id=1443'>Virtual Reality and the Unfolding of Higher Dimensions</a></strong><br>
+			<em>Proceedings of the IS&amp;T / SPIE&rsquo;s Electronic Imaging 2006</em>, San Jose, CA<br>
+			January 15, 2006<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1444'><img src='/resizedImages/500x280-crop-rutopia2.gif' alt='' title='Framing the Magic' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=188'>Tsoupikova, D.</a><br>
+			<strong><a href='/entry.php?id=1444'>Framing the Magic</a></strong><br>
+			<em>IS&amp;T / SPIE 2006, The Engineering Reality of Virtual Reality 2006</em>, vol 2006, San Jose, California, spie.org, Cees de Laat<br>
+			January 15, 2006<br>
+		</div>
+	</td>
+</tr>
+<!-- End List List -->
+	</table>
+</div>
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Year:</strong>
+		<a href='/list.php?id=4&amp;year=2020'>2020</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2019'>2019</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2018'>2018</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2017'>2017</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2016'>2016</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2015'>2015</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2014'>2014</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2013'>2013</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2012'>2012</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2011'>2011</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2010'>2010</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2009'>2009</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2008'>2008</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2007'>2007</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2006'><strong>2006</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2005'>2005</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2004'>2004</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2003'>2003</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2002'>2002</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2001'>2001</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2000'>2000</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1999'>1999</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1998'>1998</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1997'>1997</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1996'>1996</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1995'>1995</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1994'>1994</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1993'>1993</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1992'>1992</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1991'>1991</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1990'>1990</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1989'>1989</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1987'>1987</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1985'>1985</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1984'>1984</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1977'>1977</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1976'>1976</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<!-- End List -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

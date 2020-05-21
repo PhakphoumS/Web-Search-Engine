@@ -1,0 +1,102 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+    <base href='https://www.ihrp.uic.edu/content/chicagochec-seminar-series-nih-biosketch-webinar-virtual-event' />
+    <title>ChicagoCHEC Seminar Series – NIH Biosketch Webinar (Virtual Event)</title>
+    <script src="https://www.ihrp.uic.edu/misc/jquery.js?v=1.4.4"></script>
+<script src="https://www.ihrp.uic.edu/misc/jquery-extend-3.4.0.js?v=1.4.4"></script>
+<script src="https://www.ihrp.uic.edu/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.ihrp.uic.edu/misc/drupal.js?q8vwl2"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/field_group/field_group.js?q8vwl2"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/themes/ihrp/js/script.js?q8vwl2"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"ihrp","theme_token":"DrbSKEp45mTxwDUT4LENQco09Ys0AjzRMXoouLuJG9M","js":{"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/field_group\/field_group.js":1,"sites\/all\/themes\/ihrp\/js\/script.js":1}},"field_group":{"fieldset":"print"}});</script>
+    <script type="text/javascript">(function ($) { Drupal.behaviors.print = {attach: function() {$(window).load(function() {window.print();})}}})(jQuery);</script>    <meta name="robots" content="noindex, nofollow" />          <link rel='shortcut icon' href='https://www.ihrp.uic.edu/files/favicon.ico' type='image/x-icon' />
+        <style>
+@import url("https://www.ihrp.uic.edu/modules/system/system.base.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/system/system.menus.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/system/system.messages.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/system/system.theme.css?q8vwl2");
+</style>
+<style>
+@import url("https://www.ihrp.uic.edu/modules/aggregator/aggregator.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/comment/comment.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/date/date_api/date.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/field/theme/field.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/node/node.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/search/search.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/user/user.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/views/css/views.css?q8vwl2");
+</style>
+<style>
+@import url("https://www.ihrp.uic.edu/sites/all/modules/ctools/css/ctools.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/print/css/print.css?q8vwl2");
+</style>
+  </head>
+  <body>
+            <div class="print-site_name">Published on <em class="placeholder">Institute for Health Research and Policy | University of Illinois at Chicago</em> (<a href="https://www.ihrp.uic.edu">https://www.ihrp.uic.edu</a>)</div>
+    <p />
+    <div class="print-breadcrumb"><a href="/">Home</a> &gt; ChicagoCHEC Seminar Series – NIH Biosketch Webinar (Virtual Event)</div>
+    <hr class="print-hr" />
+        <div class="print-content">
+<article class="node-5143 node node-event node-promoted view-mode-print clearfix" about="/content/chicagochec-seminar-series-nih-biosketch-webinar-virtual-event" typeof="sioc:Item foaf:Document">
+
+      <header>
+                    <h2 class="node__title node-title"><a href="https://www.ihrp.uic.edu/content/chicagochec-seminar-series-nih-biosketch-webinar-virtual-event">ChicagoCHEC Seminar Series – NIH Biosketch Webinar (Virtual Event)</a> <span class="print-footnote">[1]</span></h2>
+            <span property="dc:title" content="ChicagoCHEC Seminar Series – NIH Biosketch Webinar (Virtual Event)" class="rdf-meta element-hidden"></span>
+      
+          </header>
+  
+	
+  <p><a href="https://chicagochec.org/"><img alt="" src="/files/ChicagoCHEC-logo.png" title="University of Illinois Cancer Center" /></a> <span class="print-footnote">[2]</span></p>
+<p><strong><font color="black">ChicagoCHEC Seminar Series</font></strong></p>
+<h2>
+	Crafting Your NIH Biosketch: Strengthening Your Biosketch To Better Highlight Goals and Achievements For Grants</h2>
+<h3>
+	Caryn Peterson, PhD, MS</h3>
+<p>Research Assistant Professor of Epidemiology<br />
+	Curriculum Director of UIC Cancer Center Education and Career Development Program&nbsp;<br />
+	Department of Edidemiology and Biostatics, University of Illinois at Chicago</p>
+<h3>
+	Wednesday, May 27, 2020<br />
+	Noon to 1 p.m.<br />
+	Online<br />
+	&nbsp;</h3>
+<p><a href="https://publichealth.uic.edu/profiles/caryn-peterson/">Dr. Caryn E. Peterson</a> <span class="print-footnote">[3]</span> is a Research Assistant Professor of Epidemiology, University of Illinois at Chicago, School of Public Health and Co-Director, Cancer Education &amp; Career Development Program, Institute of Health Research and Policy.&nbsp;</p>
+<p>During her webinar, Dr. Peterson will review what an NIH biosketch is, how it can be used to best highlight career goals and achievements, and provide in-depth analysis on how to strengthen your own.&nbsp;</p>
+<p>The Chicago Cancer Health Equity Collaborative (ChicagoCHEC) Seminar Series is a free webinar series. Registration for the webinar is required.</p>
+<p><br />
+	<strong>Questions?</strong></p>
+<p>For additional details on how to join the webinar, send any questions and concerns to <a href="mailto:info@chicagochec.org">info@chicagochec.org</a> <span class="print-footnote">[4]</span>.</p>
+<p>.....</p>
+
+  
+</article><!-- /.node -->
+</div>
+    <div class="print-footer">
+<div id="block-block-43" class="block block-block first odd">
+
+      
+  <p><strong>Institute for Health Research and Policy of the University of Illinois at Chicago</strong><br />
+	Multidisciplinary Home of UIC Researchers Collaborating in the Social and Health Sciences</p>
+<p>1747 W. Roosevelt Road, MC 275, Westside Research Office Bldg., Chicago, IL 60608<br />
+	T: <a href="tel:(312) 996-7222">(312) 996-7222</a> · F: (312) 996-2703</p>
+<p><a href="http://www.uic.edu/">UIC.edu</a> · <a href="https://www.uic.edu/apps/find-people/search">Campus Directory</a> · <a href="http://disabilityresources.uic.edu/">Disability Resources</a> · <a href="/content/employment-ihrp">Job Openings</a> · <a href="https://maps.uic.edu/">Maps</a> · <a href="/content/contact-us">Contact Us</a></p>
+<p>© 2020 <a href="http://www.uillinois.edu/trustees/">The Board of Trustees of the University of Illinois</a> · Privacy Policy · Webmaster: <a href="mailto:IHRP-webfix@uic.edu">IHRP-webfix@uic.edu</a></p>
+
+</div>
+</div>
+    <hr class="print-hr" />
+          <div class="print-source_url">
+        <strong>Source URL (modified on 04/22/2020 - 11:32am):</strong> https://www.ihrp.uic.edu/content/chicagochec-seminar-series-nih-biosketch-webinar-virtual-event      </div>
+        <div class="print-links"><p><strong>Links</strong><br />[1] https://www.ihrp.uic.edu/content/chicagochec-seminar-series-nih-biosketch-webinar-virtual-event<br />
+[2] https://chicagochec.org/<br />
+[3] https://publichealth.uic.edu/profiles/caryn-peterson/<br />
+[4] mailto:info@chicagochec.org<br />
+</p></div>
+      </body>
+</html>

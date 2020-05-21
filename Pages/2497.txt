@@ -1,0 +1,721 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin List -->
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Year:</strong>
+		<a href='/list.php?id=3&amp;year=2020'>2020</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2019'>2019</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2018'>2018</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2017'>2017</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2016'>2016</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2015'>2015</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2014'>2014</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2013'>2013</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2012'><strong>2012</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2011'>2011</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2010'>2010</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2009'>2009</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2008'>2008</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2007'>2007</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2006'>2006</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2005'>2005</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2004'>2004</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2003'>2003</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2002'>2002</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2001'>2001</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2000'>2000</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1999'>1999</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1998'>1998</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1997'>1997</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1996'>1996</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1995'>1995</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1994'>1994</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1993'>1993</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1992'>1992</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1987'>1987</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1979'>1979</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1976'>1976</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1975'>1975</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1974'>1974</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1973'>1973</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<div id='list_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin List List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1090'><img src='/resizedImages/500x280-crop-jleigh_ovcrannualreport2011.png' alt='' title='2011 Inaugural Edition of the UIC OVCR Annual Report' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1090'>2011 Inaugural Edition of the UIC OVCR Annual Report</a></strong><br>
+						December 20, 2012<br><br>
+			EDITOR&rsquo;S NOTE: The 2011 inaugural edition of the Annual Report from the UIC Office of the Vice Chancellor for Research (OVCR) describes the&hellip; <a href='/entry.php?id=1090'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1089'><img src='/resizedImages/500x280-crop-uicalumnidecember.png' alt='' title='Discoveries Channeled: Celebrating 30 Years of UIC' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1089'>Discoveries Channeled: Celebrating 30 Years of UIC</a></strong><br>
+						December 18, 2012<br><br>
+			EDITOR&rsquo;S NOTE: The &ldquo;UIC Alumni Magazine&rdquo; Winter 2012 publication features a review of some of the leading innovations UIC forged in&hellip; <a href='/entry.php?id=1089'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1088'><img src='/resizedImages/500x280-crop-evl-brain-neurosurgeons-110112_ljl5277-small.jpg' alt='' title='State-of-the-Art Virtual Reality System Is Key to Medical Discovery' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1088'>State-of-the-Art Virtual Reality System Is Key to Medical Discovery</a></strong><br>
+			<a href='/entry.php?id=290'>Thomas Marrinan</a>, Bioengineering Laboratory for Product and Process Design (LPPD), UIC College of Medicine<br>
+			December 12, 2012<br><br>
+			UIC&rsquo;s new CAVE2&trade; Hybrid Reality Environment is only two months old, and is already helping UIC neurosurgeons and bioengineering&hellip; <a href='/entry.php?id=1088'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1086'><img src='/resizedImages/500x280-crop-ch2_processing.jpg' alt='' title='Processing Chicago: Monday Dec 3 @ 6pm' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1086'>Processing Chicago: Monday Dec 3 @ 6pm</a></strong><br>
+			<a href='/entry.php?id=242'>Adam Trowbridge</a>, Jessica Westbrook (Channel TWo)<br>
+			December 3, 2012<br><br>
+			Jessica Westbrook and Adam Trowbridge (EVL MFA alum, &rsquo;08), who collaborate as Channel TWo, will give a presentation and initiate a discussion&hellip; <a href='/entry.php?id=1086'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1087'><img src='/resizedImages/500x280-crop-evl-enterprise-interior-sreenshot.png' alt='' title='Move over, Holodeck' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1087'>Move over, Holodeck</a></strong><br>
+			<a href='/entry.php?id=270'>Arthur Nishimoto</a><br>
+			November 28, 2012<br><br>
+			EDITOR&rsquo;S NOTE: Here are excerpts from a recent article by Northwestern University journalism student Mitch Smith on standing on the bridge of&hellip; <a href='/entry.php?id=1087'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1085'><img src='/resizedImages/500x280-crop-asthmaapp.png' alt='' title='Treating asthma? There&rsquo;s an app for that' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1085'>Treating asthma? There&rsquo;s an app for that</a></strong><br>
+			Jason Leigh, Robert Kenyon, Steve Jones, Stellan Ohlsson (UIC), Giselle Mosnaim (Rush University Medical Center)<br>
+			November 15, 2012<br><br>
+			EDITOR&rsquo;S NOTE: In Fall 2011, the UIC Electronic Visualization Laboratory received a pilot grant for &ldquo;Human Augmentics for Sustained&hellip; <a href='/entry.php?id=1085'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1091'><img src='/resizedImages/500x280-crop-sagelogo-2.gif' alt='' title='SC12, Salt Lake City, Utah' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1091'>SC12, Salt Lake City, Utah</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=178'>Maxine Brown</a><br>
+			November 13, 2012<br><br>
+			Scalable Adaptive Graphics Environment (SAGE) for Global Collaboration, SC12 Birds of A Feather Tuesday, November 13 12:15PM - 01:15PM Room 251-C&hellip; <a href='/entry.php?id=1091'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1081'><img src='/resizedImages/500x280-crop-mobileprocessing_sm.jpg' alt='' title='Mobile Processing' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1081'>Mobile Processing</a></strong><br>
+			<a href='/entry.php?id=233'>Daniel Sauter</a>, <a href='/entry.php?id=273'>JD Pirtle</a><br>
+			November 2, 2012 - November 4, 2012<br><br>
+			The annual Mobile Processing conference, Organized by UIC New Media Arts associate professor, Daniel Sauter and hosted by the UIC Innovation Center&hellip; <a href='/entry.php?id=1081'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1083'><img src='/resizedImages/500x280-crop-planarcasestudy_cave2.jpg' alt='' title='Tech Transfer: UIC / EVL Partners with Industry to Advance 3D Visualization Display Technology' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1083'>Tech Transfer: UIC / EVL Partners with Industry to Advance 3D Visualization Display Technology</a></strong><br>
+			EVL faculty, staff, and students, Planar Systems<br>
+			November 1, 2012<br><br>
+			Today, Planar Systems, Inc. published a case study that promotes the recently announced UIC Electronic Visualization Laboratory (EVL) CAVE2&trade;&hellip; <a href='/entry.php?id=1083'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1082'><img src='/resizedImages/500x280-crop-cave2+mars.jpg' alt='' title='Move over NASA: Explore the surface of Mars with virtual reality' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1082'>Move over NASA: Explore the surface of Mars with virtual reality</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, UIC Associate Professor; David Hofman, UIC Professor / Acting Head, UIC Physics Department; Mark SubbaRao, Astronomer / Director, Space Visualization Laboratory, Adler Planetarium<br>
+			October 30, 2012<br><br>
+			The UIC Electronic Visualization Laboratory (EVL) CAVE2&trade; Virtual-Reality System is profiled in a recent news article by a Northwestern&hellip; <a href='/entry.php?id=1082'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1084'><img src='/resizedImages/500x280-crop-visweek2012_marrinan.png' alt='' title='VisWeek 2012' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1084'>VisWeek 2012</a></strong><br>
+			<a href='/entry.php?id=290'>Thomas Marrinan</a>, Ian Gould, Chih-Yang Hsu, Andreas Linninger<br>
+			October 14, 2012 - October 19, 2012<br><br>
+			EVL PhD candidate Thomas Marrinan presents Whole-Brain Vascular Reconstruction, Simulation, and Visualization at VisWeek 2012 in Seattle, Washington&hellip; <a href='/entry.php?id=1084'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1080'><img src='/resizedImages/500x280-crop-nurails_ideasweek.jpg' alt='' title='Channel 7 News Highlights Chicago Ideas Week, and UIC / EVL' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1080'>Channel 7 News Highlights Chicago Ideas Week, and UIC / EVL</a></strong><br>
+			EVL faculty, staff, and students<br>
+			October 8, 2012<br><br>
+			On Monday, October 8, 2012, the Electronic Visualization Laboratory (EVL) at University of Illinois at Chicago (UIC) participated in Chicago Ideas&hellip; <a href='/entry.php?id=1080'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1076'><img src='/resizedImages/500x280-crop-vikaschowdry.png' alt='' title='Clinical Intelligence - V. Chowdrhy / Tom Yosick (Epic)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1076'>Clinical Intelligence - V. Chowdrhy / Tom Yosick (Epic)</a></strong><br>
+			<a href='/entry.php?id=180'>Vikas Chowdry</a>, Tom Yosick<br>
+			October 3, 2012<br><br>
+			EVL alumni Vikas Chowdhry, and Epic colleague, Tom Yosick present at EVL tech meeting. Clinical Intelligence is a rapidly growing and evolving field&hellip; <a href='/entry.php?id=1076'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1078'><img src='/resizedImages/500x280-crop-evl-chemistry_ljl2368-small.png' alt='' title='CAVE2&trade; - An Advanced Cyberworld for Data Exploration' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1078'>CAVE2&trade; - An Advanced Cyberworld for Data Exploration</a></strong><br>
+			EVL faculty, staff, and students<br>
+			October 3, 2012<br><br>
+			CHICAGO, OCTOBER 3, 2012 - Today, most professions rely on computers to capture, filter, analyze and visualize data. When studying phenomena too&hellip; <a href='/entry.php?id=1078'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1079'><img src='/resizedImages/500x280-crop-2_obelleiro_foldedlight.jpg' alt='' title='Dumbo Art Festival' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1079'>Dumbo Art Festival</a></strong><br>
+			<a href='/entry.php?id=244'>Julio Obelleiro</a><br>
+			September 28, 2012 - September 30, 2012<br><br>
+			EVL alumnus Julio Obelleiro exhibits his projects Super Hero and Folded Light at the Dumbo Arts Festival, spanning the neighborhood of DUMBO&hellip; <a href='/entry.php?id=1079'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1077'><img src='/resizedImages/500x280-crop-daria_isea2012.png' alt='' title='Media Arts in Support of Science Education, ISEA2012' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1077'>Media Arts in Support of Science Education, ISEA2012</a></strong><br>
+			<a href='/entry.php?id=4'>Brenda Lopez Silva</a>, <a href='/entry.php?id=188'>Daria Tsoupikova</a>, <a href='/entry.php?id=189'>Helen-Nicole Kostis</a>, <a href='/entry.php?id=191'>Julieta Aguilera</a>, <a href='/entry.php?id=187'>Tina Shah</a><br>
+			September 19, 2012 - September 24, 2012<br><br>
+			EVL alumna Julieta Aguilera and UIC New Media Arts associate professor Daria Tsoupikova present Media Arts in Support of Science Education at the&hellip; <a href='/entry.php?id=1077'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1075'><img src='/resizedImages/500x280-crop-jillianaurisano-2.jpg' alt='' title='UIC NEWS profiles CS student Jillian Aurisano: bridging the gender gap' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1075'>UIC NEWS profiles CS student Jillian Aurisano: bridging the gender gap</a></strong><br>
+			<a href='/entry.php?id=285'>Jillian Aurisano</a><br>
+			September 2, 2012<br><br>
+			The September 2, 2012 issue of UIC NEWS profiles Computer Science MS student Jillian Aurisano. She&rsquo;s a woman who is working in a field where&hellip; <a href='/entry.php?id=1075'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1074'><img src='/resizedImages/500x280-crop-leigh_analog_turtle1020-cover.jpg' alt='' title='Diaspora Diaries: King George V Alumnus Jason Leigh is Making Waves' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1074'>Diaspora Diaries: King George V Alumnus Jason Leigh is Making Waves</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a><br>
+			August 20, 2012<br><br>
+			Hong Kong&rsquo;s King George V School Alumni Community website posted an April 2011 article from the &ldquo;South China Morning Post&rdquo; about&hellip; <a href='/entry.php?id=1074'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1073'><img src='/resizedImages/500x280-crop-_ljl1253-terrancethigpen-evl-2012-small.jpg' alt='' title='Serendipity: How a Student from University of Southern Mississippi Found Research Opportunities at UIC' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1073'>Serendipity: How a Student from University of Southern Mississippi Found Research Opportunities at UIC</a></strong><br>
+			Terrence Thigpen<br>
+			August 16, 2012<br><br>
+			Serendipity&hellip; sometimes a series of events unexpectedly leads to fortunate discoveries, as happened to Terrance Thigpen, an African-American&hellip; <a href='/entry.php?id=1073'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1072'><img src='/resizedImages/500x280-crop-stellanohlsson.png' alt='' title='Impressions of Persuasive 2012' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1072'>Impressions of Persuasive 2012</a></strong><br>
+			Stellan Ohlsson<br>
+			August 1, 2012<br><br>
+			EVL collaborator, professor Stellan Ohlsson (Department of Psychology, UIC) attended Persuasive 2012: The 7th International Conference on Persuasive&hellip; <a href='/entry.php?id=1072'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1071'><img src='/resizedImages/500x280-crop-aurisano-jillian-may2012_ljl9773-2-small.jpg' alt='' title='UIC / EVL Student Jillian Aurisano Receives Scholarship to Grace Hopper Conference' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1071'>UIC / EVL Student Jillian Aurisano Receives Scholarship to Grace Hopper Conference</a></strong><br>
+			<a href='/entry.php?id=285'>Jillian Aurisano</a><br>
+			July 11, 2012<br><br>
+			Jillian Aurisano, an M.S. computer science student and research assistant at the Electronic Visualization Laboratory (EVL) at University of Illinois&hellip; <a href='/entry.php?id=1071'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1070'><img src='/resizedImages/500x280-crop-mikepapka-pbs-june2012.jpg' alt='' title='UIC&rsquo;s Mike Papka is Director of Argonne&rsquo;s 3rd Fastest Supercomputer in the World' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1070'>UIC&rsquo;s Mike Papka is Director of Argonne&rsquo;s 3rd Fastest Supercomputer in the World</a></strong><br>
+			<a href='/entry.php?id=122'>Mike Papka</a>, Argonne National Laboratory<br>
+			June 18, 2012<br><br>
+			EDITOR&rsquo;S NOTE: In September 2011, I sent news saying how proud the UIC Electronic Visualization Laboratory (EVL) was that the UIC Alumni News&hellip; <a href='/entry.php?id=1070'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1069'><img src='/resizedImages/500x280-crop-sparkatevl.jpg' alt='' title='Spark Student Mentored in Video Game Development at the UIC Electronic Visualization Laboratory' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1069'>Spark Student Mentored in Video Game Development at the UIC Electronic Visualization Laboratory</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=270'>Arthur Nishimoto</a>, <a href='/entry.php?id=273'>JD Pirtle</a><br>
+			June 11, 2012<br><br>
+			June 11, 2012 Spark interest in the workplace and encourage middle-school children from disadvantaged communities to excel in school and pursue their&hellip; <a href='/entry.php?id=1069'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1068'><img src='/resizedImages/500x280-crop-hoopsoffire-lancelong_ljl9702.jpeg' alt='' title='New Mobile Game from UIC Markets University and Showcases Engineering Courses' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1068'>New Mobile Game from UIC Markets University and Showcases Engineering Courses</a></strong><br>
+						June 7, 2012<br><br>
+			Maxine D. Brown, Associate Director, Electronic Visualization Laboratory University of Illinois at Chicago 1.312.996.3002 - maxine@uic.edu Kevin&hellip; <a href='/entry.php?id=1068'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1067'><img src='/resizedImages/500x280-crop-hida.jpg' alt='' title='Hirofumi Ida, Virtual-reality in health and sports science' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1067'>Hirofumi Ida, Virtual-reality in health and sports science</a></strong><br>
+						May 30, 2012<br><br>
+			Dr. Hirofumi Ida, Research Associate, Department of Physical Therapy, University of Illinois at Chicago and Research Fellow, Department of Human&hellip; <a href='/entry.php?id=1067'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1065'><img src='/resizedImages/500x280-crop-aurisano-jillian-may2012_ljl9773-2-small.jpeg' alt='' title='UIC student Jillian Aurisano receives Google Anita Borg Memorial scholarship' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1065'>UIC student Jillian Aurisano receives Google Anita Borg Memorial scholarship</a></strong><br>
+			<a href='/entry.php?id=285'>Jillian Aurisano</a><br>
+			May 22, 2012<br><br>
+			70 young women recognized as Google Anita Borg Memorial scholars May 22, 2012 UIC computer science graduate student Jillian Aurisano was selected one&hellip; <a href='/entry.php?id=1065'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1066'><img src='/resizedImages/500x280-crop-humanaugmentic_spring2012.jpg' alt='' title='Professors Jason Leigh and Robert Kenyon teach the first Human Augmentics class' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1066'>Professors Jason Leigh and Robert Kenyon teach the first Human Augmentics class</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, Robert V. Kenyon<br>
+			May 22, 2012<br><br>
+			Spring 2012 semester, professors Jason Leigh and Robert Kenyon teach the first Human Augmentics class. Human Augmentics is a term coined by Leigh and&hellip; <a href='/entry.php?id=1066'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1064'><img src='/resizedImages/500x280-crop-evl-fleetcommander-arthur_ljl4415.jpeg' alt='' title='U.S. NEWS &amp; WORLD REPORT: Grad Engineering Programs Probe Intersection of Science, Art' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1064'>U.S. NEWS &amp; WORLD REPORT: Grad Engineering Programs Probe Intersection of Science, Art</a></strong><br>
+						May 9, 2012<br><br>
+			The May 9, 2012 issue of U.S. NEWS &amp; WORLD REPORT features an article by education reporter Menachem Wecker who looks at emerging trends in&hellip; <a href='/entry.php?id=1064'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1062'><img src='/resizedImages/500x280-crop-mroussou_photo.jpg' alt='' title='Maria Roussou, Designing User-centered Digital Heritage Experiences Based on Personalized Interaction and Storytelling' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1062'>Maria Roussou, <em>Designing User-centered Digital Heritage Experiences Based on Personalized Interaction and Storytelling</em></a></strong><br>
+			<a href='/entry.php?id=134'>Maria Roussou</a><br>
+			May 8, 2012<br><br>
+			Dr. Maria Roussou EVL alumna is the Founding Director of makebelieve design &amp; consulting, as well as a researcher and Adjunct Lecturer at the&hellip; <a href='/entry.php?id=1062'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1058'><img src='/resizedImages/500x280-crop-1st_marrinancompsci_gouldbioeng.jpg' alt='' title='EVL Student Receives 1st Place in 2012 UIC Image of Research Competition' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1058'>EVL Student Receives 1st Place in 2012 UIC Image of Research Competition</a></strong><br>
+			Thomas Marrinan (Computer Science), Ian Gould (Bioengineering)<br>
+			April 19, 2012 - May 31, 2012<br><br>
+			Tom Marrinan, a student of UIC&rsquo;s Electronic Visualization Laboratory (EVL), in collaboration with student Ian Gould of the UIC Bioengineering&hellip; <a href='/entry.php?id=1058'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1060'><img src='/resizedImages/500x280-crop-giloth.jpg' alt='' title='Copper Giloth' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1060'>Copper Giloth</a></strong><br>
+			Copper Giloth, University of Massachusetts Amherst<br>
+			April 18, 2012<br><br>
+			GUEST SPEAKER Wednesday, April 18, 2012 11:00 AM (Note: Copper was EVL&rsquo;s first MFA graduate!) Copper Giloth is Associate Professor of Art at&hellip; <a href='/entry.php?id=1060'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1061'><img src='/resizedImages/500x280-crop-scottrettberg.jpg' alt='' title='Visualizing Electronic Literature: Potential Research Applications in the ELMCIP Electronic Literature Knowledge Base' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1061'>Visualizing Electronic Literature: Potential Research Applications in the ELMCIP Electronic Literature Knowledge Base</a></strong><br>
+			Scott Rettberg, University of Bergen, Norway<br>
+			April 18, 2012<br><br>
+			GUEST SPEAKER: Scott Rettberg Wednesday, April 18, 2012 11AM Scott Rettberg, Associate Professor and the Director of the Digital Culture Research&hellip; <a href='/entry.php?id=1061'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1063'><img src='/resizedImages/500x280-crop-sjones_uicnews_4-12.jpg' alt='' title='Afterlife as Afterimage, Steve Jones' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1063'>Afterlife as Afterimage, Steve Jones</a></strong><br>
+			<a href='/entry.php?id=11'>Steve Jones</a><br>
+			April 18, 2012<br><br>
+			Steve Jones, UIC Communications professor, is a long-time EVL collaborator. His new book, Afterlife as Afterimage, based on his interest in&hellip; <a href='/entry.php?id=1063'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1059'><img src='/resizedImages/500x280-crop-mars-1.png' alt='' title='Innovative virtual reality technology revolutionizes stroke therapy' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1059'>Innovative virtual reality technology revolutionizes stroke therapy</a></strong><br>
+			<a href='/entry.php?id=188'>Daria Tsoupikova</a>, Rehabilitation Institute of Chicago (RIC)<br>
+			April 4, 2012<br><br>
+			Several weeks ago information about an excellent article profiling EVL&rsquo;s Daria Tsoupikova, associate professor in the UIC School of Art and&hellip; <a href='/entry.php?id=1059'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1057'><img src='/resizedImages/500x280-crop-120330-sara-jason-keynote1.jpg' alt='' title='SARA Collaboratorium Keynote' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1057'>SARA Collaboratorium Keynote</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a><br>
+			March 30, 2012<br><br>
+			March 30th 2012, EVL director, Jason Leigh presented a remote keynote from EVL to The Netherlands for the opening of the SARA Collaboratorium - a new&hellip; <a href='/entry.php?id=1057'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1056'><img src='/resizedImages/500x280-crop-tombstone.jpg' alt='' title='&ldquo;Torch Song&rdquo; MFA Thesis Show' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1056'>&ldquo;Torch Song&rdquo; MFA Thesis Show</a></strong><br>
+			<a href='/entry.php?id=288'>Jon Chambers</a>, Mark Aguhar, Sebastian Aguirre, Andrew Mausert-Mooney<br>
+			March 27, 2012 - March 31, 2012<br><br>
+			Join Gallery 400, located at 400 South Peoria Street, Chicago, IL, for the opening reception of Torch Song, the second in a series of four 2012 UIC&hellip; <a href='/entry.php?id=1056'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1055'><img src='/resizedImages/500x280-crop-articulate_ysun_dissertation.jpg' alt='' title='Articulate: Creating Meaningful Visualizations from Natural Language' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1055'>Articulate: Creating Meaningful Visualizations from Natural Language</a></strong><br>
+			<a href='/entry.php?id=250'>Yiwen Sun</a><br>
+			March 7, 2012<br><br>
+			EVL PhD candidate, Yiwen Sun presents her thesis &ldquo;Articulate: Creating Meaningful Visualizations from Natural Language.&rdquo; Wednesday, March&hellip; <a href='/entry.php?id=1055'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1054'><img src='/resizedImages/500x280-crop-vre_madhatterdtsoupikova.jpg' alt='' title='Innovative virtual reality technology revolutionizes stroke therapy' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1054'>Innovative virtual reality technology revolutionizes stroke therapy</a></strong><br>
+			<a href='/entry.php?id=188'>Daria Tsoupikova</a><br>
+			March 1, 2012<br><br>
+			EDITOR&rsquo;S NOTE: Two Northwestern University Medill School journalism students spent a week at the UIC Electronic Visualization Laboratory (EVL)&hellip; <a href='/entry.php?id=1054'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1052'><img src='/resizedImages/500x280-crop-tidecombo2.jpg' alt='' title='1998 research paper wins an award!' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1052'>1998 research paper wins an award!</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a><br>
+			February 25, 2012<br><br>
+			February 25, 2012 Jason Leigh and Andy Johnson of the UIC Electronic Visualization Laboratory (EVL) recently learned that a paper they helped&hellip; <a href='/entry.php?id=1052'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1050'><img src='/resizedImages/500x280-crop-virtualmpala_jason.jpg' alt='' title='Chicago computer scientists develop tools to help ecologists in Kenya' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1050'>Chicago computer scientists develop tools to help ecologists in Kenya</a></strong><br>
+			EVL faculty, staff, and students<br>
+			February 15, 2012<br><br>
+			EDITOR&rsquo;S NOTE: The recent return of several UIC Computer Science (CS) faculty and students from a 3-week trip to Kenya is featured in a news&hellip; <a href='/entry.php?id=1050'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1051'><img src='/resizedImages/500x280-crop-kenyonha.jpg' alt='' title='Chicago virtual reality lab home to futuristic health class' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1051'>Chicago virtual reality lab home to futuristic health class</a></strong><br>
+			EVL faculty, staff, and students<br>
+			February 14, 2012<br><br>
+			EDITOR&rsquo;S NOTE: &ldquo;Human Augmentics&rdquo; is a new Special Topics course offered by the UIC Computer Science Department, which is&hellip; <a href='/entry.php?id=1051'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1046'><img src='/resizedImages/500x280-crop-bafta.png' alt='' title='EVL Alumni Nominated for BAFTA &amp; Oscar' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1046'>EVL Alumni Nominated for BAFTA &amp; Oscar</a></strong><br>
+			<a href='/entry.php?id=152'>Chris White</a>, <a href='/entry.php?id=165'>Keith Miller</a><br>
+			February 12, 2012 - February 26, 2012<br><br>
+			EVL grad Chris White and fellow grad Keith Miller are both up for Special Visual Effects awards at BAFTA (British Academy of Film and Television&hellip; <a href='/entry.php?id=1046'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1047'><img src='/resizedImages/500x280-crop-sudden_loss_hpac4.jpg' alt='' title='Processing Chicago' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1047'>Processing Chicago</a></strong><br>
+			<a href='/entry.php?id=233'>Daniel Sauter</a>, <a href='/entry.php?id=273'>JD Pirtle</a><br>
+			February 6, 2012<br><br>
+			JD Pirtle, EVL artist and researcher, and Daniel Sauter, Associate Professor, UIC School of Art &amp; Design, will be co-hosting Processing Chicago&hellip; <a href='/entry.php?id=1047'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1053'><img src='/resizedImages/500x280-crop-processing-chicago-13.jpg' alt='' title='Processing Chicago &#124; February 2012' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1053'>Processing Chicago &#124; February 2012</a></strong><br>
+			<a href='/entry.php?id=286'>Brad McGinnis</a>, <a href='/entry.php?id=4'>Brenda Lopez Silva</a>, <a href='/entry.php?id=233'>Daniel Sauter</a>, <a href='/entry.php?id=273'>JD Pirtle</a>, <a href='/entry.php?id=288'>Jon Chambers</a>, <a href='/entry.php?id=284'>Tiffany Ann Funk</a>, <a href='/entry.php?id=281'>Victor Mateevitsi</a>, Alex Betts, Paolo Guerra<br>
+			February 6, 2012<br><br>
+			The first meeting of Processing Chicago was a great success, with ~50 attendees. The presentations ranged from building a wearable EMF detector to a&hellip; <a href='/entry.php?id=1053'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1048'><img src='/resizedImages/500x280-crop-planar-evl-small.jpg' alt='' title='Technology Transfer: UIC / EVL Partners with Industry to Advance 3D Visualization Display Technology' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1048'>Technology Transfer: UIC / EVL Partners with Industry to Advance 3D Visualization Display Technology</a></strong><br>
+			EVL faculty, staff, and students<br>
+			February 3, 2012<br><br>
+			EDITOR&rsquo;S NOTE: The UIC NEWS article &ldquo;Learning in 3-D,&rdquo; published November 16, 2011, announced the UIC Electronic Visualization&hellip; <a href='/entry.php?id=1048'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1049'><img src='/resizedImages/500x280-crop-aaas_science.gif' alt='' title='EVL alumna Julieta Aguilera contributes to winning entry on cover of SCIENCE magazine' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1049'>EVL alumna Julieta Aguilera contributes to winning entry on cover of SCIENCE magazine</a></strong><br>
+			<a href='/entry.php?id=191'>Julieta Aguilera</a><br>
+			February 3, 2012<br><br>
+			EDITOR&rsquo;S NOTE: We love bragging about EVL alumni, if they let us know what they are doing. The February 3, 2012 edition of Science magazine not&hellip; <a href='/entry.php?id=1049'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<!-- End List List -->
+	</table>
+</div>
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Year:</strong>
+		<a href='/list.php?id=3&amp;year=2020'>2020</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2019'>2019</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2018'>2018</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2017'>2017</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2016'>2016</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2015'>2015</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2014'>2014</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2013'>2013</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2012'><strong>2012</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2011'>2011</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2010'>2010</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2009'>2009</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2008'>2008</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2007'>2007</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2006'>2006</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2005'>2005</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2004'>2004</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2003'>2003</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2002'>2002</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2001'>2001</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2000'>2000</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1999'>1999</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1998'>1998</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1997'>1997</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1996'>1996</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1995'>1995</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1994'>1994</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1993'>1993</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1992'>1992</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1987'>1987</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1979'>1979</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1976'>1976</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1975'>1975</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1974'>1974</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1973'>1973</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<!-- End List -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

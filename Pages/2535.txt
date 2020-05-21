@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin List -->
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Year:</strong>
+		<a href='/list.php?id=4&amp;year=2020'>2020</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2019'>2019</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2018'>2018</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2017'>2017</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2016'>2016</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2015'>2015</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2014'>2014</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2013'><strong>2013</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2012'>2012</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2011'>2011</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2010'>2010</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2009'>2009</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2008'>2008</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2007'>2007</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2006'>2006</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2005'>2005</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2004'>2004</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2003'>2003</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2002'>2002</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2001'>2001</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2000'>2000</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1999'>1999</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1998'>1998</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1997'>1997</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1996'>1996</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1995'>1995</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1994'>1994</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1993'>1993</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1992'>1992</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1991'>1991</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1990'>1990</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1989'>1989</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1987'>1987</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1985'>1985</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1984'>1984</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1977'>1977</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1976'>1976</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<div id='list_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin List List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2203'><img src='/misc/default_500x280.png' alt='' title='Visualization of Tensor Quantities Used in Computational Turbulent Combustion' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=2189'>Luciani, T.</a>, Maries, A., Nik, M., Yilmaz,S. L., <a href='/entry.php?id=2052'>Marai, G. E.</a><br>
+			<strong><a href='/entry.php?id=2203'>Visualization of Tensor Quantities Used in Computational Turbulent Combustion</a></strong><br>
+			<em>66th Annual Meeting of the APS Division of Fluid Dynamics</em>, pp. 1-1<br>
+			November 24, 2013<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1634'><img src='/resizedImages/500x280-crop-design_patterns.jpg' alt='' title='Visualization Design Patterns for Ultra-Resolution Display Environments' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=259'>Reda, K.</a>, <a href='/entry.php?id=285'>Aurisano, J.</a>, <a href='/entry.php?id=272'>Febretti, A.</a>, <a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=10'>Johnson, A.</a><br>
+			<strong><a href='/entry.php?id=1634'>Visualization Design Patterns for Ultra-Resolution Display Environments</a></strong><br>
+			<em>In Proceedings of the Workshop on Visualization Infrastructure and Systems Technology (VISTech &rsquo;13)</em>, Denver, CO<br>
+			November 22, 2013<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1640'><img src='/resizedImages/500x280-crop-sc13bof.png' alt='' title='SC13 bof119s1 BOF PRESENTATION REPORTScalable Adaptive Graphics Environment (SAGE) for Global Collaboration' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=178'>Brown, M.</a>, <a href='/entry.php?id=192'>Renambot, L.</a><br>
+			<strong><a href='/entry.php?id=1640'>SC13 bof119s1 BOF PRESENTATION REPORT<br>Scalable Adaptive Graphics Environment (SAGE) for Global Collaboration</a></strong><br>
+			<em>SC13</em>, Denver, CO<br>
+			November 19, 2013<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1633'><img src='/resizedImages/500x280-crop-sc13logo-2.png' alt='' title='Improving I/O Performance for Sparse Data Movement in Leadership Systems' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=294'>Bui, H.</a>, <a href='/entry.php?id=209'>Vishwanath, V.</a>, <a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=122'>Papka M.</a><br>
+			<strong><a href='/entry.php?id=1633'>Improving I/O Performance for Sparse Data Movement in Leadership Systems</a></strong><br>
+			<em>The Proceedings of the 8th Parallel Data Storage Workshop</em>, Denver, CO, (poster), ACM, IEEE<br>
+			November 18, 2013<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1639'><img src='/resizedImages/500x280-crop-bmesmarrinan_11-13.png' alt='' title='Cerebral Microcirculation and Oxygen Tension in the Human Secondary Cortex' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			Linninger, A.A., Gould, I., <a href='/entry.php?id=290'>Marrinan, T.</a>, Hsu, C.Y., Chojecki, M., Alaraj, A.<br>
+			<strong><a href='/entry.php?id=1639'>Cerebral Microcirculation and Oxygen Tension in the Human Secondary Cortex</a></strong><br>
+			<em>Annals of Biomedical Engineering</em>, vol 41, no 11, DOI: 10.1007/s10439-013-0828-0, pp. 2264-2284<br>
+			November 1, 2013<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1632'><img src='/resizedImages/500x280-crop-reda_ldav13_sm.png' alt='' title='Visualizing Large-Scale Atomistic Simulations in Ultra-Resolution Immersive Environments' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=259'>Reda, K.</a>, Knoll, A., Nomura, K., <a href='/entry.php?id=122'>Papka, M.E.</a>, <a href='/entry.php?id=10'>Johnson, A.E.</a>, <a href='/entry.php?id=21'>Leigh, J.</a><br>
+			<strong><a href='/entry.php?id=1632'>Visualizing Large-Scale Atomistic Simulations in Ultra-Resolution Immersive Environments</a></strong><br>
+			<em>Proceedings of the IEEE Symposium on Large-Scale Data Analysis and Visualization (LDAV &rsquo;13)</em>, Atlanta, GA, pp. 59-65<br>
+			October 13, 2013<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2198'><img src='/resizedImages/500x280-crop-fixingtim2.png' alt='' title='Fixing TIM: Identifying Functional Mutations in Protein Families through the Interactive Exploration of Sequence and Structural Data' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			Wenskovitch, J., <a href='/entry.php?id=2189'>Luciani, T.</a>, Chen, K., <a href='/entry.php?id=2052'>Marai. G. E.</a><br>
+			<strong><a href='/entry.php?id=2198'>Fixing TIM: Identifying Functional Mutations in Protein Families through the Interactive Exploration of Sequence and Structural Data</a></strong><br>
+			<em>IEEE BioVis 2013 Data Competition</em>, pp. 1-4<br>
+			October 13, 2013<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2380'><img src='/resizedImages/500x280-crop-nihms-2.jpeg' alt='' title='GRACE: A Visual Comparison Framework for Integrated Spatial and Non-Spatial Geriatric Data' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			Maries, A., Mays, N., Olson Hunt, M., Wong, K., Layton, W., Rosano, C., Boudreau, R., <a href='/entry.php?id=2052'>Marai, G.E.</a><br>
+			<strong><a href='/entry.php?id=2380'>GRACE: A Visual Comparison Framework for Integrated Spatial and Non-Spatial Geriatric Data</a></strong><br>
+			<em>IEEE Transactions on Visualization and Computer Graphics</em>, vol 19, no 12, pp. 2916-2925<br>
+			October 1, 2013<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1631'><img src='/resizedImages/500x280-crop-sage_logo.png' alt='' title='SAGE: Scalable Adaptive Graphics Environment Documentation' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=192'>Renambot, L.</a>, <a href='/entry.php?id=5'>Plepys, D.</a><br>
+			<strong><a href='/entry.php?id=1631'>SAGE: Scalable Adaptive Graphics Environment Documentation</a></strong><br>
+			<em>Electronic Visualization Laboratory, University of Illinois</em>, Chicago, IL<br>
+			September 1, 2013<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1635'><img src='/resizedImages/500x280-crop-jisys-2013-0016.png' alt='' title='Passing an Enhanced Turing Test - Interacting with Lifelike Computer Representations of Specific Individuals' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			Gonzalez, A.J., <a href='/entry.php?id=21'>Leigh, J.</a>, DeMara, R.F., <a href='/entry.php?id=10'>Johnson, A.E.</a>, <a href='/entry.php?id=11'>Jones, S.</a>, <a href='/entry.php?id=207'>Lee, S.</a>, Hung, V., <a href='/entry.php?id=192'>Renambot, L.</a>, Leon-Barth, C., <a href='/entry.php?id=178'>Brown, M.</a>, Elvir, M., Hollister, J., Kobosko. S.<br>
+			<strong><a href='/entry.php?id=1635'>Passing an Enhanced Turing Test - Interacting with Lifelike Computer Representations of Specific Individuals</a></strong><br>
+			<em>De Gruyter</em>, vol 22, no 4, Journal of Intelligent Systems, pp. 365-415, DOI 10.1515 / jisys-2013-0016<br>
+			September 1, 2013<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1628'><img src='/resizedImages/500x280-crop-articulatevisualization.png' alt='' title='Articulate: Creating Meaningful Visualizations from Natural Language (chapter)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=190'>Sun, Y.</a>, <a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=163'>Di Eugenio, B.</a><br>
+			<strong><a href='/entry.php?id=1628'>Articulate: Creating Meaningful Visualizations from Natural Language (chapter)</a></strong><br>
+			<em>Innovative Approaches of Data Visualization and Visual Analytics</em>, IGI Global, pp 218-235<br>
+			August 29, 2013<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1652'><img src='/resizedImages/500x280-crop-interspeech_image.png' alt='' title='On-Line Audio Dilation for Human Interaction' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			Novak, III, J.S., <a href='/entry.php?id=38'>Archer, J.</a>, Shafiro, V., <a href='/entry.php?id=14'>Kenyon, R.V.</a>, <a href='/entry.php?id=21'>Leigh, J.</a><br>
+			<strong><a href='/entry.php?id=1652'>On-Line Audio Dilation for Human Interaction</a></strong><br>
+			<em>Interspeech 2013</em>, Lyon, France, pp. 1869-1871<br>
+			August 25, 2013<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1648'><img src='/resizedImages/500x280-crop-lee_sangyoon-avatar-2013_phd_thesis.png' alt='' title='Supervised Hybrid Expression Control Framework for a Lifelike Affective Avatar' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=181'>Lee, Sangyoon</a><br>
+			<strong><a href='/entry.php?id=1648'>Supervised Hybrid Expression Control Framework for a Lifelike Affective Avatar</a></strong><br>
+			<em>Thesis submitted as partial fulfillment of the requirements for the degree of Doctor of Philosophy in Computer Science</em>, Graduate College of the University of Illinois at Chicago<br>
+			August 15, 2013<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1629'><img src='/resizedImages/500x280-crop-springer_antkenya_paper_8-13.png' alt='' title='Context-dependent navigation in a collectively foraging species of ant, Messor cephalotes' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			Offord, C., <a href='/entry.php?id=259'>Reda, K.</a>, <a href='/entry.php?id=281'>Mateevitsi, V.</a><br>
+			<strong><a href='/entry.php?id=1629'>Context-dependent navigation in a collectively foraging species of ant, <em>Messor cephalotes</em></a></strong><br>
+			<em>Insectes Sociaux</em>, vol 60, no 3, Springer Basel, pp. 361-368<br>
+			August 1, 2013<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1630'><img src='/resizedImages/500x280-crop-eurasip_ants.png' alt='' title='A Human-Computer Collaborative Workflow for the Acquisition and Analysis of Terrestrial Insect Movement in Behavioral Field Studies' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=259'>Reda,K.</a>, <a href='/entry.php?id=281'>Mateevitsi, V.</a>, Offord, C.<br>
+			<strong><a href='/entry.php?id=1630'>A Human-Computer Collaborative Workflow for the Acquisition and Analysis of Terrestrial Insect Movement in Behavioral Field Studies</a></strong><br>
+			<em>EURASIP Journal on Image and Video Processing</em>, 2013.doi: 10.1186/1687-5281-2013-48, Springer-Verlag<br>
+			August 1, 2013<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1625'><img src='/resizedImages/500x280-crop-handshci.png' alt='' title='A Component-Based Evaluation Protocol for Clinical Decision Support Interfaces' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=272'>Febretti, A.</a>, Lopez, K., Stifter, J., <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=174'>Keenan, G.</a>, Wilkie, D.<br>
+			<strong><a href='/entry.php?id=1625'>A Component-Based Evaluation Protocol for Clinical Decision Support Interfaces</a></strong><br>
+			<em>HCI International 2013</em>, Las Vegas, NV<br>
+			July 21, 2013<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1627'><img src='/resizedImages/500x280-crop-cave2_ieee_immersivemeeting.jpg' alt='' title='Visualizing Large, Heterogeneous Data in Hybrid-Reality Environments' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=259'>Reda, K.</a>, <a href='/entry.php?id=272'>Febretti, A.</a>, Knoll, A., <a href='/entry.php?id=285'>Aurisano, J.</a>, <a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=122'>Papka, M.</a>, <a href='/entry.php?id=38'>Hereld, M.</a><br>
+			<strong><a href='/entry.php?id=1627'>Visualizing Large, Heterogeneous Data in Hybrid-Reality Environments</a></strong><br>
+			<em>Computer Graphics and Applications, IEEE</em>, vol 33, no 4, pp. 38-48<br>
+			July 1, 2013<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1626'><img src='/resizedImages/500x280-crop-sagenext_sungwonthesis.jpg' alt='' title='Multi-User Centered Resource Scheduling for Large Scale Display Wall Environments' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=248'>Nam, S.</a><br>
+			<strong><a href='/entry.php?id=1626'>Multi-User Centered Resource Scheduling for Large Scale Display Wall Environments</a></strong><br>
+			<em>Submitted as partial fulfillment of the requirements for the degree of Doctor of Philosophy, Department of Computer Science</em>, Graduate College, University of Illinois at Chicago<br>
+			May 1, 2013<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1624'><img src='/resizedImages/500x280-crop-nmvr2013.png' alt='' title='Virtual Reality Environment Assisting Post Stroke Hand Rehabilitation: Case Report' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=188'>Tsoupikova, D.</a>, Stoykov, N., Kamper, D., Vick, R., Li, Y.<br>
+			<strong><a href='/entry.php?id=1624'>Virtual Reality Environment Assisting Post Stroke Hand Rehabilitation: Case Report</a></strong><br>
+			<em>Proceedings of NextMed MMVR20, Medicine Meets Virtual Reality MMVR</em>, San Diego, CA<br>
+			February 20, 2013<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1623'><img src='/resizedImages/500x280-crop-mateevitsicomputerscience3-2.jpg' alt='' title='Sensing the environment through SpiderSense' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=281'>Mateevitsi,V.</a>, Haggadone, B., <a href='/entry.php?id=21'>Leigh, J.</a>, Kunzer, B., <a href='/entry.php?id=14'>Kenyon, R.V.</a><br>
+			<strong><a href='/entry.php?id=1623'>Sensing the environment through SpiderSense</a></strong><br>
+			<em>Augmented Human &rsquo;13, 4th International Conference in Cooperation with ACM SIGCHI</em>, Stuttgart, Germany<br>
+			February 7, 2013<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1622'><img src='/resizedImages/500x280-crop-spie13paper_cave2.png' alt='' title='CAVE2: A Hybrid Reality Environment for Immersive Simulation and Information Analysis' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=272'>Febretti, A.</a>, <a href='/entry.php?id=270'>Nishimoto, A.</a>, Thigpen, T., <a href='/entry.php?id=24'>Talandis, J.</a>, <a href='/entry.php?id=49'>Long, L.</a>, <a href='/entry.php?id=273'>Pirtle, JD</a>, <a href='/entry.php?id=199'>Peterka, T.</a>, <a href='/entry.php?id=23'>Verlo, A.</a>, <a href='/entry.php?id=178'>Brown, M.</a>, <a href='/entry.php?id=5'>Plepys, D.</a>, <a href='/entry.php?id=7'>Sandin, D.</a>, <a href='/entry.php?id=192'>Renambot, L.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=21'>Leigh, J.</a><br>
+			<strong><a href='/entry.php?id=1622'>CAVE2: A Hybrid Reality Environment for Immersive Simulation and Information Analysis</a></strong><br>
+			<em>Proceedings of IS&amp;T / SPIE Electronic Imaging, The Engineering Reality of Virtual Reality 2013</em>, San Francisco, CA<br>
+			February 4, 2013<br>
+		</div>
+	</td>
+</tr>
+<!-- End List List -->
+	</table>
+</div>
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Year:</strong>
+		<a href='/list.php?id=4&amp;year=2020'>2020</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2019'>2019</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2018'>2018</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2017'>2017</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2016'>2016</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2015'>2015</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2014'>2014</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2013'><strong>2013</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2012'>2012</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2011'>2011</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2010'>2010</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2009'>2009</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2008'>2008</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2007'>2007</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2006'>2006</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2005'>2005</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2004'>2004</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2003'>2003</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2002'>2002</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2001'>2001</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2000'>2000</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1999'>1999</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1998'>1998</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1997'>1997</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1996'>1996</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1995'>1995</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1994'>1994</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1993'>1993</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1992'>1992</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1991'>1991</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1990'>1990</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1989'>1989</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1987'>1987</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1985'>1985</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1984'>1984</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1977'>1977</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1976'>1976</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<!-- End List -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

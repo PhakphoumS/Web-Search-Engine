@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin List -->
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Page:</strong>
+		<a href='/list.php?id=1&amp;page=1'>1</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=2'>2</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=3'><strong>3</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=4'>4</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=5'>5</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=6'>6</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=7'>7</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=8'>8</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=9'>9</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=10'>10</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<div id='list_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin List List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1880'><img src='/resizedImages/500x280-crop-po24.gif' alt='' title='P.O 2.4' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1880'>P.O 2.4</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=202'>HyeYun Park</a><br>
+			January 1, 2004 - May 1, 2004<br><br>
+			P.O - 2.4 is a OpenGL / Inventor project based on a traditional painting that was exhibited as part of my BFA thesis project in 2000. P.O 2.4 is&hellip; <a href='/entry.php?id=1880'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1864'><img src='/resizedImages/500x280-crop-aotearoa_project.jpg' alt='' title='Aotearoa Project' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1864'>Aotearoa Project</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=152'>Chris White</a>, <a href='/entry.php?id=49'>Lance Long</a>, Weta Digital (New Zealand)<br>
+			November 1, 2003 - July 1, 2004<br><br>
+			The objective of this project is to create intriguing artistic images using the latest advancements is visual effects technology. This includes&hellip; <a href='/entry.php?id=1864'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1865'><img src='/resizedImages/500x280-crop-storyspace-3.jpg' alt='' title='STORYSPACE:  A Collaborative Tangible Design and Presentation System' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1865'>STORYSPACE:  A Collaborative Tangible Design and Presentation System</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=172'>Janet Kim</a><br>
+			September 1, 2003 - April 1, 2004<br><br>
+			In this advanced technological age, digitally-driven collaborative activities suffer from inadequate multi-user platforms. Few existing computer&hellip; <a href='/entry.php?id=1865'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1866'><img src='/resizedImages/500x280-crop-olympics_poliana.gif' alt='' title='OLYMPICS' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1866'>OLYMPICS</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=203'>Poliana Tassini</a><br>
+			September 1, 2003 - December 1, 2003<br><br>
+			Olympics is an OpenGl animation that explores the journey to the Olympic Games in a symbolic approach, playing with the five Olympic rings, the Torch&hellip; <a href='/entry.php?id=1866'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1867'><img src='/resizedImages/500x280-crop-smalltalk.jpg' alt='' title='smalltalk' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1867'>smalltalk</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=189'>Helen-Nicole Kostis</a><br>
+			September 1, 2003 - March 1, 2004<br><br>
+			smalltalk is a rendered instance of a virtual 3D environment developed in Maya. The virtual environment functions as a response in a discourse with a&hellip; <a href='/entry.php?id=1867'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1877'><img src='/resizedImages/500x280-crop-kapil_game.jpg' alt='' title='Instant Glory 2309' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1877'>Instant Glory 2309</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=206'>Kapil Arora</a>, Andrew Rogas, Shirley Sun<br>
+			September 1, 2003 - January 1, 2004<br><br>
+			Setting of Instant Glory 2309 is in the future of Earth, in the year 2309, where racecar driving had turned in Wind Sail Racing (cars have now turned&hellip; <a href='/entry.php?id=1877'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1878'><img src='/resizedImages/500x280-crop-mb.gif' alt='' title='m.b : lively, unconventional and totally interactive' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1878'>m.b : lively, unconventional and totally interactive</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=202'>HyeYun Park</a><br>
+			September 1, 2003 - December 1, 2003<br><br>
+			m.b is an interactive VR project in the CAVE. Sound plays an increasingly varied and ubiquitous role in CAVE user interaction. In this VR project&hellip; <a href='/entry.php?id=1878'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1898'><img src='/resizedImages/500x280-crop-burrowcopy.gif' alt='' title='Burrow Chase' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1898'>Burrow Chase</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=208'>Byungil Jeong</a>, <a href='/entry.php?id=191'>Julieta Aguilera</a><br>
+			September 1, 2003 - January 1, 2004<br><br>
+			The focus of the Burrow Chase game is for a big creature to catch a small creature running through tunnels that are being dynamically created as they&hellip; <a href='/entry.php?id=1898'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1872'><img src='/resizedImages/500x280-crop-the_creation2.jpg' alt='' title='The Creation - From Eight Signs of Divination to the World' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1872'>The Creation - From Eight Signs of Divination to the World</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=207'>Sangyoon Lee</a><br>
+			August 30, 2003 - December 5, 2003<br><br>
+			The Creation is a virtual reality art piece that simulates the very first stage of the Creation of the world. The user can interact with each of the&hellip; <a href='/entry.php?id=1872'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1850'><img src='/resizedImages/500x280-crop-floor_paints2-2.jpg' alt='' title='INSIDE_OUT Dance, Virtual Reality and Alternative Broadcast Explorations' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1850'><em>INSIDE_OUT</em> Dance, Virtual Reality and Alternative Broadcast Explorations</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=37'>Marientina Gotsis</a><br>
+			June 27, 2003 - June 28, 2003<br><br>
+			Marientina Gotsis&rsquo;s MFA thesis project Inside_Out is a networked dance application combining the physical space with the virtual space with a&hellip; <a href='/entry.php?id=1850'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1856'><img src='/resizedImages/500x280-crop-waitingsm.jpg' alt='' title='Waiting In Line' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1856'>Waiting In Line</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=9'>Drew Browning</a>, School of Art &amp; Design, University of Illinois at Chicago; Annette Barbier, Northwestern University<br>
+			May 1, 2003 - September 1, 2003<br><br>
+			Waiting In Line is an interactive computer installation of visually rich, graphical representations of waveforms. Participants interactively create a&hellip; <a href='/entry.php?id=1856'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1840'><img src='/resizedImages/500x280-crop-opensource_newsm.jpg' alt='' title='Open Source Life' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1840'>Open Source Life</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=29'>Beth Cerny Pati&ntilde;o</a>, Diane Figueredo, Joey Lindsey,  Flo McGarrell, Daniel Romano<br>
+			March 27, 2003 - August 31, 2003<br><br>
+			The student-based experimental media arts group-Nomads &amp; Homesteaders explore bio-technology, emergent behavior, artificial life systems and&hellip; <a href='/entry.php?id=1840'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1871'><img src='/resizedImages/500x280-crop-riverofmanysides-2.jpg' alt='' title='River of Many Sides: A Media Performance' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1871'>River of Many Sides: A Media Performance</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=9'>Drew Browning</a>, Annetter Barbier, Leif Krinkle, Nquyen Thi Minh Ngoc, Quoc Thao<br>
+			February 1, 2003 - June 11, 2004<br><br>
+			A year-long collaboration between artists from the US and Vietnam culminates in &ldquo;River of Many Sides&rdquo;. This interactive media performance&hellip; <a href='/entry.php?id=1871'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1881'><img src='/resizedImages/500x280-crop-community-2.gif' alt='' title='community' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1881'>community</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=29'>Beth Cerny Pati&ntilde;o</a><br>
+			January 5, 2003 - November 15, 2004<br><br>
+			Community is about people interacting with each other in a multi-user, networked environment and creating collaborative artwork that changes over&hellip; <a href='/entry.php?id=1881'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1860'><img src='/resizedImages/500x280-crop-wreckerflip.gif' alt='' title='Wrecker, Film Visual Effects' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1860'><em>Wrecker</em>, Film Visual Effects</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=152'>Chris White</a>, Ty Primosch, Walter Behrnes (Bowling Green University)<br>
+			November 1, 2002 - October 1, 2003<br><br>
+			The objective of this project was to create visual effects for the independent film Wrecker. Wrecker, directed by Nadav Kurtz, explores how sound can&hellip; <a href='/entry.php?id=1860'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<!-- End List List -->
+	</table>
+</div>
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Page:</strong>
+		<a href='/list.php?id=1&amp;page=1'>1</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=2'>2</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=3'><strong>3</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=4'>4</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=5'>5</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=6'>6</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=7'>7</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=8'>8</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=9'>9</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=10'>10</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<!-- End List -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

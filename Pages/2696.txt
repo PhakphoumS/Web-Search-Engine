@@ -1,0 +1,503 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Category -->
+<!-- Begin Category Pagination -->
+<div class='category_area'>
+	<div class='category_content'>
+		<h3>MS / PhD Thesis</h3><br>
+		The Masters of Science (MS) and Doctor of Philosophy (PhD) in the Computer Science and Engineering programs offer study and research in several areas of specialization including Computer Graphics (Electronic Visualization EV). Students seeking a specialty in EV will study and conduct research coinciding with the Electronic Visualization Laboratory (EVL) research goals.<br><br> The Masters of Science (MS) and Doctor of Philosophy (PhD) in the Computer Science and Engineering programs are highly competitive international programs that accept new students in the Fall of each year. Graduate catalogues are available online: <a href="http://www.uic.edu/gcat">www.uic.edu/gcat</a> or for purchase through the UIC Bookstore.<br><br> Over the past ten years, EVL&rsquo;s focus has been on the development of advanced visualization devices and applications for collaborative exploration of scientific, engineering and other interactive environments over national and global high-speed networks.<br><br> Students focus upon creating and refining the infrastructure, tools and techniques, which drive these efforts. Opportunities for collaboration with leading researchers to develop visualization applications in areas such as computational science, engineering, networking, mathematics, medicine, industrial design, education, architecture and art are numerous. Research Assistantship (RA) and tuition waivers are available for students in support of funded research projects.<br><br> Application and admission to the MS or PhD programs is made directly to the Department of Computer Science. Detailed information on <a href="http://www.cs.uic.edu/bin/view/Main/GraduatePrograms">How to Apply</a> can be found on the Department&rsquo;s Graduate Admissions webpage.<br><br> <strong>Contact:</strong><br> Student Affairs Office<br> Department of Computer Science<br> <a href="mailto:gard@cs.uic.edu">grad@cs.uic.edu</a><br> Phone: 312.996.3422<br><br> Please note that all correspondence with the UIC Department of Computer Science involving graduate admissions should use the following address:<br><br> The University of Illinois at Chicago<br> Department of Computer Science (M/C 152)<br> Attn: Student Affairs Office<br> 851 S. Morgan St.<br> Chicago, IL 60607-7053<br><br> <strong>Please do not send the graduate college application, fee or transcripts to this address.</strong> Please refer to the links above for specific instructions.
+	</div>
+	<div class='category_content'>
+		<strong>Related:</strong>
+		<a href='/category.php?id=16&amp;related=1'>Art</a>&nbsp;&nbsp;
+		<a href='/category.php?id=16&amp;related=2'>Directory</a>&nbsp;&nbsp;
+		<a href='/category.php?id=16&amp;related=3'>Events</a>&nbsp;&nbsp;
+		<a href='/category.php?id=16&amp;related=4'>Papers</a>&nbsp;&nbsp;
+		<a href='/category.php?id=16&amp;related=5'><strong>Research</strong></a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End Category Pagination -->
+<div class='category_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin Category List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2347'><img src='/resizedImages/500x280-crop-hai_9981-2.jpg' alt='' title='UIC Human-Computer Interaction (HCI) Laboratory' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2347'>UIC Human-Computer Interaction (HCI) Laboratory</a></strong><br>
+			<a href='/entry.php?id=2278'>Debaleena Chattopadhyay</a><br>
+			January 1, 2017 - Ongoing<br><br>
+			The Human-Computer Interaction (HCI) Laboratory at the University of Illinois at Chicago (UIC) is led by assistant professor Debaleena Chattopadhyay&hellip; <a href='/entry.php?id=2347'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2215'><img src='/resizedImages/500x280-crop-covallo_mr.png' alt='' title='Merging Worlds: A Location-based Approach to Mixed Reality' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2215'>Merging Worlds: A Location-based Approach to Mixed Reality</a></strong><br>
+			<a href='/entry.php?id=2473'>Angus Forbes</a>, <a href='/entry.php?id=2156'>Marco Cavallo</a><br>
+			August 16, 2015 - May 15, 2016<br><br>
+			This research explores a novel approach to the design of Mixed Reality (MR) applications, which combines elements from markerless and location-based&hellip; <a href='/entry.php?id=2215'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2218'><img src='/resizedImages/500x280-crop-sageboard_pellolio.png' alt='' title='SAGEBoard: a Whiteboard for Large Multitouch Displays' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2218'>SAGEBoard: a Whiteboard for Large Multitouch Displays</a></strong><br>
+						August 16, 2015 - May 3, 2016<br><br>
+			SAGEBoard is an electronic whiteboard for tiled touch displays that can be used locally or shared between remote collaborators. An electronic&hellip; <a href='/entry.php?id=2218'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2041'><img src='/resizedImages/500x280-crop-interspeech_image-2.png' alt='' title='Audio Dilation' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2041'>Audio Dilation</a></strong><br>
+			<a href='/entry.php?id=311'>John Novak III</a>, Robert Kenyon, Jason Leigh, Aashish Tandon, Jason Archer, Valeriy Shafiro<br>
+			September 1, 2012 - Ongoing<br><br>
+			On-line, real-time audio dilation is a technique that time stretches, or slows down the tempo of audio signals as they are generated. This research&hellip; <a href='/entry.php?id=2041'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2015'><img src='/resizedImages/500x280-crop-fullbrain01_cropped.png' alt='' title='Reconstructing the Cerebral Vascular Network' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2015'>Reconstructing the Cerebral Vascular Network</a></strong><br>
+			<a href='/entry.php?id=290'>Thomas Marrinan</a>, (Computer Science); Dr. Linninger, Chih Yang Hsu, Ian Gould, (BioEngineering)<br>
+			June 1, 2011 - May 15, 2013<br><br>
+			Researchers from the UIC Departments of Computer Science and BioEngineering propose to develop graphical stereoscopic visual applications for a&hellip; <a href='/entry.php?id=2015'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2002'><img src='/resizedImages/500x280-crop-articulate-yiwen_sm-2.png' alt='' title='Articulate: a Semi-automated System for Translating Natural Language Queries into Meaningful Visualizations' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2002'>Articulate: a Semi-automated System for Translating Natural Language Queries into Meaningful Visualizations</a></strong><br>
+			<a href='/entry.php?id=2306'>Abeer Alsaiari</a>, <a href='/entry.php?id=2472'>Abhinav Kumar</a>, <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=285'>Jillian Aurisano</a>, <a href='/entry.php?id=2322'>Joe Borowicz</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=2303'>Vijayraj Mahida</a>, <a href='/entry.php?id=250'>Yiwen Sun</a>, Barbara DiEugenio<br>
+			March 1, 2009 - Ongoing<br><br>
+			While many visualization tools exist that offer sophisticated functions for charting complex data, they still expect users to possess a high degree&hellip; <a href='/entry.php?id=2002'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1989'><img src='/resizedImages/500x280-crop-zebrascreenshot.png' alt='' title='Visual Analysis of Social Behavior of Wild Animals' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1989'>Visual Analysis of Social Behavior of Wild Animals</a></strong><br>
+			<a href='/entry.php?id=259'>Khairi Reda</a><br>
+			August 16, 2008 - August 16, 2009<br><br>
+			Understanding the social interaction of wild animals in the context of their ecology is imperative to the conservation of endangered species. Our&hellip; <a href='/entry.php?id=1989'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1987'><img src='/resizedImages/500x280-crop-planetaryscaleterrain.png' alt='' title='Planetary-scale Terrain Composition' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1987'>Planetary-scale Terrain Composition</a></strong><br>
+			<a href='/entry.php?id=222'>Robert Kooima</a><br>
+			August 1, 2007 - October 23, 2008<br><br>
+			Planetary-scale Terrain Composition is a GPU-centric real-time approach to generating and rendering planetary bodies composed of arbitrary quantities&hellip; <a href='/entry.php?id=1987'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1993'><img src='/resizedImages/500x280-crop-endurance.jpg' alt='' title='NASA Environmentally Non-Disturbing Under-ice Robotic ANtarctiC Explorer (ENDURANCE)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1993'>NASA Environmentally Non-Disturbing Under-ice Robotic ANtarctiC Explorer (ENDURANCE)</a></strong><br>
+			<a href='/entry.php?id=272'>Alessandro Febretti</a>, <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=227'>Ratko Jagodic</a>, <a href='/entry.php?id=257'>Shriram Iyer</a>, Peter Doran (PI UIC); John Priscu (Montana State University); Christopher McKay (NASA Ames Research Center); Bill Stone (Stone Aerospace)<br>
+			May 1, 2007 - April 30, 2010<br><br>
+			NASA&rsquo;s Astrobiology Science and Technology for Exploring Planets (ASTEP) Program is supporting ENDURANCE - the Environmentally Non-Disturbing&hellip; <a href='/entry.php?id=1993'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1980'><img src='/resizedImages/500x280-crop-rtk.png' alt='' title='RTK: The Rails Toolkit' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1980'>RTK: The Rails Toolkit</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=248'>Sungwon Nam</a>, <a href='/entry.php?id=209'>Venkatram Vishwanath</a><br>
+			January 1, 2007 - Ongoing<br><br>
+			RTK is an open source API that enables applications to co-schedule CPU cores, GPUs, Memory and Network resources within multi- and many- core&hellip; <a href='/entry.php?id=1980'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1945'><img src='/resizedImages/500x280-crop-etars_400.png' alt='' title='ETARS: Eye Tracking Assessment and Remediation System' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1945'>ETARS: Eye Tracking Assessment and Remediation System</a></strong><br>
+			<a href='/entry.php?id=258'>Filippo Galgani</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=261'>Katie Cruppenink</a>, <a href='/entry.php?id=250'>Yiwen Sun</a>, Richard Markin, Learning By Design, Inc.<br>
+			July 1, 2006 - December 31, 2008<br><br>
+			The initial goal of this research is to evaluate the feasibility of creating a research and service software platform that can be used to test a&hellip; <a href='/entry.php?id=1945'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1925'><img src='/resizedImages/500x280-crop-sageweb_gui.jpg' alt='' title='SAGE Display Controller' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1925'>SAGE Display Controller</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=212'>Javid Alimohideen</a>, <a href='/entry.php?id=227'>Ratko Jagodic</a><br>
+			June 1, 2006 - Ongoing<br><br>
+			SAGE Display Controller is a web based user-interface application designed to access and control the SAGE environment. SAGE, the Scalable Adaptive&hellip; <a href='/entry.php?id=1925'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1915'><img src='/resizedImages/500x280-crop-dynallax.jpg' alt='' title='Dynallax: Dynamic Parallax Barrier Autostereoscopic Display' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1915'>Dynallax: Dynamic Parallax Barrier Autostereoscopic Display</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=35'>Javier Girado</a>, <a href='/entry.php?id=163'>Jinghua Ge</a>, <a href='/entry.php?id=222'>Robert Kooima</a>, <a href='/entry.php?id=199'>Tom Peterka</a>, Jason Leigh, Andrew Johnson, Jurgen Schulze (UCSD), Thomas A. DeFanti<br>
+			January 1, 2006 - Ongoing<br><br>
+			Parallax barrier strip autostereoscopic virtual reality displays such as Varrier&trade; have been constructed by placing a barrier of lines in front&hellip; <a href='/entry.php?id=1915'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1946'><img src='/resizedImages/500x280-crop-lambdatable_schwarzthesis.jpg' alt='' title='Distributed Volume Rendering of Very Large Data on High-Resolution Scalable Displays' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1946'>Distributed Volume Rendering of Very Large Data on High-Resolution Scalable Displays</a></strong><br>
+			<a href='/entry.php?id=213'>Nicholas Schwarz</a><br>
+			January 1, 2006 - December 31, 2007<br><br>
+			Scientific instruments increasing collect higher spatial resolution samples providing scientists with larger volumetric datasets. For example&hellip; <a href='/entry.php?id=1946'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1979'><img src='/resizedImages/500x280-crop-pace.png' alt='' title='Personal Augmented Computing Environment (PACE)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1979'>Personal Augmented Computing Environment (PACE)</a></strong><br>
+			<a href='/entry.php?id=14'>Robert V. Kenyon</a>, <a href='/entry.php?id=232'>Xun Luo</a><br>
+			August 16, 2005 - May 1, 2008<br><br>
+			Personal Augmented Computing Environment (PACE) focuses upon the research challenges affecting the development of applications for personal mobile&hellip; <a href='/entry.php?id=1979'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1927'><img src='/resizedImages/500x280-crop-pointvr-2.jpg' alt='' title='A Point-Based Remote Visualization Pipeline For Large-Scale Virtual Reality' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1927'>A Point-Based Remote Visualization Pipeline For Large-Scale Virtual Reality</a></strong><br>
+			<a href='/entry.php?id=163'>Jinghua Ge</a><br>
+			March 1, 2005 - March 1, 2007<br><br>
+			This research project focuses on a distributed visualization pipeline which combines VR technologies and remote computing resources through high&hellip; <a href='/entry.php?id=1927'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1914'><img src='/resizedImages/500x280-crop-hapticdentistry.gif' alt='' title='Haptics-Based Virtual Reality Periodontal Training Simulator' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1914'>Haptics-Based Virtual Reality Periodontal Training Simulator</a></strong><br>
+			<a href='/entry.php?id=182'>Cristian J. Luciano</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			August 16, 2004 - October 17, 2006<br><br>
+			The haptics-based virtual reality periodontal training simulator project focuses upon the research and development of a prototype dental simulator&hellip; <a href='/entry.php?id=1914'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1908'><img src='/resizedImages/500x280-crop-topologysm.jpg' alt='' title='AR-PIN / PDC' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1908'>AR-PIN / PDC</a></strong><br>
+			<a href='/entry.php?id=38'>Eric He</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=231'>Xi Wang</a><br>
+			September 1, 2003 - Ongoing<br><br>
+			Grid is a computing architecture that consists of distributed clusters of computers interconnected by a network. Grid computing is used in a variety&hellip; <a href='/entry.php?id=1908'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1838'><img src='/resizedImages/500x280-crop-wiggleview_istrip2.jpg' alt='' title='Wiggleview' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1838'>Wiggleview</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=166'>Atul Nayak</a>, <a href='/entry.php?id=21'>Jason Leigh</a><br>
+			September 1, 2002 - August 30, 2003<br><br>
+			Wiggleview is a tool developed by the Electronic Visualization Laboratory (EVL) at the University of Illinois at Chicago (UIC) for visualizing&hellip; <a href='/entry.php?id=1838'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1677'><img src='/resizedImages/500x280-crop-qosimoto.jpg' alt='' title='QoSIMoto' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1677'>QoSIMoto</a></strong><br>
+			<a href='/entry.php?id=52'>Kyoung Shin Park</a><br>
+			January 1, 2002 - May 1, 2003<br><br>
+			The QoS Internet Monitoring Tool, or QoSIMoto, is a CAVE-based Netlogger visualization tool for monitoring and visualizing network flows in&hellip; <a href='/entry.php?id=1677'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1835'><img src='/resizedImages/500x280-crop-paris_cranial_istrip.jpg' alt='' title='Immersive Design and Fabrication of Cranial Implants on PARIS&trade;' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1835'>Immersive Design and Fabrication of Cranial Implants on PARIS&trade;</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=56'>Chris Scharver</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=211'>Vaidya Chandrasekhar</a>, Ray Evenhouse, School of Biomedical and Health Information Sciences<br>
+			September 1, 2001 - August 31, 2006<br><br>
+			The Electronic Visualization Laboratory (EVL) at the University of Illinois at Chicago (UIC) in cooperation with UIC&rsquo;s Virtual Reality in&hellip; <a href='/entry.php?id=1835'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1676'><img src='/resizedImages/500x280-crop-approom.gif' alt='' title='The Virtual Mail System' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1676'>The Virtual Mail System</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, <a href='/entry.php?id=103'>Tomoko Imai</a><br>
+			September 1, 1998 - May 15, 2001<br><br>
+			Traditionally E-mail has been the most effective asynchronous collaboration tool available to us. The goal of V-mail is to provide an equally, if not&hellip; <a href='/entry.php?id=1676'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1682'><img src='/resizedImages/500x280-crop-tandem_logo_sm.gif' alt='' title='Tandem' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1682'>Tandem</a></strong><br>
+			<a href='/entry.php?id=106'>Abhinav Kapoor</a>, <a href='/entry.php?id=94'>Ben Goldstein</a>, <a href='/entry.php?id=56'>Chris Scharver</a>, <a href='/entry.php?id=12'>Josephine Anstey</a>, <a href='/entry.php?id=45'>Michael Lewis</a>, <a href='/entry.php?id=55'>Nikita Sawant</a>, <a href='/entry.php?id=57'>Satheesh Subramanian</a>, <a href='/entry.php?id=61'>Zhongwei Qui</a><br>
+			January 1, 1998 - April 1, 1999<br><br>
+			This project seeks to expedite the creation of more compelling collaborative VR applications using either the CAVE or Immersadesk VR display devices&hellip; <a href='/entry.php?id=1682'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1681'><img src='/resizedImages/500x280-crop-cave6d.jpg' alt='' title='CAVE6D' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1681'>CAVE6D</a></strong><br>
+			<a href='/entry.php?id=106'>Abhinav Kapoor</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, G.H. Wheless, C. Lascara - Center for Coastal Physcial Oceanography, Old Dominion University<br>
+			January 1, 1997 - December 1, 1999<br><br>
+			CAVE5D, co-developed by Wheless and Lascara from ODU and Dr. Bill Hibbard from the University of Wisconsin-Madison, is a configurable virtual reality&hellip; <a href='/entry.php?id=1681'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1742'><img src='/resizedImages/500x280-crop-4dmath.gif' alt='' title='Dimension Land' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1742'>Dimension Land</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=25'>Craig Barnes</a>, <a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=74'>Jim Costigan</a>, <a href='/entry.php?id=101'>Milana Huang</a>, Jim Danowski<br>
+			September 1, 1996 - May 1, 1997<br><br>
+			In Dimension Land a remotely located instructor uses a shared virtual environment and the three dimensions of VR to teach about hypercubes and 4D&hellip; <a href='/entry.php?id=1742'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1970'><img src='/resizedImages/500x280-crop-dimensionlandavatar4.gif' alt='' title='A Comparsion of Video, Avatar &amp; Face-To-Face in Collaborative Virtual Learning Environments' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1970'>A Comparsion of Video, Avatar &amp; Face-To-Face in Collaborative Virtual Learning Environments</a></strong><br>
+			<a href='/entry.php?id=74'>Jim Costigan</a><br>
+			September 1, 1996 - May 1, 1997<br><br>
+			The use of communication technology has an effect on communication. Studies have been conducted that show these effects vary by transmission channel&hellip; <a href='/entry.php?id=1970'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1963'><img src='/resizedImages/500x280-crop-nice_cave-2.jpg' alt='' title='N.I.C.E: Narrative-based Immersive Constructionists / Collaborative Environments' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1963'>N.I.C.E: Narrative-based Immersive Constructionists / Collaborative Environments</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=146'>Christina Vasilakis</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=134'>Maria Roussou</a>, <a href='/entry.php?id=16'>Tom Moher</a><br>
+			September 1, 1995 - June 1, 1999<br><br>
+			NICE is a project that applies virtual reality to the creation of a family of educational environments for young users. Our approach is based on&hellip; <a href='/entry.php?id=1963'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1965'><img src='/resizedImages/500x280-crop-casa2.gif' alt='' title='CASA: Computer Augmentation for Smart Architectonics' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1965'>CASA: Computer Augmentation for Smart Architectonics</a></strong><br>
+			<a href='/entry.php?id=146'>Christina Vasilakis</a>, <a href='/entry.php?id=25'>Craig Barnes</a>, <a href='/entry.php?id=21'>Jason Leigh</a><br>
+			August 1, 1994 - May 1, 1995<br><br>
+			Homes or buildings that utilize technology in order to be &ldquo;smart,&rdquo; computer augmented, automated, &ldquo;intuitive,&rdquo; energy&hellip; <a href='/entry.php?id=1965'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1729'><img src='/resizedImages/500x280-crop-vreye.gif' alt='' title='The Virtual Eye' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1729'>The Virtual Eye</a></strong><br>
+			<a href='/entry.php?id=50'>Paul Neumann</a>, R. Parshall, L. Sadler<br>
+			July 1, 1994 - July 15, 1994<br><br>
+			This project demonstrates the design of an anatomically realistic computer model of a human eye in a virtual environment. Users are able to explore&hellip; <a href='/entry.php?id=1729'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1706'><img src='/resizedImages/500x280-crop-virtualdir.jpg' alt='' title='The Virtual Director' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1706'>The Virtual Director</a></strong><br>
+			<a href='/entry.php?id=145'>Marcus Thiebaux</a>, Donna Cox, Robert Patterson<br>
+			September 1, 1992 - February 22, 1997<br><br>
+			&ldquo;The Virtual Director&rdquo; is a virtual reality interface that enables gestural motion capture and voice control of navigation, editing, and&hellip; <a href='/entry.php?id=1706'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1818'><img src='/misc/default_500x280.png' alt='' title='A Realistic Video Avatar System for Networked Virtual Environments' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1818'>A Realistic Video Avatar System for Networked Virtual Environments</a></strong><br>
+			<a href='/entry.php?id=54'>Vivek Rajan</a><br>
+			Unknown - December 2, 2001<br><br>
+			With the advent of collaborative virtual reality applications, there is a need for representing users with a higher degree of realism for better&hellip; <a href='/entry.php?id=1818'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1857'><img src='/misc/default_500x280.png' alt='' title='Panels, Tools, and Views: A Framework for Visual Programming' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1857'>Panels, Tools, and Views: A Framework for Visual Programming</a></strong><br>
+			<a href='/entry.php?id=168'>Allan Spale</a><br>
+			Unknown - December 1, 2002<br><br>
+			Panels, Tools, and Views (PTV) is a conceptual framework for providing a visual programming environment. This framework seeks to map programming&hellip; <a href='/entry.php?id=1857'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<!-- End Category List -->
+	</table>
+</div>
+<!-- End Category -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

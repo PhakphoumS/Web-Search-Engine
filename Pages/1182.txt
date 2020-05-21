@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Entry -->
+<table id='entry_area' class='fixedTable'>
+	<tr>
+		<td style='width:676px;'>
+			<div id='entry_info'>
+<!-- Begin Entry Info -->
+<h3>City of Chicago Partners with UIC/EVL to Announce OpenGrid</h3>
+<div id='entry_image_large'><img style='left:50px;' src='/resizedImages/1280x720-uic-evl-opengrid-lancelong_ljl8617-small.jpg' alt='' title='City of Chicago Partners with UIC/EVL to Announce OpenGrid' width='539' height='360'></div>
+<span class='smallText'>Brenna Berman, City of Chicago&rsquo;s Chief Information Officer (CIO) and Commissioner of the Department of Innovation &amp; Technology, introduces OpenGrid on the UIC EVL Cyber-Commons wall. - Lance Long, UIC/EVL</span><br><br>
+<div class='entry_content'>
+		<strong>URL:</strong> <a href='http://opengrid.io/' target='_blank'>http://opengrid.io/</a><br><br>
+	Electronic Visualization Laboratory, University of Illinois at Chicago<br><br>
+<!-- Begin Entry Description -->
+To announce OpenGrid, a new and innovative website enabling the public to navigate City data using an intuitive and visual interface, the City of Chicago&rsquo;s Department of Innovation &amp; Technology wanted a high-tech stage. Several stages, in fact, so that invited media and partners could listen to presentations in one environment and then move to another for demos and hands-on experiences. They came to the Electronic Visualization Laboratory (EVL) at the University of Illinois at Chicago to host the event.<br><br>
+Brenna Berman, the City&rsquo;s Chief Information Officer (CIO) and Commissioner of the Department of Innovation & Technology, and Tom Schenk, Jr., Chief Data Officer (CDO), presented OpenGrid in EVL&rsquo;s Cyber-Commons room, followed by multiple demos in the CAVE2&trade; Hybrid Reality Environment. They explained OpenGrid&rsquo;s technical capabilities, but also its human capabilities - as it makes City data more readily accessible to Chicago communities, providing its citizens with the information they need to solve problems relevant to their communities.<br><br>
+Data portals organize data by individual datasets, making it difficult to combine data and see what is happening in one&rsquo;s neighborhood. OpenGrid is a public website that makes the Chicago Data Portal more easily available to all residents. Users can select areas on a map of the City, on which to graphically view locations of inspections, street closures, potholes, crimes, and other activities.<br><br>
+Chicago&rsquo;s investment in open data, along with strategic partnerships with civic tech volunteers and pro bono corporations, has also helped improve the city&rsquo;s services. EVL is proud to have helped this initiative!<br><br>
+Learn more about <a href="http://opengrid.io/">OpenGrid</a>.<br><br>
+See OpenGrid collaborator, University of Chicago&rsquo;s <a href="https://ci.uchicago.edu/press-releases/new-opengrid-app-illuminates-city-data-residents">press release.</a><br><br>
+<!-- End Entry Description -->
+	<strong>Email:</strong> <a href='mailto:maxine@uic.edu'>maxine@uic.edu</a><br><br>
+	<strong>Date:</strong> January 19, 2016
+</div>
+<!-- End Entry Info -->
+			</div>
+		</td>
+		<td style='width:374px;'>
+			<div id='entry_sidebar'>
+<!-- Begin Entry Sidebar -->
+<div class='entry_content'>
+	<h3>No Related Entries</h3><br>
+	<h3>Related Categories</h3>
+	<ul>
+		<li><a href='/category.php?id=8&amp;related=3'>Data Mining</a></li>
+		<li><a href='/category.php?id=24&amp;related=3'>User Groups</a></li>
+		<li><a href='/category.php?id=35&amp;related=3'>Visual Analytics</a></li>
+	</ul>
+</div>
+<!-- End Entry Sidebar-->
+			</div>
+		</td>
+	</tr>
+</table>
+<!-- End Entry -->
+<script>
+	// Making both divs the same height is much easier in JavaScript
+	var entryInfo = document.getElementById("entry_info");
+	var entrySidebar = document.getElementById("entry_sidebar");
+	
+	if (entryInfo && entrySidebar) {
+		var maxHeight = Math.max(entryInfo.offsetHeight, entrySidebar.offsetHeight)-20;
+		entryInfo.style.height = maxHeight+"px";
+		entrySidebar.style.height = maxHeight+"px";
+	}
+</script>
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

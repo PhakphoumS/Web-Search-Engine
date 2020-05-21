@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Related -->
+<div id='related_area'>
+	<div id='related_title'>
+		<a href='/entry.php?id=2016'><h3>CAVE2: Next-Generation Virtual-Reality and Visualization Hybrid Environment for Immersive Simulation and Information Analysis</h3></a><br>
+<!-- Begin Related Pagination -->
+<strong>Related:</strong>
+<a href='/related.php?id=2016&amp;related=1'>Art</a>&nbsp;&nbsp;
+<a href='/related.php?id=2016&amp;related=2'><strong>Directory</strong></a>&nbsp;&nbsp;
+<a href='/related.php?id=2016&amp;related=3'>Events</a>&nbsp;&nbsp;
+<a href='/related.php?id=2016&amp;related=4'>Papers</a>&nbsp;&nbsp;
+<a href='/related.php?id=2016&amp;related=5'>Research</a>&nbsp;&nbsp;
+<!-- End Related Pagination -->
+	</div>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin Related List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=178'><img src='/resizedImages/500x280-crop-mbrown_2017cropped.jpg' alt='' title='Maxine Brown' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=178'>Maxine Brown</a></strong><br>
+			Director, EVL<br>
+			<a href='http://www.evl.uic.edu/maxine' target='_blank'>http://www.evl.uic.edu/maxine</a><br>
+			<a href='mailto:maxine@uic.edu'>maxine@uic.edu</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=272'><img src='/resizedImages/500x280-crop-alessandrofebretti.jpg' alt='' title='Alessandro Febretti' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=272'>Alessandro Febretti</a></strong><br>
+			MS Gradudate, 2008<br>PhD Graduate, 2017<br>
+			<a href='http://www.febretpository.net' target='_blank'>http://www.febretpository.net</a><br>
+			<a href='mailto:febret@gmail.com'>febret@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=10'><img src='/resizedImages/500x280-crop-andy_evl.jpg' alt='' title='Andrew Johnson' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=10'>Andrew Johnson</a></strong><br>
+			Director of Research, EVL<br>Professor, Computer Science<br>
+			<a href='http://www.evl.uic.edu/aej' target='_blank'>http://www.evl.uic.edu/aej</a><br>
+			<a href='mailto:ajohnson@uic.edu'>ajohnson@uic.edu</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=21'><img src='/resizedImages/500x280-crop-j-leigh.jpg' alt='' title='Jason Leigh' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=21'>Jason Leigh</a></strong><br>
+			Director Emeritus, EVL<br>Professor, Computer Science<br>
+			<a href='mailto:leighj@hawaii.edu'>leighj@hawaii.edu</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=49'><img src='/resizedImages/500x280-crop-long_headshot.jpg' alt='' title='Lance Long' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=49'>Lance Long</a></strong><br>
+			Senior Research Programmer<br>MS Graduate, 2003<br>
+			<a href='mailto:llong4@uic.edu'>llong4@uic.edu</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=199'><img src='/resizedImages/500x280-crop-tompeterkasm.jpg' alt='' title='Tom Peterka' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=199'>Tom Peterka</a></strong><br>
+			MS Graduate, 2003, PhD Graduate, 2007<br>
+			<a href='mailto:t.peterka@comcast.net'>t.peterka@comcast.net</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=273'><img src='/resizedImages/500x280-crop-jd_pirtle.jpg' alt='' title='JD Pirtle' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=273'>JD Pirtle</a></strong><br>
+			Research Specialist, 2011-2013<br>MFA Graduate, 2011<br>
+			<a href='http://jdpirtle.com' target='_blank'>http://jdpirtle.com</a><br>
+			<a href='mailto:jdpirtle@gmail.com'>jdpirtle@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=5'><img src='/resizedImages/500x280-crop-plepys_black_horiz.jpg' alt='' title='Dana M. Plepys' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=5'>Dana M. Plepys</a></strong><br>
+			Associate Director<br>MFA Graduate, 1984<br>
+			<a href='mailto:dplepys@uic.edu'>dplepys@uic.edu</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=192'><img src='/resizedImages/500x280-crop-lrenambot.png' alt='' title='Luc Renambot' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=192'>Luc Renambot</a></strong><br>
+			EVL Faculty<br>Research Associate Professor<br>
+			<a href='mailto:renambot@uic.edu'>renambot@uic.edu</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=7'><img src='/resizedImages/500x280-crop-dansandin_sm.png' alt='' title='Daniel J. Sandin' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=7'>Daniel J. Sandin</a></strong><br>
+			Director Emeritus, EVL<br>Professor Emeritus, School of Art &amp; Design<br>Senior Research Scientist, Softech (STRC)<br>
+			<a href='http://www.evl.uic.edu/dan' target='_blank'>http://www.evl.uic.edu/dan</a><br>
+			<a href='mailto:dan@uic.edu'>dan@uic.edu</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=24'><img src='/resizedImages/500x280-crop-jonas1.jpg' alt='' title='Jonas Talandis' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=24'>Jonas Talandis</a></strong><br>
+			Senior Research Scientist<br>
+			<a href='mailto:jonast@uic.edu'>jonast@uic.edu</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=23'><img src='/resizedImages/500x280-crop-alan_verlo.jpg' alt='' title='Alan Verlo' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=23'>Alan Verlo</a></strong><br>
+			Associate Director (retired), MS Graduate
+		</div>
+	</td>
+</tr>
+<!-- End Related List -->
+	</table>
+</div>
+<!-- End Related -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

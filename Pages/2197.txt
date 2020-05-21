@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+    <base href='https://www.ihrp.uic.edu/content/training-every-stage-research-careers' />
+    <title>Training for Every Stage in Research Careers</title>
+    <script src="https://www.ihrp.uic.edu/misc/jquery.js?v=1.4.4"></script>
+<script src="https://www.ihrp.uic.edu/misc/jquery-extend-3.4.0.js?v=1.4.4"></script>
+<script src="https://www.ihrp.uic.edu/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.ihrp.uic.edu/misc/drupal.js?q8vwl2"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/field_group/field_group.js?q8vwl2"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/themes/ihrp/js/script.js?q8vwl2"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"ihrp","theme_token":"9k00h7b7l_8EbT072brcG49pPme3nsTlFz5pXNj75NE","js":{"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/field_group\/field_group.js":1,"sites\/all\/themes\/ihrp\/js\/script.js":1}},"field_group":{"fieldset":"print"}});</script>
+    <script type="text/javascript">(function ($) { Drupal.behaviors.print = {attach: function() {$(window).load(function() {window.print();})}}})(jQuery);</script>    <meta name="robots" content="noindex, nofollow" />          <link rel='shortcut icon' href='https://www.ihrp.uic.edu/files/favicon.ico' type='image/x-icon' />
+        <style>
+@import url("https://www.ihrp.uic.edu/modules/system/system.base.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/system/system.menus.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/system/system.messages.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/system/system.theme.css?q8vwl2");
+</style>
+<style>
+@import url("https://www.ihrp.uic.edu/modules/aggregator/aggregator.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/comment/comment.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/date/date_api/date.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/field/theme/field.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/node/node.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/search/search.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/user/user.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/views/css/views.css?q8vwl2");
+</style>
+<style>
+@import url("https://www.ihrp.uic.edu/sites/all/modules/ctools/css/ctools.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/print/css/print.css?q8vwl2");
+</style>
+  </head>
+  <body>
+            <div class="print-site_name">Published on <em class="placeholder">Institute for Health Research and Policy | University of Illinois at Chicago</em> (<a href="https://www.ihrp.uic.edu">https://www.ihrp.uic.edu</a>)</div>
+    <p />
+    <div class="print-breadcrumb"><a href="/">Home</a> &gt; <a href="/content/scientific-resources-intro">Scientific Resources</a> &gt; Training</div>
+    <hr class="print-hr" />
+        <div class="print-content">
+<article class="node-39 node node-page view-mode-print clearfix" about="/content/training-every-stage-research-careers" typeof="sioc:Item foaf:Document">
+
+      <header>
+                    <h2 class="node__title node-title"><a href="https://www.ihrp.uic.edu/content/training-every-stage-research-careers">Training for Every Stage in Research Careers</a> <span class="print-footnote">[1]</span></h2>
+            <span property="dc:title" content="Training for Every Stage in Research Careers" class="rdf-meta element-hidden"></span>
+      
+          </header>
+  
+	
+  <p>IHRP provides access to research excellence and opportunity to UIC researchers in the social and health sciences.</p>
+<h2>
+	Wherever they are in their careers, UIC researchers can count on the Institute to give them the mentoring, training, resources<br />
+	and collegiality they need.</h2>
+<p>We train graduate students in practical research skills, guide doctoral candidates in obtaining dissertation grants, mentor postdocs in securing their first grants, and support early researchers throughout the pursuit and conduct of career development grants.</p>
+<h3>
+	Established Researchers</h3>
+<p>As researchers advance their lines of inquiry and steadily increase their funding, the Institute is the right place to administer their grant portfolios. Large, complex grants are among the Institute&rsquo;s strengths.</p>
+<h3>
+	New Researchers</h3>
+<p>With IHRP support, new faculty and postdocs design new research studies and apply for grants for exploratory studies, small research projects, or career development plans. We guide them through their funded projects, and when they are ready, we help them succeed in obtaining their first federal funding awards as independent researchers.</p>
+<h3>
+	Postdoctoral Associates and Fellows</h3>
+<p>The Institute has hosted federally funded fellowship programs, such as the <a href="https://cecdp-ihrp.uic.edu/">Cancer Education and Career Development Program</a> <span class="print-footnote">[2]</span>, since early in the 1990s. Investigators with large awards often employ postdoctoral associates to serve in substantial project roles funded.</p>
+<h3>
+	Graduate Students</h3>
+<p>Each year 60 to 70 UIC graduate students get hands-on research experience at IHRP. In addition to gaining this experience, these research assistants often find strong mentors in the researchers who have hired them. With this guidance, the students develop master&#39;s degree theses and capstone projects, apply for dissertation funding, and build doctoral committees.</p>
+
+  
+</article><!-- /.node -->
+</div>
+    <div class="print-footer">
+<div id="block-block-43" class="block block-block first odd">
+
+      
+  <p><strong>Institute for Health Research and Policy of the University of Illinois at Chicago</strong><br />
+	Multidisciplinary Home of UIC Researchers Collaborating in the Social and Health Sciences</p>
+<p>1747 W. Roosevelt Road, MC 275, Westside Research Office Bldg., Chicago, IL 60608<br />
+	T: <a href="tel:(312) 996-7222">(312) 996-7222</a> · F: (312) 996-2703</p>
+<p><a href="http://www.uic.edu/">UIC.edu</a> · <a href="https://www.uic.edu/apps/find-people/search">Campus Directory</a> · <a href="http://disabilityresources.uic.edu/">Disability Resources</a> · <a href="/content/employment-ihrp">Job Openings</a> · <a href="https://maps.uic.edu/">Maps</a> · <a href="/content/contact-us">Contact Us</a></p>
+<p>© 2020 <a href="http://www.uillinois.edu/trustees/">The Board of Trustees of the University of Illinois</a> · Privacy Policy · Webmaster: <a href="mailto:IHRP-webfix@uic.edu">IHRP-webfix@uic.edu</a></p>
+
+</div>
+</div>
+    <hr class="print-hr" />
+          <div class="print-source_url">
+        <strong>Source URL (modified on 01/17/2020 - 3:07pm):</strong> https://www.ihrp.uic.edu/content/training-every-stage-research-careers      </div>
+        <div class="print-links"><p><strong>Links</strong><br />[1] https://www.ihrp.uic.edu/content/training-every-stage-research-careers<br />
+[2] https://cecdp-ihrp.uic.edu/<br />
+</p></div>
+      </body>
+</html>

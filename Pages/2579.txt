@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin List -->
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Page:</strong>
+		<a href='/list.php?id=5&amp;page=1'>1</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=2'>2</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=3'>3</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=4'>4</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=5'>5</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=6'>6</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=7'>7</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=8'>8</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=9'>9</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=10'>10</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=11'>11</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=12'>12</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=13'><strong>13</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=14'>14</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=15'>15</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=16'>16</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=17'>17</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<div id='list_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin List List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1742'><img src='/resizedImages/500x280-crop-4dmath.gif' alt='' title='Dimension Land' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1742'>Dimension Land</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=25'>Craig Barnes</a>, <a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=74'>Jim Costigan</a>, <a href='/entry.php?id=101'>Milana Huang</a>, Jim Danowski<br>
+			September 1, 1996 - May 1, 1997<br><br>
+			In Dimension Land a remotely located instructor uses a shared virtual environment and the three dimensions of VR to teach about hypercubes and 4D&hellip; <a href='/entry.php?id=1742'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1875'><img src='/resizedImages/500x280-crop-varriersmall_2.jpg' alt='' title='Real-Time 3D Head Position Tracker System With Stereo Cameras Using a Face Recognition Neural Network' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1875'>Real-Time 3D Head Position Tracker System With Stereo Cameras Using a Face Recognition Neural Network</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=35'>Javier Girado</a><br>
+			January 15, 1996 - August 25, 2004<br><br>
+			Creating credible virtual reality (VR) computer-generated worlds requires constant updating of the images in all displays to have the correct&hellip; <a href='/entry.php?id=1875'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1892'><img src='/resizedImages/500x280-crop-anrlogo-6.jpg' alt='' title='Advanced Networking Research' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1892'>Advanced Networking Research</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a><br>
+			January 1, 1996 - Ongoing<br><br>
+			Advanced Networking Research (ANR) has been a focus of EVL&rsquo;s work over the last decade. The ANR encompasses the development of an advanced&hellip; <a href='/entry.php?id=1892'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1771'><img src='/resizedImages/500x280-crop-idesk2-2.jpg' alt='' title='ImmersaDesk2&trade;' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1771'>ImmersaDesk2&trade;</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			January 1, 1996 - May 1, 1997<br><br>
+			The development of the ImmersaDesk2&trade; system in 1996 focused upon a number of design issues not addressed by the initial ImmersaDesk&trade;&hellip; <a href='/entry.php?id=1771'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1772'><img src='/resizedImages/500x280-crop-merk1_kalara-2.jpg' alt='' title='Video Avatars' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1772'>Video Avatars</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=173'>Alex Hill</a>, <a href='/entry.php?id=41'>Anupreet Kalra</a>, <a href='/entry.php?id=5'>Dana M. Plepys</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=149'>Fang Wang</a>, <a href='/entry.php?id=104'>Joe Insley</a>, <a href='/entry.php?id=108'>Johnny Lawson</a>, <a href='/entry.php?id=57'>Satheesh Subramanian</a>, <a href='/entry.php?id=54'>Vivek Rajan</a><br>
+			January 1, 1996 - December 31, 1998<br><br>
+			Tele-immersive virtual applications utilize avatars to represent users in remote environments, primarily to aid in communication during collaborative&hellip; <a href='/entry.php?id=1772'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1774'><img src='/resizedImages/500x280-crop-videoavatars.gif' alt='' title='VideoAvatar Library (3D static)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1774'>VideoAvatar Library (3D static)</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=104'>Joe Insley</a><br>
+			January 1, 1996 - August 1, 1997<br><br>
+			The VideoAvatar Library is a collection of functions that works in conjunction with the CAVE Library, and can be used to add static, photo-realistic&hellip; <a href='/entry.php?id=1774'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1726'><img src='/resizedImages/500x280-crop-addison.jpg' alt='' title='Synesthesia: Collaborative Biosignal Experience' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1726'>Synesthesia: Collaborative Biosignal Experience</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=23'>Alan Verlo</a>, <a href='/entry.php?id=131'>Bill Reynolds</a>, <a href='/entry.php?id=17'>Joe Reitzer</a>, <a href='/entry.php?id=145'>Marcus Thiebaux</a>, <a href='/entry.php?id=151'>Margaret Watson</a>, <a href='/entry.php?id=91'>Morteza Ghazisaedy</a>, <a href='/entry.php?id=63'>Rita Addison</a>, <a href='/entry.php?id=14'>Robert V. Kenyon</a>, <a href='/entry.php?id=73'>Tom Coffin</a>, Anthony Tamburrino, Dave Warner, Eben Gay<br>
+			December 3, 1995 - December 8, 1995<br><br>
+			Synesthesia is defined as a unique neuroperceptual event identified in one out of three million people in which a sensory input, such as music, is&hellip; <a href='/entry.php?id=1726'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1734'><img src='/resizedImages/500x280-crop-disz95.jpg' alt='' title='Participatory Artificial Life Demonstration' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1734'>Participatory Artificial Life Demonstration</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=143'>Matthew Szymanski</a>, <a href='/entry.php?id=122'>Mike Papka</a>, <a href='/entry.php?id=84'>Terry Disz</a>, <a href='/entry.php?id=88'>Terry Franguiadakis</a>, Rick Stevens<br>
+			December 3, 1995 - December 8, 1995<br><br>
+			The science being visualized is a demonstration of artificial life by generating computer programs that mimic organic life in simple ways. The&hellip; <a href='/entry.php?id=1734'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1963'><img src='/resizedImages/500x280-crop-nice_cave-2.jpg' alt='' title='N.I.C.E: Narrative-based Immersive Constructionists / Collaborative Environments' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1963'>N.I.C.E: Narrative-based Immersive Constructionists / Collaborative Environments</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=146'>Christina Vasilakis</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=134'>Maria Roussou</a>, <a href='/entry.php?id=16'>Tom Moher</a><br>
+			September 1, 1995 - June 1, 1999<br><br>
+			NICE is a project that applies virtual reality to the creation of a family of educational environments for young users. Our approach is based on&hellip; <a href='/entry.php?id=1963'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1685'><img src='/resizedImages/500x280-crop-table.gif' alt='' title='Tracker Calibration - Line of Sight Method' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1685'>Tracker Calibration - Line of Sight Method</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=62'>Dave Adamczyk</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, <a href='/entry.php?id=78'>Marek Czernuszenko</a>, <a href='/entry.php?id=91'>Morteza Ghazisaedy</a>, <a href='/entry.php?id=14'>Robert V. Kenyon</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			March 1, 1995 - February 1, 1998<br><br>
+			Widely used in VR electro-magnetic trackers are sensitive to electrically or magneticly conductive objects in the environment. Static errors as high&hellip; <a href='/entry.php?id=1685'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1854'><img src='/resizedImages/500x280-crop-walkabout_new.jpg' alt='' title='Walkabout' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1854'>Walkabout</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=10'>Andrew Johnson</a><br>
+			January 1, 1995 - December 16, 2002<br><br>
+			Walkabout is an application that allows users to explore geo-referenced terrains. It is an educational application for elementary school kids to&hellip; <a href='/entry.php?id=1854'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1727'><img src='/resizedImages/500x280-crop-cox.jpg' alt='' title='IMAX Cosmic Voyage' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1727'>IMAX Cosmic Voyage</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=145'>Marcus Thiebaux</a>, R. Patterson, D. Cox, E. Wesselak, C. Mihos, L. Hernquist, F. Summers<br>
+			January 1, 1995 - March 1, 1995<br><br>
+			Two high-resolution astrophysical simulations are explored, choreographed, and rendered. The first is a visualization of the collision / merging of&hellip; <a href='/entry.php?id=1727'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1965'><img src='/resizedImages/500x280-crop-casa2.gif' alt='' title='CASA: Computer Augmentation for Smart Architectonics' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1965'>CASA: Computer Augmentation for Smart Architectonics</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=146'>Christina Vasilakis</a>, <a href='/entry.php?id=25'>Craig Barnes</a>, <a href='/entry.php?id=21'>Jason Leigh</a><br>
+			August 1, 1994 - May 1, 1995<br><br>
+			Homes or buildings that utilize technology in order to be &ldquo;smart,&rdquo; computer augmented, automated, &ldquo;intuitive,&rdquo; energy&hellip; <a href='/entry.php?id=1965'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1704'><img src='/resizedImages/500x280-crop-mesh.gif' alt='' title='Interactive Adaptive Mesh Refinement' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1704'>Interactive Adaptive Mesh Refinement</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=122'>Mike Papka</a>, <a href='/entry.php?id=72'>Steven Cohen</a>, Lori Freitag, Mark Jones, Paul Plassmann, John Rowlan <br>
+			July 1, 1994 - July 15, 1994<br><br>
+			Adaptive mesh refinement / derefinement techniques have been shown to be very successful in reducing the computational and storage requirements for&hellip; <a href='/entry.php?id=1704'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1705'><img src='/resizedImages/500x280-crop-radiosity.gif' alt='' title='Parallel Real-Time Radiosity' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1705'>Parallel Real-Time Radiosity</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=25'>Craig Barnes</a>, <a href='/entry.php?id=93'>Jon Goldman</a><br>
+			July 1, 1994 - July 15, 1994<br><br>
+			This application demonstrates how parallel architectures are being used to render scenes in real time or close-to-real-time using physically based&hellip; <a href='/entry.php?id=1705'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<!-- End List List -->
+	</table>
+</div>
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Page:</strong>
+		<a href='/list.php?id=5&amp;page=1'>1</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=2'>2</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=3'>3</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=4'>4</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=5'>5</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=6'>6</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=7'>7</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=8'>8</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=9'>9</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=10'>10</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=11'>11</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=12'>12</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=13'><strong>13</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=14'>14</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=15'>15</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=16'>16</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=17'>17</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<!-- End List -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

@@ -1,0 +1,755 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Category -->
+<!-- Begin Category Pagination -->
+<div class='category_area'>
+	<div class='category_content'>
+		<h3>User Groups</h3><br>
+		EVL supports the users of its technologies, software and middleware by forming very successful and active user communities. These communities meet at professional conferences, and sometimes host their own meetings, workshops and forums.<br><br> EVL has held a leadership role in the following user group communities and continues its active participation:<br><br> <strong>CoreWall</strong><br> <em>Users of EVL&rsquo;s real-time stratigraphic correlation, core description and data visualization system.</em><br><br> <strong>GeoWall Consortium</strong><br> <em>Users of EVL&rsquo;s GeoWall portable 3D system.</em><br><br> <strong>Global Lambda Virtual Facility (GLVF)</strong><br> <em>An international virtual organization that promotes the paradigm of lambda networking in support of science.</em><br><br> <strong>Scalable Adaptive Graphics Environment (SAGE)</strong><br> <em>A worldwide user community of EVL&rsquo;s graphics streaming architecture for supporting collaborative scientific visualization environments with potentially hundreds of megapixels of contiguous display resolution.</em><br><br> <strong>CAVE Research Network User&rsquo;s Society (CAVERNUS)</strong><br> <em>While no longer active, CAVERNUS for many years was an extremely active user community of institutions who built and maintained EVL&rsquo;s CAVE&reg; virtual reality theaters. Members met annually at professional conferences, and had an active website where they shared tips, tools, techniques and application demonstrations.</em>
+	</div>
+	<div class='category_content'>
+		<strong>Related:</strong>
+		<a href='/category.php?id=24&amp;related=2'>Directory</a>&nbsp;&nbsp;
+		<a href='/category.php?id=24&amp;related=3'>Events</a>&nbsp;&nbsp;
+		<a href='/category.php?id=24&amp;related=4'>Papers</a>&nbsp;&nbsp;
+		<a href='/category.php?id=24&amp;related=5'><strong>Research</strong></a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End Category Pagination -->
+<div class='category_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin Category List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2494'><img src='/resizedImages/500x280-crop-sage3-2.png' alt='' title='Collaborative Research: CSSI Frameworks: SAGE3: Smart Amplified Group Environment for Harnessing the Data Revolution' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2494'>Collaborative Research: CSSI Frameworks: SAGE3: Smart Amplified Group Environment for Harnessing the Data Revolution</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=49'>Lance Long</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a><br>
+			May 15, 2020 - April 30, 2025<br><br>
+			UIC PI: Maxine Brown, co-PIs: Andrew Johnson, Luc Renambot University of Hawaii Manoa PI: Jason Leigh Virginia Polytechnic PI: Chirstopher North NSF&hellip; <a href='/entry.php?id=2494'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2476'><img src='/resizedImages/500x280-crop-dtsoupikovamdunne-2.jpg' alt='' title='Discovery Partners Institute: The Autism and Innovation Initiative' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2476'>Discovery Partners Institute: The Autism and Innovation Initiative</a></strong><br>
+			<a href='/entry.php?id=188'>Daria Tsoupikova</a><br>
+			August 16, 2019 - Ongoing<br><br>
+			PI: Maureen Dunne, Disability and Human Development, UIC co-PI: Tamar Heller, Disability and Human Development, UIC co-PI: Daria Tsoupikova, New&hellip; <a href='/entry.php?id=2476'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2437'><img src='/resizedImages/500x280-crop-cancer-disparities-interface.png' alt='' title='Cancer Disparities in Chicago' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2437'>Cancer Disparities in Chicago</a></strong><br>
+			Yashika Goyal<br>
+			February 1, 2019 - May 1, 2019<br><br>
+			Cancer has a major impact on society all around the world. It affects people of all population groups though certain groups bear more burden of&hellip; <a href='/entry.php?id=2437'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2402'><img src='/resizedImages/500x280-crop-sage2cybersecurity_sm-2.jpg' alt='' title='SAGE2 Team Engaging with the Trusted CI Center on SAGE2 Cybersecurity' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2402'>SAGE2 Team Engaging with the Trusted CI Center on SAGE2 Cybersecurity</a></strong><br>
+			<a href='/entry.php?id=2415'>Mirko Mantovani</a><br>
+			October 1, 2018 - September 30, 2019<br><br>
+			The SAGE Development Team at the Laboratory for Advanced Visualization &amp; Applications (LAVA) at the University of Hawaiʻi at Manoa and the&hellip; <a href='/entry.php?id=2402'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2425'><img src='/resizedImages/500x280-crop-abilitylab_demoworld_maxine.png' alt='' title='Virtual Reality Enhanced Physical Therapy' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2425'>Virtual Reality Enhanced Physical Therapy</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=2361'>Francesco Mantovani</a>, <a href='/entry.php?id=2364'>Ryan Nishimoto</a>, <a href='/entry.php?id=2358'>Simone Amico</a><br>
+			January 1, 2018 - December 31, 2018<br><br>
+			The Shirley Ryan AbilityLab of Chicago worked with the Electronic Visualization Laboratory (EVL) at the University of Illinois at Chicago to use&hellip; <a href='/entry.php?id=2425'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2428'><img src='/resizedImages/500x280-crop-vissnippets_sage2.png' alt='' title='VisSnippets: A Web-Based System for Impromptu Collaborative Data Exploration on Large Displays' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2428'>VisSnippets: A Web-Based System for Impromptu Collaborative Data Exploration on Large Displays</a></strong><br>
+			<a href='/entry.php?id=2231'>Andrew Burks</a><br>
+			January 1, 2018 - Ongoing<br><br>
+			In the past decades, science has become increasingly interdisciplinary and scientific discovery has experienced a paradigm shift from the classical&hellip; <a href='/entry.php?id=2428'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2311'><img src='/resizedImages/500x280-crop-explorechicago.png' alt='' title='Exploring Chicago' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2311'>Exploring Chicago</a></strong><br>
+			<a href='/entry.php?id=2052'>G. Elisabeta Marai</a>, <a href='/entry.php?id=2248'>Manu Mathew Thomas</a>, Jakob Eriksson<br>
+			May 16, 2017 - Ongoing<br><br>
+			Exploring big cities like Chicago can be a daunting experience when the tourist has to gather information from multiple sources regarding places&hellip; <a href='/entry.php?id=2311'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2331'><img src='/resizedImages/500x280-crop-edhub.png' alt='' title='Englewood Social Service Finder and Englewood Analytics' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2331'>Englewood Social Service Finder and Englewood Analytics</a></strong><br>
+			<a href='/entry.php?id=2231'>Andrew Burks</a>, <a href='/entry.php?id=2052'>G. Elisabeta Marai</a>, <a href='/entry.php?id=2302'>Joshua Lagunda Castor</a>, Isabel Lindmae, Jaspreet Kaur Sohal<br>
+			May 16, 2017 - Ongoing<br><br>
+			The Englewood Data Hub (EDH) is a project that brings together both crowdsourced and public data surrounding the Englewood area into a single place&hellip; <a href='/entry.php?id=2331'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2347'><img src='/resizedImages/500x280-crop-hai_9981-2.jpg' alt='' title='UIC Human-Computer Interaction (HCI) Laboratory' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2347'>UIC Human-Computer Interaction (HCI) Laboratory</a></strong><br>
+			<a href='/entry.php?id=2278'>Debaleena Chattopadhyay</a><br>
+			January 1, 2017 - Ongoing<br><br>
+			The Human-Computer Interaction (HCI) Laboratory at the University of Illinois at Chicago (UIC) is led by assistant professor Debaleena Chattopadhyay&hellip; <a href='/entry.php?id=2347'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2316'><img src='/resizedImages/500x280-crop-continuumrendering.png' alt='' title='MRI - Development of Continuum: A Virtualized Attentive Environment for Amplified Collaboration' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2316'>MRI - Development of Continuum: A Virtualized Attentive Environment for Amplified Collaboration</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=2278'>Debaleena Chattopadhyay</a>, <a href='/entry.php?id=2052'>G. Elisabeta Marai</a>, <a href='/entry.php?id=2368'>Jack O'Donnell</a>, <a href='/entry.php?id=285'>Jillian Aurisano</a>, <a href='/entry.php?id=2322'>Joe Borowicz</a>, <a href='/entry.php?id=24'>Jonas Talandis</a>, <a href='/entry.php?id=2371'>Kayla Condrella</a>, <a href='/entry.php?id=2370'>Kenan Arica</a>, <a href='/entry.php?id=49'>Lance Long</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=2367'>Michael Avendano</a>, <a href='/entry.php?id=2453'>Navya Reddy</a>, <a href='/entry.php?id=14'>Robert V. Kenyon</a>, <a href='/entry.php?id=2445'>Sumayya Siddiqui</a>, <a href='/entry.php?id=2448'>Szymon Popowski</a>, <a href='/entry.php?id=2303'>Vijayraj Mahida</a>, Barbara DiEugenio<br>
+			October 1, 2016 - September 30, 2019<br><br>
+			Just as NSF cyberinfrastructure produces greater volumes and varieties of data from data storage systems, online instrumentation and major&hellip; <a href='/entry.php?id=2316'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2228'><img src='/resizedImages/500x280-crop-senseipanama.png' alt='' title='SENSEI-Panama' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2228'>SENSEI-Panama</a></strong><br>
+			<a href='/entry.php?id=2217'>James Hwang</a>, <a href='/entry.php?id=285'>Jillian Aurisano</a>, Oliver San-Juan, Ishta Bhagat<br>
+			November 1, 2015 - Ongoing<br><br>
+			SENSEI: Sensor Environment Imaging (SENSEI) Instrument is a National Science Foundation award to construct a reconfigurable, ultra-high-resolution&hellip; <a href='/entry.php?id=2228'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2218'><img src='/resizedImages/500x280-crop-sageboard_pellolio.png' alt='' title='SAGEBoard: a Whiteboard for Large Multitouch Displays' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2218'>SAGEBoard: a Whiteboard for Large Multitouch Displays</a></strong><br>
+						August 16, 2015 - May 3, 2016<br><br>
+			SAGEBoard is an electronic whiteboard for tiled touch displays that can be used locally or shared between remote collaborators. An electronic&hellip; <a href='/entry.php?id=2218'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2229'><img src='/resizedImages/500x280-crop-senseicamerarenderingcu.png' alt='' title='SENSEI: Sensor Environment Imaging (SENSEI) Instrument' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2229'>SENSEI: Sensor Environment Imaging (SENSEI) Instrument</a></strong><br>
+			<a href='/entry.php?id=2366'>Ahmad Atra</a>, <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=2315'>Bartosz Kupiec</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=2321'>Dimitar Kirilov</a>, <a href='/entry.php?id=2279'>Harlyn Baker</a>, <a href='/entry.php?id=2422'>Hayley Christianson</a>, <a href='/entry.php?id=2439'>Kyra Jones</a>, <a href='/entry.php?id=49'>Lance Long</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=14'>Robert V. Kenyon</a>, Tanya Berger-Wolf<br>
+			October 1, 2014 - September 30, 2019<br><br>
+			SENSEI will be a reconfigurable, ultra-high-resolution, spherical (4π steradian), photometric, radiometric and photogrammetric real-time&hellip; <a href='/entry.php?id=2229'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2044'><img src='/misc/default_500x280.png' alt='' title='Enhancing Nurse Effectiveness via Augmented Communication Tools' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2044'>Enhancing Nurse Effectiveness via Augmented Communication Tools</a></strong><br>
+			<a href='/entry.php?id=2473'>Angus Forbes</a>, J. Carrington, M. Surdeanu<br>
+			September 23, 2014 - June 30, 2017<br><br>
+			Our interdisciplinary team of computer science and health care researchers will develop augmented communication tools (ACTs) within a prototype&hellip; <a href='/entry.php?id=2044'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2165'><img src='/resizedImages/500x280-crop-cave2unitysimulator.png' alt='' title='CAVE2/Unity Simulator' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2165'>CAVE2/Unity Simulator</a></strong><br>
+			<a href='/entry.php?id=270'>Arthur Nishimoto</a><br>
+			November 18, 2013 - Ongoing<br><br>
+			Developed by EVL PhD Candidate Arthur Nishimoto the CAVE2/Unity simulator is a Unity3D package for testing and development of Unity3D applications&hellip; <a href='/entry.php?id=2165'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2329'><img src='/resizedImages/500x280-crop-simple_sm.jpg' alt='' title='SIMPLE project (Sub-ice Investigation of Marine and Planetary-analog Ecosystems)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2329'>SIMPLE project (Sub-ice Investigation of Marine and Planetary-analog Ecosystems)</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=270'>Arthur Nishimoto</a><br>
+			January 7, 2013 - January 8, 2018<br><br>
+			Funded by NASA, the SIMPLE project (Sub-ice Investigation of Marine and Planetary-analog Ecosystems) is to deploy an autonomous underwater vehicle&hellip; <a href='/entry.php?id=2329'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2031'><img src='/resizedImages/500x280-crop-evl_endurancesimple.jpg' alt='' title='ENDURANCE (Environmentally Non-Disturbing Under-ice Robotic ANtarctiC Explorer) (SAGE&trade; Collaboration)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2031'>ENDURANCE (Environmentally Non-Disturbing Under-ice Robotic ANtarctiC Explorer) (SAGE&trade; Collaboration)</a></strong><br>
+			<a href='/entry.php?id=272'>Alessandro Febretti</a>, <a href='/entry.php?id=10'>Andrew Johnson</a>, Electronic Visualization Laboratory; Peter Doran, UIC Earth and Environmental Sciences Department; Stone Aerospace; NASA Ames Research Center; Montana State University<br>
+			January 1, 2013 - Ongoing<br><br>
+			This application uses EVL&rsquo;s SAGE&trade; software to display both 2D and 3D data in the CAVE2&trade; Hybrid Reality Environment. In a&hellip; <a href='/entry.php?id=2031'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2029'><img src='/resizedImages/500x280-crop-_ljl2826.jpg' alt='' title='Hospital Architecture Study' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2029'>Hospital Architecture Study</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a><br>
+			September 1, 2012 - Ongoing<br><br>
+			The CAVE2&trade; System is a hybrid environment that enables users to mash-up a number of 2D and 3D images at the same time using SAGE&trade;&hellip; <a href='/entry.php?id=2029'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2037'><img src='/misc/default_500x280.png' alt='' title='Rebar Cage' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2037'>Rebar Cage</a></strong><br>
+			<a href='/entry.php?id=6'>Thomas A. DeFanti</a>, Andre Barbosa, Jurgen Schulze (University of California San Diego); American Bridge Company / Fluor Enterprises Inc.<br>
+			May 1, 2011 - Ongoing<br><br>
+			Participants walk through a 3D model of an 80x60x20-foot section of the rebar cage of the new San Francisco-Oakland Bay Bridge. Note that this model&hellip; <a href='/entry.php?id=2037'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2007'><img src='/misc/default_500x280.png' alt='' title='The Shadow' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2007'>The Shadow</a></strong><br>
+			<a href='/entry.php?id=287'>Qin Li</a>, <a href='/entry.php?id=14'>Robert V. Kenyon</a>, Chihua Ma,<br>Rehabilitation Institute of Chicago<br>
+			January 1, 2011 - May 15, 2012<br><br>
+			This project&rsquo;s goal is to render an avatar on a display screen that will mimic the movements of the person facing the screen, in real-time&hellip; <a href='/entry.php?id=2007'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2001'><img src='/resizedImages/500x280-crop-hiperwall-cnm_sm.jpg' alt='' title='SAGE on Argonne&rsquo;s Highly Interactive Parallelized Display Wall' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2001'>SAGE on Argonne&rsquo;s Highly Interactive Parallelized Display Wall</a></strong><br>
+			<a href='/entry.php?id=245'>Hyejung Hur</a>, <a href='/entry.php?id=21'>Jason Leigh</a><br>
+			November 16, 2009 - August 15, 2011<br><br>
+			The research collaboration between Argonne National Laboratory&rsquo;s Center for Nanoscale Materials (CNM) and the Electronic Visualization&hellip; <a href='/entry.php?id=2001'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2005'><img src='/resizedImages/500x280-crop-cli-mate_kahler.png' alt='' title='Cli-Mate: An Interactive Climate Application for TacTile Multi-touch Display' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2005'>Cli-Mate: An Interactive Climate Application for TacTile Multi-touch Display</a></strong><br>
+			<a href='/entry.php?id=265'>Ed Kahler</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, Mark Hereld, Michael Papka (Argonne National Laboratory)<br>
+			November 1, 2009 - October 31, 2011<br><br>
+			Cli-Mate is an interactive multi-touch application for the visualization of climate data. Developed to explore new interaction modalities with the&hellip; <a href='/entry.php?id=2005'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1998'><img src='/resizedImages/500x280-crop-led_tissue.jpg' alt='' title='Laser Emitting Diode for Stabilization of Cutaneous Battlefield Wounds for Air Evacuation and Transport' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1998'>Laser Emitting Diode for Stabilization of Cutaneous Battlefield Wounds for Air Evacuation and Transport</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=289'>Paul Grenning</a>, Maxine Brown, Patrick Hallihan, Victor Mateevitsi, Yiwen Sun<br>
+			September 30, 2009 - November 14, 2011<br><br>
+			Wartime injuries present extreme problems in wound management and the modern battlefield places extraordinary adaptability demands on combat medical&hellip; <a href='/entry.php?id=1998'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1999'><img src='/resizedImages/500x280-crop-omega.jpg' alt='' title='Research, Analysis, and Databasing of Emerging High Power Directed Energy Technologies Marketed to the Clinical and Research Communities' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1999'>Research, Analysis, and Databasing of Emerging High Power Directed Energy Technologies Marketed to the Clinical and Research Communities</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=159'>Patrick Hallihan</a>, <a href='/entry.php?id=281'>Victor Mateevitsi</a>, <a href='/entry.php?id=250'>Yiwen Sun</a><br>
+			September 30, 2009 - September 29, 2015<br><br>
+			This project applies a multidisciplinary approach to the assessment of medical devices and laboratory equipment that utilize directed energy (DE)&hellip; <a href='/entry.php?id=1999'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2000'><img src='/resizedImages/500x280-crop-hands_screenshot_sm.png' alt='' title='Hands-on Automated Nursing Data System (HANDS)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2000'>Hands-on Automated Nursing Data System (HANDS)</a></strong><br>
+			<a href='/entry.php?id=272'>Alessandro Febretti</a>, <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=228'>Yu-Chung Chen</a>, Gail M. Keenan and Diana Wilke (University of Florida College of Nursing); Karen Dunn Lopez (UIC College of Nursing)<br>
+			September 18, 2009 - May 31, 2015<br><br>
+			The Hands-on Automated Nursing Data System (HANDS) is a standardized plan of care method in which the patient&rsquo;s plan is updated at every nurse&hellip; <a href='/entry.php?id=2000'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1994'><img src='/resizedImages/500x280-crop-lv2_andyjason.jpg' alt='' title='OptIPlanet Cyber-Mashup' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1994'>OptIPlanet Cyber-Mashup</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a><br>
+			September 1, 2009 - August 31, 2012<br><br>
+			STCI: OptIPlanet Cyber-Mashup: Persistent Visualization and Collaboration Services for Global Cyber Infrastructure The goal of this project is to&hellip; <a href='/entry.php?id=1994'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2012'><img src='/resizedImages/500x280-crop-fleetcommander_rev.jpg' alt='' title='Fleet Commander' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2012'>Fleet Commander</a></strong><br>
+			<a href='/entry.php?id=270'>Arthur Nishimoto</a>, <a href='/entry.php?id=21'>Jason Leigh</a><br>
+			June 15, 2009 - September 1, 2009<br><br>
+			Fleet Commander is an interactive game developed to explore how a real-time strategy game that often relies on complex keyboard commands and mouse&hellip; <a href='/entry.php?id=2012'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1992'><img src='/resizedImages/500x280-crop-ittf_still_sm.jpg' alt='' title='Disaster Preparedness Training Online Gaming Demonstration' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1992'>Disaster Preparedness Training Online Gaming Demonstration</a></strong><br>
+			<a href='/entry.php?id=263'>Alejandro Borsani</a>, <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=45'>Michael Lewis</a>, <a href='/entry.php?id=271'>Muxuan Wang</a>, <a href='/entry.php?id=207'>Sangyoon Lee</a>, Patricia Rushing (IGPA / UIUC PI), Tom Ruiz, Mike Woodley (UIUC / Dept of Computer Science, Music)<br>
+			May 1, 2009 - April 30, 2010<br><br>
+			UIC, UIUC and Center for Technology and Public Policy Working on Earthquake Preparedness Simulation for Middle School Students Computer science&hellip; <a href='/entry.php?id=1992'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2004'><img src='/resizedImages/500x280-crop-futureearth_dcsm.png' alt='' title='Future Earth Initiative' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2004'>Future Earth Initiative</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=259'>Khairi Reda</a>, Science Museum of Minnesota<br>
+			April 1, 2009 - December 31, 2011<br><br>
+			EVL is working with the Science Museum of Minnesota on a museum exhibit titled Future Earth. This exhibit addresses the long-term human impact on out&hellip; <a href='/entry.php?id=2004'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2002'><img src='/resizedImages/500x280-crop-articulate-yiwen_sm-2.png' alt='' title='Articulate: a Semi-automated System for Translating Natural Language Queries into Meaningful Visualizations' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2002'>Articulate: a Semi-automated System for Translating Natural Language Queries into Meaningful Visualizations</a></strong><br>
+			<a href='/entry.php?id=2306'>Abeer Alsaiari</a>, <a href='/entry.php?id=2472'>Abhinav Kumar</a>, <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=285'>Jillian Aurisano</a>, <a href='/entry.php?id=2322'>Joe Borowicz</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=2303'>Vijayraj Mahida</a>, <a href='/entry.php?id=250'>Yiwen Sun</a>, Barbara DiEugenio<br>
+			March 1, 2009 - Ongoing<br><br>
+			While many visualization tools exist that offer sophisticated functions for charting complex data, they still expect users to possess a high degree&hellip; <a href='/entry.php?id=2002'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2009'><img src='/resizedImages/500x280-crop-risingtide_cropped.png' alt='' title='Rising Tide' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2009'>Rising Tide</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=259'>Khairi Reda</a><br>
+			January 1, 2009 - December 31, 2011<br><br>
+			EVL collaborators at the Science Museum of Minnesota (SMM) built a TacTile multi-touch display in 2009 after seeing it at EVL, and made several&hellip; <a href='/entry.php?id=2009'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2008'><img src='/resizedImages/500x280-crop-_ljl4307.jpg' alt='' title='OmegaDesk: An Instrument for Interactive Visual Data Exploration and Collaboration' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2008'>OmegaDesk: An Instrument for Interactive Visual Data Exploration and Collaboration</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=281'>Victor Mateevitsi</a>, <a href='/entry.php?id=250'>Yiwen Sun</a>, Alessandro Febretti<br>
+			September 1, 2008 - August 31, 2012<br><br>
+			OmegaDesk provides researchers with a powerful, easy-to-use, information-rich, cyberinfrastructure instrument in support of scientific discovery. The&hellip; <a href='/entry.php?id=2008'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1984'><img src='/resizedImages/500x280-crop-tactile-2.png' alt='' title='TacTile' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1984'>TacTile</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=270'>Arthur Nishimoto</a>, <a href='/entry.php?id=265'>Ed Kahler</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=275'>Jenny Kinahan</a>, <a href='/entry.php?id=278'>Karan Chakrapani</a>, <a href='/entry.php?id=49'>Lance Long</a>, <a href='/entry.php?id=280'>Naomi Yarin</a>, <a href='/entry.php?id=222'>Robert Kooima</a>, <a href='/entry.php?id=277'>Todd Richard Silvia</a><br>
+			August 16, 2008 - October 15, 2011<br><br>
+			TacTile is a multi-touch 52-inch LCD tabletop display design to support collaborative applications through a highly intuitive, multi-user touch&hellip; <a href='/entry.php?id=1984'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1989'><img src='/resizedImages/500x280-crop-zebrascreenshot.png' alt='' title='Visual Analysis of Social Behavior of Wild Animals' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1989'>Visual Analysis of Social Behavior of Wild Animals</a></strong><br>
+			<a href='/entry.php?id=259'>Khairi Reda</a><br>
+			August 16, 2008 - August 16, 2009<br><br>
+			Understanding the social interaction of wild animals in the context of their ecology is imperative to the conservation of endangered species. Our&hellip; <a href='/entry.php?id=1989'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1983'><img src='/resizedImages/500x280-crop-merra_lamdaram.png' alt='' title='MERRA Computation Using LambdaRAM' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1983'>MERRA Computation Using LambdaRAM</a></strong><br>
+			<a href='/entry.php?id=209'>Venkatram Vishwanath</a>, Software Integration and Visualization Office (SIVO), NASA Goddard Space Flight Center<br>
+			May 16, 2008 - November 4, 2008<br><br>
+			Data-intensive scientific applications require rapid access to local and geographically distributed data, however, there are significant I/O latency&hellip; <a href='/entry.php?id=1983'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1971'><img src='/resizedImages/500x280-crop-cyber-commons.jpg' alt='' title='Cyber-Commons' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1971'>Cyber-Commons</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a><br>
+			January 1, 2008 - January 1, 2018<br><br>
+			A Cyber-Commons is a technology-enhanced meeting room on a university campus that supports local and distance collaboration and promotes&hellip; <a href='/entry.php?id=1971'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1981'><img src='/resizedImages/500x280-crop-cidays.png' alt='' title='Campus Cyberinfrastructure (CI) Days' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1981'>Campus Cyberinfrastructure (CI) Days</a></strong><br>
+			<a href='/entry.php?id=178'>Maxine Brown</a><br>
+			August 1, 2007 - Ongoing<br><br>
+			A partnership of national organizations involved in distributed computing and networking (cyberinfrastructure, or CI) runs the &ldquo;CI Days&rdquo;&hellip; <a href='/entry.php?id=1981'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1993'><img src='/resizedImages/500x280-crop-endurance.jpg' alt='' title='NASA Environmentally Non-Disturbing Under-ice Robotic ANtarctiC Explorer (ENDURANCE)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1993'>NASA Environmentally Non-Disturbing Under-ice Robotic ANtarctiC Explorer (ENDURANCE)</a></strong><br>
+			<a href='/entry.php?id=272'>Alessandro Febretti</a>, <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=227'>Ratko Jagodic</a>, <a href='/entry.php?id=257'>Shriram Iyer</a>, Peter Doran (PI UIC); John Priscu (Montana State University); Christopher McKay (NASA Ames Research Center); Bill Stone (Stone Aerospace)<br>
+			May 1, 2007 - April 30, 2010<br><br>
+			NASA&rsquo;s Astrobiology Science and Technology for Exploring Planets (ASTEP) Program is supporting ENDURANCE - the Environmentally Non-Disturbing&hellip; <a href='/entry.php?id=1993'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1945'><img src='/resizedImages/500x280-crop-etars_400.png' alt='' title='ETARS: Eye Tracking Assessment and Remediation System' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1945'>ETARS: Eye Tracking Assessment and Remediation System</a></strong><br>
+			<a href='/entry.php?id=258'>Filippo Galgani</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=261'>Katie Cruppenink</a>, <a href='/entry.php?id=250'>Yiwen Sun</a>, Richard Markin, Learning By Design, Inc.<br>
+			July 1, 2006 - December 31, 2008<br><br>
+			The initial goal of this research is to evaluate the feasibility of creating a research and service software platform that can be used to test a&hellip; <a href='/entry.php?id=1945'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1917'><img src='/resizedImages/500x280-crop-tollway_wilbursmith_400.png' alt='' title='Virtual Driving Simulator with Wilbur Smith Associates &amp; the Illinois State Toll Highway Authority' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1917'>Virtual Driving Simulator with Wilbur Smith Associates &amp; the Illinois State Toll Highway Authority</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=206'>Kapil Arora</a>, <a href='/entry.php?id=222'>Robert Kooima</a><br>
+			June 14, 2006 - August 31, 2006<br><br>
+			The virtual driving simulator co-developed by computer science Ph.D. student Robert Kooima and Master of Fine Art student Kapil Arora was developed&hellip; <a href='/entry.php?id=1917'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1903'><img src='/resizedImages/500x280-crop-corelyzer_twoscreens.jpg' alt='' title='Corelyzer' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1903'>Corelyzer</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=216'>Arun Rao</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=207'>Sangyoon Lee</a>, <a href='/entry.php?id=228'>Yu-Chung Chen</a><br>
+			September 1, 2005 - Ongoing<br><br>
+			Ice cores drilled from lake and ocean floors, continents, and ice sheets provide geoscientists with the most extensive and accurate picture of the&hellip; <a href='/entry.php?id=1903'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1907'><img src='/resizedImages/500x280-crop-cinegrid.jpg' alt='' title='CineGrid&trade; Initiative' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1907'>CineGrid&trade; Initiative</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, Lauren Herr, Natalie Van Osdol (Pacific Interface), Larry Smarr (UCSD / Calit2), Richard Weinberg, Elizabeth Daley (USC / CNTV), Tomonori Aoyama, Naohisa Ohta (Keio / DMC)<br>
+			September 1, 2005 - Ongoing<br><br>
+			CineGrid is an initiative to provide media professionals access to global cyberinfrastructure capable of carrying ultra-high performance digital&hellip; <a href='/entry.php?id=1907'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1942'><img src='/resizedImages/500x280-crop-kisti_display400.png' alt='' title='OptIPuter and Global Lambda Visualization Facility (GLVF)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1942'>OptIPuter and Global Lambda Visualization Facility (GLVF)</a></strong><br>
+			<a href='/entry.php?id=23'>Alan Verlo</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			September 1, 2005 - Ongoing<br><br>
+			The Global Lambda Visualization Facility (GLVF), established in September 2005, addresses the need to integrate visualization and collaboration&hellip; <a href='/entry.php?id=1942'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1882'><img src='/resizedImages/500x280-crop-sagebridge1b-s.jpg' alt='' title='SAGE: Scalable Adaptive Graphics Environment' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1882'>SAGE: Scalable Adaptive Graphics Environment</a></strong><br>
+			<a href='/entry.php?id=168'>Allan Spale</a>, <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=216'>Arun Rao</a>, <a href='/entry.php?id=208'>Byungil Jeong</a>, <a href='/entry.php?id=170'>Charles Zhang</a>, <a href='/entry.php?id=215'>Gideon Goldman</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=44'>Naveen Krishnaprasad</a>, <a href='/entry.php?id=213'>Nicholas Schwarz</a>, <a href='/entry.php?id=183'>Rajvikram Singh</a>, <a href='/entry.php?id=227'>Ratko Jagodic</a>, <a href='/entry.php?id=211'>Vaidya Chandrasekhar</a>, <a href='/entry.php?id=209'>Venkatram Vishwanath</a><br>
+			January 1, 2004 - November 17, 2013<br><br>
+			The Scalable Adaptive Graphics Environment (SAGE) is a distributed computing architecture for supporting two non-trivial problems in visualization&hellip; <a href='/entry.php?id=1882'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1973'><img src='/resizedImages/500x280-crop-googlemap_snap.png' alt='' title='The OptIPlanet Collaboratory' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1973'>The OptIPlanet Collaboratory</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			October 1, 2002 - September 30, 2008<br><br>
+			VIEW OptIPortal WORLD LOCATIONS From 2002-2008, EVL has been part of the NSF-funded OptIPuter project, the goal of which is to develop advanced&hellip; <a href='/entry.php?id=1973'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1941'><img src='/resizedImages/500x280-crop-geowall_logo-2.jpg' alt='' title='GeoWall Consortium' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1941'>GeoWall Consortium</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, Paul Morin, Department of Geology and Geophysics, University of Minnesota, Peter van Keken, Geological Sciences, University of Michigan<br>
+			May 1, 2002 - August 1, 2005<br><br>
+			The GeoWall is low-cost, non-tracked, passive-stereo system that allows distributed audiences to view and interact with 3D immersive content. While&hellip; <a href='/entry.php?id=1941'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1863'><img src='/resizedImages/500x280-crop-geowall2_istrip4.gif' alt='' title='GeoWall 2' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1863'>GeoWall 2</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=169'>Shalini Venkataraman</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			January 1, 2002 - September 30, 2007<br><br>
+			The first generation of the GeoWall was targeted at providing affordable 3D stereoscopic visualization of small- to modest-sized Geoscience datasets&hellip; <a href='/entry.php?id=1863'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1940'><img src='/resizedImages/500x280-crop-treccfacility.png' alt='' title='The DuPage Technology Research, Education, and Commercialization Center (TRECC)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1940'>The DuPage Technology Research, Education, and Commercialization Center (TRECC)</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a><br>
+			March 1, 2000 - October 31, 2008<br><br>
+			EVL&rsquo;s long term collaboration with the National Center for Supercomputing Applications (NCSA) at the University of Illinois Urbana-Champaign&hellip; <a href='/entry.php?id=1940'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1814'><img src='/resizedImages/500x280-crop-avatars.jpg' alt='' title='Ygdrasil' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1814'>Ygdrasil</a></strong><br>
+			<a href='/entry.php?id=173'>Alex Hill</a>, <a href='/entry.php?id=51'>Dave Pape</a><br>
+			September 1, 1999 - August 31, 2006<br><br>
+			Ygdrasil is a framework developed as a tool for creating networked virtual environments. It is focused on building the behaviors of virtual objects&hellip; <a href='/entry.php?id=1814'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1678'><img src='/resizedImages/500x280-crop-cibrview_new.jpg' alt='' title='CIBRView: Collaborative Image Based Rendering' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1678'>CIBRView: Collaborative Image Based Rendering</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, Lawrence Berkeley Laboratory<br>
+			January 1, 1999 - July 1, 2000<br><br>
+			The Collaborative Image Based Rendering Viewer (or CIBRView) is a CAVERNsoft-based tool for viewing animated sequences of image based renderings from&hellip; <a href='/entry.php?id=1678'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1672'><img src='/resizedImages/500x280-crop-cavern_logo.jpg' alt='' title='CAVERN - The CAVE&trade; Research Network' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1672'>CAVERN - The CAVE&trade; Research Network</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, <a href='/entry.php?id=16'>Tom Moher</a>, U. Buy, R. Grossman<br>
+			October 1, 1998 - September 30, 2004<br><br>
+			CAVERN, the CAVE&trade; Research Network, is an alliance of industrial and research institutions equipped with CAVE&trade;-based virtual reality&hellip; <a href='/entry.php?id=1672'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1673'><img src='/resizedImages/500x280-crop-i_based.jpg' alt='' title='ImageBased Modeling' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1673'>ImageBased Modeling</a></strong><br>
+			<a href='/entry.php?id=78'>Marek Czernuszenko</a>, <a href='/entry.php?id=95'>Robert Grzeszczuk</a><br>
+			January 1, 1998 - May 15, 1998<br><br>
+			&ldquo;The proposed approach involves video taping a scene twice with a hand-held video camera. Each time the recording is performed under different&hellip; <a href='/entry.php?id=1673'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1675'><img src='/resizedImages/500x280-crop-ncsalogo.gif' alt='' title='NCSA: National Computational Science Alliance' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1675'>NCSA: National Computational Science Alliance</a></strong><br>
+			<a href='/entry.php?id=6'>Thomas A. DeFanti</a>, L. Smarr, R. Abdulla, C. Bender, D. Ceperley, J. Connolly, R. GileJ. Hennessy, K. Kennedy;. McRae, J. Ostriker, D. Reed, R. Stevens, M. Vernon, P. Woodward<br>
+			October 1, 1997 - September 30, 2005<br><br>
+			After 10 years, the NSF Supercomputer Centers Program was replaced with the NSF Partnerships for Advanced Computational Infrastructure (PACI)&hellip; <a href='/entry.php?id=1675'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1847'><img src='/resizedImages/500x280-crop-ncsa_logo2.gif' alt='' title='Alliance Expeditions' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1847'>Alliance Expeditions</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, National Center for Supercomputing Applications, Argnonne National Laboratory, Network for Earthquake Simulation, Earthscope, GriPhyN, TeraGrid communities<br>
+			October 1, 1997 - September 30, 2004<br><br>
+			For the past 17 years, EVL&rsquo;s partnership with NCSA and the Alliance has enabled the rapid deployment and acceptance of EVL&rsquo;s advanced&hellip; <a href='/entry.php?id=1847'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1933'><img src='/resizedImages/500x280-crop-datamaxuv1.jpg' alt='' title='Datamax UV-1' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1933'>Datamax UV-1</a></strong><br>
+			<a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			January 1, 1980 - January 1, 1981<br><br>
+			The Datamax UV-1 was a pioneering computer designed by a working group of computer graphics artists at the University of Illinois at Chicago. The&hellip; <a href='/entry.php?id=1933'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<!-- End Category List -->
+	</table>
+</div>
+<!-- End Category -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

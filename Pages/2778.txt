@@ -1,0 +1,712 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Category -->
+<!-- Begin Category Pagination -->
+<div class='category_area'>
+	<div class='category_content'>
+		<h3>Networking</h3><br>
+		EVL&rsquo;s research in <a href="/category.php?id=23&related=3">Tele-Immersion</a> and networking has led to the development of a computational and information infrastructure integrating high-performance computers, visualization environments, remote instruments and massive databases via high-speed networks to support advanced applications. Tele-immersion has been an &ldquo;application driver&rdquo; to build, exercise, evaluate and fine-tune advanced, high-performance, broadband networks.<br><br> EVL has conducted <a href="/category.php?id=19&related=5">networking research</a> by participating in the development of national and international testbeds, testing and deploying networking services to research and educational communities, and establishing and managing networking infrastructure.
+	</div>
+	<div class='category_content'>
+		<strong>Related:</strong>
+		<a href='/category.php?id=19&amp;related=2'>Directory</a>&nbsp;&nbsp;
+		<a href='/category.php?id=19&amp;related=3'>Events</a>&nbsp;&nbsp;
+		<a href='/category.php?id=19&amp;related=4'>Papers</a>&nbsp;&nbsp;
+		<a href='/category.php?id=19&amp;related=5'><strong>Research</strong></a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End Category Pagination -->
+<div class='category_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin Category List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2316'><img src='/resizedImages/500x280-crop-continuumrendering.png' alt='' title='MRI - Development of Continuum: A Virtualized Attentive Environment for Amplified Collaboration' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2316'>MRI - Development of Continuum: A Virtualized Attentive Environment for Amplified Collaboration</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=2278'>Debaleena Chattopadhyay</a>, <a href='/entry.php?id=2052'>G. Elisabeta Marai</a>, <a href='/entry.php?id=2368'>Jack O'Donnell</a>, <a href='/entry.php?id=285'>Jillian Aurisano</a>, <a href='/entry.php?id=2322'>Joe Borowicz</a>, <a href='/entry.php?id=24'>Jonas Talandis</a>, <a href='/entry.php?id=2371'>Kayla Condrella</a>, <a href='/entry.php?id=2370'>Kenan Arica</a>, <a href='/entry.php?id=49'>Lance Long</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=2367'>Michael Avendano</a>, <a href='/entry.php?id=2453'>Navya Reddy</a>, <a href='/entry.php?id=14'>Robert V. Kenyon</a>, <a href='/entry.php?id=2445'>Sumayya Siddiqui</a>, <a href='/entry.php?id=2448'>Szymon Popowski</a>, <a href='/entry.php?id=2303'>Vijayraj Mahida</a>, Barbara DiEugenio<br>
+			October 1, 2016 - September 30, 2019<br><br>
+			Just as NSF cyberinfrastructure produces greater volumes and varieties of data from data storage systems, online instrumentation and major&hellip; <a href='/entry.php?id=2316'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2229'><img src='/resizedImages/500x280-crop-senseicamerarenderingcu.png' alt='' title='SENSEI: Sensor Environment Imaging (SENSEI) Instrument' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2229'>SENSEI: Sensor Environment Imaging (SENSEI) Instrument</a></strong><br>
+			<a href='/entry.php?id=2366'>Ahmad Atra</a>, <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=2315'>Bartosz Kupiec</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=2321'>Dimitar Kirilov</a>, <a href='/entry.php?id=2279'>Harlyn Baker</a>, <a href='/entry.php?id=2422'>Hayley Christianson</a>, <a href='/entry.php?id=2439'>Kyra Jones</a>, <a href='/entry.php?id=49'>Lance Long</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=14'>Robert V. Kenyon</a>, Tanya Berger-Wolf<br>
+			October 1, 2014 - September 30, 2019<br><br>
+			SENSEI will be a reconfigurable, ultra-high-resolution, spherical (4π steradian), photometric, radiometric and photogrammetric real-time&hellip; <a href='/entry.php?id=2229'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2042'><img src='/resizedImages/500x280-crop-sage2logo.jpg' alt='' title='SAGE2&trade; Scalable Amplified Group Environment' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2042'>SAGE2&trade; Scalable Amplified Group Environment</a></strong><br>
+			<a href='/entry.php?id=2231'>Andrew Burks</a>, <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=270'>Arthur Nishimoto</a>, <a href='/entry.php?id=2454'>Jade Almaguer</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=285'>Jillian Aurisano</a>, <a href='/entry.php?id=300'>Krishna Bharadwaj</a>, <a href='/entry.php?id=2133'>Kristine Lee</a>, <a href='/entry.php?id=49'>Lance Long</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=2415'>Mirko Mantovani</a>, <a href='/entry.php?id=290'>Thomas Marrinan</a>, <a href='/entry.php?id=281'>Victor Mateevitsi</a><br>
+			August 16, 2013 - Ongoing<br><br>
+			 SAGE&trade; software enables teams of users to manage their data in a room covered with displays, as if the room were one seamless canvas. SAGE lets&hellip; <a href='/entry.php?id=2042'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2041'><img src='/resizedImages/500x280-crop-interspeech_image-2.png' alt='' title='Audio Dilation' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2041'>Audio Dilation</a></strong><br>
+			<a href='/entry.php?id=311'>John Novak III</a>, Robert Kenyon, Jason Leigh, Aashish Tandon, Jason Archer, Valeriy Shafiro<br>
+			September 1, 2012 - Ongoing<br><br>
+			On-line, real-time audio dilation is a technique that time stretches, or slows down the tempo of audio signals as they are generated. This research&hellip; <a href='/entry.php?id=2041'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1994'><img src='/resizedImages/500x280-crop-lv2_andyjason.jpg' alt='' title='OptIPlanet Cyber-Mashup' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1994'>OptIPlanet Cyber-Mashup</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a><br>
+			September 1, 2009 - August 31, 2012<br><br>
+			STCI: OptIPlanet Cyber-Mashup: Persistent Visualization and Collaboration Services for Global Cyber Infrastructure The goal of this project is to&hellip; <a href='/entry.php?id=1994'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1983'><img src='/resizedImages/500x280-crop-merra_lamdaram.png' alt='' title='MERRA Computation Using LambdaRAM' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1983'>MERRA Computation Using LambdaRAM</a></strong><br>
+			<a href='/entry.php?id=209'>Venkatram Vishwanath</a>, Software Integration and Visualization Office (SIVO), NASA Goddard Space Flight Center<br>
+			May 16, 2008 - November 4, 2008<br><br>
+			Data-intensive scientific applications require rapid access to local and geographically distributed data, however, there are significant I/O latency&hellip; <a href='/entry.php?id=1983'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1981'><img src='/resizedImages/500x280-crop-cidays.png' alt='' title='Campus Cyberinfrastructure (CI) Days' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1981'>Campus Cyberinfrastructure (CI) Days</a></strong><br>
+			<a href='/entry.php?id=178'>Maxine Brown</a><br>
+			August 1, 2007 - Ongoing<br><br>
+			A partnership of national organizations involved in distributed computing and networking (cyberinfrastructure, or CI) runs the &ldquo;CI Days&rdquo;&hellip; <a href='/entry.php?id=1981'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1980'><img src='/resizedImages/500x280-crop-rtk.png' alt='' title='RTK: The Rails Toolkit' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1980'>RTK: The Rails Toolkit</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=248'>Sungwon Nam</a>, <a href='/entry.php?id=209'>Venkatram Vishwanath</a><br>
+			January 1, 2007 - Ongoing<br><br>
+			RTK is an open source API that enables applications to co-schedule CPU cores, GPUs, Memory and Network resources within multi- and many- core&hellip; <a href='/entry.php?id=1980'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1896'><img src='/resizedImages/500x280-crop-optistore.jpeg' alt='' title='OptiStore' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1896'>OptiStore</a></strong><br>
+			<a href='/entry.php?id=170'>Charles Zhang</a>, <a href='/entry.php?id=21'>Jason Leigh</a><br>
+			August 16, 2006 - Ongoing<br><br>
+			The OptIPuter is a powerful distributed cyber-infrastructure to support data-intensive scientific research and collaboration. The OptiStore Project&hellip; <a href='/entry.php?id=1896'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1923'><img src='/resizedImages/500x280-crop-cytoviz.jpg' alt='' title='CytoViz' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1923'>CytoViz</a></strong><br>
+			<a href='/entry.php?id=4'>Brenda Lopez Silva</a>, <a href='/entry.php?id=192'>Luc Renambot</a><br>
+			May 1, 2006 - Ongoing<br><br>
+			CytoViz is an artistic, real-time information visualization driven by statistical information gathered during gigabit network transfers to the&hellip; <a href='/entry.php?id=1923'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1928'><img src='/resizedImages/500x280-crop-visualcasting-3.jpg' alt='' title='Visualcasting' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1928'>Visualcasting</a></strong><br>
+			<a href='/entry.php?id=208'>Byungil Jeong</a><br>
+			January 1, 2006 - Ongoing<br><br>
+			Visualcasting is a new SAGE network service that supports global collaboration by enabling two or more users to share application content, sending&hellip; <a href='/entry.php?id=1928'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1902'><img src='/resizedImages/500x280-crop-pavispdasm.jpg' alt='' title='PAVIS: Pervasive Adaptive Visualization and Interaction Service' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1902'>PAVIS: Pervasive Adaptive Visualization and Interaction Service</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=216'>Arun Rao</a>, <a href='/entry.php?id=4'>Brenda Lopez Silva</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=212'>Javid Alimohideen</a>, <a href='/entry.php?id=191'>Julieta Aguilera</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, Robert Grossman, Mike Sabala<br>
+			December 10, 2005 - May 15, 2007<br><br>
+			PAVIS: Pervasive Adaptive Visualization and Interaction Service is an adaptive system intended to automatically generate resource-aware&hellip; <a href='/entry.php?id=1902'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1907'><img src='/resizedImages/500x280-crop-cinegrid.jpg' alt='' title='CineGrid&trade; Initiative' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1907'>CineGrid&trade; Initiative</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, Lauren Herr, Natalie Van Osdol (Pacific Interface), Larry Smarr (UCSD / Calit2), Richard Weinberg, Elizabeth Daley (USC / CNTV), Tomonori Aoyama, Naohisa Ohta (Keio / DMC)<br>
+			September 1, 2005 - Ongoing<br><br>
+			CineGrid is an initiative to provide media professionals access to global cyberinfrastructure capable of carrying ultra-high performance digital&hellip; <a href='/entry.php?id=1907'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1930'><img src='/resizedImages/500x280-crop-netlassologosm.jpg' alt='' title='netLasso' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1930'>netLasso</a></strong><br>
+			<a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=248'>Sungwon Nam</a>, <a href='/entry.php?id=231'>Xi Wang</a>, Scott Behrens, Jonathan Ronchetti<br>
+			September 1, 2005 - Ongoing<br><br>
+			netLasso is an intuitive software tool for multi-site network performance testing. It helps clarify the best protocol and rate to send data over a&hellip; <a href='/entry.php?id=1930'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1942'><img src='/resizedImages/500x280-crop-kisti_display400.png' alt='' title='OptIPuter and Global Lambda Visualization Facility (GLVF)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1942'>OptIPuter and Global Lambda Visualization Facility (GLVF)</a></strong><br>
+			<a href='/entry.php?id=23'>Alan Verlo</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			September 1, 2005 - Ongoing<br><br>
+			The Global Lambda Visualization Facility (GLVF), established in September 2005, addresses the need to integrate visualization and collaboration&hellip; <a href='/entry.php?id=1942'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1939'><img src='/resizedImages/500x280-crop-nasa400.png' alt='' title='Advanced Networking Tools Deployed at NASA' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1939'>Advanced Networking Tools Deployed at NASA</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=209'>Venkatram Vishwanath</a>, NASA Goddard Space Flight Center, Software Integration &amp; Visualization Office<br>
+			May 1, 2005 - Ongoing<br><br>
+			As NASA&rsquo;s large scientific applications scale to greater numbers of processors, this creates Input / Output (I/O) bottlenecks. Applications&hellip; <a href='/entry.php?id=1939'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1927'><img src='/resizedImages/500x280-crop-pointvr-2.jpg' alt='' title='A Point-Based Remote Visualization Pipeline For Large-Scale Virtual Reality' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1927'>A Point-Based Remote Visualization Pipeline For Large-Scale Virtual Reality</a></strong><br>
+			<a href='/entry.php?id=163'>Jinghua Ge</a><br>
+			March 1, 2005 - March 1, 2007<br><br>
+			This research project focuses on a distributed visualization pipeline which combines VR technologies and remote computing resources through high&hellip; <a href='/entry.php?id=1927'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1906'><img src='/resizedImages/500x280-crop-translight_logo.png' alt='' title='TransLight / StarLight&#8480;' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1906'>TransLight / StarLight&#8480;</a></strong><br>
+			<a href='/entry.php?id=2454'>Jade Almaguer</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, Alan Verlo, Laura Wolf, Steve Sander, Patrick Hallihan, Lance Long, Linda Winkler, Rick Summerhill, Roberto Sabatino, Erik-Jan Bos, Kees Neggers, Joe Mambretti<br>
+			February 1, 2005 - January 31, 2010<br><br>
+			TransLight / StarLight&#8480; and TransLight / Pacific Wave&#8480; are complementary efforts funded by the U.S. National Science Foundation (NSF) to&hellip; <a href='/entry.php?id=1906'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1890'><img src='/resizedImages/500x280-crop-lambdacam.png' alt='' title='LambdaCam' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1890'>LambdaCam</a></strong><br>
+			<a href='/entry.php?id=183'>Rajvikram Singh</a><br>
+			December 1, 2004 - June 1, 2005<br><br>
+			LambdaCam is a real-time screen capture and distribution utility for cluster driven tiled-displays. It allows users to remotely view the output of&hellip; <a href='/entry.php?id=1890'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1882'><img src='/resizedImages/500x280-crop-sagebridge1b-s.jpg' alt='' title='SAGE: Scalable Adaptive Graphics Environment' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1882'>SAGE: Scalable Adaptive Graphics Environment</a></strong><br>
+			<a href='/entry.php?id=168'>Allan Spale</a>, <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=216'>Arun Rao</a>, <a href='/entry.php?id=208'>Byungil Jeong</a>, <a href='/entry.php?id=170'>Charles Zhang</a>, <a href='/entry.php?id=215'>Gideon Goldman</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=44'>Naveen Krishnaprasad</a>, <a href='/entry.php?id=213'>Nicholas Schwarz</a>, <a href='/entry.php?id=183'>Rajvikram Singh</a>, <a href='/entry.php?id=227'>Ratko Jagodic</a>, <a href='/entry.php?id=211'>Vaidya Chandrasekhar</a>, <a href='/entry.php?id=209'>Venkatram Vishwanath</a><br>
+			January 1, 2004 - November 17, 2013<br><br>
+			The Scalable Adaptive Graphics Environment (SAGE) is a distributed computing architecture for supporting two non-trivial problems in visualization&hellip; <a href='/entry.php?id=1882'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1908'><img src='/resizedImages/500x280-crop-topologysm.jpg' alt='' title='AR-PIN / PDC' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1908'>AR-PIN / PDC</a></strong><br>
+			<a href='/entry.php?id=38'>Eric He</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=231'>Xi Wang</a><br>
+			September 1, 2003 - Ongoing<br><br>
+			Grid is a computing architecture that consists of distributed clusters of computers interconnected by a network. Grid computing is used in a variety&hellip; <a href='/entry.php?id=1908'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1932'><img src='/resizedImages/500x280-crop-transitivesnapshot.jpg' alt='' title='Transitive' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1932'>Transitive</a></strong><br>
+			<a href='/entry.php?id=4'>Brenda Lopez Silva</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=44'>Naveen Krishnaprasad</a>, <a href='/entry.php?id=169'>Shalini Venkataraman</a><br>
+			April 30, 2003 - August 30, 2004<br><br>
+			The Transitive project was conceived and developed as a means to visualize point-to-point file transfers like those most commonly exchanged on the&hellip; <a href='/entry.php?id=1932'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1885'><img src='/resizedImages/500x280-crop-anrlogo-5.jpg' alt='' title='LambdaStream' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1885'>LambdaStream</a></strong><br>
+			<a href='/entry.php?id=214'>Chaoyue Xiong</a>, <a href='/entry.php?id=38'>Eric He</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=209'>Venkatram Vishwanath</a>, Tadao Murata<br>
+			January 1, 2003 - Ongoing<br><br>
+			LambdaStream is a transport protocol designed specifically to support gigabit-level streaming, which is required by streaming applications over&hellip; <a href='/entry.php?id=1885'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1839'><img src='/resizedImages/500x280-crop-optiputer_animate.gif' alt='' title='The OptIPuter' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1839'>The OptIPuter</a></strong><br>
+			<a href='/entry.php?id=23'>Alan Verlo</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, <a href='/entry.php?id=16'>Tom Moher</a>, Larry Smarr (CalIT2), Bob Grossman (NCDM / UIC)<br>
+			October 1, 2002 - September 30, 2007<br><br>
+			related url: www.evl.uic.edu/cavern/optiputer The OptIPuter is a five-year, $13.9 million National Science Foundation funded project to interconnect&hellip; <a href='/entry.php?id=1839'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1973'><img src='/resizedImages/500x280-crop-googlemap_snap.png' alt='' title='The OptIPlanet Collaboratory' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1973'>The OptIPlanet Collaboratory</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			October 1, 2002 - September 30, 2008<br><br>
+			VIEW OptIPortal WORLD LOCATIONS From 2002-2008, EVL has been part of the NSF-funded OptIPuter project, the goal of which is to develop advanced&hellip; <a href='/entry.php?id=1973'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1931'><img src='/resizedImages/500x280-crop-anrlogo-7.jpg' alt='' title='Reliable Blast UDP' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1931'>Reliable Blast UDP</a></strong><br>
+			<a href='/entry.php?id=38'>Eric He</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a><br>
+			September 1, 2002 - January 1, 2006<br><br>
+			High speed bulk data transfer is an important part of many data-intensive scientific applications. The aggressive bulk data transfer algorithm&hellip; <a href='/entry.php?id=1931'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2053'><img src='/resizedImages/500x280-crop-effectiveviz.jpg' alt='' title='Effective Use of Large Visualization Displays' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2053'>Effective Use of Large Visualization Displays</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=208'>Byungil Jeong</a>, <a href='/entry.php?id=245'>Hyejung Hur</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=259'>Khairi Reda</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=227'>Ratko Jagodic</a><br>
+			January 2, 2002 - Ongoing<br><br>
+			Global-scale cyberinfrastructure, whether sensor nets or supercomputers, is transforming the way teams of scientists and engineers study and&hellip; <a href='/entry.php?id=2053'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1677'><img src='/resizedImages/500x280-crop-qosimoto.jpg' alt='' title='QoSIMoto' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1677'>QoSIMoto</a></strong><br>
+			<a href='/entry.php?id=52'>Kyoung Shin Park</a><br>
+			January 1, 2002 - May 1, 2003<br><br>
+			The QoS Internet Monitoring Tool, or QoSIMoto, is a CAVE-based Netlogger visualization tool for monitoring and visualizing network flows in&hellip; <a href='/entry.php?id=1677'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1825'><img src='/resizedImages/500x280-crop-teravision_res.jpg' alt='' title='TeraVision' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1825'>TeraVision</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=208'>Byungil Jeong</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=183'>Rajvikram Singh</a><br>
+			January 1, 2002 - January 1, 2006<br><br>
+			TERAVISION is a hardware-assisted, network-enabled &ldquo;PowerPoint&rdquo; projector for the Access Grid, enabling anyone to plug a laptop&hellip; <a href='/entry.php?id=1825'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1821'><img src='/resizedImages/500x280-crop-anrlogo-4.jpg' alt='' title='Application of Intelligent Signaling and Control of Dynamically Switched Optical Networks' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1821'>Application of Intelligent Signaling and Control of Dynamically Switched Optical Networks</a></strong><br>
+			<a href='/entry.php?id=23'>Alan Verlo</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=197'>Ruoyun Yang</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, Bill Nickless, Mort Rahimi, Tim Ward, Mitch Theys, Joe Mambretti, Andrew Schmidt, Linda Winkler<br>
+			September 1, 2001 - August 31, 2004<br><br>
+			The proposed software development efforts will leverage the significant potential of a newly installed metro optical testbed for application-level&hellip; <a href='/entry.php?id=1821'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1817'><img src='/resizedImages/500x280-crop-tera.jpg' alt='' title='Remote Data Mining, Visualization and Collaboration on Tera-Nodes' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1817'>Remote Data Mining, Visualization and Collaboration on Tera-Nodes</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, Robert Grossman<br>
+			August 1, 2001 - September 1, 2005<br><br>
+			The goal of this project is to develop advanced data mining, visualization and collaboration technologies that maximize the use of high-speed Gigabit&hellip; <a href='/entry.php?id=1817'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1820'><img src='/resizedImages/500x280-crop-quantalogo-2.jpg' alt='' title='Quanta' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1820'>Quanta</a></strong><br>
+			<a href='/entry.php?id=38'>Eric He</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=212'>Javid Alimohideen</a>, <a href='/entry.php?id=44'>Naveen Krishnaprasad</a><br>
+			August 1, 2001 - September 1, 2005<br><br>
+			Quanta is a cross-platform adaptive networking toolkit that supports the data delivery requirements of interactive and bandwidth-intensive&hellip; <a href='/entry.php?id=1820'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1849'><img src='/resizedImages/500x280-crop-lambdacache.jpg' alt='' title='LambdaRAM' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1849'>LambdaRAM</a></strong><br>
+			<a href='/entry.php?id=170'>Charles Zhang</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=209'>Venkatram Vishwanath</a><br>
+			August 1, 2001 - Ongoing<br><br>
+			LambdaRAM (Optically Connected Memory Cache) is an application being developed to address long-haul latency in optical networks. LambdaRAM is a tool&hellip; <a href='/entry.php?id=1849'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1684'><img src='/resizedImages/500x280-crop-cavern_logo-2.jpg' alt='' title='Collaboration and Visualization over High Speed Networks' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1684'>Collaboration and Visualization over High Speed Networks</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=56'>Chris Scharver</a>, <a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=35'>Javier Girado</a>, <a href='/entry.php?id=52'>Kyoung Shin Park</a>, <a href='/entry.php?id=45'>Michael Lewis</a>, <a href='/entry.php?id=44'>Naveen Krishnaprasad</a>, <a href='/entry.php?id=30'>Yongjoo Cho</a>, T. Imai, R. Fang, Y. Lin, T. Portlock, B. Silva, L. Wang, J. Eliason, J. Ge, E. He, A. Nayak, S. Venkatamaran<br>
+			March 1, 2001 - February 28, 2003<br><br>
+			This research focuses on the development of Tele-immersive (collaborative virtual reality) applications, the middleware (software infrastructure)&hellip; <a href='/entry.php?id=1684'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1819'><img src='/resizedImages/500x280-crop-starlight_logo2004-3.jpg' alt='' title='STARLIGHT&#8480;: The Optical STAR TAP' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1819'>STARLIGHT&#8480;: The Optical STAR TAP</a></strong><br>
+			<a href='/entry.php?id=2454'>Jade Almaguer</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, International Center for Advanced Internet Research (iCAIR) at Northwestern University, Mathematics and Computer Science Division at Argnonne National Laboratory, CANARIE, SURFnet<br>
+			October 1, 2000 - September 1, 2006<br><br>
+			StarLight&#8480;; the optical STAR TAP&trade;, is an advanced optical infrastructure and proving ground for network services optimized for&hellip; <a href='/entry.php?id=1819'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1800'><img src='/resizedImages/500x280-crop-agave_pic-2.jpg' alt='' title='AGAVE (Access Grid Autostereo Virtual Environment)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1800'>AGAVE (Access Grid Autostereo Virtual Environment)</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=38'>Eric He</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=163'>Jinghua Ge</a>, <a href='/entry.php?id=24'>Jonas Talandis</a>, <a href='/entry.php?id=169'>Shalini Venkataraman</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, <a href='/entry.php?id=2'>Todd Margolis</a><br>
+			September 1, 2000 - August 31, 2005<br><br>
+			AGAVE (pronounced agavay) is a panel-based, head-tracked, barrier-strip auto-stereographic display, where the viewer does not wear stereo glasses&hellip; <a href='/entry.php?id=1800'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1822'><img src='/resizedImages/500x280-crop-accessgridlogo-3.png' alt='' title='Access Grid' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1822'>Access Grid</a></strong><br>
+			<a href='/entry.php?id=168'>Allan Spale</a>, <a href='/entry.php?id=196'>Chris Rosenthal</a>, <a href='/entry.php?id=5'>Dana M. Plepys</a>, <a href='/entry.php?id=24'>Jonas Talandis</a>, <a href='/entry.php?id=180'>Vikas Chowdry</a>, Gideon Goldman<br>
+			January 1, 2000 - August 31, 2003<br><br>
+			EVL is using the Access Grid (AG) project developed by Argonne National Laboratories (ANL) as the communications backbone for high-bandwidth&hellip; <a href='/entry.php?id=1822'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1674'><img src='/resizedImages/500x280-crop-emergeogo.jpg' alt='' title='Emerge: ESnet / MREN Regional Grid Experimental NGI Testbed' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1674'>Emerge: ESnet / MREN Regional Grid Experimental NGI Testbed</a></strong><br>
+			<a href='/entry.php?id=6'>Thomas A. DeFanti</a>, C. Catlett, J. Mambretti, M. Rahimi, T. Pinkerton, P. Brunelli;. Jackson<br>
+			August 1, 1999 - August 1, 2001<br><br>
+			This EMERGEeffort means to achieve and demonstrate Differentiated Services (DiffServ) over an IP / ATM GigaPoP regional network as a representative&hellip; <a href='/entry.php?id=1674'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1679'><img src='/resizedImages/500x280-crop-tide_210.jpg' alt='' title='TIDE: Tele-Immersive Data Explorer' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1679'>TIDE: Tele-Immersive Data Explorer</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=56'>Chris Scharver</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=55'>Nikita Sawant</a>, G. Reinhart, S. Batchu, E. Creel, S. Bailey, R. Grossman<br>
+			May 1, 1999 - June 1, 2000<br><br>
+			The Tele-Immersive Data Explorer is a CAVERNsoft-based collaborative, immersive environment for querying and visualizing data from massive and&hellip; <a href='/entry.php?id=1679'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1671'><img src='/resizedImages/500x280-crop-ellogoanim_new.gif' alt='' title='Euro-Link: US High-Performance Link to Europe' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1671'>Euro-Link: US High-Performance Link to Europe</a></strong><br>
+			<a href='/entry.php?id=23'>Alan Verlo</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, S. Goldstein, NSF, Argonne National Laboratory, Indiana University, Ameritech Advanced Data Services, European National Research Network Members <br>
+			April 1, 1999 - September 30, 2005<br><br>
+			Euro-Link is a National Science Foundation-funded initiative that facilitates the connection of European and Israeli National Research Networks&hellip; <a href='/entry.php?id=1671'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1672'><img src='/resizedImages/500x280-crop-cavern_logo.jpg' alt='' title='CAVERN - The CAVE&trade; Research Network' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1672'>CAVERN - The CAVE&trade; Research Network</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, <a href='/entry.php?id=16'>Tom Moher</a>, U. Buy, R. Grossman<br>
+			October 1, 1998 - September 30, 2004<br><br>
+			CAVERN, the CAVE&trade; Research Network, is an alliance of industrial and research institutions equipped with CAVE&trade;-based virtual reality&hellip; <a href='/entry.php?id=1672'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1780'><img src='/resizedImages/500x280-crop-cavernsoft.jpg' alt='' title='CAVERNsoft' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1780'>CAVERNsoft</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			September 1, 1998 - September 30, 2004<br><br>
+			CAVERNsoft is a C++ toolkit for building collaborative networked applications or logistical networking applications. It has low and mid level&hellip; <a href='/entry.php?id=1780'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1676'><img src='/resizedImages/500x280-crop-approom.gif' alt='' title='The Virtual Mail System' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1676'>The Virtual Mail System</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, <a href='/entry.php?id=103'>Tomoko Imai</a><br>
+			September 1, 1998 - May 15, 2001<br><br>
+			Traditionally E-mail has been the most effective asynchronous collaboration tool available to us. The goal of V-mail is to provide an equally, if not&hellip; <a href='/entry.php?id=1676'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1803'><img src='/resizedImages/500x280-crop-abot_185.jpg' alt='' title='AccessBot' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1803'>AccessBot</a></strong><br>
+			<a href='/entry.php?id=75'>Alan Cruz</a>, <a href='/entry.php?id=23'>Alan Verlo</a>, <a href='/entry.php?id=5'>Dana M. Plepys</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=35'>Javier Girado</a>, <a href='/entry.php?id=24'>Jonas Talandis</a>, <a href='/entry.php?id=129'>Maggie Rawlings</a>, <a href='/entry.php?id=43'>Muhammad Ali Khan</a>, <a href='/entry.php?id=34'>Ray Fang</a>, Tom DeFanti<br>
+			May 1, 1998 - May 1, 2000<br><br>
+			The goal of the AccessBot project is to provide a new form of access for the disabled that integrates teleconferencing with life-sized display&hellip; <a href='/entry.php?id=1803'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1702'><img src='/resizedImages/500x280-crop-accessbot-2.jpg' alt='' title='The Ganymede Accessbot: An Enabling Technology for Teleconferencing' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1702'>The Ganymede Accessbot: An Enabling Technology for Teleconferencing</a></strong><br>
+			<a href='/entry.php?id=75'>Alan Cruz</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=35'>Javier Girado</a>, <a href='/entry.php?id=24'>Jonas Talandis</a>, <a href='/entry.php?id=129'>Maggie Rawlings</a>, <a href='/entry.php?id=133'>Paul Rossman</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			May 1, 1998 - May 15, 2001<br><br>
+			The problem of providing accessibility for the handicapped goes far beyond merely providing ramps and elevators in buildings, cars, airplanes, and&hellip; <a href='/entry.php?id=1702'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1682'><img src='/resizedImages/500x280-crop-tandem_logo_sm.gif' alt='' title='Tandem' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1682'>Tandem</a></strong><br>
+			<a href='/entry.php?id=106'>Abhinav Kapoor</a>, <a href='/entry.php?id=94'>Ben Goldstein</a>, <a href='/entry.php?id=56'>Chris Scharver</a>, <a href='/entry.php?id=12'>Josephine Anstey</a>, <a href='/entry.php?id=45'>Michael Lewis</a>, <a href='/entry.php?id=55'>Nikita Sawant</a>, <a href='/entry.php?id=57'>Satheesh Subramanian</a>, <a href='/entry.php?id=61'>Zhongwei Qui</a><br>
+			January 1, 1998 - April 1, 1999<br><br>
+			This project seeks to expedite the creation of more compelling collaborative VR applications using either the CAVE or Immersadesk VR display devices&hellip; <a href='/entry.php?id=1682'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1749'><img src='/resizedImages/500x280-crop-ring.jpg' alt='' title='Tele-Immersion Performance Studies' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1749'>Tele-Immersion Performance Studies</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=52'>Kyoung Shin Park</a>, <a href='/entry.php?id=14'>Robert V. Kenyon</a>, Hong-Yee Wong<br>
+			January 1, 1998 - January 1, 2000<br><br>
+			Studies are being conducted involving a cooperative tele-operation task in which two remote participants in CAVEs work together to manipulate shared&hellip; <a href='/entry.php?id=1749'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1848'><img src='/resizedImages/500x280-crop-starlight_6.jpg' alt='' title='TeraGrid DTFnet' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1848'>TeraGrid DTFnet</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, Argonne National Laboratory, Northwestern University<br>
+			October 1, 1997 - September 1, 2004<br><br>
+			The TeraGrid DTFnet is an anchor tenant at StarLight, where EVL works with networking engineers from Argonne National Laboratory and Northwestern&hellip; <a href='/entry.php?id=1848'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1974'><img src='/resizedImages/500x280-crop-startap_logo2004_v3.gif' alt='' title='STAR TAP&#8480; : Science, Technology, and Research Transit Access Point' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1974'>STAR TAP&#8480; : Science, Technology, and Research Transit Access Point</a></strong><br>
+			<a href='/entry.php?id=2454'>Jade Almaguer</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, A. Kassem, R.Butler<br>
+			May 1, 1997 - April 30, 2004<br><br>
+			STAR TAP&#8480; - Science, Technology, And Research Transit Access Point - is a persistent infrastructure, funded by the National Science Foundation&hellip; <a href='/entry.php?id=1974'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1774'><img src='/resizedImages/500x280-crop-videoavatars.gif' alt='' title='VideoAvatar Library (3D static)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1774'>VideoAvatar Library (3D static)</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=104'>Joe Insley</a><br>
+			January 1, 1996 - August 1, 1997<br><br>
+			The VideoAvatar Library is a collection of functions that works in conjunction with the CAVE Library, and can be used to add static, photo-realistic&hellip; <a href='/entry.php?id=1774'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1892'><img src='/resizedImages/500x280-crop-anrlogo-6.jpg' alt='' title='Advanced Networking Research' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1892'>Advanced Networking Research</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a><br>
+			January 1, 1996 - Ongoing<br><br>
+			Advanced Networking Research (ANR) has been a focus of EVL&rsquo;s work over the last decade. The ANR encompasses the development of an advanced&hellip; <a href='/entry.php?id=1892'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<!-- End Category List -->
+	</table>
+</div>
+<!-- End Category -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

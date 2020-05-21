@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Entry -->
+<table id='entry_area' class='fixedTable'>
+	<tr>
+		<td style='width:676px;'>
+			<div id='entry_info'>
+<!-- Begin Entry Info -->
+<h3>Visual Data Science: Advanced Cyberinfrastructure Systems (poster session)</h3>
+<div id='entry_image_large'><img style='left:0;' src='/resizedImages/1280x720-compaas_dlv_visualdatascience_tripod.png' alt='' title='Visual Data Science: Advanced Cyberinfrastructure Systems (poster session)' width='640' height='251'></div>
+<div class='entry_content'>
+	<strong>Authors:</strong> <a href='/entry.php?id=178'>Brown, M.</a>, <a href='/entry.php?id=192'>Renambot, L.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=49'>Long, L.</a><br><br>
+	<strong>Publication:</strong> <em>UIC Foundations of Data Science Institute (an NSF Harnessing the Data Revolution (HDR) TRIPODS grant), Open House</em>, Discovery Partners Institute, Chicago, IL<br><br>
+<!-- Begin Entry Description -->
+<strong>COMPaaS DLV</strong>, COMposable Platform as a Service Instrument for Deep Learning & Visualization, was purchased from Liqid, Inc., with NSF funds.  Its 4th-generation computer architecture, composable infrastructure, treats computer components - computer processing units (CPUs), graphical processing units (GPUs), networking, memory and storage - as pools of resources.  It is:<br><br>
+<ul><li><strong>Highly flexible.</strong>  Each application defines the resources it needs, and the operating system composes, or combines, resources on the fly.</li><br>
+<li><strong>Scalable. </strong>  As more infrastructure is added, it’s auto-integrated with the existing infrastructure and becomes part of the pool of capacity.</li><br>
+<li><strong>High-throughput.</strong>  System components are interconnected with a high-speed internal fabric, enabling Big Data to quickly move among CPU, GPU, memory and storage at optimum speeds with little to no bottlenecks.</ul></li><br>
+Funded in part by NSF award #CNS-1828265.<br><br>
+<!-- End Entry Description -->
+	<strong>Date:</strong> January 17, 2020<br><br>
+	<strong>Document:</strong> <a href='/documents/compaas_dlv_visualdatascience_tripod.pdf'>View PDF</a>
+</div>
+<!-- End Entry Info -->
+			</div>
+		</td>
+		<td style='width:374px;'>
+			<div id='entry_sidebar'>
+<!-- Begin Entry Sidebar -->
+<div class='entry_content'>
+	<h3>Related Entries</h3>
+	<strong>Directory:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=10'>Andrew Johnson</a></li>
+		<li><a href='/entry.php?id=178'>Maxine Brown</a></li>
+		<li><a href='/entry.php?id=49'>Lance Long</a></li>
+		<li><a href='/entry.php?id=192'>Luc Renambot</a></li>
+	</ul><br>
+	<strong>Research:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2401'>COMPaaS DLV: Composable Platform as a Service Instrument for Deep Learning & Visualization</a></li>
+	</ul><br>
+	<h3>Related Categories</h3>
+	<ul>
+		<li><a href='/category.php?id=47&amp;related=4'>Data Science</a></li>
+		<li><a href='/category.php?id=9&amp;related=4'>Devices</a></li>
+		<li><a href='/category.php?id=45&amp;related=4'>Instrumentation</a></li>
+		<li><a href='/category.php?id=24&amp;related=4'>User Groups</a></li>
+		<li><a href='/category.php?id=35&amp;related=4'>Visual Analytics</a></li>
+		<li><a href='/category.php?id=36&amp;related=4'>Visual Informatics</a></li>
+		<li><a href='/category.php?id=27&amp;related=4'>Visualization</a></li>
+	</ul>
+</div>
+<!-- End Entry Sidebar-->
+			</div>
+		</td>
+	</tr>
+</table>
+<!-- End Entry -->
+<script>
+	// Making both divs the same height is much easier in JavaScript
+	var entryInfo = document.getElementById("entry_info");
+	var entrySidebar = document.getElementById("entry_sidebar");
+	
+	if (entryInfo && entrySidebar) {
+		var maxHeight = Math.max(entryInfo.offsetHeight, entrySidebar.offsetHeight)-20;
+		entryInfo.style.height = maxHeight+"px";
+		entrySidebar.style.height = maxHeight+"px";
+	}
+</script>
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

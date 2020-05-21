@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Entry -->
+<table id='entry_area' class='fixedTable'>
+	<tr>
+		<td style='width:676px;'>
+			<div id='entry_info'>
+<!-- Begin Entry Info -->
+<h3>A Distributed Graph Approach for Retrieving Linked RDF Data Using Supercomputing systems</h3><br>
+<div class='entry_content'>
+	<strong>Participants:</strong> <a href='/entry.php?id=45'>Michael Lewis</a><br><br>
+<!-- Begin Entry Description -->
+EVL PhD Candidate, Michael J. Lewis defends his thesis &ldquo;A Distributed Graph Approach for Retrieving Linked RDF Data Using Supercomputing systems&rdquo;:<br><br>
+UIC / EVL<br>
+842 W. Taylor Street, Room 2068 (EVL Cybercommons)<br>
+Chicago, IL 60607<br>
+312.996.3002<br><br>
+Date: Friday, April 21, 2017, 1PM<br><br>
+Committee: Andrew Johnson (advisor and chair), Ugo Buy, Ajay Kshemkalyani, Jason Leigh (University of Hawaii, Manoa), Venkatram Vishwanath (Argonne National Laboratory)<br><br>
+Graph systems play a dominant role in discovering relationships and patterns over large unstructured data in which data does not explicitly declare its meta-data. Graph analytics through queries, has been increasingly used in the business and research community alike in the areas of biomedical research and genome sequencing, disease research,  social media and gaming networks, financial services, IT security - enhancing networks against cyber attacks, and in pharmaceuticals - helping to discover patterns from drug interactions. The Research Descriptive Framework, a graph based,data model is used by many graph systems in order to effectively create graph structures that are queryable for relational based and graphical based queries.<br><br>My research looks at the ways pre-processing linked data into memory can improve query retrieval timings over a range of query types, as compared to a solely graph explorational method.  In this dissertation I review RDF systems that retrieve queried RDF data from a relational, table based approach, an iterative data merge approach using Map-Reduce, and  from a graph explorational approach. I introduce the work called Mantona, which is a distributed RDF system used within a supercomputing environment. I explain in detail, the workings of two different algorithms implemented in Mantona using MPI.  The first algorithm (graph-cache) algorithm stores partial joins into a graph in order to expedite query retrievals. The second algorithm (graph-retrieval) retrieves a query by exploring RDF graph nodes. I conclude by presenting results generated from Mantona covering the  graph-cache approach and the graph-retrieval approach, and in showing the range of queries in which a graph-cache implementation improves query retrieval timings over a solely explorational, graph-retrieval implementation.<br><br>
+<!-- End Entry Description -->
+	<strong>Email:</strong> <a href='mailto:mlewis_1@comcast.net'>mlewis_1@comcast.net</a><br><br>
+	<strong>Date:</strong> April 21, 2017
+</div>
+<!-- End Entry Info -->
+			</div>
+		</td>
+		<td style='width:374px;'>
+			<div id='entry_sidebar'>
+<!-- Begin Entry Sidebar -->
+<div id='entry_image_small'>
+	<img style='left:0; ' src='/resizedImages/350x622-mlewis_2017.jpg' alt='' title='A Distributed Graph Approach for Retrieving Linked RDF Data Using Supercomputing systems' width='350' height='511'>
+</div>
+<div class='entry_content'>
+	<h3>Related Entries</h3>
+	<strong>Directory:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=45'>Michael Lewis</a></li>
+	</ul><br>
+	<strong>Events:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2224'>Large Scale Query Analysis on HPC and Cloud Systems</a></li>
+	</ul><br>
+	<h3>Related Categories</h3>
+	<ul>
+		<li><a href='/category.php?id=19&amp;related=3'>Networking</a></li>
+		<li><a href='/category.php?id=22&amp;related=3'>Supercomputing</a></li>
+	</ul>
+</div>
+<!-- End Entry Sidebar-->
+			</div>
+		</td>
+	</tr>
+</table>
+<!-- End Entry -->
+<script>
+	// Making both divs the same height is much easier in JavaScript
+	var entryInfo = document.getElementById("entry_info");
+	var entrySidebar = document.getElementById("entry_sidebar");
+	
+	if (entryInfo && entrySidebar) {
+		var maxHeight = Math.max(entryInfo.offsetHeight, entrySidebar.offsetHeight)-20;
+		entryInfo.style.height = maxHeight+"px";
+		entrySidebar.style.height = maxHeight+"px";
+	}
+</script>
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

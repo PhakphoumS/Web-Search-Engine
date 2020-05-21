@@ -1,0 +1,138 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><head><!-- saved from url=(0034)http://www.uic.edu/cuppa/testsite/ --><title>Graduate Concentration in Survey Research Methodology at UIC</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript" type="text/JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+</script>
+<meta content="MSHTML 6.00.2800.1276" name="GENERATOR">
+<script language="JavaScript">
+
+</script>
+<script language="JavaScript">
+
+
+
+
+</script>
+<script language="JavaScript">
+
+</script>
+<script language="JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+
+<body bgcolor="#688CB0" link="#002F5B" vlink="#F51D30" alink="#688CB0" onLoad="MM_preloadImages('gcsrm/overview_on.gif','gcsrm/administration_on.gif','gcsrm/admission_on.gif','gcsrm/program_on.gif','gcsrm/faculty_on.gif','gcsrm/faqs_on.gif','gcsrm/links_on.gif','gcsrm/contact_on.gif','gcsrm/paus_on.gif','gcsrm/student_news_on.gif')" >
+<p>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="725">
+ <tr bgcolor="#688CB0">
+    <td height="20" colspan="2">&nbsp;</td>
+    <td width="4">&nbsp;</td>
+    <td colspan="4" valign="bottom"><div align="right"><font color="#688cb0" face="Book Antiqua, Times New Roman" size="2">03.02.05</font><font color="#688cb0" face="Book Antiqua, Times New Roman">&nbsp;</font> </div></td>
+  </tr>
+  <tr>
+    <td width="197" height="68" align="right" valign="bottom" bgcolor="#002F5B">
+        <p><img src="gcsrm/uic.jpg" alt="gcsrm/uic" width="197" height="35" align="middle"><br>
+          <br>
+        </p>        </td>
+    <td width="4" bgcolor="#002F5B">&nbsp;</td>
+    <td height="96" bgcolor="#FFFFFF">&nbsp;</td>
+    <td colspan="3" bgcolor="#FFFFFF"><div align="right"><font color="#F51D30" face="Helvetica Narrow, Arial, sans-serif" size="5"><strong><em>Interdepartmental <br>
+    Graduate Concentration<br> 
+    in Survey Research Methodology</em></strong></font></div></td>
+    <td height="96" bgcolor="#FFFFFF">&nbsp;</td>
+  </tr>
+  <tr bgcolor="#f51d30">
+    <td colspan="2" valign="bottom">&nbsp;</td>
+    <td align="left" valign="bottom"><font size="1">&nbsp;</font></td>
+    <td colspan="3" align="left" valign="bottom"><p></td>
+    <td align="left" valign="bottom"><font size="1">&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td colspan="2" rowspan="4" align="center" valign="top" bgcolor="#002F5B"></strong></em></font></div> <a href="http://www.srl.uic.edu/gcsrm/overview.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Overview','','gcsrm/overview_on.gif',1)"><br>
+      <br>
+      <img src="gcsrm/overview.gif" alt="GCSRM Program Description/Overview" name="Overview" width="195" height="34" border="0"></a><br>
+          <a href="http://www.srl.uic.edu/gcsrm/administration.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Administration','','gcsrm/administration_on.gif',1)"><img src="gcsrm/administration.gif" alt="GCSRM Program Administration" name="Administration" width="195" height="34" border="0"><br>
+          </a><a href="http://www.srl.uic.edu/gcsrm/paus.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('PAUs','','gcsrm/paus_on.gif',1)"><img src="gcsrm/paus.gif" alt="GCSRM Participating Academic Units" name="PAUs" width="195" height="34" border="0"></a><a href="http://www.srl.uic.edu/gcsrm/administration.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Administration','','gcsrm/administration_on.gif',1)"><br>
+          </a><a href="http://www.srl.uic.edu/gcsrm/admission.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Admission','','gcsrm/admission_on.gif',1)"><img src="gcsrm/admission.gif" alt="GCSRM Program Admission" name="Admission" width="195" height="34" border="0"><br>
+          </a><a href="http://www.srl.uic.edu/gcsrm/program.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Program ','','gcsrm/program_on.gif',1)"><img src="gcsrm/program.gif" alt="GCSRM Program of Study" name="Program " width="195" height="34" border="0"></a><a href="gcsrm/news.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image12','','gcsrm/student_news_on.gif',1)"><br>
+          <img src="gcsrm/student_news_off.gif" alt="Student/Graduate News" name="Image12" width="195" height="34" border="0"></a><a href="http://www.srl.uic.edu/gcsrm/program.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Program ','','gcsrm/program_on.gif',1)"><br>
+          </a><a href="http://www.srl.uic.edu/gcsrm/faculty.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Faculty','','gcsrm/faculty_on.gif',1)"><img src="gcsrm/faculty.gif" alt="GCSRM Faculty" name="Faculty" width="195" height="34" border="0"><br>
+          </a><a href="http://www.srl.uic.edu/gcsrm/faqs.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('FAQs','','gcsrm/faqs_on.gif',1)"><img src="gcsrm/faqs.gif" alt="GCSRM Frequently Asked Questions" name="FAQs" width="195" height="34" border="0"><br>
+          </a><a href="http://www.srl.uic.edu/gcsrm/links.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Links','','gcsrm/links_on.gif',1)"><img src="gcsrm/links.gif" alt="Links" name="Links" width="195" height="34" border="0"><br>
+          </a><a href="http://www.srl.uic.edu/gcsrm/contact.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Contact','','gcsrm/contact_on.gif',1)"><img src="gcsrm/contact.gif" alt="GCSRM Contact Information" name="Contact" width="195" height="34" border="0"></a>
+          <div align="center"> </div>      </td>
+    <td colspan="1" rowspan="3" bgcolor="#ffffff" valign="top">&nbsp;</td>
+      <td colspan="3" rowspan="3" valign="middle" bgcolor="#ffffff"><p>              <div align="center">
+        <blockquote>
+          <div align="left"><strong><font color="#384C78" face="Book Antiqua, Times New Roman" size="5">T</font><font color="#384C78" face="Book Antiqua, Times New Roman" size="3">he Interdepartmental Graduate Concentration in Survey Research Methodology provides UIC graduate students state-of-the-art knowledge and skills in scientifically grounded survey research methodology. </font></strong></div>
+        </blockquote>
+        </div>        
+    </td>
+      <td bgcolor="#ffffff">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="10" height="24" bgcolor="#ffffff">&nbsp;</td>
+  </tr>
+  <tr>
+    <td bgcolor="#ffffff" height="52">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="19" colspan="1" valign="top" bgcolor="#ffffff">&nbsp;</td>
+    <td width="4" valign="middle" bgcolor="#ffffff"><p></td>
+    <td width="224" valign="middle" bgcolor="#ffffff"><strong><font color="#384C78" face="Helvetica, Helvetica Narrow, Arial" size="5">U</font><font color="#384C78" face="Helvetica, Helvetica Narrow, Arial" size="3">sing a multidisciplinary strategy that draws upon survey research resources across the UIC campus, the <em>GCSRM </em> provides a unique opportunity for systematic, integrated study of the conduct of professional survey research. </font></strong></td>
+    <td width="282" valign="middle" bgcolor="#ffffff"><div align="right"><img src="gcsrm/campus1_400_400.jpg" alt="gcsrm/campus1_400_400" width="269" height="269" align="right"></div></td>
+    <td bgcolor="#ffffff">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top" bgcolor="#002F5B">&nbsp;</td>
+    <td height="19" colspan="1" valign="top" bgcolor="#ffffff">&nbsp;</td>
+    <td valign="middle" bgcolor="#ffffff">&nbsp;</td>
+    <td height="30" colspan="2" valign="middle" bgcolor="#ffffff"><div align="center"><a href="gcsrm/Survey%20Research%20Methodology%20Brochure.pdf"><strong><font color="#002C5A" size="2" face="Book Antiqua, Times New Roman"><em>Download the GCSRM brochure</em> </font></strong></a></div></td>
+    <td bgcolor="#ffffff">&nbsp;</td>
+  </tr>
+  <tr bgcolor="#f51d30" valign="middle">
+    <td colspan="7" height="20" nowrap="nowrap"><div align="center">
+      <p>      
+    </div></td>
+  </tr>
+</tbody></table>
+
+<div align="center">
+  <p><em><font color="#ffffff" face="Book Antiqua, Times New Roman" size="2"><strong>This site is hosted and maintained by the Survey Research Laboratory</strong><br>
+  </font></em><font color="#ffffff" face="Book Antiqua, Times New Roman" size="2">www.srl.uic.edu  </font></p>
+  <p><br>
+  </p>
+</div>
+<div align="center">
+  <p align="center"><font color="#408c70" face="Arial, Helvetica, sans-serif" size="1"><em> </em><font color="#384c78" size="2"><br>
+  </font></font></p>
+</div>
+</body></html>

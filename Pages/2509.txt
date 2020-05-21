@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin List -->
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Year:</strong>
+		<a href='/list.php?id=3&amp;year=2020'>2020</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2019'>2019</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2018'>2018</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2017'>2017</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2016'>2016</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2015'>2015</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2014'>2014</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2013'>2013</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2012'>2012</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2011'>2011</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2010'>2010</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2009'>2009</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2008'>2008</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2007'>2007</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2006'>2006</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2005'>2005</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2004'>2004</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2003'>2003</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2002'>2002</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2001'>2001</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2000'><strong>2000</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1999'>1999</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1998'>1998</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1997'>1997</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1996'>1996</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1995'>1995</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1994'>1994</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1993'>1993</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1992'>1992</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1987'>1987</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1979'>1979</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1976'>1976</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1975'>1975</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1974'>1974</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1973'>1973</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<div id='list_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin List List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=360'><img src='/resizedImages/500x280-crop-wired.gif' alt='' title='Wired Women: On the Verge of a Digital Renaissance' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=360'>Wired Women: On the Verge of a Digital Renaissance</a></strong><br>
+			<a href='/entry.php?id=29'>Beth Cerny Pati&ntilde;o</a>, <a href='/entry.php?id=4'>Brenda Lopez Silva</a><br>
+			December 8, 2000 - January 21, 2001<br><br>
+			Brenda Lopez and Beth Cerny are exhibiting ImmersaGrams at The Three Arts Club Gallery in the &ldquo;Wired Women: On the Verge of a Digital&hellip; <a href='/entry.php?id=360'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=342'><img src='/resizedImages/500x280-crop-hometransfer.gif' alt='' title='Home Transfer Released' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=342'><em>Home Transfer</em> Released</a></strong><br>
+			<a href='/entry.php?id=2'>Todd Margolis</a>, Pat Badani, Dmitry Strakovsky, Ozgun Ozguc, Carrie Mandel, Jeff Holmes<br>
+			December 7, 2000 - December 10, 2000<br><br>
+			Todd Margolis, EVL MFA candidate joins a team of artists to develop HOME TRANSFER, a Web project by Pat Badani. The site has been selected by ISEA&hellip; <a href='/entry.php?id=342'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=341'><img src='/resizedImages/500x280-crop-harlem.jpg' alt='' title='Virtual Harlem CAVE&reg; Demonstration MOBE 2000' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=341'>Virtual Harlem CAVE&reg; Demonstration MOBE 2000</a></strong><br>
+			<a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=12'>Josephine Anstey</a>, <a href='/entry.php?id=53'>Tim Portlock</a>, Bryan Carter, Bill Plummer, Blake Lewis, Thaddeus Parkinson, Jim Sosnoski, Jim Hall, Kevin Smith, Janice Lively, Erec Smith, Reema Kapur, Jeremy Bushnell<br>
+			September 30, 2000<br><br>
+			EVL, in collaboration with UIC&rsquo;s English Department and the Advanced Technology Center at the University of Missouri, hosted a reception and&hellip; <a href='/entry.php?id=341'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=359'><img src='/resizedImages/500x280-crop-cve2000.gif' alt='' title='EVLer at CVE2000' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=359'>EVLer at CVE2000</a></strong><br>
+			<a href='/entry.php?id=52'>Kyoung Shin Park</a><br>
+			September 10, 2000 - September 12, 2000<br><br>
+			Kyoung Park presents the paper entitled, &ldquo;Lessons Learned from Employing Multiple Perspectives in a Collaborative Virtual Environment for&hellip; <a href='/entry.php?id=359'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=357'><img src='/resizedImages/500x280-crop-tom-copper.jpg' alt='' title='ACM SIGGRAPH Outstanding Service Award' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=357'>ACM SIGGRAPH Outstanding Service Award</a></strong><br>
+			<a href='/entry.php?id=92'>Copper Giloth</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			July 23, 2000 - July 28, 2000<br><br>
+			Tom DeFanti and Copper Giloth are each a recipient of this year&rsquo;s ACM SIGGRAPH Outstanding Service Award. DeFanti has been an inspirational&hellip; <a href='/entry.php?id=357'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=356'><img src='/resizedImages/500x280-crop-inet2000.gif' alt='' title='The International Grid (iGrid) 2000' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=356'>The International Grid (iGrid) 2000</a></strong><br>
+			EVL faculty, staff, and students<br>
+			July 18, 2000 - July 21, 2000<br><br>
+			The International Grid (iGrid) 2000 exhibit, jointly sponsored and organized by the Electronic Visualization Laboratory (EVL) at the University of&hellip; <a href='/entry.php?id=356'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=460'><img src='/resizedImages/500x280-crop-bluepane.jpg' alt='' title='iGrid2000 Empowering Global Research Community Networking' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=460'>iGrid2000 Empowering Global Research Community Networking</a></strong><br>
+			<a href='/entry.php?id=23'>Alan Verlo</a>, <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=12'>Josephine Anstey</a>, <a href='/entry.php?id=157'>Laura Wolf</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, Tomonori Aoyama, Michael A. McRobbie, Jun Murai, Steven N. Goldstein, David O. Williams, Hiroshi Esaki, Laurin Herr, Natalie Van Osdol, Tomoko Imai, Hiroshi Imai, Akira Kato, Osamu Nakamura, Linda Winkler<br>
+			July 18, 2000 - July 21, 2000<br><br>
+			iGrid 2000, the International Grid, demonstrates how the power of today&rsquo;s research networks enables access to remote computing resources&hellip; <a href='/entry.php?id=460'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=358'><img src='/resizedImages/500x280-crop-artmuseum.gif' alt='' title='Multimedia: From Wagner to Virtual Reality' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=358'>Multimedia: From Wagner to Virtual Reality</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a><br>
+			July 1, 2000<br><br>
+			Dan Sandin, co-Director of the Electronic Visualization Laboratory finds his place among the &lsquo;Pioneers&rsquo; in virtual reality and multimedia&hellip; <a href='/entry.php?id=358'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=355'><img src='/resizedImages/500x280-crop-ipt2000.jpg' alt='' title='Immersive Projection Technology Workshop (IPTW) 2000' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=355'>Immersive Projection Technology Workshop (IPTW) 2000</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=56'>Chris Scharver</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=38'>Eric He</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=52'>Kyoung Shin Park</a>, <a href='/entry.php?id=55'>Nikita Sawant</a>, Fu Hu Liu<br>
+			June 19, 2000 - June 22, 2000<br><br>
+			The following papers were presented by EVL faculty and students at the IPT Conference. &ldquo;Deploying VR in an Elementary School - Pipe Dreams and&hellip; <a href='/entry.php?id=355'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=353'><img src='/resizedImages/500x280-crop-dan.jpg' alt='' title='Inventors of the Year 2000' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=353'>Inventors of the Year 2000</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			May 15, 2000<br><br>
+			Tom DeFanti and Dan Sandin, co-Directors of the Electronic Visualization Laboratory and inventors of the CAVE, ImmersaDesk and other virtual reality&hellip; <a href='/entry.php?id=353'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=312'><img src='/resizedImages/500x280-crop-igramshow.gif' alt='' title='ImmersaGrams: Virtual Reality Snapshots' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=312'>ImmersaGrams: Virtual Reality Snapshots</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=29'>Beth Cerny Pati&ntilde;o</a>, <a href='/entry.php?id=4'>Brenda Lopez Silva</a>, <a href='/entry.php?id=177'>Ellen Sandor</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=1'>John Landry</a>, <a href='/entry.php?id=40'>Ka-Leung Jark</a>, <a href='/entry.php?id=86'>Margaret Dolinsky</a>, <a href='/entry.php?id=3'>Natt Mintrasak</a>, <a href='/entry.php?id=2'>Todd Margolis</a>, Margaret Watson<br>
+			May 8, 2000 - May 13, 2000<br><br>
+			This exhibition presents the work of current and past graduate students of the Electronic Visualization Laboratory at the University of Illinois at&hellip; <a href='/entry.php?id=312'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=381'><img src='/resizedImages/500x280-crop-emmy.gif' alt='' title='Lowman Awarded With Sports Emmy' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=381'>Lowman Awarded With Sports Emmy</a></strong><br>
+			<a href='/entry.php?id=113'>Deb Lowman (1966-2018)</a><br>
+			May 1, 2000<br><br>
+			Debra Lowman, EVL MFA alumna has won the Sports Emmy for Innovative Technical Achievement! with her coworker and their respective bosses. Deb is a&hellip; <a href='/entry.php?id=381'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=351'><img src='/resizedImages/500x280-crop-santafe.jpg' alt='' title='Lecture Series at the Santa Fe Art Institute' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=351'>Lecture Series at the Santa Fe Art Institute</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, Josephine Anstey<br>
+			April 4, 2000 - April 12, 2000<br><br>
+			Dan Sandin was a visiting artist at the Santa Fe Art Institute invited to give master classes in virtual reality art to small groups of students. An&hellip; <a href='/entry.php?id=351'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=403'><img src='/resizedImages/500x280-crop-ieeevr2000.jpg' alt='' title='IEEE Virtual Reality 2000' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=403'>IEEE Virtual Reality 2000</a></strong><br>
+			<a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=12'>Josephine Anstey</a><br>
+			March 18, 2000 - March 22, 2000<br><br>
+			Josephine Anstey and Dave Pape represented EVL at the IEEE Virtual Reality 2000 Conference with their presentation of the paper, &ldquo;The Thing&hellip; <a href='/entry.php?id=403'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=402'><img src='/resizedImages/500x280-crop-thing.jpg' alt='' title='The Thing Growing MFA Show' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=402'>The Thing Growing MFA Show</a></strong><br>
+			<a href='/entry.php?id=12'>Josephine Anstey</a><br>
+			March 9, 2000 - March 10, 2000<br><br>
+			Josephine Anstey&rsquo;s MFA Thesis show, The Thing Growing, takes place March 2000. The Thing Growing is a Virtual Reality Fiction in which the user&hellip; <a href='/entry.php?id=402'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=354'><img src='/resizedImages/500x280-crop-digichicago.gif' alt='' title='Digital Chicago Recognizes EVL&rsquo;s Contribution' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=354'>Digital Chicago Recognizes EVL&rsquo;s Contribution</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			March 1, 2000 - April 1, 2000<br><br>
+			Tom DeFanti and Dan Sandin, co-Directors of the Electronic Visualization Laboratory are featured in the Digital Chicago magazine article &ldquo;The&hellip; <a href='/entry.php?id=354'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=423'><img src='/resizedImages/500x280-crop-two_bodies.jpg' alt='' title='ASCI Advanced Projector Workshop' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=423'>ASCI Advanced Projector Workshop</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=105'>Ivan Judson</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, B. Bleha, N. Bordes, R. Coffey, J. DiLoreto, J. Friesen, P. Hanrahan, M. Hereld, L. Herr, K. Li, J. Moreland, B. Pailthorpe, K. Schleupen, E. Seibel, R. Stevens, M. Stone, H. Towles, S. Uselton, J. van Rosendale<br>
+			February 24, 2000 - February 25, 2000<br><br>
+			The goal of the ASCI Advanced Projector Workshop was to develop a white paper and roadmap for the accelerated development of next-generation&hellip; <a href='/entry.php?id=423'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=350'><img src='/resizedImages/500x280-crop-auic.gif' alt='' title='EVLers at AUIC' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=350'>EVLers at AUIC</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, Mary Rassmussen<br>
+			January 31, 2000 - February 3, 2000<br><br>
+			Daniel J. Sandin (Co-Director, EVL) and Mary Rassmussen (Co-Director, VRMedLab and EVL alumni) presented the plenary talk, &ldquo;Virtual Reality&hellip; <a href='/entry.php?id=350'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=349'><img src='/resizedImages/500x280-crop-spie2000.gif' alt='' title='Electronic Imaging 2000; The Engineering Reality of Virtual Reality' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=349'>Electronic Imaging 2000; The Engineering Reality of Virtual Reality</a></strong><br>
+			<a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=12'>Josephine Anstey</a><br>
+			January 23, 2000 - January 28, 2000<br><br>
+			Josephine Anstey and Dave Pape presented a research paper, &ldquo;Building a VR Narrative&rdquo; at the Photonics West / SPIE 2000 Conference. The&hellip; <a href='/entry.php?id=349'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=347'><img src='/resizedImages/500x280-crop-ars99.jpg' alt='' title='EVL @ARS &rsquo;99' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=347'>EVL @ARS &rsquo;99</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=12'>Josephine Anstey</a>, <a href='/entry.php?id=40'>Ka-Leung Jark</a>, <a href='/entry.php?id=86'>Margaret Dolinsky</a><br>
+			January 1, 2000<br><br>
+			EVL faculty and students presented a number virtual reality artworks in the CAVE at the 21st ARS Electronic Festival, entitled &ldquo;LifeScience&hellip; <a href='/entry.php?id=347'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<!-- End List List -->
+	</table>
+</div>
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Year:</strong>
+		<a href='/list.php?id=3&amp;year=2020'>2020</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2019'>2019</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2018'>2018</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2017'>2017</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2016'>2016</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2015'>2015</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2014'>2014</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2013'>2013</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2012'>2012</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2011'>2011</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2010'>2010</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2009'>2009</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2008'>2008</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2007'>2007</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2006'>2006</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2005'>2005</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2004'>2004</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2003'>2003</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2002'>2002</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2001'>2001</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2000'><strong>2000</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1999'>1999</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1998'>1998</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1997'>1997</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1996'>1996</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1995'>1995</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1994'>1994</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1993'>1993</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1992'>1992</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1987'>1987</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1979'>1979</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1976'>1976</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1975'>1975</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1974'>1974</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1973'>1973</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<!-- End List -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Related -->
+<div id='related_area'>
+	<div id='related_title'>
+		<a href='/entry.php?id=2402'><h3>SAGE2 Team Engaging with the Trusted CI Center on SAGE2 Cybersecurity</h3></a><br>
+<!-- Begin Related Pagination -->
+<strong>Related:</strong>
+<a href='/related.php?id=2402&amp;related=2'>Directory</a>&nbsp;&nbsp;
+<a href='/related.php?id=2402&amp;related=3'><strong>Events</strong></a>&nbsp;&nbsp;
+<a href='/related.php?id=2402&amp;related=5'>Research</a>&nbsp;&nbsp;
+<!-- End Related Pagination -->
+	</div>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin Related List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2493'><img src='/resizedImages/500x280-crop-sage_logo-2.png' alt='' title='UIC Computer Science/EVL awarded $2.25 Million from NSF for SAGE3' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2493'>UIC Computer Science/EVL awarded $2.25 Million from NSF for SAGE3</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=49'>Lance Long</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a><br>
+			May 15, 2020 - April 30, 2025<br><br>
+			Maxine Brown (UIC PI), Andrew Johnson (UIC co-PI), Luc Renambot (UIC co-PI) Jason Leigh (University of Hawaii Manoa PI)Christopher North (Virginia&hellip; <a href='/entry.php?id=2493'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2483'><img src='/resizedImages/500x280-crop-sc19-color-hor-2.png' alt='' title='SAGE2 11th Annual International SC BOF @ SC19 - Tuesday, November 19, 12:15 - 1:15pm' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2483'>SAGE2 11th Annual International SC BOF @ SC19 - Tuesday, November 19, 12:15 - 1:15pm</a></strong><br>
+			<a href='/entry.php?id=49'>Lance Long</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a><br>
+			November 19, 2019<br><br>
+			For those attending SC19 in Denver, Colorado, we will hold the &ldquo;SAGE2 11th Annual International SC BOF: Scalable Amplified Group Environment&hellip; <a href='/entry.php?id=2483'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2486'><img src='/resizedImages/500x280-crop-sc19-group-photo.jpg' alt='' title='SAGE2 @ SC19: Demonstrations, Birds of a Feather, and SCinet Participation' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2486'>SAGE2 @ SC19: Demonstrations, Birds of a Feather, and SCinet Participation</a></strong><br>
+			<a href='/entry.php?id=2231'>Andrew Burks</a>, <a href='/entry.php?id=49'>Lance Long</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a><br>
+			November 18, 2019 - November 21, 2019<br><br>
+			NOVEMBER 18-21, 2019 - Members of the SAGE2&trade; Team who attended the IEEE/ACM SC19 conference - from University of Hawai&rsquo;i at Manoa&rsquo;s&hellip; <a href='/entry.php?id=2486'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2413'><img src='/resizedImages/500x280-crop-sage2-sc18-group.jpg' alt='' title='SAGE2 @ SC18: Demonstrations, Birds of a Feather, and SCinet Participation' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2413'>SAGE2 @ SC18: Demonstrations, Birds of a Feather, and SCinet Participation</a></strong><br>
+			<a href='/entry.php?id=2231'>Andrew Burks</a>, <a href='/entry.php?id=5'>Dana M. Plepys</a>, <a href='/entry.php?id=49'>Lance Long</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a><br>
+			November 11, 2018 - November 16, 2018<br><br>
+			NOVEMBER 11-16, 2018 - Members of the SAGE2&trade; Team who attended the IEEE/ACM SC18 conference - from University of Hawaiʻi at Manoa’s&hellip; <a href='/entry.php?id=2413'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2400'><img src='/resizedImages/500x280-crop-sage2cybersecurity_sm.jpg' alt='' title='&ldquo;SI2-SSI: SAGEnext: Next Generation Integrated Persistent Visualization and Collaboration Services for Global Cyberinfrastructure&rdquo; Awarded' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2400'>&ldquo;SI2-SSI: SAGEnext: Next Generation Integrated Persistent Visualization and Collaboration Services for Global Cyberinfrastructure&rdquo; Awarded</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=49'>Lance Long</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a><br>
+			October 1, 2018 - September 30, 2019<br><br>
+			Electronic Visualization Laboratory (EVL) researchers are awarded a supplemental subaward from the University of Hawaii to contribute to the research&hellip; <a href='/entry.php?id=2400'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<!-- End Related List -->
+	</table>
+</div>
+<!-- End Related -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

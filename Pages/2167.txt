@@ -1,0 +1,404 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+  <title>Karen E. Peters, DrPH | Institute for Health Research and Policy | University of Illinois at Chicago</title>
+
+  <meta name="verify-v1" content="M3D7RktfZuClXLKtfBxpnsbmXcHxs+8um0cJ6n3SKFE=" />
+<meta name="description" content="Dr. Peters is a clinical assistant professor in the Division of Community Health Sciences in the UIC School of Public Health, and an IHRP Fellow. " />
+
+  
+  <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/researcher/karen-e-peters-drph" />
+<link rel="shortlink" href="/node/1297" />
+<link rel="shortcut icon" href="https://www.ihrp.uic.edu/files/favicon.ico" type="image/vnd.microsoft.icon" />
+  <style>
+@import url("https://www.ihrp.uic.edu/modules/system/system.base.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/system/system.messages.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/system/system.theme.css?q8vwl2");
+</style>
+<style>
+@import url("https://www.ihrp.uic.edu/modules/aggregator/aggregator.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/comment/comment.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/date/date_api/date.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/field/theme/field.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/node/node.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/search/search.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/user/user.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/views/css/views.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/ckeditor/css/ckeditor.css?q8vwl2");
+</style>
+<style>
+@import url("https://www.ihrp.uic.edu/sites/all/modules/ctools/css/ctools.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/forward/forward.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/print/print_ui/css/print_ui.theme.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/css/nice_menus.css?q8vwl2");
+</style>
+<style>
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/tabs.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/print.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/style.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/zen.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/html-elements.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/ihrp_menu.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/ihrp_researcher.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/ihrp_study.css?q8vwl2");
+</style>
+  
+    <link rel="stylesheet" href="/sites/all/themes/ihrp/css/ihrp_main.css" type="text/css"/>
+  
+
+
+  <!--[if IE]>
+    <link rel="stylesheet" href="sites/all/themes/ihrp/css/ie.css" type="text/css"/>
+   
+    <style type="text/css">
+      /* place css fixes for all versions of IE in this conditional comment */
+      .thrColFixHdr #sidebar2, .thrColFixHdr #sidebar1 { padding-top: 30px; }
+      .thrColFixHdr #mainContent { zoom: 1; }
+      /* the above proprietary zoom property gives IE the hasLayout it needs to avoid several bugs */
+    </style>
+  <![endif]-->
+
+  <!--[if IE 5]>
+    <style type="text/css">
+      /* place css box model fixes for IE 5* in this conditional comment */
+      .thrColFixHdr #sidebar1 { width: 180px; }
+      .thrColFixHdr #sidebar2 { width: 190px; }
+    </style>
+  <![endif]-->
+
+  <script src="https://www.ihrp.uic.edu/misc/jquery.js?v=1.4.4"></script>
+<script src="https://www.ihrp.uic.edu/misc/jquery-extend-3.4.0.js?v=1.4.4"></script>
+<script src="https://www.ihrp.uic.edu/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.ihrp.uic.edu/misc/drupal.js?q8vwl2"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/js/jquery.bgiframe.js?v=2.1"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/js/jquery.hoverIntent.js?v=0.5"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/js/superfish.js?v=1.4.8"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/js/nice_menus.js?v=1.0"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/google_analytics/googleanalytics.js?q8vwl2"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-4417342-1", {"cookieDomain":"auto"});ga("send", "pageview");</script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/field_group/field_group.js?q8vwl2"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/themes/ihrp/js/script.js?q8vwl2"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"ihrp","theme_token":"bWGigY1jALY5SapJBFtuQHE_n0Mpb4-daVKt7FXJZ_U","js":{"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/mimedetect\/nice_menus\/js\/jquery.bgiframe.js":1,"sites\/all\/modules\/mimedetect\/nice_menus\/js\/jquery.hoverIntent.js":1,"sites\/all\/modules\/mimedetect\/nice_menus\/js\/superfish.js":1,"sites\/all\/modules\/mimedetect\/nice_menus\/js\/nice_menus.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/field_group\/field_group.js":1,"sites\/all\/themes\/ihrp\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/forward\/forward.css":1,"sites\/all\/modules\/print\/print_ui\/css\/print_ui.theme.css":1,"sites\/all\/modules\/mimedetect\/nice_menus\/css\/nice_menus.css":1,"sites\/all\/themes\/zen\/ihrp\/ihrp_menu.css":1,"sites\/all\/themes\/ihrp\/system.menus.css":1,"sites\/all\/themes\/ihrp\/css\/tabs.css":1,"sites\/all\/themes\/ihrp\/css\/print.css":1,"sites\/all\/themes\/ihrp\/css\/style.css":1,"sites\/all\/themes\/ihrp\/css\/zen.css":1,"sites\/all\/themes\/ihrp\/css\/html-elements.css":1,"sites\/all\/themes\/ihrp\/css\/ihrp_menu.css":1,"sites\/all\/themes\/ihrp\/css\/ihrp_researcher.css":1,"sites\/all\/themes\/ihrp\/css\/ihrp_study.css":1}},"nice_menus_options":{"delay":"0","speed":"fast"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/researcher\/karen-e-peters-drph":true},"field_group":{"no_style":"full","fieldset":"full"}});</script>
+</head>
+
+<body class="thrColFixHdr html not-front not-logged-in no-sidebars page-node page-node- page-node-1297 node-type-researcher section-researcher not-front not-logged-in page-node page-node- page-node-1297 node-type-researcher 
+ not-logged-in not-front type-researcher">
+
+  
+  <div id="page"><div id="page-inner">
+    <a name="top" id="navigation-top"></a>
+    <div role="banner" id="header"><div id="header-inner" class="clear-block" role="navigation" aria-label="Top Menu">
+      <a href="/"><img src="/sites/all/themes/ihrp/images/IHRP_Logo.png" alt="Institute for Health Research and Policy" title="I H R P home page" /></a>
+
+      <!-- the following is the code for the little blue top menu  -->
+      <span class="littleBlueMenu">
+        <a href="/people/list">People</a>
+        <a href="/content/contact-us">Contact Us</a>
+         
+            <a href="/print/1297">Print this page</a>		        <a href="/forward/?path=node/1297">E-mail to a Colleague</a>		          </span>
+      
+	             <div id="primary">
+        </div> <!-- /#primary -->
+      
+      
+    </div></div> <!-- /#header-inner, /#header -->
+
+    <div role="main" id="main"><div id="main-inner" class="clear-block with-navbar">
+      <div id="content"><div id="content-inner">
+                  <div id="search-box">
+              <div class="region region-search-form">
+    <div id="block-search-form" class="block block-search first last odd" role="search">
+
+      
+  <form action="/researcher/karen-e-peters-drph" method="post" id="search-block-form" accept-charset="UTF-8"><div>
+<div class="container-inline">
+  <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-vkLZs-3OjwYtxKVeEbWKvj7Ua2SMLqPwm4o4GYaxMnY" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+</div>
+  </div>
+          </div> <!-- /#search-box -->
+                          <div id="content-top">
+              <div class="region region-content-top">
+    <div id="block-nice-menus-1" class="block block-nice-menus first last odd">
+
+        <h2 class="block__title block-title"><span class="nice-menu-hide-title">Main menu</span></h2>
+    
+  <ul class="nice-menu nice-menu-down nice-menu-main-menu" id="nice-menu-1"><li class="menu__item menu-11518 menuparent  menu-path-node-4984 first odd "><a href="/content/institute-welcome-intro" title="" class="menu__link">About</a><ul><li class="menu__item menu-11516 menu-path-node-4984 first odd "><a href="/content/institute-welcome-intro" class="menu__link">Welcome</a></li>
+<li class="menu__item menu-11514 menu-path-node-4983  even "><a href="/content/about-mission-social-health-sciences-research" class="menu__link">Mission</a></li>
+<li class="menu__item menu-11524 menu-path-node-4996  odd "><a href="/content/admin-IHRP-snapshot" class="menu__link">IHRP Snapshot</a></li>
+<li class="menu__item menu-7001 menu-path-node-2873  even "><a href="/content/about-our-fellows-affiliates" class="menu__link">Fellows &amp; Affiliates</a></li>
+<li class="menu__item menu-2114 menu-path-node-1357  odd "><a href="/content/employment-ihrp" class="menu__link">Jobs</a></li>
+<li class="menu__item menu-11585 menu-path-node-5034  even last"><a href="/content/media-professionals" class="menu__link">For Media Professionals</a></li>
+</ul></li>
+<li class="menu__item menu-11523 menuparent  menu-path-node-5036  even "><a href="/content/about-advantages-UIC-researchers" title="" class="menu__link">Why IHRP? </a><ul><li class="menu__item menu-11588 menu-path-node-5036 first odd "><a href="/content/about-advantages-UIC-researchers" title="" class="menu__link">Advantages</a></li>
+<li class="menu__item menu-11521 menu-path-node-18  even "><a href="/content/why-ihrp-research-faqs" class="menu__link">FAQs</a></li>
+<li class="menu__item menu-11515 menu-path-node-4982  odd last"><a href="/content/learn-more-join-us" class="menu__link">Affiliate with IHRP</a></li>
+</ul></li>
+<li class="menu__item menu-11533 menuparent  menu-path-node-5027  odd "><a href="/content/scientific-resources-intro" class="menu__link">Scientific Resources</a><ul><li class="menu__item menu-11582 menu-path-node-5027 first odd "><a href="/content/scientific-resources-intro" title="" class="menu__link">Overview</a></li>
+<li class="menu__item menu-11522 menu-path-node-23  even "><a href="/content/institute-leadership" class="menu__link">Leadership</a></li>
+<li class="menu__item menu-11052 menu-path-node-4683  odd "><a href="/center/data-management-core-for-all-UIC-researchers" class="menu__link">Data Management Core</a></li>
+<li class="menu__item menu-2054 menu-path-node-1584  even "><a href="/center/methodology-research-core-for-all-UIC-researchers" class="menu__link">Methodology Research Core</a></li>
+<li class="menu__item menu-2064 menu-path-node-39  odd last"><a href="/content/training-every-stage-research-careers" class="menu__link">Training</a></li>
+</ul></li>
+<li class="menu__item menu-11532 menuparent  menu-path-node-4999  even "><a href="/content/admin-resources-intro" title="" class="menu__link">Administrative Resources</a><ul><li class="menu__item menu-11531 menu-path-node-4999 first odd "><a href="/content/admin-resources-intro" class="menu__link">Overview</a></li>
+<li class="menu__item menu-11584 menu-path-node-4979  even "><a href="/content/admin-grants-finance" class="menu__link">Grants &amp; Finance</a></li>
+<li class="menu__item menu-11507 menu-path-node-4978  odd "><a href="/content/admin-human-resources-team" class="menu__link">Human Resources</a></li>
+<li class="menu__item menu-11505 menu-path-node-4977  even "><a href="/content/admin-computing-environment" class="menu__link">Data Tech and Security</a></li>
+<li class="menu__item menu-11508 menu-path-node-4825  odd "><a href="/content/admin-communications" class="menu__link">Communications</a></li>
+<li class="menu__item menu-11511 menu-path-node-4980  even last"><a href="/content/resources-facilities" class="menu__link">Facilities</a></li>
+</ul></li>
+<li class="menu__item menu-11535 menuparent  menu-path-node-4803  odd last"><a href="/content/our-research-focus" title="" class="menu__link">Research</a><ul><li class="menu__item menu-11534 menu-path-node-4803 first odd "><a href="/content/our-research-focus" class="menu__link">Scientific Focus</a></li>
+<li class="menu__item menu-2130 menu-path-studies-list-current-all  even "><a href="/studies/list/current/all" title="" class="menu__link">Studies</a></li>
+<li class="menu__item menu-11408 menu-path-researchers-list-all  odd "><a href="/researchers/list/all" title="" class="menu__link">Researchers</a></li>
+<li class="menu__item menu-2030 menuparent  menu-path-node-1563  even "><a href="/content/centers" class="menu__link">Centers</a><ul><li class="menu__item menu-2086 menu-path-node-7 first odd "><a href="/center/center-research-health-and-aging" class="menu__link">Center for Research on Health and Aging</a></li>
+<li class="menu__item menu-2087 menu-path-node-8  even last"><a href="/center/health-policy-center" class="menu__link">Health Policy Center</a></li>
+</ul></li>
+<li class="menu__item menu-11504 menuparent  menu-path-node-4975  odd "><a href="/content/project-websites" class="menu__link">Project Websites</a><ul><li class="menu__item menu-10646 menu-path-gouicedu-asthmaaction first odd "><a href="http://go.uic.edu/AsthmaAction" title="" class="menu__link">Asthma Action</a></li>
+<li class="menu__item menu-2079 menu-path-scecdp-ihrpuicedu-  even "><a href="https://cecdp-ihrp.uic.edu/" title="" class="menu__link">Cancer Education and Career Development Program</a></li>
+<li class="menu__item menu-10737 menu-path-co-opchicagoihrpuicedu-  odd "><a href="http://co-opchicago.ihrp.uic.edu/" title="" class="menu__link">CO-OP Chicago</a></li>
+<li class="menu__item menu-10499 menu-path-fitandstrongorg-  even "><a href="http://fitandstrong.org/" title="" class="menu__link">Fit &amp; Strong!</a></li>
+<li class="menu__item menu-10548 menu-path-node-79  odd "><a href="/center/center-research-health-and-aging/midwest-roybal-center" title="IHRP is the home of the Midwest Roybal Center, funded continuously by the National Institute on Aging since 1998." class="menu__link">Midwest Roybal Center</a></li>
+<li class="menu__item menu-10501 menu-path-tobacconomicsorg-  even last"><a href="http://tobacconomics.org/" title="" class="menu__link">Tobacconomics</a></li>
+</ul></li>
+<li class="menu__item menu-11517 menu-path-news-list  even last"><a href="/news/list" title="" class="menu__link">News</a></li>
+</ul></li>
+</ul>
+
+</div>
+  </div>
+          </div> <!-- /#content-top -->
+        
+        
+		
+		<div id="content-area">
+                      <div class="tabs"></div>
+          
+          
+          							<h1 class="title">Karen E. Peters, DrPH</h1>
+			          
+	        
+          
+
+
+
+<div style="position: relative; width: 63%; float: left;">
+
+      <div class="field-field-researcher-photo">
+      <img src="https://www.ihrp.uic.edu/files/researcher_image/Peters_thmb.jpg" />
+    </div>
+  
+  <h2>
+      Clinical Assistant Professor of Community Health Sciences  </h2>
+
+  <p>
+    <p>Dr. Karen Peters is a clinical assistant professor of <a href="https://publichealth.uic.edu/community-health-sciences/">community health sciences</a> in the UIC School of Public Health and an assistant professor in the UIC Graduate College. She directs the <a href="http://ahec.rockford.uic.edu/">Illinois Area Health Education Network</a>. She helped develop the <a href="http://www.ncrhp.uic.edu/">National Center for Rural Health Professions</a> at the University of Illinois College of Medicine in Rockford, where she continues to serve as the assistant director for Research and Evaluation and as an adjunct assistant professor of family and community medicine. As a long-time investigator at the Institute for Health Research and Policy, she is recognized as an <a href="/content/about-our-fellows-affiliates">IHRP Fellow</a>.<br />
+	<br />
+	Dr. Peters has a broad background in community-based participatory research and evaluation, with specific training and research experience in community-engaged or -partnered research in both urban and rural areas inside and outside the United States. She is experienced in the design and conduct of evaluation studies, including data collection, synthesis, production and dissemination of evaluation results to community members that are tailored to their specific needs and interests.</p>
+  </p>
+
+  <p>
+    <h2>Research Interests</h2>
+  </p>
+  <p>
+    <p>Rural health professions education, community-based interventions, program evaluation, aging and public health</p>
+  </p>
+
+  <p>
+    <h2>Recent and Noteworthy Publications</h2>
+  </p>
+  <p>
+    <p>Dykens JA, Smith JS, Demment M, Marshall E, Schuh T, Peters K, Irwin T, McIntosh S, Sy A, Dye T. Evaluating the implementation of cervical cancer screening programs in low-resource settings globally: a systematized review. Cancer Causes Control. 2020 May;31(5):417-429. doi: 10.1007/s10552-020-01290-4.</p>
+<p>Prohaska TR, Peters KE. Impact of Natural Disasters on Health Outcomes and Cancer Among Older Adults. Gerontologist. 2019 May 17;59(Suppl 1):S50-S56. doi: 10.1093/geront/gnz018.</p>
+<p>Rahman R, Clark MD, Collins Z, Traore F, Dioukhane EM,... Dykens JA. Cervical cancer screening decentralized policy adaptation: an African rural-context-specific systematic literature review. Glob Health Action. 2019;12(1):1587894. doi: 10.1080/16549716.2019.1587894.</p>
+<p>Prohaska TR, Peters KE. Impact of Natural Disasters on Health Outcomes and Cancer Among Older Adults. Gerontologist. 2019 May 17;59(Suppl 1):S50-S56. doi: 10.1093/geront/gnz018.</p>
+<p>Demment MM, Peters K, Dykens JA, Dozier A, Nawaz H, McIntosh S, et al. Developing the evidence base to inform best practice: A scoping study of breast and cervical cancer reviews in low- and middle-income countries. PLoS One. 2015 Sep 1;10(9):e0134618. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/26325181">See abstract</a>.]</p>
+<p>Hites LS, Sass MM, D&#39;Ambrosio L, Brown LM, Wendelboe AM, Peters KE, Sobelson RK. The Preparedness and Emergency Response Learning Centers: advancing standardized evaluation of public health preparedness and response trainings. J Public Health Manag Pract. 2014 Sep-Oct;20 Suppl 5:S17-23. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/25072484">See abstract.</a>]</p>
+<p>Desai PM, Hughes SL, Peters KE, Mermelstein RJ. Impact of telephone reinforcement and negotiated contracts on behavioral predictors of exercise maintenance in older adults with osteoarthritis. Am J Health Behav. 2014 May;38(3):465-77. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/25181766">See abstract</a>.]</p>
+<p>Meuser TM, Carr DB, Berg-Weger M, Irmiter C, Peters KE, Schwartzberg JG. The Instructional Impact of the American Medical Association&#39;s Older Drivers Project Online Curriculum. Gerontol Geriatr Educ. 2014;35(1):64-85. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/24266732">See abstract</a>.]</p>
+<p>Cristancho S, Peters K, Garces DM. Providing mental health services in rural areas. In: Buki LP, Piedra L, eds. <a href="http://www.springer.com/us/book/9781441994516">Creating Infrastructures for Latino Mental Health.</a> New York, NY: Springer; 2011.</p>
+<p>Bryant LL, Chin NP, Cottrell LA, Duckles JM, Fernandez ID, Garces DM, et al. Perceptions of cardiovascular health in underserved communities. Prev Chronic Dis. 2010 Mar;7(2):A30. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/20158958">See abstract.</a>]</p>
+<p>Sheridan SL, Viera AJ, Krantz MJ, Ice CL, Steinman LE, Peters KE, et al; for the Cardiovascular Health Intervention Research and Translation Network Work Group on Global Coronary Heart Disease Risk. The effect of giving global coronary risk information to adults: a systematic review. Arch Int Med. 2010;170(3):230-239.[<a href="https://www.ncbi.nlm.nih.gov/pubmed/20142567">See abstarct.</a>]</p>
+<p>MacDowell M, Glasser M, Fitts M, Fratzke M, Peters K. Perspectives on rural workforce issues: Illinois-Arkansas comparison. J Rural Health. 2009 Mar:25(2);135-140.[<a href="https://www.ncbi.nlm.nih.gov/pubmed/19785578">See abstract.</a>]</p>
+<p>Mistretta M, Peters K. Inequality, physician distribution and health in Illinois counties: A three-stage least squares model. Int J Glob Health Health Dispar. 2009;6(1):6-20.[<a href="https://scholarworks.uni.edu/ijghhd/vol6/iss1/2/">See abstract.</a>]</p>
+<p>Peters KE, Cristancho S, Garces DM. Closing the gap in a generation: health equity through action on the social determinants of health. Education for Health. 2009;22(2):381. Book review.</p>
+<p>Farris RP, Pearson T, Fogg T, Bryant L, Peters K, Keyserling T, Fitzpatrick A, Neal W. Building capacity for heart disease and stroke prevention research: The Cardiovascular Health Intervention Research and Translation Network. Health Promot Pract. 2008 Jul;9:220-227.[<a href="https://www.ncbi.nlm.nih.gov/pubmed/18560014">See abstract.</a>]</p>
+<p>Cristancho S, Garces DM, Peters KE, Mueller BC. Listening to rural Hispanic immigrants in the midwest: a community-based participatory assessment of major barriers to health care access and use. Qual Health Res. 2008 May;18(5):633-46.[<a href="https://www.ncbi.nlm.nih.gov/pubmed/18420537">See abstract.</a>]</p>
+<p>Peters KE, Gupta S, Stoller N, Mueller B. Implications of the aging process: opportunities for prevention in the farming community. J Agromedicine. 2008;13(2):111-8. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/19042702">See abstract.</a>]</p>
+<p>Prohaska T, Peters KE. Physical activity and cognitive functioning: Translating research to practice using a public health approach. Alzheimers Dement. 2007;29(4):283-296.[<a href="https://www.ncbi.nlm.nih.gov/pubmed/19595976">See abstract.</a>]</p>
+<p>Glasser M, Peters K, MacDowell M. Rural Illinois hospital chief executive officers&#39; perceptions of provider shortages and issues in rural recruitment and retention. J Rural Health. 2006;22(1);59-62.[<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1748-0361.2006.00007.x">See abstract.</a>]</p>
+<p>Koerber A, Peters KE, Kaste LM, Lopez E, Noorullah K, Torres I, Crawford JM. The views of dentists, nurses and nutritionists on the association between diabetes and periodontal disease: a qualitative study in a Latino community. J Public Health Dent. 2006;66(3):212-215.[<a href="https://www.ncbi.nlm.nih.gov/pubmed/16913250">See abstract.</a>]</p>
+<p>Peters K, Baldyga W, Lampiris L, Janssen J, Koerber A, Kaste L, Levy S. Addressing rural health disparities in Illinois: Oral health. Public Health Pract Illinois. 2006;6(2):59-67.</p>
+<p>Peters K, Henley E. Acting on synergies between clinic and community strategies to improve preventive medicine. J Family Pract. 2004;53(12):970-973.[<a href="https://www.ncbi.nlm.nih.gov/pubmed/15581439">See abstract.</a>]</p>
+  </p>
+
+  <p>
+    <h2>Honors and Awards</h2>
+  </p>
+  <p>
+    <p>IHRP&nbsp;Fellow<br />
+	National Faculty Honors, Institute of Medicine of Chicago</p>
+  </p>
+</div>
+
+
+<div style="float:right; width: 32%;" class="right-sidebar">
+<p><strong>Contact Info</strong></p>
+
+<p>
+  Phone: (312) 413-4944<br />
+
+  Fax: (312) 413-9835<br />
+
+
+  E-mail: <a href="mailto:kpeters@uic.edu">kpeters@uic.edu</a><br />
+</p>
+
+  <p><p>&nbsp;</p>
+<p><strong>Institute for Health Research and Policy</strong><br />
+	University of Illinois at Chicago (MC 275)<br />
+	349 Westside Research Office Bldg.<br />
+	1747 West Roosevelt Road<br />
+	Chicago, IL 60608</p>
+</p>
+
+<br />
+
+  <strong>Other Title(s)</strong><br />
+	<p>Program Director, Illinois Area Health Education Centers Network Program;<br />
+	Assistant Professor, UIC Graduate College;<br />
+	Adjunct Assistant Professor, Family and Community Medicine, UI College of Medicine Rockford<br />
+	Assistant Director, Research and Evaluation Division, National Center for Rural Health Professions, UI College of Medicine, Rockford</p>
+  <br />
+
+
+
+
+
+  <p>
+    <strong>Other Research (Non-IHRP)</strong>
+  </p>
+  <p>
+    <div class="field field-type-text field-field-researcher-recently-compl">
+	<div class="recently-compl">
+		<div class="field-item-r">
+			<p>Acculturation and Mental Health on Chronic Disease among Hispanic/Latino Immigrant Populations</p>
+			<p>Illinois Area Health Education Centers Network Program (PI)</p>
+			<p>Illinois Preparedness and Emergency Response Learning Center (Co-I)</p>
+			<p>Illinois Youth Health Professions Careers Awareness Initiative (PI)</p>
+			<p>Mid-America Public Health Training Center (C. Welter, PI; US Dept of Health &amp; Human Services funding through Aug. 2015)</p>
+			<p>PeaceCare: Global Public Health Workforce Enhancement (Co-I)</p>
+		</div>
+	</div>
+</div>
+<p>&nbsp;</p>
+  </p>
+  <br />
+
+
+  <p>
+    <strong>Recently Completed Research</strong>
+  </p>
+  <p>
+    <div class="field field-type-text field-field-researcher-recently-compl">
+	<div class="recently-compl">
+		<div class="field-item-r">
+			<ul>
+				<li>
+					Assessment of Local Health Department Needs in Cardiovascular Disease</li>
+				<li>
+					<a href="/study/cardiovascular-health-intervention-research-and-translation-network-chirtn">Cardiovascular Health Intervention Research and Translation Network (CHIRTN)</a></li>
+				<li>
+					Center of Excellence in Rural Health - Project EXPORT</li>
+				<li>
+					<a href="/study/dissemination-evidence-based-recommendations-exercise-older-adults">Dissemination of Evidence Based Recommendations for Exercise in Older Adults</a></li>
+				<li>
+					<a href="/study/evaluation-we-choose-health-illinois-community-transformation-grant-initiative">Evaluation of We Choose Health, the Illinois Community Transformation Grant Initiative</a></li>
+				<li>
+					Excellence in Academic Medicine: Cardiovascular Disease</li>
+				<li>
+					Illinois Infrastructure Development of Area Health Education Centers Program</li>
+				<li>
+					Illinois Critical Access Hospital Network Fellowship Program</li>
+				<li>
+					<a href="/study/illinois-oral-health-state-plan-evaluation-program">Illinois Oral Health State Plan Evaluation Program</a></li>
+				<li>
+					<a href="/study/illinois-prevention-research-center">Illinois Prevention Research Center</a></li>
+				<li>
+					<a href="/study/iprc-global-and-territorial-health-research-network-collaborating-center">Illinois PRC - Global and Territorial Health Research Network</a></li>
+				<li>
+					<a href="/study/illinois-prevention-research-center-supporting-policy-and-environmental-change">Illinois Prevention Research Center (Illinois PRC): Supporting Policy &amp; Environmental Change</a></li>
+				<li>
+					<a href="http://www.ihrp.uic.edu/study/midwest-roybal-center-health-promotion-and-translation-2014-2019">Midwest Roybal Center for Health Promotion and Translation</a></li>
+				<li>
+					Northern Illinois Area Health Education Center</li>
+				<li>
+					<a href="/study/preventing-breast-and-cervical-cancer-awareness-and-education-latinas">Preventing Breast and Cervical Cancer: Awareness and Education for Latinas</a></li>
+				<li>
+					Quality of Life and Assessment of Pain in People with Arthritis</li>
+				<li>
+					<a href="/study/reducing-burden-arthritis-and-other-rheumatic-conditions">Reducing the Burden of Arthritis and Other Rheumatic Conditions: Evaluating the Illinois Arthritis Action Plan</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<p>&nbsp;</p>
+  </p>
+
+</div>
+        </div>
+
+        		
+      </div></div> <!-- /#content-inner, /#content -->
+
+              <div id="navbar"><div id="navbar-inner">
+
+          <a name="navigation" id="navigation"></a>
+
+          
+        </div></div> <!-- /#navbar-inner, /#navbar -->
+      
+
+    </div></div> <!-- /#main-inner, /#main -->
+
+    <div id="footer"><div id="footer-inner">
+      <div id="footer-message">  <footer id="footer" class="region region-footer">
+    <div id="block-block-43" class="block block-block first last odd">
+
+      
+  <p><strong>Institute for Health Research and Policy of the University of Illinois at Chicago</strong><br />
+	Multidisciplinary Home of UIC Researchers Collaborating in the Social and Health Sciences</p>
+<p>1747 W. Roosevelt Road, MC 275, Westside Research Office Bldg., Chicago, IL 60608<br />
+	T: <a href="tel:(312) 996-7222">(312) 996-7222</a> · F: (312) 996-2703</p>
+<p><a href="http://www.uic.edu/">UIC.edu</a> · <a href="https://www.uic.edu/apps/find-people/search">Campus Directory</a> · <a href="http://disabilityresources.uic.edu/">Disability Resources</a> · <a href="/content/employment-ihrp">Job Openings</a> · <a href="https://maps.uic.edu/">Maps</a> · <a href="/content/contact-us">Contact Us</a></p>
+<p>© 2020 <a href="http://www.uillinois.edu/trustees/">The Board of Trustees of the University of Illinois</a> · Privacy Policy · Webmaster: <a href="mailto:IHRP-webfix@uic.edu">IHRP-webfix@uic.edu</a></p>
+
+</div>
+  </footer>
+</div>
+
+    </div></div> <!-- /#footer-inner, /#footer -->
+
+    
+    
+  </div></div> <!-- /#page-inner, /#page -->
+    <script src="sites/all/themes/ihrp/js/customize-twitter-1.1/customize-twitter-1.1.min.js" type="text/javascript"></script>
+  <script>
+	var options = {
+    	"url": "sites/all/themes/ihrp/css/twitter.css",
+		"timeout_length": 1800
+	};
+	CustomizeTwitterWidget(options);
+</script>
+</body>
+</html>

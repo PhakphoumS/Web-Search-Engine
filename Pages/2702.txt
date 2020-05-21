@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Category -->
+<!-- Begin Category Pagination -->
+<div class='category_area'>
+	<div class='category_content'>
+		<h3>Remote Collaboration</h3><br>
+		<strong>Related:</strong>
+		<a href='/category.php?id=37&amp;related=2'>Directory</a>&nbsp;&nbsp;
+		<a href='/category.php?id=37&amp;related=3'><strong>Events</strong></a>&nbsp;&nbsp;
+		<a href='/category.php?id=37&amp;related=4'>Papers</a>&nbsp;&nbsp;
+		<a href='/category.php?id=37&amp;related=5'>Research</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End Category Pagination -->
+<div class='category_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin Category List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2493'><img src='/resizedImages/500x280-crop-sage_logo-2.png' alt='' title='UIC Computer Science/EVL awarded $2.25 Million from NSF for SAGE3' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2493'>UIC Computer Science/EVL awarded $2.25 Million from NSF for SAGE3</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=49'>Lance Long</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a><br>
+			May 15, 2020 - April 30, 2025<br><br>
+			Maxine Brown (UIC PI), Andrew Johnson (UIC co-PI), Luc Renambot (UIC co-PI) Jason Leigh (University of Hawaii Manoa PI)Christopher North (Virginia&hellip; <a href='/entry.php?id=2493'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2483'><img src='/resizedImages/500x280-crop-sc19-color-hor-2.png' alt='' title='SAGE2 11th Annual International SC BOF @ SC19 - Tuesday, November 19, 12:15 - 1:15pm' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2483'>SAGE2 11th Annual International SC BOF @ SC19 - Tuesday, November 19, 12:15 - 1:15pm</a></strong><br>
+			<a href='/entry.php?id=49'>Lance Long</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a><br>
+			November 19, 2019<br><br>
+			For those attending SC19 in Denver, Colorado, we will hold the &ldquo;SAGE2 11th Annual International SC BOF: Scalable Amplified Group Environment&hellip; <a href='/entry.php?id=2483'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2486'><img src='/resizedImages/500x280-crop-sc19-group-photo.jpg' alt='' title='SAGE2 @ SC19: Demonstrations, Birds of a Feather, and SCinet Participation' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2486'>SAGE2 @ SC19: Demonstrations, Birds of a Feather, and SCinet Participation</a></strong><br>
+			<a href='/entry.php?id=2231'>Andrew Burks</a>, <a href='/entry.php?id=49'>Lance Long</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a><br>
+			November 18, 2019 - November 21, 2019<br><br>
+			NOVEMBER 18-21, 2019 - Members of the SAGE2&trade; Team who attended the IEEE/ACM SC19 conference - from University of Hawai&rsquo;i at Manoa&rsquo;s&hellip; <a href='/entry.php?id=2486'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2452'><img src='/resizedImages/500x280-crop-dtsoupikova.jpg' alt='' title='Daria Tsoupikova Recognized Among Leonardo's Outstanding Peer Reviewers' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2452'>Daria Tsoupikova Recognized Among Leonardo's Outstanding Peer Reviewers</a></strong><br>
+			<a href='/entry.php?id=188'>Daria Tsoupikova</a><br>
+			August 1, 2019<br><br>
+			Since 2017, Leonardo commenced a quarterly recognition of exceptional peer reviewers noted for their in-depth and deeply constructive feedback on&hellip; <a href='/entry.php?id=2452'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2403'><img src='/resizedImages/500x280-crop-sage2_logo.jpg' alt='' title='SAVE THE DATE: SAGE2 10th Annual International SC BOF @ SC18 - Tuesday, November 13, 12:15 - 1:15pm' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2403'>SAVE THE DATE: SAGE2 10th Annual International SC BOF @ SC18 - Tuesday, November 13, 12:15 - 1:15pm</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a><br>
+			November 13, 2018<br><br>
+			The &ldquo;SAGE2 10th Annual International SC BOF: Scalable Amplified Group Environment for Global Collaboration&rdquo; Birds of a Feather (BOF)&hellip; <a href='/entry.php?id=2403'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2413'><img src='/resizedImages/500x280-crop-sage2-sc18-group.jpg' alt='' title='SAGE2 @ SC18: Demonstrations, Birds of a Feather, and SCinet Participation' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2413'>SAGE2 @ SC18: Demonstrations, Birds of a Feather, and SCinet Participation</a></strong><br>
+			<a href='/entry.php?id=2231'>Andrew Burks</a>, <a href='/entry.php?id=5'>Dana M. Plepys</a>, <a href='/entry.php?id=49'>Lance Long</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a><br>
+			November 11, 2018 - November 16, 2018<br><br>
+			NOVEMBER 11-16, 2018 - Members of the SAGE2&trade; Team who attended the IEEE/ACM SC18 conference - from University of Hawaiʻi at Manoa’s&hellip; <a href='/entry.php?id=2413'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2407'><img src='/resizedImages/500x280-crop-llongselfportrait_sm.jpg' alt='' title='UIC CS/EVL Lance Long Receives UIC Award of Merit' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2407'>UIC CS/EVL Lance Long Receives UIC Award of Merit</a></strong><br>
+			<a href='/entry.php?id=49'>Lance Long</a><br>
+			November 1, 2018<br><br>
+			NOVEMBER 1, 2018 -- Lance Long, Senior Research Programmer for the Electronic Visualization Laboratory (EVL), which is part of the Computer Science&hellip; <a href='/entry.php?id=2407'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2400'><img src='/resizedImages/500x280-crop-sage2cybersecurity_sm.jpg' alt='' title='&ldquo;SI2-SSI: SAGEnext: Next Generation Integrated Persistent Visualization and Collaboration Services for Global Cyberinfrastructure&rdquo; Awarded' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2400'>&ldquo;SI2-SSI: SAGEnext: Next Generation Integrated Persistent Visualization and Collaboration Services for Global Cyberinfrastructure&rdquo; Awarded</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=49'>Lance Long</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a><br>
+			October 1, 2018 - September 30, 2019<br><br>
+			Electronic Visualization Laboratory (EVL) researchers are awarded a supplemental subaward from the University of Hawaii to contribute to the research&hellip; <a href='/entry.php?id=2400'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2335'><img src='/resizedImages/500x280-crop-sc17fullcolor.png' alt='' title='SAGE2 9th Annual International SC BOF @ SC17' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2335'>SAGE2 9th Annual International SC BOF @ SC17</a></strong><br>
+						November 16, 2017<br><br>
+			For those attending SC17 in Denver, Colorado, we will hold the &ldquo;SAGE2 9th Annual International SC BOF: Scalable Amplified Group Environment for&hellip; <a href='/entry.php?id=2335'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2336'><img src='/resizedImages/500x280-crop-sage2-1400-green1.png' alt='' title='New, Advanced SAGE2 Features Being Demonstrated at SC17' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2336'>New, Advanced SAGE2 Features Being Demonstrated at SC17</a></strong><br>
+						November 14, 2017 - November 16, 2017<br><br>
+			The SAGE2 team is demo&rsquo;ing SAGE2 during the SC17 research exhibition, booth #1653 (Center for Data Intensive Science/Open Commons Consortium&hellip; <a href='/entry.php?id=2336'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2340'><img src='/resizedImages/500x280-crop-sc17-sage2-bof2017-7-medium.jpg' alt='' title='SC17 SAGE2 BOF materials now posted online' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2340'>SC17 SAGE2 BOF materials now posted online</a></strong><br>
+			<a href='/entry.php?id=2231'>Andrew Burks</a>, <a href='/entry.php?id=49'>Lance Long</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a><br>
+			November 12, 2017 - November 16, 2017<br><br>
+			The SC17 SAGE2&trade; BOF presentation material is now posted online. * * * * * * * * * * * SAGE2 @ SC17: Demonstrations, Birds of a Feather, and&hellip; <a href='/entry.php?id=2340'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2337'><img src='/resizedImages/500x280-crop-caav2017.png' alt='' title='THE CAAV 2017 Conference Featured Keynote on EVL’&rsquo;s Visualization and Collaboration Technologies' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2337'>THE CAAV 2017 Conference Featured Keynote on EVL’&rsquo;s Visualization and Collaboration Technologies</a></strong><br>
+			<a href='/entry.php?id=178'>Maxine Brown</a><br>
+			October 25, 2017 - October 27, 2017<br><br>
+			OCTOBER 26, 2017 - Maxine Brown, director of the UIC Electronic Visualization Laboratory (EVL), participated in The Higher Education Campus Alliance&hellip; <a href='/entry.php?id=2337'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2338'><img src='/resizedImages/500x280-crop-sbsc-maxine_amandareias17-750x350.jpg' alt='' title='SAGE2 Keynote at Brazilian Symposium on Collaborative Systems' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2338'>SAGE2 Keynote at Brazilian Symposium on Collaborative Systems</a></strong><br>
+			<a href='/entry.php?id=178'>Maxine Brown</a><br>
+			July 2, 2017 - January 6, 1970<br><br>
+			JULY 3, 2017 - Maxine Brown, director of the UIC Electronic Visualization Laboratory (EVL), participated in the Brazilian Symposium on Collaborative&hellip; <a href='/entry.php?id=2338'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2308'><img src='/resizedImages/500x280-crop-reallifeholodeck.png' alt='' title='Inside a Real Life Holodeck' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2308'>Inside a Real Life Holodeck</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a><br>
+			June 13, 2017<br><br>
+			JUNE 13, 2017 - Ryan Wolff and David Wolff, producers of the documentary web series &ldquo;The Good Stuff,&rdquo; recently completed a program on&hellip; <a href='/entry.php?id=2308'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2339'><img src='/resizedImages/500x280-crop-marrinan_perdis2017-720x350.jpg' alt='' title='Pervasive Displays 2017' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2339'>Pervasive Displays 2017</a></strong><br>
+			<a href='/entry.php?id=2291'>Davide Tantillo</a>, <a href='/entry.php?id=2052'>G. Elisabeta Marai</a>, <a href='/entry.php?id=300'>Krishna Bharadwaj</a>, <a href='/entry.php?id=290'>Thomas Marrinan</a><br>
+			June 7, 2017 - June 9, 2017<br><br>
+			June 7-9, 2017 - Tommy Marrinan, EVL graduate and a postdoc at Argonne National Laboratory who has worked on SAGE2, attended the Pervasive Displays&hellip; <a href='/entry.php?id=2339'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2259'><img src='/resizedImages/500x280-crop-sc16logo.jpg' alt='' title='SC16 SAGE BOF Now Posted Online' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2259'>SC16 SAGE BOF Now Posted Online</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a><br>
+			November 15, 2016<br><br>
+			The SC16 SAGE2™ BOF presentation is now posted online. * * * * * * * * * * SAGE2&trade;: Scalable Amplified Group Environment for Global&hellip; <a href='/entry.php?id=2259'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2256'><img src='/resizedImages/500x280-crop-newcity-cover-img_0762.jpeg' alt='' title='Newcity magazine rates UIC/EVL as &ldquo;Best place to get your geek on&rdquo;' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2256'>Newcity magazine rates UIC/EVL as &ldquo;Best place to get your geek on&rdquo;</a></strong><br>
+						November 6, 2016<br><br>
+			Newcity magazine is Chicago&rsquo;s only locally owned and operated cultural weekly, and has been covering Chicago&rsquo;s local scene for more than&hellip; <a href='/entry.php?id=2256'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2226'><img src='/resizedImages/500x280-crop-nodejs-live-chicago-2.png' alt='' title='Luc Renambot presents SAGE2&trade; at &ldquo;Node.js Live - Chicago&rdquo;' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2226'>Luc Renambot presents SAGE2&trade; at &ldquo;Node.js Live - Chicago&rdquo;</a></strong><br>
+			<a href='/entry.php?id=192'>Luc Renambot</a><br>
+			June 22, 2016<br><br>
+			June 22, 2016 Old Crow Smokehouse 149 W Kinzie Street, Chicago, IL Research Associate Professor of Computer Science at the Electronic Visualization&hellip; <a href='/entry.php?id=2226'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2148'><img src='/resizedImages/500x280-crop-sage2-displays-cybercommons-2.png' alt='' title='The SAGE2&trade; BOF presentation at SC15 is now posted online.' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2148'>The SAGE2&trade; BOF presentation at SC15 is now posted online.</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a><br>
+			November 17, 2015<br><br>
+			SAGE2&trade;: Scalable Amplified Group Environment for Global Collaboration Birds of a Feather (BOF) Tuesday, November 17 12:15PM - 01:15PM Room: 13A&hellip; <a href='/entry.php?id=2148'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2143'><img src='/resizedImages/500x280-crop-tasondoc.png' alt='' title='Textual Annotation Tools for SAGE2' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2143'>Textual Annotation Tools for SAGE2</a></strong><br>
+			<a href='/entry.php?id=300'>Krishna Bharadwaj</a><br>
+			November 2, 2015<br><br>
+			Krishna Bhradwaj&rsquo;s MS Thesis Defense Committee: Andrew Johnson, Luc Renambot, Liz Marai Abstract: The amount of data that we deal with, on a&hellip; <a href='/entry.php?id=2143'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<!-- End Category List -->
+	</table>
+</div>
+<!-- End Category -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

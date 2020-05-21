@@ -1,0 +1,488 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin List -->
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Year:</strong>
+		<a href='/list.php?id=4&amp;year=2020'>2020</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2019'>2019</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2018'>2018</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2017'><strong>2017</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2016'>2016</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2015'>2015</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2014'>2014</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2013'>2013</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2012'>2012</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2011'>2011</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2010'>2010</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2009'>2009</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2008'>2008</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2007'>2007</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2006'>2006</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2005'>2005</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2004'>2004</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2003'>2003</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2002'>2002</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2001'>2001</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2000'>2000</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1999'>1999</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1998'>1998</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1997'>1997</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1996'>1996</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1995'>1995</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1994'>1994</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1993'>1993</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1992'>1992</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1991'>1991</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1990'>1990</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1989'>1989</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1987'>1987</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1985'>1985</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1984'>1984</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1977'>1977</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1976'>1976</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<div id='list_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin List List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2384'><img src='/resizedImages/500x280-crop-rsna2017-2.jpg' alt='' title='Normal Tissue Radiomic Feature Kinetics in Oropharygeal Cancers Treated with Image-Guided Radiation Therapy: Assessment of Parotid Glands Textural Changes on Daily Non-contrast CT' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			Elhalawani, H., Mohamed, A., Volpe, V., Yang, P., Campbell, S., Granberry, R., Ger, R., Fave, X., Zhang, L., <a href='/entry.php?id=2052'>Marai, GE</a>, Vock, DM, Canahuate, GM, Macking, D., Court, L., Gunn, GB, Rao, A., Fuller, CD<br>
+			<strong><a href='/entry.php?id=2384'>Normal Tissue Radiomic Feature Kinetics in Oropharygeal Cancers Treated with Image-Guided Radiation Therapy: Assessment of Parotid Glands Textural Changes on Daily Non-contrast CT</a></strong><br>
+			<em>RSNA 2017</em>, Scientific Reports<br>
+			November 26, 2017<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2385'><img src='/resizedImages/500x280-crop-rsna2017_predictinghpv.jpeg' alt='' title='Predicting the HPV P16 Status of Oropharyngeal Cancer Patients Using Radiomics and an Ensemble of Random Forests' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			Elhalawani, H., Mohamed, A., Volpe, V., Yang, P., Campbell, S., Granberry, R., Ger, R., Fave, X., Zhang, L., <a href='/entry.php?id=2052'>Marai, GE</a>, Vock, DM, Canahuate, GM, Macking, D., Court, L., Gunn, GB, Rao, A., Fuller, CD<br>
+			<strong><a href='/entry.php?id=2385'>Predicting the HPV P16 Status of Oropharyngeal Cancer Patients Using Radiomics and an Ensemble of Random Forests</a></strong><br>
+			<em>Radiology Society of North America meeting RSNA 2017</em><br>
+			November 26, 2017<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2349'><img src='/resizedImages/500x280-crop-chattopadhyay-2017-hci-beyond-presentations-preprint.png' alt='' title='Beyond presentation: Shared slideware control as a resource for collocated collaboration' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=2278'>Chattopadhyay, D.</a>, Salvadori, F., O&rsquo;Hara, K,, Rintel, S.<br>
+			<strong><a href='/entry.php?id=2349'>Beyond presentation: Shared slideware control as a resource for collocated collaboration</a></strong><br>
+			<em>Journal of Human-Computer Interaction</em>, pp. 1-44<br>
+			November 4, 2017<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2344'><img src='/resizedImages/500x280-crop-jist0394_image.png' alt='' title='RemBrain: Exploring Dynamic Biospatial Networks with MosaicMatrices and Mirror Glyphs' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=2076'>Ma, C.</a>, <a href='/entry.php?id=2253'>Pellolio, F.</a>, Llano, D., Stebbings, K.A., <a href='/entry.php?id=14'>Kenyon, R.V.</a>, <a href='/entry.php?id=2052'>Marai, G.E.</a><br>
+			<strong><a href='/entry.php?id=2344'>RemBrain: Exploring Dynamic Biospatial Networks with MosaicMatrices and Mirror Glyphs</a></strong><br>
+			<em>Journal of Imaging Science and Technology</em><br>
+			November 1, 2017<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2318'><img src='/resizedImages/500x280-crop-prodigen.png' alt='' title='PRODIGEN: visualizing the probability landscape of stochastic gene regulatory networks in state and time space' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=2076'>Ma, C.</a>, <a href='/entry.php?id=2189'>Luciani, T.</a>, Terebus, A., Liang, J., <a href='/entry.php?id=2052'>Marai, G.E.</a><br>
+			<strong><a href='/entry.php?id=2318'>PRODIGEN: visualizing the probability landscape of stochastic gene regulatory networks in state and time space</a></strong><br>
+			<em>6th Symposium on Biological Data Visualization</em>, Baltimore, MD, BMC Bioinformatics 18(2):24, 2017, pp. 1-13<br>
+			October 24, 2017<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2444'><img src='/resizedImages/500x280-crop-cave2_patent-us9800862b2.png' alt='' title='System and Methods for Visualizing Information (US 9,800,862 B2 - CAVE2)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=7'>Sandin, D.J.</a>, <a href='/entry.php?id=199'>Peterka, T.</a>, <a href='/entry.php?id=24'>Talandis, J.</a>, Leigh, J., <a href='/entry.php?id=49'>Long, L.</a>, <a href='/entry.php?id=192'>Renambot, L.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=178'>Brown, M.</a><br>
+			<strong><a href='/entry.php?id=2444'>System and Methods for Visualizing Information (US 9,800,862 B2 - CAVE2)</a></strong><br>
+			<em>United States Patent US 9,800,862 B2</em><br>
+			October 24, 2017<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2317'><img src='/resizedImages/500x280-crop-echo.jpg' alt='' title='Echo: A Large Display Interactive Visualization of ICU Data for Effective Care Handoffs' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=2248'>Thomas, M.</a>, Kanampallil, T., Abraham, J., <a href='/entry.php?id=2052'>Marai, G.E.</a><br>
+			<strong><a href='/entry.php?id=2317'>Echo: A Large Display Interactive Visualization of ICU Data for Effective Care Handoffs</a></strong><br>
+			<em>IEEE 8th Workshop on Visual Analytics in Health Care VAHC’17</em>, Phoenix, AZ, pp. 1-8<br>
+			October 2, 2017<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2319'><img src='/resizedImages/500x280-crop-mc2-mining-factory_sm.jpg' alt='' title='MC2 - Mining Factory Pollution Data through a Spatial-Nonspatial Flow Approach' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=2302'>Castor, J.</a>, <a href='/entry.php?id=2322'>Borowicz, J.</a>, <a href='/entry.php?id=2231'>Burks, A.</a>, <a href='/entry.php?id=2248'>Thomas, M.</a>, <a href='/entry.php?id=2189'>Luciani, T.</a>, <a href='/entry.php?id=2052'>Marai, G.E.</a><br>
+			<strong><a href='/entry.php?id=2319'>MC2 - Mining Factory Pollution Data through a Spatial-Nonspatial Flow Approach</a></strong><br>
+			<em>IEEE Visual Analytics Science and Technology (VAST) Challenge 2017 Proceedings</em>, Phoenix, AZ, pp. 1-2<br>
+			October 1, 2017<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2320'><img src='/resizedImages/500x280-crop-mc3-web-based_sm.jpg' alt='' title='MC3 - A Web-Based Interactive Image Explorer for Temporal Analysis of Satellite Images' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=2303'>Mahida, V.</a>, <a href='/entry.php?id=2315'>Kupiec, B.</a>, <a href='/entry.php?id=2231'>Burks, A.</a>, <a href='/entry.php?id=2189'>Luciani, T.</a>, <a href='/entry.php?id=2052'>Marai, G.E.</a><br>
+			<strong><a href='/entry.php?id=2320'>MC3 - A Web-Based Interactive Image Explorer for Temporal Analysis of Satellite Images</a></strong><br>
+			<em>IEEE Visual Analytics Science and Technology (VAST) Challenge 2017 Proceedings</em>, Phoenix, AZ, pp. 1-2<br>
+			October 1, 2017<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2324'><img src='/resizedImages/500x280-crop-mc1-bespoke-analysis.png' alt='' title='MC1: A Bespoke Analysis Tool for Spatio-temporal Park Traffic Data' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=2321'>Kirilov, D.</a>, <a href='/entry.php?id=2076'>Lindmae, I.</a>, <a href='/entry.php?id=2231'>Burks, A.</a>, <a href='/entry.php?id=2076'>Ma, C.</a>, <a href='/entry.php?id=2052'>Marai, G.E.</a><br>
+			<strong><a href='/entry.php?id=2324'>MC1: A Bespoke Analysis Tool for Spatio-temporal Park Traffic Data</a></strong><br>
+			<em>IEEE Visual Analytics Science and Technology (VAST) Challenge 2017 Proceedings</em>, Phoenix, AZ, pp. 1-2<br>
+			October 1, 2017<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2395'><img src='/resizedImages/500x280-crop-tsoupikovaleonardo.png' alt='' title='Hearts and Minds: The Interrogations Project' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=188'>Tsoupikova, D.</a>, Rettberg, S., Coover, R., <a href='/entry.php?id=270'>Nishimoto, A.</a><br>
+			<strong><a href='/entry.php?id=2395'>Hearts and Minds: The Interrogations Project</a></strong><br>
+			<em>Leonardo</em>, vol 50, no 5, pp. 513-514<br>
+			October 1, 2017<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2386'><img src='/resizedImages/500x280-crop-biovis17poster.jpeg' alt='' title='Visualizing ensemble time-evolving probability landscapes of stochastic networks' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=2076'>Ma, C.</a>, <a href='/entry.php?id=2231'>Burks, A.</a>, <a href='/entry.php?id=2189'>Luciani, T.Terebus, A.</a>, Liang, J., <a href='/entry.php?id=2052'>Marai, G.E.</a><br>
+			<strong><a href='/entry.php?id=2386'>Visualizing ensemble time-evolving probability landscapes of stochastic networks</a></strong><br>
+			<em>ISMB/ECCB 2017, BioVis'17</em>, Phoenix, AZ, pp. 1-2<br>
+			September 29, 2017<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2325'><img src='/resizedImages/500x280-crop-burks_lee_tvcg2017.png' alt='' title='Dynamic Influence Networks for Rule-based Models' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=2473'>Forbes, A.G.</a>, <a href='/entry.php?id=2231'>Burks, A.</a>, <a href='/entry.php?id=2133'>Lee, K.</a>, Li, X., Boutillier, P., Krivine, J., Fontana, W.<br>
+			<strong><a href='/entry.php?id=2325'>Dynamic Influence Networks for Rule-based Models</a></strong><br>
+			<em>IEEE Transactions on Visualization and Computer Graphics</em>, pp. 1-1<br>
+			August 1, 2017<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2381'><img src='/resizedImages/500x280-crop-deep-learning-approach.jpg' alt='' title='A Deep Learning Approach to Identifying Shock Locations in Turbulent Combustion Tensor Fields' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			Monfort, M., <a href='/entry.php?id=2189'>Luciani, T.</a>, Komperda, J., Ziebart, B., Mashayek, F., <a href='/entry.php?id=2052'>Marai, G.E.</a><br>
+			<strong><a href='/entry.php?id=2381'>A Deep Learning Approach to Identifying Shock Locations in Turbulent Combustion Tensor Fields</a></strong><br>
+			<em>Modelling, Processing and Visualization of Anisotropy</em>, Mathematics and Visualization Series, Springer, Cham, pp. pp 375-392, I. Hotz, T. Schultz, E. Ozarslan (eds)<br>
+			July 8, 2017<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2376'><img src='/resizedImages/500x280-crop-sdata201777-f1.jpg' alt='' title='Matched computed tomography segmentation and demographic data for oropharyngeal cancer radiomics challenges' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			Elhalawani,H., Mohamed,A., White,A., Zafereo,J., Wong, A., Berends,J., AboHashem,S., Williams,B., Aymard, J., Kanwar,A., Perni,S., Rock,C., Cooksey,L., Campbell,S., Ding, Y., Lai,S., <a href='/entry.php?id=2052'>Marai,L.</a>, Vock,D., Canahuate,G., Freymann,J., Farahani,K., Kalpathy-Cramer,J., Fuller, D.<br>
+			<strong><a href='/entry.php?id=2376'>Matched computed tomography segmentation and demographic data for oropharyngeal cancer radiomics challenges</a></strong><br>
+			<em>Nature Scientific Data 4 : 170077 | DOI: 10 . 1038 /sdata. 2017 . 77</em><br>
+			July 4, 2017<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2310'><img src='/resizedImages/500x280-crop-2017marrinansticky_schedule.png' alt='' title='StickySchedule: An Interactive Multi-user Application for Conference Scheduling on Large-scale Shared Displays' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			Doshi, V., Tuteja, S., <a href='/entry.php?id=300'>Bharadwaj, K.</a>, <a href='/entry.php?id=2291'>Tantillo, D.</a>, <a href='/entry.php?id=290'>Marrinan, T.</a>, Patton, J., <a href='/entry.php?id=2052'>Marai, G.E.</a><br>
+			<strong><a href='/entry.php?id=2310'>StickySchedule: An Interactive Multi-user Application for Conference Scheduling on Large-scale Shared Displays</a></strong><br>
+			<em>Proceedings of the 6th ACM International Symposium on Pervasive Displays (PerDis ’17)</em>, Lugano, Switzerland<br>
+			June 7, 2017<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2294'><img src='/resizedImages/500x280-crop-shiwangisinghresearchproject-2.png' alt='' title='Deep Bidirectional LSTM based RNN for Casual Speech to Clear Speech conversion' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=2249'>Singh, S.</a><br>
+			<strong><a href='/entry.php?id=2294'>Deep Bidirectional LSTM based RNN for Casual Speech to Clear Speech conversion</a></strong><br>
+			<em>Submitted in partial fulfillment of the requirements for the degree of Master of Science in Computer Science</em>, Graduate College of the University of Illinois at Chicago<br>
+			May 15, 2017<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2295'><img src='/resizedImages/500x280-crop-febretti_alessandro_phd_dissertation.png' alt='' title='Multiview Immersion in Hybrid Reality Environments' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=272'>Febretti, A.</a><br>
+			<strong><a href='/entry.php?id=2295'>Multiview Immersion in Hybrid Reality Environments</a></strong><br>
+			<em>Submitted in partial fulfillment of the requirements for the degree of Doctor of Philosophy in Computer Science</em>, Graduate College of the University of Illinois at Chicago<br>
+			May 15, 2017<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2307'><img src='/resizedImages/500x280-crop-caas.png' alt='' title='Collaboration as a Service?' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=192'>Renambot, L</a>, <a href='/entry.php?id=49'>Long, L.</a>, <a href='/entry.php?id=178'>Brown, M.</a><br>
+			<strong><a href='/entry.php?id=2307'>Collaboration as a Service?</a></strong><br>
+			<em>DOE Future Online Analysis Platform (FOAP) Workshop</em>, Washington, DC<br>
+			April 4, 2017<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2374'><img src='/resizedImages/500x280-crop-sheu-2017-conditional.jpeg' alt='' title='Conditional Survival Analysis of Patients With Locally Advanced Laryngeal Cancer: Construction of a Dynamic Risk Model and Clinical Nomogram' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			Beadle, B., Canahuate, G., El-Naggar, A., Frank, S., Fuller, D., Garden, A., Gross, N., Gunn, G.B., Hutcheson, K., Lai, S., Lewin, J., Kies, M., <a href='/entry.php?id=2052'>Marai, G.E.</a>, Mohamed, A., Morrison, W., Mulcahy, C., Phan, J., Rosenthal, D., Sevak, P,, Sheu, T., Vock, D., Weber, R., Zafereo, M.<br>
+			<strong><a href='/entry.php?id=2374'>Conditional Survival Analysis of Patients With Locally Advanced Laryngeal Cancer: Construction of a Dynamic Risk Model and Clinical Nomogram</a></strong><br>
+			<em>Nature Scientific Reports 7, Article 43928</em><br>
+			March 9, 2017<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2262'><img src='/resizedImages/500x280-crop-mixedpresencemarrinan_cscw17.png' alt='' title='Mixed Presence Collaboration using Scalable Visualizations in Heterogeneous Display Spaces' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=290'>Marrinan, T.</a>, <a href='/entry.php?id=192'>Renambot, L.</a>, <a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=2473'>Forbes, A.</a>, <a href='/entry.php?id=11'>Jones, S.</a>, <a href='/entry.php?id=10'>Johnson, A.</a><br>
+			<strong><a href='/entry.php?id=2262'>Mixed Presence Collaboration using Scalable Visualizations in Heterogeneous Display Spaces</a></strong><br>
+			<em>Proceedings of the 20th ACM Conference on Computer-Supported Cooperative Work & Social Computing (CSCW '17)</em>, Portland, OR, ISBN: 978-1-4503-4335-0<br>
+			February 25, 2017<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2280'><img src='/resizedImages/500x280-crop-sage2_poster_2017_final.png' alt='' title='SAGE2 Scalable Amplified Graphics Environment' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=178'>Brown, M.</a>, <a href='/entry.php?id=192'>Renambot, L.</a><br>
+			<strong><a href='/entry.php?id=2280'>SAGE2 Scalable Amplified Graphics Environment</a></strong><br>
+			<em>NSF SI2 PI meeting</em>, Arlington, VA<br>
+			February 21, 2017<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2285'><img src='/resizedImages/500x280-crop-kitsiouicardia.png' alt='' title='Development of an innovative mHealth platform for remote physical activity monitoring and health coaching of cardiac rehabilitation patients' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			Kitsiou, S., <a href='/entry.php?id=2248'>Thomas, M.</a>, <a href='/entry.php?id=2052'>Marai, G.E.</a>, Maglaveras, N., Kondos, G., Arena, R., Gerber, B.<br>
+			<strong><a href='/entry.php?id=2285'>Development of an innovative mHealth platform for remote physical activity monitoring and health coaching of cardiac rehabilitation patients</a></strong><br>
+			<em>IEEE International Conference on Biomedical and Health Informatics</em>, Orlando, FL<br>
+			February 16, 2017<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2350'><img src='/resizedImages/500x280-crop-cognition2017_debaleenac.png' alt='' title='Categorization-based stranger avoidance does not explain the uncanny valley effect (2016)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			MacDorman, K. F., <a href='/entry.php?id=2278'>Chattopadhyay, D.</a><br>
+			<strong><a href='/entry.php?id=2350'>Categorization-based stranger avoidance does not explain the uncanny valley effect (2016)</a></strong><br>
+			<em>Cognition</em>, vol 161, pp. 132-135, Elsevier B.V.<br>
+			January 18, 2017<br>
+		</div>
+	</td>
+</tr>
+<!-- End List List -->
+	</table>
+</div>
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Year:</strong>
+		<a href='/list.php?id=4&amp;year=2020'>2020</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2019'>2019</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2018'>2018</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2017'><strong>2017</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2016'>2016</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2015'>2015</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2014'>2014</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2013'>2013</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2012'>2012</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2011'>2011</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2010'>2010</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2009'>2009</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2008'>2008</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2007'>2007</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2006'>2006</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2005'>2005</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2004'>2004</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2003'>2003</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2002'>2002</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2001'>2001</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2000'>2000</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1999'>1999</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1998'>1998</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1997'>1997</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1996'>1996</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1995'>1995</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1994'>1994</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1993'>1993</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1992'>1992</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1991'>1991</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1990'>1990</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1989'>1989</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1987'>1987</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1985'>1985</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1984'>1984</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1977'>1977</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1976'>1976</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<!-- End List -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Entry -->
+<table id='entry_area' class='fixedTable'>
+	<tr>
+		<td style='width:676px;'>
+			<div id='entry_info'>
+<!-- Begin Entry Info -->
+<h3>One Chicago grade school is transforming education with EVL technologies</h3>
+<div id='entry_image_large'><img style='left:0;' src='/resizedImages/1280x720-chi-bsi-catherine-cook-school-ct0029557646-20150624.jpg' alt='' title='One Chicago grade school is transforming education with EVL technologies' width='640' height='360'></div>
+<span class='smallText'>JD Pirtle uses EVL&rsquo;s SAGE2 software on the Idea Lab&rsquo;s tiled display wall during the Catherine Cook School&rsquo;s IDEA:TE conference. - (Photo: John J. Kim, Blue Sky/June 24, 2015)</span><br><br>
+<div class='entry_content'>
+	<strong>Participants:</strong> <a href='/entry.php?id=273'>JD Pirtle</a><br><br>
+<!-- Begin Entry Description -->
+JD Pirtle, a UIC alumnus with an MFA in Electronic Visualization from the College of Architecture and the Arts (now renamed College of Architecture, Design, and the Arts), was a student and staff member at the Electronic Visualization Laboratory (EVL) before leaving to create the position of Director of Innovation at the Catherine Cook School, a Chicago-area private school for preschool through eighth grade children.<br><br>
+Pirtle was featured in the Chicago Tribune article &ldquo;Chicago private schools lead &lsquo;high-tech, high-touch&rsquo; movement&rdquo; written by reporter John Carpenter, which was published August 28, 2015. Pirtle created the school&rsquo;s Idea Lab (Innovation, Design, Engineering and Art). The article goes on to say that &ldquo;projects incorporate robotics, computer programming, digital manufacturing and electronics, among other things.&rdquo; Pirtle&rsquo;s program aims to &ldquo;teach design thinking, which emphasizes collaboration, problem solving and creative thinking.&rdquo;<br><br>
+One highlight of the Idea Lab is technology developed by EVL. Pirtle built a tiled display wall consisting of 12 screens that takes up nearly an entire wall running EVL&rsquo;s SAGE2&trade; software. SAGE2 facilitates group collaboration by enabling users to easily access and display large amounts of high-resolution information on a tiled display wall, treating it as if it were one big laptop screen. Using SAGE2, &ldquo;students can literally drag projects from their tablets or computers onto the wall as they are being discussed.&rdquo;<br><br>
+According to the article, &ldquo;Catherine Cook is not alone. At other private schools in the city, tablets and laptops are no longer the apex when it comes to technology in the classroom. Officials at those schools say parents are increasingly demanding that students learn as much by designing, making and writing computer code as they do from lectures and books.&rdquo;<br><br>
+Pirtle explains that &ldquo;the educational need is to apply technology to learning challenges. &lsquo;I never want to just throw technology at them,&rsquo; he says. &lsquo;I want them to reach into a tool box for what they need.&rsquo;...&lsquo;We&rsquo;re a high-tech, high-touch school...The real goal is to make (students) producers and not just consumers.&rsquo;&rdquo;<br><br>
+On a separate but related note, in June 2015, Pirtle organized the Catherine Cook School conference, IDEA:TE (Innovation, Design, Engineering, and Art: Transforming Education). Preschool through 12th grade educators were invited to attend and explore ways to integrate traditional and emerging technologies into their curricula through hands-on experience. The sessions were led by educators and experts from UIC, IIT/SAIC and UW Oshkosh in fields such as robotics, 3D printing, laser cutting and wearable technology. <a href="http://www.catherinecookschool.org/page.cfm?p=6581">Another conference is planned for 2016</a>.<br><br>
+<a href="http://www.chicagotribune.com/bluesky/originals/ct-technology-chicago-schools-bsi-20150828-story.html">Read the Chicago Tribune article</a>.<br><br>
+<!-- End Entry Description -->
+	<strong>Email:</strong> <a href='mailto:jdpirtle@gmail.com'>jdpirtle@gmail.com</a><br><br>
+	<strong>Date:</strong> October 13, 2015
+</div>
+<!-- End Entry Info -->
+			</div>
+		</td>
+		<td style='width:374px;'>
+			<div id='entry_sidebar'>
+<!-- Begin Entry Sidebar -->
+<div class='entry_content'>
+	<h3>Related Entries</h3>
+	<strong>Directory:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=273'>JD Pirtle</a></li>
+	</ul><br>
+	<h3>Related Categories</h3>
+	<ul>
+		<li><a href='/category.php?id=1&amp;related=3'>Academic</a></li>
+		<li><a href='/category.php?id=3&amp;related=3'>Applications</a></li>
+		<li><a href='/category.php?id=10&amp;related=3'>Education</a></li>
+		<li><a href='/category.php?id=17&amp;related=3'>Multimedia</a></li>
+		<li><a href='/category.php?id=20&amp;related=3'>Software</a></li>
+		<li><a href='/category.php?id=24&amp;related=3'>User Groups</a></li>
+	</ul>
+</div>
+<!-- End Entry Sidebar-->
+			</div>
+		</td>
+	</tr>
+</table>
+<!-- End Entry -->
+<script>
+	// Making both divs the same height is much easier in JavaScript
+	var entryInfo = document.getElementById("entry_info");
+	var entrySidebar = document.getElementById("entry_sidebar");
+	
+	if (entryInfo && entrySidebar) {
+		var maxHeight = Math.max(entryInfo.offsetHeight, entrySidebar.offsetHeight)-20;
+		entryInfo.style.height = maxHeight+"px";
+		entrySidebar.style.height = maxHeight+"px";
+	}
+</script>
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Entry -->
+<table id='entry_area' class='fixedTable'>
+	<tr>
+		<td style='width:676px;'>
+			<div id='entry_info'>
+<!-- Begin Entry Info -->
+<h3>UIC/EVL Alumnus Lewis Siegel Amasses an Impressive Computer Graphics Resume over Nearly 25 Year Career</h3>
+<div id='entry_image_large'><img style='left:50px;' src='/resizedImages/1280x720-lewis_landscape.jpg' alt='' title='UIC/EVL Alumnus Lewis Siegel Amasses an Impressive Computer Graphics Resume over Nearly 25 Year Career' width='540' height='360'></div>
+<span class='smallText'>Lewis Siegel - Walt Disney Animation Studios</span><br><br>
+<div class='entry_content'>
+	<strong>Participants:</strong> <a href='/entry.php?id=283'>Lewis Siegel</a><br><br>
+<!-- Begin Entry Description -->
+September 2016 - Since graduating from the University of Illinois at Chicago (UIC) in 1992, Lewis Siegel, a Computer Science (CS) Master of Science student and Electronic Visualization Laboratory (EVL) Research Assistant, has amassed an impressive list of technical achievements and film credits in computer graphics techniques, innovations and technologies.<br><br>
+Siegel appreciates the skills he acquired as a UIC graduate student, and EVL&rsquo;s unique collaborative environment, which prepared him for his career in industry. &ldquo;At EVL,&rdquo; Siegel says, &ldquo;artists and engineers worked together, and what they could accomplish together was far greater than what each discipline could achieve alone. The skills I learned there have served me for the past two and a half decades, including my career at the Walt Disney Animation Studios.&rdquo;<br><br>
+Upon graduating from UIC, Siegel spent two years as a personal assistant to Dr. Benoit B. Mandelbrot, a mathematician and pioneer of fractal geometry. Mandelbrot, who coined the word &ldquo;fractal&rdquo; and developed a theory of &ldquo;roughness and self-similarity&rdquo; in nature, had already worked with several EVL/CS students, and hired Siegel to assist with his research involving the study and visualization of fractal forms and images.<br><br>
+Siegel then decided to go back to school, attending the University of Southern California (USC) School of Cinema-Television where he received a Master of Fine Arts degree and honed his expertise in computer animation and visual effects (VFX).<br><br>
+Putting his computer graphics and VFX skills to use, Siegel joined Walt Disney Animation Studios. Now a Technical Director at the studio, he creates computer graphics effects for feature films and theme park rides, and has helped to develop new technology now patented by the studio.<br><br>
+&ldquo;The Matrix&rdquo; (1999), as well as Walt Disney Animation Studios features &ldquo;Frozen&rdquo; (2013) and &ldquo;Big Hero 6&rdquo; (2014), (both of which won the Oscar&reg; for Best Animated Feature), are several of his most notable film credits. Siegel is also working on Disney Animation’s &ldquo;Moana,&rdquo; which will be in theaters this Thanksgiving.<br><br>
+He contributed to the production of the original &ldquo;Soarin&rsquo; Over California&rdquo; ride at Disney&rsquo;s California Adventure Theme Park (2000), which takes visitors on a simulated hang-glider tour over California&rsquo;s sensational landscapes to experience a variety of recreation opportunities.<br><br>
+Many of the skills and techniques Siegel used to develop this ride were acquired at EVL, where he learned to create real-time interactive applications for EVL&rsquo;s CAVE&trade; virtual-reality environment.<br><br>
+Siegel also presents and publishes his cutting-edge algorithm research and development work, on behalf of Walt Disney Animation Studios, at the annual ACM SIGGRAPH conference. SIGGRAPH is an international professional society focused on computer graphics and interactive techniques. His papers have covered such topics as refraction for fur and other complex objects for the movie &ldquo;Bolt,&rdquo; rendering hair for &ldquo;Tangled&rdquo;, and rendering frost and ice for &ldquo;Frozen.&rdquo;<br><br>
+He and his Disney team of developers have won many awards. Most recently, Siegel and his colleagues were honored with the Visual Effects Society 2014 Award for &ldquo;Outstanding Created Environment in an Animated Feature Motion Picture&rdquo; (for &ldquo;Frozen&rdquo;).<br><br>
+He has also received five Disney Inventor Awards, and is the main author on the &ldquo;Rendering of Shadows with a Hand-Painted Appearance&rdquo; (Patent Number US 8,159,499 B2.)<br><br>
+EVL is proud to have Siegel among its community of prestigious alumni, and we look forward to his future contributions to the entertainment industry and to feature films.<br><br>
+# # # #<br><br>
+For Siegel’s complete filmography, see <a href=http://www.imdb.com/name/nm0796969/?ref_=fn_al_nm_1">IMDb</a>.<br><br>
+For Siegel&rsquo;s SIGGRAPH papers, see:<br>
+<a href="http://dl.acm.org/citation.cfm?id=1598016">http://dl.acm.org/citation.cfm?id=1598016</a><br>
+<a href="http://dl.acm.org/citation.cfm?id=2037850">http://dl.acm.org/citation.cfm?id=2037850</a><br>
+<a href="http://dl.acm.org/citation.cfm?id=2614137">http://dl.acm.org/citation.cfm?id=2614137</a><br><br>
+# # # #<br><br>
+<!-- End Entry Description -->
+	<strong>Email:</strong> <a href='mailto:lnsiegel@gmail.com'>lnsiegel@gmail.com</a><br><br>
+	<strong>Date:</strong> September 12, 2016
+</div>
+<!-- End Entry Info -->
+			</div>
+		</td>
+		<td style='width:374px;'>
+			<div id='entry_sidebar'>
+<!-- Begin Entry Sidebar -->
+<div class='entry_content'>
+	<h3>Related Entries</h3>
+	<strong>Directory:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=283'>Lewis Siegel</a></li>
+	</ul><br>
+	<h3>Related Categories</h3>
+	<ul>
+		<li><a href='/category.php?id=2&amp;related=3'>Animation</a></li>
+		<li><a href='/category.php?id=17&amp;related=3'>Multimedia</a></li>
+		<li><a href='/category.php?id=20&amp;related=3'>Software</a></li>
+		<li><a href='/category.php?id=25&amp;related=3'>Video / Film</a></li>
+		<li><a href='/category.php?id=28&amp;related=3'>VR</a></li>
+	</ul>
+</div>
+<!-- End Entry Sidebar-->
+			</div>
+		</td>
+	</tr>
+</table>
+<!-- End Entry -->
+<script>
+	// Making both divs the same height is much easier in JavaScript
+	var entryInfo = document.getElementById("entry_info");
+	var entrySidebar = document.getElementById("entry_sidebar");
+	
+	if (entryInfo && entrySidebar) {
+		var maxHeight = Math.max(entryInfo.offsetHeight, entrySidebar.offsetHeight)-20;
+		entryInfo.style.height = maxHeight+"px";
+		entrySidebar.style.height = maxHeight+"px";
+	}
+</script>
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin List -->
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Year:</strong>
+		<a href='/list.php?id=4&amp;year=2020'>2020</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2019'>2019</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2018'>2018</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2017'>2017</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2016'>2016</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2015'>2015</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2014'>2014</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2013'>2013</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2012'>2012</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2011'>2011</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2010'>2010</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2009'><strong>2009</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2008'>2008</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2007'>2007</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2006'>2006</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2005'>2005</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2004'>2004</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2003'>2003</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2002'>2002</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2001'>2001</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2000'>2000</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1999'>1999</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1998'>1998</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1997'>1997</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1996'>1996</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1995'>1995</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1994'>1994</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1993'>1993</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1992'>1992</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1991'>1991</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1990'>1990</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1989'>1989</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1987'>1987</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1985'>1985</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1984'>1984</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1977'>1977</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1976'>1976</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<div id='list_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin List List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1577'><img src='/resizedImages/500x280-crop-weldonh_mfathesis.png' alt='' title='Meridianus Divinitus' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=239'>Weldon, H.</a><br>
+			<strong><a href='/entry.php?id=1577'>Meridianus Divinitus</a></strong><br>
+			<em>Submitted as partial fulfillment of the requirements for the degree of Master of Fine Art</em>, University of Illinois at Chicago, Graduate College<br>
+			November 17, 2009<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2054'><img src='/resizedImages/500x280-crop-paraview.png' alt='' title='Remote Visualization of Large Scale Data for Ultra-High Resolution Display Environments' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=248'>Nam, S.</a>, <a href='/entry.php?id=208'>Jeong, B.</a>, <a href='/entry.php?id=192'>Renambot, L.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, Gaither, K.,, <a href='/entry.php?id=21'>Leigh, J.</a><br>
+			<strong><a href='/entry.php?id=2054'>Remote Visualization of Large Scale Data for Ultra-High Resolution Display Environments</a></strong><br>
+			<em>SC '09</em>, Portland, OR, pp. 42-47, Proceedings of the ACM 2009 Ultrascale Visualization Workshop<br>
+			November 16, 2009<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1574'><img src='/resizedImages/500x280-crop-yiwen_vast09.jpg' alt='' title='Articulate: a Conversational Interface for Visual Analytics' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=190'>Sun, Y.</a>, <a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=10'>Johnson, A. E.</a>, <a href='/entry.php?id=260'>Chau, D.</a><br>
+			<strong><a href='/entry.php?id=1574'>Articulate: a Conversational Interface for Visual Analytics</a></strong><br>
+			<em>Proceedings of the IEEE Symposium on Visual Analytics Science and Technology</em>, Atlantic City, New Jersey<br>
+			October 11, 2009<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1575'><img src='/resizedImages/500x280-crop-vast2009socioscopeposter.png' alt='' title='SocioScape - a Tool for Interactive Exploration of Spatio-Temporal Group Dynamics in Social Networks' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=259'>Reda, K.</a>, Tantipathananandh, C., <a href='/entry.php?id=157'>Berger-Wolf, T.</a>, <a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=10'>Johnson, A. E.</a><br>
+			<strong><a href='/entry.php?id=1575'>SocioScape - a Tool for Interactive Exploration of Spatio-Temporal Group Dynamics in Social Networks</a></strong><br>
+			<em>Proceedings of the IEEE Information Visualization Conference (INFOVIS &rsquo;09)</em>, Atlantic City, New Jersey<br>
+			October 11, 2009<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1572'><img src='/resizedImages/500x280-crop-or_future.png' alt='' title='Visualization Wall for OR of the Future' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			Bhatia, S., <a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=178'>Brown, M.</a>, <a href='/entry.php?id=192'>Renambot, L.</a>, <a href='/entry.php?id=49'>Long, L.</a>, Giulianotti, P. C.<br>
+			<strong><a href='/entry.php?id=1572'>Visualization Wall for OR of the Future</a></strong><br>
+			<em>First Clinical Robotic Surgery Association (CRSA) Meeting</em>, Chicago, IL<br>
+			October 9, 2009<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1573'><img src='/resizedImages/500x280-crop-advancedcomputer.png' alt='' title='Advances in Computer Displays (chapter)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=10'>Johnson, A. E.</a>, <a href='/entry.php?id=192'>Renambot, L.</a><br>
+			<strong><a href='/entry.php?id=1573'>Advances in Computer Displays (chapter)</a></strong><br>
+			<em>Advances in Computers</em>, vol 77, Marvin Zelkowitz (editor), Elsevier (ISBN 978-0-12-374812-6), pp. 58-79<br>
+			October 1, 2009<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1562'><img src='/resizedImages/500x280-crop-leveragingparallelism.png' alt='' title='Achieving Large Bandwidth by Leveraging Parallelism in End-Hosts and Networks' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=209'>Vishwanath, V.</a>, <a href='/entry.php?id=248'>Nam, S.</a>, <a href='/entry.php?id=192'>Renambot, L.</a>, <a href='/entry.php?id=21'>Leigh, J.</a>, Takahashi, H., Takizawa, M., Kobayashi, S., Kamatani, O., Ishida, O.<br>
+			<strong><a href='/entry.php?id=1562'>Achieving Large Bandwidth by Leveraging Parallelism in End-Hosts and Networks</a></strong><br>
+			<em>Proceedings of the IEEE Photonics Society Summer Topicals 2009 Conference</em>, Newport Beach, California<br>
+			July 20, 2009<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1568'><img src='/resizedImages/500x280-crop-socioscape_redathesis.png' alt='' title='SocioScape - Spatio-temporal Visual Analysis of Group Dynamics in Social Networks' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=259'>Reda, M. K.</a><br>
+			<strong><a href='/entry.php?id=1568'>SocioScape - Spatio-temporal Visual Analysis of Group Dynamics in Social Networks</a></strong><br>
+			<em>Submitted as partial fulfillment of the requirements for the degree of Master of Computer Science</em>, University of Illinois at Chicago, Graduate College<br>
+			July 16, 2009<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1579'><img src='/resizedImages/500x280-crop-tactile_sm.png' alt='' title='Design Challenges in Creating a High Resolution LCD-based Multi-touch Display' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=265'>Kahler, E.</a>, <a href='/entry.php?id=245'>Hur, H.</a>, <a href='/entry.php?id=259'>Reda, K.</a>, <a href='/entry.php?id=222'>Kooima, R.</a>, <a href='/entry.php?id=260'>Chau, D.</a>, <a href='/entry.php?id=227'>Jagodic, R.</a>, <a href='/entry.php?id=192'>Renambot, L.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=21'>Leigh, J.</a><br>
+			<strong><a href='/entry.php?id=1579'>Design Challenges in Creating a High Resolution LCD-based Multi-touch Display</a></strong><br>
+			<em>Technical Paper</em>, Chicago, IL, University of Illinois, Electronic Visualization Laboratory<br>
+			June 1, 2009<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1564'><img src='/resizedImages/500x280-crop-narst2009.png' alt='' title='Response Characteristics of Middle School Learners&rsquo; Critiques of Nanoscale Phenomena Representations' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=16'>Moher, T.</a>, L&oacute;pez Silva, B., Daly, S., <a href='/entry.php?id=254'>Bernasconi, M.</a><br>
+			<strong><a href='/entry.php?id=1564'>Response Characteristics of Middle School Learners&rsquo; Critiques of Nanoscale Phenomena Representations</a></strong><br>
+			<em>Proceedings of the 2009 NARST Annual International Conference</em>, Garden Grove, CA<br>
+			April 17, 2009<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1561'><img src='/resizedImages/500x280-crop-planetaryscale.png' alt='' title='Planetary-Scale Terrain Composition' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=222'>Kooima, R.</a>, <a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, Roberts, D., <a href='/entry.php?id=216'>Subbarao, M.</a>, <a href='/entry.php?id=6'>DeFanti, T.</a><br>
+			<strong><a href='/entry.php?id=1561'>Planetary-Scale Terrain Composition</a></strong><br>
+			<em>IEEE Transactions on Visualization and Computer Graphics</em>, IEEE Computer Society Digital Library, IEEE Computer Society<br>
+			April 16, 2009<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1565'><img src='/resizedImages/500x280-crop-aera_dnaonpda.png' alt='' title='Introducing nanoscale phenomena to middle school learners using a DNA design activity' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=4'>Lopez Silva, B.</a>, <a href='/entry.php?id=254'>Bernasconi, M.</a>, Abuhabsah, A., <a href='/entry.php?id=16'>Moher, T.</a><br>
+			<strong><a href='/entry.php?id=1565'>Introducing nanoscale phenomena to middle school learners using a DNA design activity</a></strong><br>
+			<em>Proceedings of the American Educational Research Association 2009 Annual Meeting</em>, San Diego, CA<br>
+			April 12, 2009<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1553'><img src='/resizedImages/500x280-crop-febretti_chi09_sm.png' alt='' title='Usability, Playability, and Long-Term Engagement in Computer Games' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=272'>Febretti, A.</a>, Garzotto, F.<br>
+			<strong><a href='/entry.php?id=1553'>Usability, Playability, and Long-Term Engagement in Computer Games</a></strong><br>
+			<em>CHI 2009 Work In Progress</em>, Boston, MA, ACM SIGCHI<br>
+			April 4, 2009<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1557'><img src='/resizedImages/500x280-crop-coredrillingexpedition.png' alt='' title='Design an Interactive Visualization System for Core Drilling Expeditions Using Immersive Empathic Method' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=38'>Chen, Y.</a>, <a href='/entry.php?id=181'>Lee, S.</a>, <a href='/entry.php?id=245'>Hur, H.</a>, <a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=192'>Renambot, L.</a><br>
+			<strong><a href='/entry.php?id=1557'>Design an Interactive Visualization System for Core Drilling Expeditions Using Immersive Empathic Method</a></strong><br>
+			<em>Proceedings of the SIGCHI Conference on Human Factors in Computing Systems</em>, Boston, MA<br>
+			April 4, 2009<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1560'><img src='/resizedImages/500x280-crop-scidac_optiputer.png' alt='' title='Visualizing Science: The OptIPuter Project' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			Pieper, G., <a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=192'>Renambot, L.</a>, <a href='/entry.php?id=23'>Verlo, A.</a>, <a href='/entry.php?id=49'>Long, L.</a>, <a href='/entry.php?id=178'>Brown, M.</a>, <a href='/entry.php?id=7'>Sandin, D.</a>, <a href='/entry.php?id=209'>Vishwanath, V.</a>, <a href='/entry.php?id=222'>Kooima, R.</a>, <a href='/entry.php?id=35'>Girado, J.</a>, <a href='/entry.php?id=208'>Jeong, B.</a>, <a href='/entry.php?id=6'>DeFanti, T.</a>, Liu, Q., Katz, M., Papadopoulos, P., Keefe, J., Hidley, G., <a href='/entry.php?id=20'>Dawe, G.</a>, Kaufman, I., Glogowski, B., Doerr, K., et al<br>
+			<strong><a href='/entry.php?id=1560'>Visualizing Science: The OptIPuter Project</a></strong><br>
+			<em>SciDAC Review, Issue 12</em>, IOP Publishing in association with Argonne National Laboratory, Office of Science, pp. 32-41, for the US Department of Energy<br>
+			April 1, 2009<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1559'><img src='/resizedImages/500x280-crop-cidm2009.png' alt='' title='Automatic Analysis of Eye Tracking Data for Medical Diagnosis' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=258'>Galgani, F.</a>, <a href='/entry.php?id=190'>Sun, Y.</a>, Lanzi, P. L., <a href='/entry.php?id=21'>Leigh, J.</a><br>
+			<strong><a href='/entry.php?id=1559'>Automatic Analysis of Eye Tracking Data for Medical Diagnosis</a></strong><br>
+			<em>Proceedings of IEEE Symposium on Computational Intelligence and Data Mining (IEEE CIDM 2009)</em>, Nashville, TN<br>
+			March 30, 2009<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1551'><img src='/resizedImages/500x280-crop-jeongdissertationimage.jpg' alt='' title='Visualcasting: Scalable Real-time Image Distribution in Ultra-High Resolution Display Environments' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=208'>Jeong, B.</a><br>
+			<strong><a href='/entry.php?id=1551'>Visualcasting: Scalable Real-time Image Distribution in Ultra-High Resolution Display Environments</a></strong><br>
+			<em>Submitted as partial fulfillment of the requirements of the degree of Doctor of Philosophy in Computer Science</em>, University of Illinois at Chicago, Graduate College<br>
+			March 19, 2009<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1563'><img src='/resizedImages/500x280-crop-criticalgameplaythesis.png' alt='' title='Critical Gameplay' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=243'>Grace, L. D.</a><br>
+			<strong><a href='/entry.php?id=1563'>Critical Gameplay</a></strong><br>
+			<em>A Project and Exhibition in Partial Completion of the Requirements for The Master of Fine Arts in Electronic Visualization</em>, University of Illinois at Chicago<br>
+			March 15, 2009<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1571'><img src='/resizedImages/500x280-crop-applyingaugmentedreality_sm.png' alt='' title='Applying Augmented Reality and Haptics to Evaluate Dynamic Prototypes of Mobile Devices' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			Yoganandan, A., Banerjee, P., <a href='/entry.php?id=182'>Luciano, C.</a><br>
+			<strong><a href='/entry.php?id=1571'>Applying Augmented Reality and Haptics to Evaluate Dynamic Prototypes of Mobile Devices</a></strong><br>
+			<em>Workshop on Cloud-Mobile Convergence for Virtual Reality, 2009 (CMCVR &rsquo;09)</em>, Lafayette, LA<br>
+			March 15, 2009<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1556'><img src='/resizedImages/500x280-crop-periodontalsimulator.png' alt='' title='Haptics-based virtual reality periodontal training simulator' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=182'>Luciano, C.</a>, Banerjee, P., <a href='/entry.php?id=6'>DeFanti, T.</a><br>
+			<strong><a href='/entry.php?id=1556'>Haptics-based virtual reality periodontal training simulator</a></strong><br>
+			<em>SpringerLink</em>, London, UK, Springer-Verlag<br>
+			February 13, 2009<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1554'><img src='/resizedImages/500x280-crop-greader.png' alt='' title='gReader: A Universally Designed, Device-Independent Email Client' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=243'>Grace, L. D.</a><br>
+			<strong><a href='/entry.php?id=1554'>gReader: A Universally Designed, Device-Independent Email Client</a></strong><br>
+			<em>Proceedings of the 2009 Second International Conferences on Advances in Computer-Human Interactions</em>, Cancun, Mexico<br>
+			February 1, 2009<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1555'><img src='/resizedImages/500x280-crop-artthiefsm.png' alt='' title='Art Thief: An Educational Computer Game Model for Art Historical Instruction' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			Kinkley, J.<br>
+			<strong><a href='/entry.php?id=1555'>Art Thief: An Educational Computer Game Model for Art Historical Instruction</a></strong><br>
+			<em>Leonardo Book Series</em>, vol 42, no 2, San Francisco, CA, MIT Press, pp. 133-137, Sean Cubitt<br>
+			February 1, 2009<br>
+		</div>
+	</td>
+</tr>
+<!-- End List List -->
+	</table>
+</div>
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Year:</strong>
+		<a href='/list.php?id=4&amp;year=2020'>2020</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2019'>2019</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2018'>2018</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2017'>2017</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2016'>2016</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2015'>2015</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2014'>2014</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2013'>2013</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2012'>2012</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2011'>2011</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2010'>2010</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2009'><strong>2009</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2008'>2008</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2007'>2007</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2006'>2006</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2005'>2005</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2004'>2004</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2003'>2003</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2002'>2002</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2001'>2001</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2000'>2000</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1999'>1999</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1998'>1998</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1997'>1997</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1996'>1996</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1995'>1995</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1994'>1994</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1993'>1993</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1992'>1992</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1991'>1991</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1990'>1990</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1989'>1989</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1987'>1987</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1985'>1985</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1984'>1984</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1977'>1977</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1976'>1976</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<!-- End List -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

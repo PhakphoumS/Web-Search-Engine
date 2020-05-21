@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin List -->
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Type:</strong>
+		<a href='/list.php?id=2&amp;type=1&amp;letter=W'>Alumni</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=W'><strong>Directorate</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=3&amp;letter=W'>Faculty</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=4&amp;letter=W'>Former Staff</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=5&amp;letter=W'>Staff</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=W'>Students</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=7&amp;letter=W'>Visitors</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=all&amp;letter=W'>All</a><br>
+		<strong>Name:</strong>
+		<a href='/list.php?id=2&amp;type=2&amp;letter=A'>A</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=B'>B</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=C'>C</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=D'>D</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=E'>E</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=F'>F</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=G'>G</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=H'>H</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=I'>I</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=J'>J</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=K'>K</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=L'>L</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=M'>M</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=N'>N</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=O'>O</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=P'>P</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=Q'>Q</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=R'>R</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=S'>S</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=T'>T</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=U'>U</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=V'>V</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=W'><strong>W</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=X'>X</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=Y'>Y</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=Z'>Z</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=all'>All</a>
+	</div>
+</div>
+<!-- End List Pagination -->
+<div id='list_area'>
+	<table style='width:1046px;' class='fixedTable'>
+		<tr><td><h3 style='padding:8px;'>No Results</h3></td></tr>
+	</table>
+</div>
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Type:</strong>
+		<a href='/list.php?id=2&amp;type=1&amp;letter=W'>Alumni</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=W'><strong>Directorate</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=3&amp;letter=W'>Faculty</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=4&amp;letter=W'>Former Staff</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=5&amp;letter=W'>Staff</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=W'>Students</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=7&amp;letter=W'>Visitors</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=all&amp;letter=W'>All</a><br>
+		<strong>Name:</strong>
+		<a href='/list.php?id=2&amp;type=2&amp;letter=A'>A</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=B'>B</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=C'>C</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=D'>D</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=E'>E</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=F'>F</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=G'>G</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=H'>H</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=I'>I</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=J'>J</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=K'>K</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=L'>L</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=M'>M</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=N'>N</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=O'>O</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=P'>P</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=Q'>Q</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=R'>R</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=S'>S</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=T'>T</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=U'>U</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=V'>V</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=W'><strong>W</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=X'>X</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=Y'>Y</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=Z'>Z</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=all'>All</a>
+	</div>
+</div>
+<!-- End List Pagination -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

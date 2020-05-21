@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Entry -->
+<table id='entry_area' class='fixedTable'>
+	<tr>
+		<td style='width:676px;'>
+			<div id='entry_info'>
+<!-- Begin Entry Info -->
+<h3>Augmented Reality App Offers New Look at Eastland Disaster</h3>
+<div id='entry_image_large'><img style='left:50px;' src='/resizedImages/1280x720-riverwalkaroct16.jpg' alt='' title='Augmented Reality App Offers New Look at Eastland Disaster' width='540' height='360'></div>
+<span class='smallText'>A sample photo from the historical archive superimposed on the live camera stream. In order to create an appealing AR effect, the photo needs to appear aligned with specific environmental features. - Image courtesy M. Cavallo</span><br><br>
+<div class='entry_content'>
+	<strong>Participants:</strong> <a href='/entry.php?id=2473'>Angus Forbes</a>, <a href='/entry.php?id=2156'>Marco Cavallo</a>, Geoffrey Alan Rhodes (SAIC)<br><br>
+	<strong>URL:</strong> <a href='http://chicago00.org/' target='_blank'>http://chicago00.org/</a><br><br>
+<!-- Begin Entry Description -->
+October 2016 - Augmented reality (AR) is being used in a very novel and compelling way to engage Chicago residents and tourists into learning more about the city&rsquo;s history. John Russick of the Chicago History Museum teamed with Geoffrey Alan Rhodes at the School of the Art Institute (SAIC) to create Chicago 0,0 Riverwalk, a mobile AR application that superimposes historical imagery onto matching views of Chicago&rsquo;s downtown riverwalk. The first project focuses on a single block between N. LaSalle and Clark Streets, the site of the Eastland Disaster in 1915, in which 844 people lost their lives on a pleasure boat when it rolled over in the Chicago River. On October 19, 2016, journalist Jay Shefsky told the story of how AR to being used to chronicle the tragedy of the <a href="http://chicagotonight.wttw.com/2016/10/19/augmented-reality-app-offers-new-look-eastland-disaster">S.S. Eastland on an episode of WTTW Chicago Tonight television</a>.<br><br>
+During the development of this application, UIC Computer Science (CS) professor Angus Forbes and his MS student Marco Cavallo, both affiliated with the Electronic Visualization Laboratory (EVL), worked with the SAIC faculty and students on technical considerations that have since been incorporated into the second version of the application software. EVL&rsquo;s expertise enabled better tracking and feature detection of real-world objects; better registration and orientation of the real-world environment with historical photographs; the use of a smart, intuitive interface to help users navigate in the real world and locate historical images; and, better image contrast, even on overcast days with adverse lighting conditions. Together, these technical efforts have contributed to better user experiences.<br><br>
+In the WTTW story, John Russick of the Chicago History Museum notes the value of this AR application: &ldquo;One of the biggest challenges in communicating history is finding human emotional connections to very old stories … that draw us in a deeper, more meaningful way.&rdquo; Rather than passively view photographs or documentary films, AR enables users to experience history firsthand, in its relevant surroundings.<br><br>
+<a href="http://chicago00.org/">Download more information and the Chicago 0,0 app for smartphones or tablets</a>.<br><br>
+Marco Cavallo (UIC), Geoffrey Alan Rhodes (SAIC) and Angus Forbes (UIC) co-authored a poster paper <a href="https://www.evl.uic.edu/entry.php?id=2255">&ldquo;Riverwalk: Incorporating Historical Photographs in Public Outdoor Augmented Reality Experiences,&rdquo;</a> that was presented at the 15th IEEE International Symposium on Mixed and Augmented Reality (ISMAR), September 15-23, 2016, in Merida, Mexico.<br><br>
+<!-- End Entry Description -->
+	<strong>Email:</strong> <a href='mailto:maxine@uic.edu'>maxine@uic.edu</a><br><br>
+	<strong>Date:</strong> October 1, 2016
+</div>
+<!-- End Entry Info -->
+			</div>
+		</td>
+		<td style='width:374px;'>
+			<div id='entry_sidebar'>
+<!-- Begin Entry Sidebar -->
+<div class='entry_content'>
+	<h3>Related Entries</h3>
+	<strong>Directory:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2156'>Marco Cavallo</a></li>
+		<li><a href='/entry.php?id=2473'>Angus Forbes</a></li>
+	</ul><br>
+	<strong>Events:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2172'>Riverwalk: Incorporating Historical Photography in Public Outdoor Augmented Reality Experiences</a></li>
+	</ul><br>
+	<strong>Papers:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2255'>Riverwalk: Incorporating Historical Photographs in Public Outdoor Augmented Reality Experiences</a></li>
+	</ul><br>
+	<strong>Research:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2171'>Riverwalk: Incorporating Historical Photographs in Public Outdoor Augmented Reality Experiences</a></li>
+	</ul><br>
+	<h3>Related Categories</h3>
+	<ul>
+		<li><a href='/category.php?id=3&amp;related=3'>Applications</a></li>
+		<li><a href='/category.php?id=39&amp;related=3'>Augmented Reality</a></li>
+		<li><a href='/category.php?id=41&amp;related=3'>Mixed Reality</a></li>
+	</ul>
+</div>
+<!-- End Entry Sidebar-->
+			</div>
+		</td>
+	</tr>
+</table>
+<!-- End Entry -->
+<script>
+	// Making both divs the same height is much easier in JavaScript
+	var entryInfo = document.getElementById("entry_info");
+	var entrySidebar = document.getElementById("entry_sidebar");
+	
+	if (entryInfo && entrySidebar) {
+		var maxHeight = Math.max(entryInfo.offsetHeight, entrySidebar.offsetHeight)-20;
+		entryInfo.style.height = maxHeight+"px";
+		entrySidebar.style.height = maxHeight+"px";
+	}
+</script>
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

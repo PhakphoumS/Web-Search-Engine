@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Entry -->
+<table id='entry_area' class='fixedTable'>
+	<tr>
+		<td style='width:676px;'>
+			<div id='entry_info'>
+<!-- Begin Entry Info -->
+<h3>MRI - Development of Continuum: A Virtualized Attentive Environment for Amplified Collaboration</h3>
+<div id='entry_image_large'><img style='left:0;' src='/resizedImages/1280x720-continuumrendering.png' alt='' title='MRI - Development of Continuum: A Virtualized Attentive Environment for Amplified Collaboration' width='640' height='225'></div>
+<span class='smallText'>Artist's rendering of Continuum space. - Jonas Talandis, EVL</span><br><br>
+<div class='entry_content'>
+	<strong>Researchers:</strong> <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=2278'>Debaleena Chattopadhyay</a>, <a href='/entry.php?id=2052'>G. Elisabeta Marai</a>, <a href='/entry.php?id=2368'>Jack O'Donnell</a>, <a href='/entry.php?id=285'>Jillian Aurisano</a>, <a href='/entry.php?id=2322'>Joe Borowicz</a>, <a href='/entry.php?id=24'>Jonas Talandis</a>, <a href='/entry.php?id=2371'>Kayla Condrella</a>, <a href='/entry.php?id=2370'>Kenan Arica</a>, <a href='/entry.php?id=49'>Lance Long</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=2367'>Michael Avendano</a>, <a href='/entry.php?id=2453'>Navya Reddy</a>, <a href='/entry.php?id=14'>Robert V. Kenyon</a>, <a href='/entry.php?id=2445'>Sumayya Siddiqui</a>, <a href='/entry.php?id=2448'>Szymon Popowski</a>, <a href='/entry.php?id=2303'>Vijayraj Mahida</a>, Barbara DiEugenio<br><br>
+	<strong>Funding:</strong> National Science Foundation<br><br>
+<!-- Begin Entry Description -->
+Just as NSF cyberinfrastructure produces greater volumes and varieties of data from data storage systems, online instrumentation and major computational resources like XSEDE and Blue Waters, advanced visualization instruments serve as the &ldquo;lenses&rdquo; of these data generators (similar to the telescopes and microscopes of yore), enabling researchers to peer into cyberspace to manage, access and analyze big data.<br><br>
+Continuum is a cyberinfrastructure instrument that unifies high-resolution computer-enhanced group collaboration workspaces with arrays of ambient sensors, enabling users to collaborate with local and remote colleagues and their data more effectively by giving the room itself the ability to anticipate their needs, improve their interaction, and focus their time on discovery rather than the technology. Continuum is a digital assistant, benefiting global scientific collaboratories and providing a foundation for new computer science research. War rooms benefit collaboration because they support continuous interaction and awareness of team members, enable persistent information sharing, and encourage mobility among team members and information. A computer-enhanced war room, such as Continuum, which (1) connects distributed teams with their data, whether stored in the cloud or streamed from major computational resources over high-speed networks, (2) supports persistent digital artifacts, (3) enables ultra-high-resolution 2D and 3D stereoscopic digital media to be simultaneously viewed, and (4) supports ubiquitous and intuitive interaction, creates a powerful and easy-to-use information-rich environment in support of scientific discovery.<br><br>
+Continuum is the culmination of the University of Illinois at Chicago’s (UIC) 20+ years experience developing interactive instruments, from the original CAVE in 1992, to the ultra-high-resolution LambdaVision tiled LCD wall in 2004, and the hybrid-reality CAVE2 in 2012. Each new generation of visualization instrumentation provided scientific communities with more advanced features Continuum development focuses on three areas: (1) transforming passive display walls that respond to user commands into attentive display walls that monitor the users in a room and anticipate their needs to improve their experience; (2) providing an alternative approach to constructing high-resolution visualization display walls using thin-border 4K passive stereo OLED displays that have impressive brightness, contrast, uniformity, off-axis viewing, and low reflectivity in brightly lit rooms; and (3) utilizing cloud computing to prototype future Continuum spaces that don’t require local high-end compute and display resources.<br><br>Twelve funded research projects from local institutions, in Astronomy, Astrophysics, Biology,
+Combustion, Geophysics, Neuroscience, Pathology, Physics, Psychiatry, and High Performance Computing, are poised to use Continuum for their data visualization needs. Continuum will open up new opportunities in computer science research at the intersection of large-scale data visualization, human-computer interaction, and high-speed networking. Continuum will also directly support 10 classes taught in the UIC Computer Science, Art and Design, and Biomedical Science departments.<br><br><br><br>
+<!-- End Entry Description -->
+	<strong>Email:</strong> <a href='mailto:ajohnson@uic.edu'>ajohnson@uic.edu</a><br><br>
+	<strong>Date:</strong> October 1, 2016 - September 30, 2019
+</div>
+<!-- End Entry Info -->
+			</div>
+		</td>
+		<td style='width:374px;'>
+			<div id='entry_sidebar'>
+<!-- Begin Entry Sidebar -->
+<div class='entry_content'>
+	<h3>Related Entries</h3>
+	<strong>Directory:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2278'>Debaleena Chattopadhyay</a></li>
+		<li><a href='/entry.php?id=285'>Jillian Aurisano</a></li>
+		<li><a href='/entry.php?id=2367'>Michael Avendano</a></li>
+		<li><a href='/entry.php?id=2322'>Joe Borowicz</a></li>
+		<li><a href='/entry.php?id=2368'>Jack O'Donnell</a></li>
+		<li><a href='/related.php?id=2316&amp;related=2'><strong>View more&hellip;</strong></a></li>
+	</ul><br>
+	<strong>Papers:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2372'>Precision Risk Analysis of Cancer Therapy with Interactive Nomograms and Survival Plots</a></li>
+	</ul><br>
+	<strong>Research:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=1971'>Cyber-Commons</a></li>
+		<li><a href='/entry.php?id=2053'>Effective Use of Large Visualization Displays</a></li>
+		<li><a href='/entry.php?id=1802'>The Continuum Project</a></li>
+	</ul><br>
+	<h3>Related Categories</h3>
+	<ul>
+		<li><a href='/category.php?id=31&amp;related=5'>Audio Research</a></li>
+		<li><a href='/category.php?id=9&amp;related=5'>Devices</a></li>
+		<li><a href='/category.php?id=10&amp;related=5'>Education</a></li>
+		<li><a href='/category.php?id=43&amp;related=5'>Human Computer Interaction (HCI)</a></li>
+		<li><a href='/category.php?id=12&amp;related=5'>Human Factors</a></li>
+		<li><a href='/category.php?id=17&amp;related=5'>Multimedia</a></li>
+		<li><a href='/category.php?id=33&amp;related=5'>Natural Language Processing</a></li>
+		<li><a href='/category.php?id=19&amp;related=5'>Networking</a></li>
+		<li><a href='/category.php?id=20&amp;related=5'>Software</a></li>
+		<li><a href='/category.php?id=34&amp;related=5'>Tele-Collaboration</a></li>
+		<li><a href='/category.php?id=23&amp;related=5'>Tele-Immersion</a></li>
+		<li><a href='/category.php?id=24&amp;related=5'>User Groups</a></li>
+		<li><a href='/category.php?id=27&amp;related=5'>Visualization</a></li>
+	</ul>
+</div>
+<!-- End Entry Sidebar-->
+			</div>
+		</td>
+	</tr>
+</table>
+<!-- End Entry -->
+<script>
+	// Making both divs the same height is much easier in JavaScript
+	var entryInfo = document.getElementById("entry_info");
+	var entrySidebar = document.getElementById("entry_sidebar");
+	
+	if (entryInfo && entrySidebar) {
+		var maxHeight = Math.max(entryInfo.offsetHeight, entrySidebar.offsetHeight)-20;
+		entryInfo.style.height = maxHeight+"px";
+		entrySidebar.style.height = maxHeight+"px";
+	}
+</script>
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

@@ -1,0 +1,64 @@
+
+  <div id="page"><div id="page-inner">
+
+    <a name="top" id="navigation-top"></a>
+    <div role="banner" id="header"><div id="header-inner" class="clear-block" role="navigation" aria-label="Top Menu">
+      <a href="/"><img src="/sites/all/themes/ihrp/images/IHRP_Logo.png" alt="Institute for Health Research and Policy" title="I H R P home page" /></a>
+
+      <!-- the following is the code for the little blue top menu  -->
+      <span class="littleBlueMenu">
+        <a href="/people/list">People</a>
+        <a href="/content/contact-us">Contact Us</a>
+         
+            <a href="/print/7" class="active">Print this page</a>		    <a href="/forward/?path=node/7">E-mail to a Colleague</a>				
+      </span>
+
+      
+	              <div id="primary">
+                            </div> <!-- /#primary -->
+      
+      
+    </div></div> <!-- /#header-inner, /#header -->
+
+    <div role="main" id="main"><div id="main-inner" class="clear-block with-navbar">
+
+      <div id="content"><div id="content-inner">
+                
+
+                    <div id="sideimage-left">
+                <div id="sideimage-left-inner">
+                    <img src="/sites/all/themes/ihrp/images/Left-Banner.jpg" alt="UIC IHRP Side Image" />
+                </div>
+            </div> <!-- /#sideimage-left-inner, /#sideimage-left -->
+
+        
+		<div id="content-area">
+                      <div id="content-header">
+                          </div> <!-- /#content-header -->
+          
+                      <h1 class="title">Center for Research on Health and Aging</h1>
+                                <div class="tabs"></div>
+          	                    </div>
+
+        
+      </div></div> <!-- /#content-inner, /#content -->
+
+              <div id="navbar"><div id="navbar-inner">
+
+          <a name="navigation" id="navigation"></a>
+
+          
+        </div></div> <!-- /#navbar-inner, /#navbar -->
+      
+
+    </div></div> <!-- /#main-inner, /#main -->
+
+    <div id="footer"><div id="footer-inner">
+
+      <div id="footer-message"></div>
+
+    </div></div> <!-- /#footer-inner, /#footer -->
+
+    
+    
+  </div></div> <!-- /#page-inner, /#page -->

@@ -1,0 +1,98 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+    <base href='https://www.ihrp.uic.edu/content/contact-us' />
+    <title>Contact Us</title>
+    <script src="https://www.ihrp.uic.edu/misc/jquery.js?v=1.4.4"></script>
+<script src="https://www.ihrp.uic.edu/misc/jquery-extend-3.4.0.js?v=1.4.4"></script>
+<script src="https://www.ihrp.uic.edu/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.ihrp.uic.edu/misc/drupal.js?q8vwl2"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/field_group/field_group.js?q8vwl2"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/themes/ihrp/js/script.js?q8vwl2"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"ihrp","theme_token":"y-B9Dd-0PkmuAYgueeHyYbV9xfpnd6ZfjaxdmJfNKLk","js":{"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/field_group\/field_group.js":1,"sites\/all\/themes\/ihrp\/js\/script.js":1}},"field_group":{"fieldset":"print"}});</script>
+    <script type="text/javascript">(function ($) { Drupal.behaviors.print = {attach: function() {$(window).load(function() {window.print();})}}})(jQuery);</script>    <meta name="robots" content="noindex, nofollow" />          <link rel='shortcut icon' href='https://www.ihrp.uic.edu/files/favicon.ico' type='image/x-icon' />
+        <style>
+@import url("https://www.ihrp.uic.edu/modules/system/system.base.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/system/system.menus.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/system/system.messages.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/system/system.theme.css?q8vwl2");
+</style>
+<style>
+@import url("https://www.ihrp.uic.edu/modules/aggregator/aggregator.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/comment/comment.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/date/date_api/date.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/field/theme/field.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/node/node.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/search/search.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/user/user.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/views/css/views.css?q8vwl2");
+</style>
+<style>
+@import url("https://www.ihrp.uic.edu/sites/all/modules/ctools/css/ctools.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/print/css/print.css?q8vwl2");
+</style>
+  </head>
+  <body>
+            <div class="print-site_name">Published on <em class="placeholder">Institute for Health Research and Policy | University of Illinois at Chicago</em> (<a href="https://www.ihrp.uic.edu">https://www.ihrp.uic.edu</a>)</div>
+    <p />
+    <div class="print-breadcrumb"><a href="/">Home</a> &gt; Contact Us</div>
+    <hr class="print-hr" />
+        <div class="print-content">
+<article class="node-67 node node-page view-mode-print clearfix" about="/content/contact-us" typeof="sioc:Item foaf:Document">
+
+      <header>
+                    <h2 class="node__title node-title"><a href="https://www.ihrp.uic.edu/content/contact-us">Contact Us</a> <span class="print-footnote">[1]</span></h2>
+            <span property="dc:title" content="Contact Us" class="rdf-meta element-hidden"></span>
+      
+          </header>
+  
+	
+  <h2>
+	For UIC Scientists</h2>
+<p>As a UIC scientist in the social or health sciences, we invite you to explore with our Leadership Team how the Institute can support your research. Contact them by <a href="https://go.uic.edu/Talk2IHRP">completing this form</a> <span class="print-footnote">[2]</span>.</p>
+<h2>
+	Our Mailing Address</h2>
+<p>UIC Institute for Health Research and Policy (MC 275)<br />
+	Westside Research Office Building, 5th floor<br />
+	1747 West Roosevelt Road<br />
+	Chicago, IL 60608</p>
+<p><a href="https://www.ihrp.uic.edu/content/directions">View Directions</a> <span class="print-footnote">[3]</span></p>
+<h3>
+	Other Contact Info</h3>
+<p><a href="mailto:ihrpinfo@uic.edu">IHRPinfo@uic.edu</a> <span class="print-footnote">[4]</span></p>
+<p><strong>Phone: </strong>(312) 996-7222</p>
+<p><strong>Fax: </strong>(312) 996-2703</p>
+<p><a href="https://www.ihrp.uic.edu/people/list/all">View our staff directory</a> <span class="print-footnote">[5]</span>.</p>
+
+  
+</article><!-- /.node -->
+</div>
+    <div class="print-footer">
+<div id="block-block-43" class="block block-block first odd">
+
+      
+  <p><strong>Institute for Health Research and Policy of the University of Illinois at Chicago</strong><br />
+	Multidisciplinary Home of UIC Researchers Collaborating in the Social and Health Sciences</p>
+<p>1747 W. Roosevelt Road, MC 275, Westside Research Office Bldg., Chicago, IL 60608<br />
+	T: <a href="tel:(312) 996-7222">(312) 996-7222</a> · F: (312) 996-2703</p>
+<p><a href="http://www.uic.edu/">UIC.edu</a> · <a href="https://www.uic.edu/apps/find-people/search">Campus Directory</a> · <a href="http://disabilityresources.uic.edu/">Disability Resources</a> · <a href="/content/employment-ihrp">Job Openings</a> · <a href="https://maps.uic.edu/">Maps</a> · <a href="/content/contact-us">Contact Us</a></p>
+<p>© 2020 <a href="http://www.uillinois.edu/trustees/">The Board of Trustees of the University of Illinois</a> · Privacy Policy · Webmaster: <a href="mailto:IHRP-webfix@uic.edu">IHRP-webfix@uic.edu</a></p>
+
+</div>
+</div>
+    <hr class="print-hr" />
+          <div class="print-source_url">
+        <strong>Source URL (modified on 07/17/2019 - 5:07pm):</strong> https://www.ihrp.uic.edu/content/contact-us      </div>
+        <div class="print-links"><p><strong>Links</strong><br />[1] https://www.ihrp.uic.edu/content/contact-us<br />
+[2] https://go.uic.edu/Talk2IHRP<br />
+[3] https://www.ihrp.uic.edu/content/directions<br />
+[4] mailto:ihrpinfo@uic.edu<br />
+[5] https://www.ihrp.uic.edu/people/list/all<br />
+</p></div>
+      </body>
+</html>

@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Entry -->
+<table id='entry_area' class='fixedTable'>
+	<tr>
+		<td style='width:676px;'>
+			<div id='entry_info'>
+<!-- Begin Entry Info -->
+<h3>Crain&rsquo;s newspaper features &ldquo;How UIC is making room for a computer science boom&rdquo;</h3><br>
+<div class='entry_content'>
+	<!-- Begin Entry Description -->
+EDITOR&rsquo;S NOTE: The March 27, 2017 edition of Crain&rsquo;s Chicago Business has a front page article featuring Dr. Pete Nelson, Dean of the UIC College of Engineering (COE). His portrait, which takes up more than half the page, was photographed at the UIC Electronic Visualization Laboratory. Nelson is standing in the CAVE2&trade; Hybrid Reality System in front of colorful connectome data provided by the UIC Psychiatry department.<br><br>
+The article, &ldquo;How UIC is making room for a computer science boom&rdquo; by journalist John Pletz, focuses on UIC&rsquo;s burgeoning computer science enrollment, which became the largest major in the COE this year and is the fastest-growing program on campus. The article looks at national trends in undergraduate computer science enrollment, which has more than tripled between 2006 and 2015, and how UIC&rsquo;s growth compares locally with Northwestern University and University of Chicago, as well as its sister institution, the University of Illinois at Urbana-Champaign. It also talks about UIC&rsquo;s close proximity to the fast-growing Fulton Market district that&rsquo;s home to Google and dozens of tech companies.<br><br>
+Along with its location, Nelson brags about some of UIC&rsquo;s strength, notably in cybersecurity, data mining and data visualization. He is committed to supporting and facilitating UIC&rsquo;s engineering growth. U of I&rsquo;s Board of Trustees just gave final approval to build a $34-Million 50,000-square-foot engineering building with ​labs and office space; it's the first new UIC academic building since 1991. In addition, Nelson wants to build a 168,000-square-foot home for computer science by 2021 and is in the process of raising funds. Journalist Pletz writes, &ldquo;given the financial condition of the state, which has $13 billion in overdue bills and hasn&rsquo;t passed a complete budget in nearly two years...the irresistible force that is demand for computer science talent is greater than the immovable object that is political gridlock.&rdquo; The article concludes with a statement from Nelson stating, &ldquo;Our job is to provide students access to excellence. To maintain that access, we have to grow.&rdquo;<br><br>
+<a href="http://www.chicagobusiness.com/article/20170324/ISSUE01/170329891/uic-expanding-space-for-booming-computer-science-department
+">Read the Crain&rsquo;s article.</a><br><br>
+<!-- End Entry Description -->
+	<strong>Email:</strong> <a href='mailto:maxine@uic.edu'>maxine@uic.edu</a><br><br>
+	<strong>Date:</strong> March 27, 2017
+</div>
+<!-- End Entry Info -->
+			</div>
+		</td>
+		<td style='width:374px;'>
+			<div id='entry_sidebar'>
+<!-- Begin Entry Sidebar -->
+<div id='entry_image_small'>
+	<img style='left:0; ' src='/resizedImages/350x622-uic-coe-crains-032717-img_1031.jpg' alt='' title='Crain&rsquo;s newspaper features &ldquo;How UIC is making room for a computer science boom&rdquo;' width='350' height='464'>
+</div>
+<span class='smallText'>The front page of Crain&rsquo;s Chicago Business, March 27, 2017. Peter Nelson, dean of UIC&rsquo;s College of Engineering, in the school&rsquo;s Electronic Visualization Laboratory. - Photo by John R. Boehm</span><br><br>
+<div class='entry_content'>
+	<h3>No Related Entries</h3><br>
+	<h3>No Related Categories</h3>
+</div>
+<!-- End Entry Sidebar-->
+			</div>
+		</td>
+	</tr>
+</table>
+<!-- End Entry -->
+<script>
+	// Making both divs the same height is much easier in JavaScript
+	var entryInfo = document.getElementById("entry_info");
+	var entrySidebar = document.getElementById("entry_sidebar");
+	
+	if (entryInfo && entrySidebar) {
+		var maxHeight = Math.max(entryInfo.offsetHeight, entrySidebar.offsetHeight)-20;
+		entryInfo.style.height = maxHeight+"px";
+		entrySidebar.style.height = maxHeight+"px";
+	}
+</script>
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

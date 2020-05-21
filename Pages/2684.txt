@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Related -->
+<div id='related_area'>
+	<div id='related_title'>
+		<a href='/entry.php?id=2016'><h3>CAVE2: Next-Generation Virtual-Reality and Visualization Hybrid Environment for Immersive Simulation and Information Analysis</h3></a><br>
+<!-- Begin Related Pagination -->
+<strong>Related:</strong>
+<a href='/related.php?id=2016&amp;related=1'>Art</a>&nbsp;&nbsp;
+<a href='/related.php?id=2016&amp;related=2'>Directory</a>&nbsp;&nbsp;
+<a href='/related.php?id=2016&amp;related=3'>Events</a>&nbsp;&nbsp;
+<a href='/related.php?id=2016&amp;related=4'><strong>Papers</strong></a>&nbsp;&nbsp;
+<a href='/related.php?id=2016&amp;related=5'>Research</a>&nbsp;&nbsp;
+<!-- End Related Pagination -->
+	</div>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin Related List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2431'><img src='/resizedImages/500x280-crop-cga_evl_ia25years.jpg' alt='' title='Immersive Analytics Lessons from the Electronic Visualization Laboratory: a 25 Year Perspective' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<a href='/entry.php?id=2052'>Marai, G.E.</a>, <a href='/entry.php?id=21'>Leigh, J. </a>, <a href='/entry.php?id=10'>Johnson, A.E.</a><br>
+			<strong><a href='/entry.php?id=2431'>Immersive Analytics Lessons from the Electronic Visualization Laboratory: a 25 Year Perspective</a></strong><br>
+			<em>IEEE Computer Graphics and Applications</em>, vol 39, no 3, pp. 54-66<br>
+			May 1, 2019<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2444'><img src='/resizedImages/500x280-crop-cave2_patent-us9800862b2.png' alt='' title='System and Methods for Visualizing Information (US 9,800,862 B2 - CAVE2)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<a href='/entry.php?id=7'>Sandin, D.J.</a>, <a href='/entry.php?id=199'>Peterka, T.</a>, <a href='/entry.php?id=24'>Talandis, J.</a>, Leigh, J., <a href='/entry.php?id=49'>Long, L.</a>, <a href='/entry.php?id=192'>Renambot, L.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=178'>Brown, M.</a><br>
+			<strong><a href='/entry.php?id=2444'>System and Methods for Visualizing Information (US 9,800,862 B2 - CAVE2)</a></strong><br>
+			<em>United States Patent US 9,800,862 B2</em><br>
+			October 24, 2017<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2261'><img src='/resizedImages/500x280-crop-issp127-marrinana.png' alt='' title='Interactive Multi-Modal Display Spaces for Visual Analysis' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<a href='/entry.php?id=290'>Marrinan, T.</a>, <a href='/entry.php?id=270'>Nishimoto, A.</a>, <a href='/entry.php?id=104'>Insley, J.</a>, Rizzi, S., <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=122'>Papka, M.</a><br>
+			<strong><a href='/entry.php?id=2261'>Interactive Multi-Modal Display Spaces for Visual Analysis</a></strong><br>
+			<em>Proceedings of the 2016 ACM International Conference on Interactive Surfaces and Spaces (ISS '16)</em>, Niagra Falls, ON, Canada, pp. 421-426<br>
+			November 6, 2016<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2264'><img src='/resizedImages/500x280-crop-marai_ieee_ia2016.png' alt='' title='Interdisciplinary Immersive Analytics at the Electronic Visualization Laboratory: Lessons Learned and Upcoming Challenges' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<a href='/entry.php?id=2052'>Marai, G.E.</a>, <a href='/entry.php?id=2473'>Forbes, A.</a>, <a href='/entry.php?id=10'>Johnson, A.</a><br>
+			<strong><a href='/entry.php?id=2264'>Interdisciplinary Immersive Analytics at the Electronic Visualization Laboratory: Lessons Learned and Upcoming Challenges</a></strong><br>
+			<em>IEEE VR 2016 Immersive Analytics Workshop</em>, Greenville, SC<br>
+			March 19, 2016<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2150'><img src='/resizedImages/500x280-crop-aes.jpg' alt='' title='Decorrelated Audio Imaging in Radial Virtual Reality Environments' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<a href='/entry.php?id=310'>Dalle Molle, B.</a>, <a href='/entry.php?id=309'>Pinkl, J.</a>, <a href='/entry.php?id=308'>Blewett, M.</a><br>
+			<strong><a href='/entry.php?id=2150'>Decorrelated Audio Imaging in Radial Virtual Reality Environments</a></strong><br>
+			<em>Audio Engineering Society Convention E-Brief 208</em>, Audio Engineering Society Convention E-Brief 208<br>
+			October 23, 2015<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1650'><img src='/resizedImages/500x280-crop-cave2_aes_blewett.png' alt='' title='Dynamic Audio Imaging in Radial Virtual Reality Environments' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<a href='/entry.php?id=308'>Blewett, M.</a>, <a href='/entry.php?id=309'>Pinkl, J.</a>, <a href='/entry.php?id=310'>Dalle Molle, B.</a><br>
+			<strong><a href='/entry.php?id=1650'>Dynamic Audio Imaging in Radial Virtual Reality Environments</a></strong><br>
+			<em>Audio Engineering Society Convention e-Brief</em>, Los Angeles, CA<br>
+			October 9, 2014<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1632'><img src='/resizedImages/500x280-crop-reda_ldav13_sm.png' alt='' title='Visualizing Large-Scale Atomistic Simulations in Ultra-Resolution Immersive Environments' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<a href='/entry.php?id=259'>Reda, K.</a>, Knoll, A., Nomura, K., <a href='/entry.php?id=122'>Papka, M.E.</a>, <a href='/entry.php?id=10'>Johnson, A.E.</a>, <a href='/entry.php?id=21'>Leigh, J.</a><br>
+			<strong><a href='/entry.php?id=1632'>Visualizing Large-Scale Atomistic Simulations in Ultra-Resolution Immersive Environments</a></strong><br>
+			<em>Proceedings of the IEEE Symposium on Large-Scale Data Analysis and Visualization (LDAV &rsquo;13)</em>, Atlanta, GA, pp. 59-65<br>
+			October 13, 2013<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1627'><img src='/resizedImages/500x280-crop-cave2_ieee_immersivemeeting.jpg' alt='' title='Visualizing Large, Heterogeneous Data in Hybrid-Reality Environments' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<a href='/entry.php?id=259'>Reda, K.</a>, <a href='/entry.php?id=272'>Febretti, A.</a>, Knoll, A., <a href='/entry.php?id=285'>Aurisano, J.</a>, <a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=122'>Papka, M.</a>, <a href='/entry.php?id=38'>Hereld, M.</a><br>
+			<strong><a href='/entry.php?id=1627'>Visualizing Large, Heterogeneous Data in Hybrid-Reality Environments</a></strong><br>
+			<em>Computer Graphics and Applications, IEEE</em>, vol 33, no 4, pp. 38-48<br>
+			July 1, 2013<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1616'><img src='/resizedImages/500x280-crop-cavebackgrounder.png' alt='' title='CAVE Backgrounder' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<a href='/entry.php?id=178'>Brown, M.</a>, <a href='/entry.php?id=6'>DeFanti, T.</a>, <a href='/entry.php?id=7'>Sandin, D.</a><br>
+			<strong><a href='/entry.php?id=1616'>CAVE Backgrounder</a></strong><br>
+			<em>University of Illinois at Chicago, February 20, 1995</em><br>
+			February 20, 1995<br>
+		</div>
+	</td>
+</tr>
+<!-- End Related List -->
+	</table>
+</div>
+<!-- End Related -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

@@ -1,0 +1,746 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Category -->
+<!-- Begin Category Pagination -->
+<div class='category_area'>
+	<div class='category_content'>
+		<h3>Devices</h3><br>
+		EVL developed the <a href="/entry.php?id=1769">CAVE&trade;</a>, a room-sized virtual reality (VR) device, in 1991, and continued to enhance CAVE&trade; technology, by creating derivative projection-based VR devices (such as the <a href="/entry.php?id=1770">ImmersaDesk&trade;</a>, <a href="/entry.php?id=1771">ImmersaDesk2&trade;</a> and <a href="/entry.php?id=1703">PARIS&trade;</a> - Personal Augmented Reality Immersive System).<br><br> Research in the development of &ldquo;third-generation&rdquo; advanced visualization devices for variable resolution, desktop / office-sized displays became EVL&rsquo;s focus through the early 2000&rsquo;s with emphasis upon developing multi-user display environments that are extremely high resolution - with autostereo capabilities, unencumbered tracking and intuitive user interaction. Advances in this area include the development of the <a href="/entry.php?id=1876">35-panel Varrier</a> (autostereo), <a href="/entry.php?id=1874">LambdaVision</a> (155 megapixel tiled display), <a href="/entry.php?id=1905">LambdaTable</a> (horizontal multi-user, high-res tiled display), and most recently, <a href="/entry.php?id=1984">TacTile</a> (a 52&rdquo; HD, multi-touch interactive system).<br><br> In 2012, EVL premiered it&rsquo;s latest development - the <a href="http://www.evl.uic.edu/core.php?mod=4&amp;type=1&amp;indi=424">CAVE2&trade; Hybrid Reality Environment</a>. CAVE2 is the next-generation large-scale virtual-reality environment. A hybrid system that combines the benefits of both scalable-resolution display walls and virtual-reality systems to create a seamless 2D / 3D environment that supports both information-rich analysis as well as virtual-reality simulation exploration at a resolution matching human visual acuity.<br><br> EVL provides scientific researchers, educators, and artists access to the latest advanced visualization hardware to explore their data in highly immersive, highly interactive environments and promote computer-based art and education. Examples of such work are interactive / shared-context / collaborative, and remote collaborative exhibition pieces that involve audiences in the creation of VR environments and/or narrative.<br><br> EVL&rsquo;s <a href="/entry.php?id=1836">GeoWall</a> has been deployed in a large number of Universities to support undergraduate geoscience education. While other EVL-developed systems have been featured in museum installations such as the Adler Planetarium, SciTech Museum, Field Museum, and the Science Museum of Minnesota to name a few.<br><br> The goal of EVL&rsquo;s advanced visualization device research is to develop compelling prototypes / systems for improvement and reproduction by the commercial / industrial sector, as well as integration into educational programs and museum installations for public use.
+	</div>
+	<div class='category_content'>
+		<strong>Related:</strong>
+		<a href='/category.php?id=9&amp;related=1'>Art</a>&nbsp;&nbsp;
+		<a href='/category.php?id=9&amp;related=2'>Directory</a>&nbsp;&nbsp;
+		<a href='/category.php?id=9&amp;related=3'>Events</a>&nbsp;&nbsp;
+		<a href='/category.php?id=9&amp;related=4'>Papers</a>&nbsp;&nbsp;
+		<a href='/category.php?id=9&amp;related=5'><strong>Research</strong></a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End Category Pagination -->
+<div class='category_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin Category List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2363'><img src='/resizedImages/500x280-crop-sounddome.png' alt='' title='Ableton Live Integration & Audio Effects for a 32 Speaker Ambisonic Sound System' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2363'>Ableton Live Integration & Audio Effects for a 32 Speaker Ambisonic Sound System</a></strong><br>
+			<a href='/entry.php?id=2137'>Anil Camci</a>, <a href='/entry.php?id=2362'>Sean Walker</a>, Ryan Hauser<br>
+			August 15, 2018 - Ongoing<br><br>
+			Ableton Live is music software designed for computer-based composition and performance. Ambisonics is a full-sphere surround sound technique used for&hellip; <a href='/entry.php?id=2363'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2316'><img src='/resizedImages/500x280-crop-continuumrendering.png' alt='' title='MRI - Development of Continuum: A Virtualized Attentive Environment for Amplified Collaboration' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2316'>MRI - Development of Continuum: A Virtualized Attentive Environment for Amplified Collaboration</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=2278'>Debaleena Chattopadhyay</a>, <a href='/entry.php?id=2052'>G. Elisabeta Marai</a>, <a href='/entry.php?id=2368'>Jack O'Donnell</a>, <a href='/entry.php?id=285'>Jillian Aurisano</a>, <a href='/entry.php?id=2322'>Joe Borowicz</a>, <a href='/entry.php?id=24'>Jonas Talandis</a>, <a href='/entry.php?id=2371'>Kayla Condrella</a>, <a href='/entry.php?id=2370'>Kenan Arica</a>, <a href='/entry.php?id=49'>Lance Long</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=2367'>Michael Avendano</a>, <a href='/entry.php?id=2453'>Navya Reddy</a>, <a href='/entry.php?id=14'>Robert V. Kenyon</a>, <a href='/entry.php?id=2445'>Sumayya Siddiqui</a>, <a href='/entry.php?id=2448'>Szymon Popowski</a>, <a href='/entry.php?id=2303'>Vijayraj Mahida</a>, Barbara DiEugenio<br>
+			October 1, 2016 - September 30, 2019<br><br>
+			Just as NSF cyberinfrastructure produces greater volumes and varieties of data from data storage systems, online instrumentation and major&hellip; <a href='/entry.php?id=2316'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2229'><img src='/resizedImages/500x280-crop-senseicamerarenderingcu.png' alt='' title='SENSEI: Sensor Environment Imaging (SENSEI) Instrument' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2229'>SENSEI: Sensor Environment Imaging (SENSEI) Instrument</a></strong><br>
+			<a href='/entry.php?id=2366'>Ahmad Atra</a>, <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=2315'>Bartosz Kupiec</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=2321'>Dimitar Kirilov</a>, <a href='/entry.php?id=2279'>Harlyn Baker</a>, <a href='/entry.php?id=2422'>Hayley Christianson</a>, <a href='/entry.php?id=2439'>Kyra Jones</a>, <a href='/entry.php?id=49'>Lance Long</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=14'>Robert V. Kenyon</a>, Tanya Berger-Wolf<br>
+			October 1, 2014 - September 30, 2019<br><br>
+			SENSEI will be a reconfigurable, ultra-high-resolution, spherical (4π steradian), photometric, radiometric and photogrammetric real-time&hellip; <a href='/entry.php?id=2229'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2040'><img src='/resizedImages/500x280-crop-spidersense-2.png' alt='' title='SpiderSense' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2040'>SpiderSense</a></strong><br>
+			<a href='/entry.php?id=281'>Victor Mateevitsi</a><br>
+			August 16, 2012 - February 7, 2013<br><br>
+			SpiderSense is a wearable device that projects the wearer&rsquo;s near environment on the skin and allows for directional awareness of objects around&hellip; <a href='/entry.php?id=2040'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1997'><img src='/resizedImages/500x280-crop-mars_project_10-09.png' alt='' title='Virtual Reality Environment Assisting Recovery from Stroke' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1997'>Virtual Reality Environment Assisting Recovery from Stroke</a></strong><br>
+			<a href='/entry.php?id=188'>Daria Tsoupikova</a>, Nikolay Stoykov, Bioengineering,  Rehabilitation Institute of Chicago (RIC), Randy Vick, Art Therapy, School of Art Institute of Chicago (SAIC)<br>
+			October 1, 2009 - Ongoing<br><br>
+			Virtual Reality Environment Assisting Recovery from Stroke is a research collaboration between the Rehabilitation Institute of Chicago, UIC / EVL&hellip; <a href='/entry.php?id=1997'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2013'><img src='/resizedImages/500x280-crop-ngcave_jt_9-11_cropped2.png' alt='' title='Next-Generation CAVE' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2013'>Next-Generation CAVE</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=199'>Tom Peterka</a>, Luc Renambot, Lance Long, Jonas Talandis, Daniel Sandin, Alan Verlo<br>
+			May 1, 2009 - April 30, 2013<br><br>
+			The Next-Generation CAVE Virtual Environment, or NG-CAVE, is a scientific instrument that enables researchers to visualize data in a fully immersive&hellip; <a href='/entry.php?id=2013'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2016'><img src='/resizedImages/500x280-crop-_ljl1499.jpg' alt='' title='CAVE2: Next-Generation Virtual-Reality and Visualization Hybrid Environment for Immersive Simulation and Information Analysis' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2016'>CAVE2: Next-Generation Virtual-Reality and Visualization Hybrid Environment for Immersive Simulation and Information Analysis</a></strong><br>
+			<a href='/entry.php?id=23'>Alan Verlo</a>, <a href='/entry.php?id=272'>Alessandro Febretti</a>, <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=5'>Dana M. Plepys</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=273'>JD Pirtle</a>, <a href='/entry.php?id=24'>Jonas Talandis</a>, <a href='/entry.php?id=49'>Lance Long</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=199'>Tom Peterka</a><br>
+			May 1, 2009 - Ongoing<br><br>
+			CAVE2&trade;, the next-generation large-scale virtual-reality environment, is a hybrid system that combines the benefits of both scalable-resolution&hellip; <a href='/entry.php?id=2016'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2008'><img src='/resizedImages/500x280-crop-_ljl4307.jpg' alt='' title='OmegaDesk: An Instrument for Interactive Visual Data Exploration and Collaboration' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2008'>OmegaDesk: An Instrument for Interactive Visual Data Exploration and Collaboration</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=281'>Victor Mateevitsi</a>, <a href='/entry.php?id=250'>Yiwen Sun</a>, Alessandro Febretti<br>
+			September 1, 2008 - August 31, 2012<br><br>
+			OmegaDesk provides researchers with a powerful, easy-to-use, information-rich, cyberinfrastructure instrument in support of scientific discovery. The&hellip; <a href='/entry.php?id=2008'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1984'><img src='/resizedImages/500x280-crop-tactile-2.png' alt='' title='TacTile' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1984'>TacTile</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=270'>Arthur Nishimoto</a>, <a href='/entry.php?id=265'>Ed Kahler</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=275'>Jenny Kinahan</a>, <a href='/entry.php?id=278'>Karan Chakrapani</a>, <a href='/entry.php?id=49'>Lance Long</a>, <a href='/entry.php?id=280'>Naomi Yarin</a>, <a href='/entry.php?id=222'>Robert Kooima</a>, <a href='/entry.php?id=277'>Todd Richard Silvia</a><br>
+			August 16, 2008 - October 15, 2011<br><br>
+			TacTile is a multi-touch 52-inch LCD tabletop display design to support collaborative applications through a highly intuitive, multi-user touch&hellip; <a href='/entry.php?id=1984'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1978'><img src='/resizedImages/500x280-crop-4kmegatable.jpg' alt='' title='4 Megapixel Multi-Touch LCD Table Prototype' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1978'>4 Megapixel Multi-Touch LCD Table Prototype</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=259'>Khairi Reda</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, Ed Kahler (EVL REU)<br>
+			May 16, 2008 - November 15, 2008<br><br>
+			The 4 Megapixel multi-touch LCD table prototype developed by EVL researchers focuses upon seamless and intuitive user interaction with the device&hellip; <a href='/entry.php?id=1978'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1971'><img src='/resizedImages/500x280-crop-cyber-commons.jpg' alt='' title='Cyber-Commons' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1971'>Cyber-Commons</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a><br>
+			January 1, 2008 - January 1, 2018<br><br>
+			A Cyber-Commons is a technology-enhanced meeting room on a university campus that supports local and distance collaboration and promotes&hellip; <a href='/entry.php?id=1971'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1936'><img src='/resizedImages/500x280-crop-svl_adler_400.png' alt='' title='Adler Planetarium and Astronomy Museum&rsquo;s Space Visualization Laboratory' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1936'>Adler Planetarium and Astronomy Museum&rsquo;s Space Visualization Laboratory</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=222'>Robert Kooima</a><br>
+			December 1, 2006 - Ongoing<br><br>
+			EVL has been working with the Adler Planetarium over the last several years to deploy EVL&rsquo;s advanced visualization display technologies and&hellip; <a href='/entry.php?id=1936'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1945'><img src='/resizedImages/500x280-crop-etars_400.png' alt='' title='ETARS: Eye Tracking Assessment and Remediation System' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1945'>ETARS: Eye Tracking Assessment and Remediation System</a></strong><br>
+			<a href='/entry.php?id=258'>Filippo Galgani</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=261'>Katie Cruppenink</a>, <a href='/entry.php?id=250'>Yiwen Sun</a>, Richard Markin, Learning By Design, Inc.<br>
+			July 1, 2006 - December 31, 2008<br><br>
+			The initial goal of this research is to evaluate the feasibility of creating a research and service software platform that can be used to test a&hellip; <a href='/entry.php?id=1945'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1917'><img src='/resizedImages/500x280-crop-tollway_wilbursmith_400.png' alt='' title='Virtual Driving Simulator with Wilbur Smith Associates &amp; the Illinois State Toll Highway Authority' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1917'>Virtual Driving Simulator with Wilbur Smith Associates &amp; the Illinois State Toll Highway Authority</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=206'>Kapil Arora</a>, <a href='/entry.php?id=222'>Robert Kooima</a><br>
+			June 14, 2006 - August 31, 2006<br><br>
+			The virtual driving simulator co-developed by computer science Ph.D. student Robert Kooima and Master of Fine Art student Kapil Arora was developed&hellip; <a href='/entry.php?id=1917'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1915'><img src='/resizedImages/500x280-crop-dynallax.jpg' alt='' title='Dynallax: Dynamic Parallax Barrier Autostereoscopic Display' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1915'>Dynallax: Dynamic Parallax Barrier Autostereoscopic Display</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=35'>Javier Girado</a>, <a href='/entry.php?id=163'>Jinghua Ge</a>, <a href='/entry.php?id=222'>Robert Kooima</a>, <a href='/entry.php?id=199'>Tom Peterka</a>, Jason Leigh, Andrew Johnson, Jurgen Schulze (UCSD), Thomas A. DeFanti<br>
+			January 1, 2006 - Ongoing<br><br>
+			Parallax barrier strip autostereoscopic virtual reality displays such as Varrier&trade; have been constructed by placing a barrier of lines in front&hellip; <a href='/entry.php?id=1915'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1889'><img src='/resizedImages/500x280-crop-geowall2sm_darker.jpg' alt='' title='GeoWall2 for Informal Science Education in Museums' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1889'>GeoWall2 for Informal Science Education in Museums</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, Patrick Hamilton, Science Museum of Minnesota, Paul Morin, Geology and Geophysics, University of Minnesota<br>
+			May 1, 2005 - January 13, 2009<br><br>
+			The GeoWall2 is a tiled advanced visualization system (5x3 array of LCD panels) designed to cost-effectively serve Geoscience applications that&hellip; <a href='/entry.php?id=1889'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1913'><img src='/resizedImages/500x280-crop-idesk4.jpg' alt='' title='ImmersaDesk4&trade;' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1913'>ImmersaDesk4&trade;</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=182'>Cristian J. Luciano</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			April 15, 2005 - May 1, 2007<br><br>
+			A Passive Stereo Virtual Reality System Using Circularly Polarized High Resolution LCD Panels The ImmersaDesk4&trade; (IDesk4&trade;) is built from 2&hellip; <a href='/entry.php?id=1913'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1886'><img src='/resizedImages/500x280-crop-immersivetouch-2.jpg' alt='' title='ImmersiveTouch&trade;' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1886'>ImmersiveTouch&trade;</a></strong><br>
+			<a href='/entry.php?id=182'>Cristian J. Luciano</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, Pat Banerjee, Lucian Florea<br>
+			August 1, 2004 - Ongoing<br><br>
+			ImmersiveTouch&trade; is the next generation of augmented virtual reality technology. ImmersiveTouch&trade; is the first system that integrates a&hellip; <a href='/entry.php?id=1886'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1905'><img src='/resizedImages/500x280-crop-lambdatable_comp2.gif' alt='' title='LambdaTable' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1905'>LambdaTable</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=221'>Cole Krumbholz</a>, <a href='/entry.php?id=245'>Hyejung Hur</a>, <a href='/entry.php?id=21'>Jason Leigh</a><br>
+			August 1, 2004 - June 17, 2009<br><br>
+			The LambdaTable is a tiled LCD tabletop display connected to high-bandwidth optical networks that supports interactive group-based visualization of&hellip; <a href='/entry.php?id=1905'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1883'><img src='/resizedImages/500x280-crop-corewall_2004.jpg' alt='' title='CoreWall' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1883'>CoreWall</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=216'>Arun Rao</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=213'>Nicholas Schwarz</a>, <a href='/entry.php?id=228'>Yu-Chung Chen</a>, Paul Morin (University of Minnesota)<br>
+			May 16, 2004 - May 15, 2011<br><br>
+			CoreWall is an integrated visualization tool for the study of lake and ocean sediment cores. It is a collaborative project among the University of&hellip; <a href='/entry.php?id=1883'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1874'><img src='/resizedImages/500x280-crop-lambdavision_1.jpg' alt='' title='LambdaVision' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1874'>LambdaVision</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=208'>Byungil Jeong</a>, <a href='/entry.php?id=170'>Charles Zhang</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=44'>Naveen Krishnaprasad</a>, <a href='/entry.php?id=213'>Nicholas Schwarz</a>, <a href='/entry.php?id=183'>Rajvikram Singh</a>, <a href='/entry.php?id=227'>Ratko Jagodic</a>, <a href='/entry.php?id=209'>Venkatram Vishwanath</a><br>
+			May 1, 2004 - August 31, 2008<br><br>
+			LambdaVision is an ultra-high-resolution visualization and networking instrument for research and education in geoscience, computer science and other&hellip; <a href='/entry.php?id=1874'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1868'><img src='/resizedImages/500x280-crop-geowall2-2.jpg' alt='' title='The Personal GeoWall 2 (PG-2)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1868'>The Personal GeoWall 2 (PG-2)</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, Nicholas Schwarz, Arun Rao<br>
+			January 1, 2004 - May 1, 2004<br><br>
+			GeoWall is an affordable PC / Mac / Linux 3D passive-stereo projection display developed by the University of Illinois at Chicago, Electronic&hellip; <a href='/entry.php?id=1868'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1853'><img src='/resizedImages/500x280-crop-marsrercsm.png' alt='' title='Machines Assisting Recovery in Stroke (MARS)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1853'>Machines Assisting Recovery in Stroke (MARS)</a></strong><br>
+			<a href='/entry.php?id=14'>Robert V. Kenyon</a>, <a href='/entry.php?id=232'>Xun Luo</a>, Z. Rymer (PI), A. Halper, J. Hidler, T. G. Hornby, L. Kahn (Northwestern University);D. Kamper, J. Patton (Rehabilitation Institute of Chicago);D. Reinkensmeyer (University of California, Irvine)<br>
+			October 1, 2002 - September 30, 2007<br><br>
+			Thanks to the new robotic devices with computer displays, there have been great strides in fundamental research that suggests a promising future in&hellip; <a href='/entry.php?id=1853'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1855'><img src='/resizedImages/500x280-crop-geopad_new.jpg' alt='' title='The GeoPad Project' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1855'>The GeoPad Project</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, Paul Morin / University of Minnesota, Peter Knopp, Ben van der Pluijm, Peter van Keken / University of Michigan, Brian Davis / US Geological Survey<br>
+			September 1, 2002 - May 15, 2003<br><br>
+			The GeoPad project is an extension of the collaboration of geoscientist and computer scientist initiated with the GeoWall Consortium. The focus of&hellip; <a href='/entry.php?id=1855'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1831'><img src='/resizedImages/500x280-crop-vr_portal_res.jpg' alt='' title='VR Portal' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1831'>VR Portal</a></strong><br>
+			<a href='/entry.php?id=161'>Geoffrey Allen Baum</a>, <a href='/entry.php?id=165'>Keith Miller</a>, <a href='/entry.php?id=53'>Tim Portlock</a>, <a href='/entry.php?id=2'>Todd Margolis</a><br>
+			May 1, 2002 - April 1, 2003<br><br>
+			The VR Portal is a configurable virtual reality installation system. The compelling experience is derived from its immersive screen, head-tracked 3D&hellip; <a href='/entry.php?id=1831'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1823'><img src='/resizedImages/500x280-crop-macagave.jpg' alt='' title='MacIntosh AGAVE / GeoWall' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1823'>MacIntosh AGAVE / GeoWall</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=16'>Tom Moher</a><br>
+			March 1, 2002 - February 28, 2003<br><br>
+			The MacIntosh AGAVE / GeoWall consists of a dual 1Ghz PowerPC G4 with 512M RAM and a GeForce 4MX graphics card connected to two InFocus 530&hellip; <a href='/entry.php?id=1823'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1825'><img src='/resizedImages/500x280-crop-teravision_res.jpg' alt='' title='TeraVision' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1825'>TeraVision</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=208'>Byungil Jeong</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=183'>Rajvikram Singh</a><br>
+			January 1, 2002 - January 1, 2006<br><br>
+			TERAVISION is a hardware-assisted, network-enabled &ldquo;PowerPoint&rdquo; projector for the Access Grid, enabling anyone to plug a laptop&hellip; <a href='/entry.php?id=1825'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1837'><img src='/resizedImages/500x280-crop-cwall_04.jpg' alt='' title='C-Wall (Configurable Wall)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1837'>C-Wall (Configurable Wall)</a></strong><br>
+			<a href='/entry.php?id=23'>Alan Verlo</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			January 1, 2002 - January 1, 2005<br><br>
+			The C-Wall is a high-quality, tracked, circularly polarized passive stereo wall, which could also be adapted to active stereo using Mirage DLP&hellip; <a href='/entry.php?id=1837'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1863'><img src='/resizedImages/500x280-crop-geowall2_istrip4.gif' alt='' title='GeoWall 2' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1863'>GeoWall 2</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=169'>Shalini Venkataraman</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			January 1, 2002 - September 30, 2007<br><br>
+			The first generation of the GeoWall was targeted at providing affordable 3D stereoscopic visualization of small- to modest-sized Geoscience datasets&hellip; <a href='/entry.php?id=1863'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1891'><img src='/resizedImages/500x280-crop-personalvarrier.jpg' alt='' title='Personal Varrier&trade; Autostereo Display' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1891'>Personal Varrier&trade; Autostereo Display</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=35'>Javier Girado</a>, <a href='/entry.php?id=163'>Jinghua Ge</a>, <a href='/entry.php?id=222'>Robert Kooima</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, <a href='/entry.php?id=199'>Tom Peterka</a><br>
+			August 1, 2001 - August 31, 2005<br><br>
+			The Personal Varrier&trade; display consists of a 30&rdquo; LCD widescreen display with 2560x1600 native resolution. A photographic film barrier&hellip; <a href='/entry.php?id=1891'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1937'><img src='/resizedImages/500x280-crop-scitech_agave_400.png' alt='' title='GeoWall Deployment at the SciTech Hands On Museum' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1937'>GeoWall Deployment at the SciTech Hands On Museum</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a><br>
+			June 1, 2001 - May 31, 2007<br><br>
+			As part of EVL&rsquo;s focus to develop affordable and accessible advanced visualization technologies and systems for broad deployment to educational&hellip; <a href='/entry.php?id=1937'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1836'><img src='/resizedImages/500x280-crop-geowall_logo.jpg' alt='' title='GeoWall' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1836'>GeoWall</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=38'>Eric He</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=163'>Jinghua Ge</a>, <a href='/entry.php?id=24'>Jonas Talandis</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=169'>Shalini Venkataraman</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			March 1, 2001 - August 1, 2005<br><br>
+			The GeoWall, based on AGAVE technology, is low-cost, non-tracked, passive-stereo system that allows distributed audiences to view and interact with&hellip; <a href='/entry.php?id=1836'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1800'><img src='/resizedImages/500x280-crop-agave_pic-2.jpg' alt='' title='AGAVE (Access Grid Autostereo Virtual Environment)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1800'>AGAVE (Access Grid Autostereo Virtual Environment)</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=38'>Eric He</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=163'>Jinghua Ge</a>, <a href='/entry.php?id=24'>Jonas Talandis</a>, <a href='/entry.php?id=169'>Shalini Venkataraman</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, <a href='/entry.php?id=2'>Todd Margolis</a><br>
+			September 1, 2000 - August 31, 2005<br><br>
+			AGAVE (pronounced agavay) is a panel-based, head-tracked, barrier-strip auto-stereographic display, where the viewer does not wear stereo glasses&hellip; <a href='/entry.php?id=1800'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1680'><img src='/resizedImages/500x280-crop-two_bodies-2.jpg' alt='' title='ASCI Advanced Projector Consortium' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1680'>ASCI Advanced Projector Consortium</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, Argonne National Laboratory: R. Stevens, M. Hereld, San Diego Supercomputer Center: B. Pailthorpe, N. Bordes<br>
+			January 1, 2000 - January 1, 2002<br><br>
+			Organized for the US Department of Energy VIEWS (Visualization and Interactive Environments for Weapons Simulation) program. The Advanced Projector&hellip; <a href='/entry.php?id=1680'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1822'><img src='/resizedImages/500x280-crop-accessgridlogo-3.png' alt='' title='Access Grid' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1822'>Access Grid</a></strong><br>
+			<a href='/entry.php?id=168'>Allan Spale</a>, <a href='/entry.php?id=196'>Chris Rosenthal</a>, <a href='/entry.php?id=5'>Dana M. Plepys</a>, <a href='/entry.php?id=24'>Jonas Talandis</a>, <a href='/entry.php?id=180'>Vikas Chowdry</a>, Gideon Goldman<br>
+			January 1, 2000 - August 31, 2003<br><br>
+			EVL is using the Access Grid (AG) project developed by Argonne National Laboratories (ANL) as the communications backbone for high-bandwidth&hellip; <a href='/entry.php?id=1822'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1876'><img src='/resizedImages/500x280-crop-varrier65p_mars.gif' alt='' title='35 Panel Cylindrical Varrier&trade; Autostereo Display' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1876'>35 Panel Cylindrical Varrier&trade; Autostereo Display</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, Jinghua Ge, Javier Girado, Todd Margolis, Tom Peterka<br>
+			January 1, 1999 - Ongoing<br><br>
+			The Cylindrical Varrier&trade; display consists of 35 LCD panels tiled in a 7x5 configuration with a 6&rsquo;x8&rsquo; footprint. A photographic film&hellip; <a href='/entry.php?id=1876'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1703'><img src='/resizedImages/500x280-crop-paris_sc2002-6_sm.jpg' alt='' title='PARIS&trade; : Personal Augmented Reality Immersive System' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1703'>PARIS&trade; : Personal Augmented Reality Immersive System</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=5'>Dana M. Plepys</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=129'>Maggie Rawlings</a>, <a href='/entry.php?id=26'>Michael Bogucki</a>, <a href='/entry.php?id=58'>Samroeng Thongrong</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, <a href='/entry.php?id=232'>Xun Luo</a>, <a href='/entry.php?id=61'>Zhongwei Qui</a><br>
+			September 1, 1998 - October 31, 2002<br><br>
+			Twenty years ago, Ken Knowlton created a see-through display for Bell Labs using a half-silvered mirror mounted at an angle in front of a telephone&hellip; <a href='/entry.php?id=1703'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1701'><img src='/resizedImages/500x280-crop-idesk3_04n.jpg' alt='' title='ImmersaDesk3&trade;' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1701'>ImmersaDesk3&trade;</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=111'>Gary Lindahl</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=26'>Michael Bogucki</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			May 1, 1998 - July 1, 1998<br><br>
+			The ImmersaDesk3&trade; is an experiment in desktop VR using a flat panel display. Our goal was to make a prototype with tracking and stereo for&hellip; <a href='/entry.php?id=1701'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1702'><img src='/resizedImages/500x280-crop-accessbot-2.jpg' alt='' title='The Ganymede Accessbot: An Enabling Technology for Teleconferencing' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1702'>The Ganymede Accessbot: An Enabling Technology for Teleconferencing</a></strong><br>
+			<a href='/entry.php?id=75'>Alan Cruz</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=35'>Javier Girado</a>, <a href='/entry.php?id=24'>Jonas Talandis</a>, <a href='/entry.php?id=129'>Maggie Rawlings</a>, <a href='/entry.php?id=133'>Paul Rossman</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			May 1, 1998 - May 15, 2001<br><br>
+			The problem of providing accessibility for the handicapped goes far beyond merely providing ramps and elevators in buildings, cars, airplanes, and&hellip; <a href='/entry.php?id=1702'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1803'><img src='/resizedImages/500x280-crop-abot_185.jpg' alt='' title='AccessBot' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1803'>AccessBot</a></strong><br>
+			<a href='/entry.php?id=75'>Alan Cruz</a>, <a href='/entry.php?id=23'>Alan Verlo</a>, <a href='/entry.php?id=5'>Dana M. Plepys</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=35'>Javier Girado</a>, <a href='/entry.php?id=24'>Jonas Talandis</a>, <a href='/entry.php?id=129'>Maggie Rawlings</a>, <a href='/entry.php?id=43'>Muhammad Ali Khan</a>, <a href='/entry.php?id=34'>Ray Fang</a>, Tom DeFanti<br>
+			May 1, 1998 - May 1, 2000<br><br>
+			The goal of the AccessBot project is to provide a new form of access for the disabled that integrates teleconferencing with life-sized display&hellip; <a href='/entry.php?id=1803'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1686'><img src='/misc/default_500x280.png' alt='' title='CAVE&trade; Line-Of-Sight Calibration Procedure' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1686'>CAVE&trade; Line-Of-Sight Calibration Procedure</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=62'>Dave Adamczyk</a>, <a href='/entry.php?id=38'>Eric He</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, <a href='/entry.php?id=78'>Marek Czernuszenko</a>, <a href='/entry.php?id=91'>Morteza Ghazisaedy</a>, <a href='/entry.php?id=14'>Robert V. Kenyon</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			March 1, 1998 - January 1, 2000<br><br>
+			This is a continuation of the research begun by Marek Czernuszenko with some refinements to the procedure as described in the associated documents. <a href='/entry.php?id=1686'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1988'><img src='/resizedImages/500x280-crop-paris-2.jpg' alt='' title='Instrumentation Development for Human-Centered Tele-Immersion' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1988'>Instrumentation Development for Human-Centered Tele-Immersion</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			January 9, 1998 - October 31, 2002<br><br>
+			The UIC Electronic Visualization Laboratory (EVL) has six years of experience building first and second-generation virtual reality devices (the CAVE&hellip; <a href='/entry.php?id=1988'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1771'><img src='/resizedImages/500x280-crop-idesk2-2.jpg' alt='' title='ImmersaDesk2&trade;' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1771'>ImmersaDesk2&trade;</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			January 1, 1996 - May 1, 1997<br><br>
+			The development of the ImmersaDesk2&trade; system in 1996 focused upon a number of design issues not addressed by the initial ImmersaDesk&trade;&hellip; <a href='/entry.php?id=1771'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1770'><img src='/resizedImages/500x280-crop-ideskbig_animcruz.gif' alt='' title='ImmersaDesk&trade;' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1770'>ImmersaDesk&trade;</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			January 1, 1994 - December 1, 1994<br><br>
+			The ImmersaDesk&trade; was developed in 1994 at EVL. It is a drafting table format VR display. It features a 67x50-inch rear-projected screen at a&hellip; <a href='/entry.php?id=1770'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1777'><img src='/resizedImages/500x280-crop-pinch.jpg' alt='' title='PINCH Glove as VR Input Device' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1777'>PINCH Glove as VR Input Device</a></strong><br>
+			<a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, <a href='/entry.php?id=98'>Hiroshi Hayakawa</a>, <a href='/entry.php?id=74'>Jim Costigan</a>, <a href='/entry.php?id=143'>Matthew Szymanski</a><br>
+			January 1, 1993 - May 15, 1993<br><br>
+			Experiments are ongoing using PINCH&trade; gloves as an interactive input device to the CAVE, ImmersaDesk, PARIS and other virtual reality systems&hellip; <a href='/entry.php?id=1777'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1769'><img src='/resizedImages/500x280-crop-cavebig_animcruz.gif' alt='' title='The CAVE&trade; Virtual Reality Theater' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1769'>The CAVE&trade; Virtual Reality Theater</a></strong><br>
+			<a href='/entry.php?id=76'>Carolina Cruz-Neira</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			January 1, 1992 - January 1, 2002<br><br>
+			CAVE&trade; The CAVE&trade; is a multi-person, room-sized, high-resolution 3D video and audio environment invented at EVL in 1991. Graphics are&hellip; <a href='/entry.php?id=1769'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1776'><img src='/resizedImages/500x280-crop-wanda-cave-evl-2.gif' alt='' title='Wand / Wanda&trade; VR Input Devices' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1776'>Wand / Wanda&trade; VR Input Devices</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=9'>Drew Browning</a>, <a href='/entry.php?id=117'>Glen Murray</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, <a href='/entry.php?id=129'>Maggie Rawlings</a><br>
+			January 1, 1992 - January 1, 1999<br><br>
+			Wanda&trade; is commerically available from Murray Consulting, VRCO, or Ascension Technology Corporation. The wand is the major input device used to&hellip; <a href='/entry.php?id=1776'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1787'><img src='/resizedImages/500x280-crop-pcibird.jpg' alt='' title='The pcBIRD' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1787'>The pcBIRD</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=38'>Eric He</a>, <a href='/entry.php?id=48'>Fu Hu Liu</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, <a href='/entry.php?id=98'>Hiroshi Hayakawa</a>, <a href='/entry.php?id=78'>Marek Czernuszenko</a>, <a href='/entry.php?id=26'>Michael Bogucki</a>, <a href='/entry.php?id=34'>Ray Fang</a><br>
+			September 1, 1991 - December 1, 1991<br><br>
+			The pcBIRD is a 6 DOF pc-based tracking device that measures the position and orientation of a small body-mounted receiver when located within +/- 4&hellip; <a href='/entry.php?id=1787'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1781'><img src='/resizedImages/500x280-crop-glass.jpg' alt='' title='LCD Shutter Glasses for Stereo Imagery in VR' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1781'>LCD Shutter Glasses for Stereo Imagery in VR</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			September 1, 1991 - Unknown<br><br>
+			The CAVE, ImmersaDesks, I-Wall and PARIS virtual reality (VR) systems developed at EVL display active stereo images by use of StereoGraphics Liquid&hellip; <a href='/entry.php?id=1781'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1786'><img src='/resizedImages/500x280-crop-space3.jpg' alt='' title='The Spacepad' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1786'>The Spacepad</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=38'>Eric He</a>, <a href='/entry.php?id=48'>Fu Hu Liu</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, <a href='/entry.php?id=98'>Hiroshi Hayakawa</a>, <a href='/entry.php?id=78'>Marek Czernuszenko</a>, <a href='/entry.php?id=26'>Michael Bogucki</a>, <a href='/entry.php?id=91'>Morteza Ghazisaedy</a>, <a href='/entry.php?id=34'>Ray Fang</a><br>
+			September 1, 1991 - Unknown<br><br>
+			The Spacepad magnetic tracking system used with the ImmersaDesk is a plug-in PC ISA bus system and has the following components: Antenna, which&hellip; <a href='/entry.php?id=1786'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1785'><img src='/resizedImages/500x280-crop-fob5.jpg' alt='' title='Flock of Birds Tracking System' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1785'>Flock of Birds Tracking System</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=38'>Eric He</a>, <a href='/entry.php?id=48'>Fu Hu Liu</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, <a href='/entry.php?id=98'>Hiroshi Hayakawa</a>, <a href='/entry.php?id=78'>Marek Czernuszenko</a>, <a href='/entry.php?id=26'>Michael Bogucki</a>, <a href='/entry.php?id=91'>Morteza Ghazisaedy</a><br>
+			September 1, 1990 - August 31, 2000<br><br>
+			The Flock of Birds (FOB) is a stand alone system and has the following components: A 1 foot cube transmitting antenna, which is mounted above the&hellip; <a href='/entry.php?id=1785'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1789'><img src='/resizedImages/500x280-crop-tracksys.jpg' alt='' title='Tracking Systems' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1789'>Tracking Systems</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=38'>Eric He</a>, <a href='/entry.php?id=48'>Fu Hu Liu</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, <a href='/entry.php?id=98'>Hiroshi Hayakawa</a>, <a href='/entry.php?id=78'>Marek Czernuszenko</a>, <a href='/entry.php?id=26'>Michael Bogucki</a>, <a href='/entry.php?id=91'>Morteza Ghazisaedy</a><br>
+			September 1, 1990 - Unknown<br><br>
+			The Tracking System provides information about the user&rsquo;s position and orientation to CAVE applications. The tracking data is gathered by&hellip; <a href='/entry.php?id=1789'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=1933'><img src='/resizedImages/500x280-crop-datamaxuv1.jpg' alt='' title='Datamax UV-1' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=1933'>Datamax UV-1</a></strong><br>
+			<a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			January 1, 1980 - January 1, 1981<br><br>
+			The Datamax UV-1 was a pioneering computer designed by a working group of computer graphics artists at the University of Illinois at Chicago. The&hellip; <a href='/entry.php?id=1933'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='related_images'><a href='/entry.php?id=2162'><img src='/resizedImages/500x280-crop-sayreglove_sm.png' alt='' title='Sayre Glove (first wired data glove)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='related_info'>
+			<strong><a href='/entry.php?id=2162'>Sayre Glove (first wired data glove)</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, Richard Sayre<br>
+			January 1, 1977<br><br>
+			In 1977 Daniel J. Sandin and Thomas DeFanti created the first wired data glove based on an idea by Richard Sayre as a project for the National&hellip; <a href='/entry.php?id=2162'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<!-- End Category List -->
+	</table>
+</div>
+<!-- End Category -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

@@ -1,0 +1,355 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+  <title>Howard S. Gordon, MD | Institute for Health Research and Policy | University of Illinois at Chicago</title>
+
+  <meta name="verify-v1" content="M3D7RktfZuClXLKtfBxpnsbmXcHxs+8um0cJ6n3SKFE=" />
+<meta name="description" content="Dr. Howard S Gordon is a professor of medicine in the UIC College of Medicine and collaborates in research with IHRP. " />
+
+  
+  <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/researcher/howard-s-gordon-md" />
+<link rel="shortlink" href="/node/1263" />
+<link rel="shortcut icon" href="https://www.ihrp.uic.edu/files/favicon.ico" type="image/vnd.microsoft.icon" />
+  <style>
+@import url("https://www.ihrp.uic.edu/modules/system/system.base.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/system/system.messages.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/system/system.theme.css?q8vwl2");
+</style>
+<style>
+@import url("https://www.ihrp.uic.edu/modules/aggregator/aggregator.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/comment/comment.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/date/date_api/date.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/field/theme/field.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/node/node.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/search/search.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/user/user.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/views/css/views.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/ckeditor/css/ckeditor.css?q8vwl2");
+</style>
+<style>
+@import url("https://www.ihrp.uic.edu/sites/all/modules/ctools/css/ctools.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/forward/forward.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/print/print_ui/css/print_ui.theme.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/css/nice_menus.css?q8vwl2");
+</style>
+<style>
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/tabs.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/print.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/style.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/zen.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/html-elements.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/ihrp_menu.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/ihrp_researcher.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/ihrp_study.css?q8vwl2");
+</style>
+  
+    <link rel="stylesheet" href="/sites/all/themes/ihrp/css/ihrp_main.css" type="text/css"/>
+  
+
+
+  <!--[if IE]>
+    <link rel="stylesheet" href="sites/all/themes/ihrp/css/ie.css" type="text/css"/>
+   
+    <style type="text/css">
+      /* place css fixes for all versions of IE in this conditional comment */
+      .thrColFixHdr #sidebar2, .thrColFixHdr #sidebar1 { padding-top: 30px; }
+      .thrColFixHdr #mainContent { zoom: 1; }
+      /* the above proprietary zoom property gives IE the hasLayout it needs to avoid several bugs */
+    </style>
+  <![endif]-->
+
+  <!--[if IE 5]>
+    <style type="text/css">
+      /* place css box model fixes for IE 5* in this conditional comment */
+      .thrColFixHdr #sidebar1 { width: 180px; }
+      .thrColFixHdr #sidebar2 { width: 190px; }
+    </style>
+  <![endif]-->
+
+  <script src="https://www.ihrp.uic.edu/misc/jquery.js?v=1.4.4"></script>
+<script src="https://www.ihrp.uic.edu/misc/jquery-extend-3.4.0.js?v=1.4.4"></script>
+<script src="https://www.ihrp.uic.edu/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.ihrp.uic.edu/misc/drupal.js?q8vwl2"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/js/jquery.bgiframe.js?v=2.1"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/js/jquery.hoverIntent.js?v=0.5"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/js/superfish.js?v=1.4.8"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/js/nice_menus.js?v=1.0"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/google_analytics/googleanalytics.js?q8vwl2"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-4417342-1", {"cookieDomain":"auto"});ga("send", "pageview");</script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/field_group/field_group.js?q8vwl2"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/themes/ihrp/js/script.js?q8vwl2"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"ihrp","theme_token":"khasISPmt-OmrAcASZLPKubUKNYsD961nwCzWylfDSg","js":{"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/mimedetect\/nice_menus\/js\/jquery.bgiframe.js":1,"sites\/all\/modules\/mimedetect\/nice_menus\/js\/jquery.hoverIntent.js":1,"sites\/all\/modules\/mimedetect\/nice_menus\/js\/superfish.js":1,"sites\/all\/modules\/mimedetect\/nice_menus\/js\/nice_menus.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/field_group\/field_group.js":1,"sites\/all\/themes\/ihrp\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/forward\/forward.css":1,"sites\/all\/modules\/print\/print_ui\/css\/print_ui.theme.css":1,"sites\/all\/modules\/mimedetect\/nice_menus\/css\/nice_menus.css":1,"sites\/all\/themes\/zen\/ihrp\/ihrp_menu.css":1,"sites\/all\/themes\/ihrp\/system.menus.css":1,"sites\/all\/themes\/ihrp\/css\/tabs.css":1,"sites\/all\/themes\/ihrp\/css\/print.css":1,"sites\/all\/themes\/ihrp\/css\/style.css":1,"sites\/all\/themes\/ihrp\/css\/zen.css":1,"sites\/all\/themes\/ihrp\/css\/html-elements.css":1,"sites\/all\/themes\/ihrp\/css\/ihrp_menu.css":1,"sites\/all\/themes\/ihrp\/css\/ihrp_researcher.css":1,"sites\/all\/themes\/ihrp\/css\/ihrp_study.css":1}},"nice_menus_options":{"delay":"0","speed":"fast"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/researcher\/howard-s-gordon-md":true},"field_group":{"no_style":"full","fieldset":"full"}});</script>
+</head>
+
+<body class="thrColFixHdr html not-front not-logged-in no-sidebars page-node page-node- page-node-1263 node-type-researcher section-researcher not-front not-logged-in page-node page-node- page-node-1263 node-type-researcher 
+ not-logged-in not-front type-researcher">
+
+  
+  <div id="page"><div id="page-inner">
+    <a name="top" id="navigation-top"></a>
+    <div role="banner" id="header"><div id="header-inner" class="clear-block" role="navigation" aria-label="Top Menu">
+      <a href="/"><img src="/sites/all/themes/ihrp/images/IHRP_Logo.png" alt="Institute for Health Research and Policy" title="I H R P home page" /></a>
+
+      <!-- the following is the code for the little blue top menu  -->
+      <span class="littleBlueMenu">
+        <a href="/people/list">People</a>
+        <a href="/content/contact-us">Contact Us</a>
+         
+            <a href="/print/1263">Print this page</a>		        <a href="/forward/?path=node/1263">E-mail to a Colleague</a>		          </span>
+      
+	             <div id="primary">
+        </div> <!-- /#primary -->
+      
+      
+    </div></div> <!-- /#header-inner, /#header -->
+
+    <div role="main" id="main"><div id="main-inner" class="clear-block with-navbar">
+      <div id="content"><div id="content-inner">
+                  <div id="search-box">
+              <div class="region region-search-form">
+    <div id="block-search-form" class="block block-search first last odd" role="search">
+
+      
+  <form action="/researcher/howard-s-gordon-md" method="post" id="search-block-form" accept-charset="UTF-8"><div>
+<div class="container-inline">
+  <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-jMsvuDbXTGQ7905Yty_y1Gxi_BzQa78YSQhwplI0urQ" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+</div>
+  </div>
+          </div> <!-- /#search-box -->
+                          <div id="content-top">
+              <div class="region region-content-top">
+    <div id="block-nice-menus-1" class="block block-nice-menus first last odd">
+
+        <h2 class="block__title block-title"><span class="nice-menu-hide-title">Main menu</span></h2>
+    
+  <ul class="nice-menu nice-menu-down nice-menu-main-menu" id="nice-menu-1"><li class="menu__item menu-11518 menuparent  menu-path-node-4984 first odd "><a href="/content/institute-welcome-intro" title="" class="menu__link">About</a><ul><li class="menu__item menu-11516 menu-path-node-4984 first odd "><a href="/content/institute-welcome-intro" class="menu__link">Welcome</a></li>
+<li class="menu__item menu-11514 menu-path-node-4983  even "><a href="/content/about-mission-social-health-sciences-research" class="menu__link">Mission</a></li>
+<li class="menu__item menu-11524 menu-path-node-4996  odd "><a href="/content/admin-IHRP-snapshot" class="menu__link">IHRP Snapshot</a></li>
+<li class="menu__item menu-7001 menu-path-node-2873  even "><a href="/content/about-our-fellows-affiliates" class="menu__link">Fellows &amp; Affiliates</a></li>
+<li class="menu__item menu-2114 menu-path-node-1357  odd "><a href="/content/employment-ihrp" class="menu__link">Jobs</a></li>
+<li class="menu__item menu-11585 menu-path-node-5034  even last"><a href="/content/media-professionals" class="menu__link">For Media Professionals</a></li>
+</ul></li>
+<li class="menu__item menu-11523 menuparent  menu-path-node-5036  even "><a href="/content/about-advantages-UIC-researchers" title="" class="menu__link">Why IHRP? </a><ul><li class="menu__item menu-11588 menu-path-node-5036 first odd "><a href="/content/about-advantages-UIC-researchers" title="" class="menu__link">Advantages</a></li>
+<li class="menu__item menu-11521 menu-path-node-18  even "><a href="/content/why-ihrp-research-faqs" class="menu__link">FAQs</a></li>
+<li class="menu__item menu-11515 menu-path-node-4982  odd last"><a href="/content/learn-more-join-us" class="menu__link">Affiliate with IHRP</a></li>
+</ul></li>
+<li class="menu__item menu-11533 menuparent  menu-path-node-5027  odd "><a href="/content/scientific-resources-intro" class="menu__link">Scientific Resources</a><ul><li class="menu__item menu-11582 menu-path-node-5027 first odd "><a href="/content/scientific-resources-intro" title="" class="menu__link">Overview</a></li>
+<li class="menu__item menu-11522 menu-path-node-23  even "><a href="/content/institute-leadership" class="menu__link">Leadership</a></li>
+<li class="menu__item menu-11052 menu-path-node-4683  odd "><a href="/center/data-management-core-for-all-UIC-researchers" class="menu__link">Data Management Core</a></li>
+<li class="menu__item menu-2054 menu-path-node-1584  even "><a href="/center/methodology-research-core-for-all-UIC-researchers" class="menu__link">Methodology Research Core</a></li>
+<li class="menu__item menu-2064 menu-path-node-39  odd last"><a href="/content/training-every-stage-research-careers" class="menu__link">Training</a></li>
+</ul></li>
+<li class="menu__item menu-11532 menuparent  menu-path-node-4999  even "><a href="/content/admin-resources-intro" title="" class="menu__link">Administrative Resources</a><ul><li class="menu__item menu-11531 menu-path-node-4999 first odd "><a href="/content/admin-resources-intro" class="menu__link">Overview</a></li>
+<li class="menu__item menu-11584 menu-path-node-4979  even "><a href="/content/admin-grants-finance" class="menu__link">Grants &amp; Finance</a></li>
+<li class="menu__item menu-11507 menu-path-node-4978  odd "><a href="/content/admin-human-resources-team" class="menu__link">Human Resources</a></li>
+<li class="menu__item menu-11505 menu-path-node-4977  even "><a href="/content/admin-computing-environment" class="menu__link">Data Tech and Security</a></li>
+<li class="menu__item menu-11508 menu-path-node-4825  odd "><a href="/content/admin-communications" class="menu__link">Communications</a></li>
+<li class="menu__item menu-11511 menu-path-node-4980  even last"><a href="/content/resources-facilities" class="menu__link">Facilities</a></li>
+</ul></li>
+<li class="menu__item menu-11535 menuparent  menu-path-node-4803  odd last"><a href="/content/our-research-focus" title="" class="menu__link">Research</a><ul><li class="menu__item menu-11534 menu-path-node-4803 first odd "><a href="/content/our-research-focus" class="menu__link">Scientific Focus</a></li>
+<li class="menu__item menu-2130 menu-path-studies-list-current-all  even "><a href="/studies/list/current/all" title="" class="menu__link">Studies</a></li>
+<li class="menu__item menu-11408 menu-path-researchers-list-all  odd "><a href="/researchers/list/all" title="" class="menu__link">Researchers</a></li>
+<li class="menu__item menu-2030 menuparent  menu-path-node-1563  even "><a href="/content/centers" class="menu__link">Centers</a><ul><li class="menu__item menu-2086 menu-path-node-7 first odd "><a href="/center/center-research-health-and-aging" class="menu__link">Center for Research on Health and Aging</a></li>
+<li class="menu__item menu-2087 menu-path-node-8  even last"><a href="/center/health-policy-center" class="menu__link">Health Policy Center</a></li>
+</ul></li>
+<li class="menu__item menu-11504 menuparent  menu-path-node-4975  odd "><a href="/content/project-websites" class="menu__link">Project Websites</a><ul><li class="menu__item menu-10646 menu-path-gouicedu-asthmaaction first odd "><a href="http://go.uic.edu/AsthmaAction" title="" class="menu__link">Asthma Action</a></li>
+<li class="menu__item menu-2079 menu-path-scecdp-ihrpuicedu-  even "><a href="https://cecdp-ihrp.uic.edu/" title="" class="menu__link">Cancer Education and Career Development Program</a></li>
+<li class="menu__item menu-10737 menu-path-co-opchicagoihrpuicedu-  odd "><a href="http://co-opchicago.ihrp.uic.edu/" title="" class="menu__link">CO-OP Chicago</a></li>
+<li class="menu__item menu-10499 menu-path-fitandstrongorg-  even "><a href="http://fitandstrong.org/" title="" class="menu__link">Fit &amp; Strong!</a></li>
+<li class="menu__item menu-10548 menu-path-node-79  odd "><a href="/center/center-research-health-and-aging/midwest-roybal-center" title="IHRP is the home of the Midwest Roybal Center, funded continuously by the National Institute on Aging since 1998." class="menu__link">Midwest Roybal Center</a></li>
+<li class="menu__item menu-10501 menu-path-tobacconomicsorg-  even last"><a href="http://tobacconomics.org/" title="" class="menu__link">Tobacconomics</a></li>
+</ul></li>
+<li class="menu__item menu-11517 menu-path-news-list  even last"><a href="/news/list" title="" class="menu__link">News</a></li>
+</ul></li>
+</ul>
+
+</div>
+  </div>
+          </div> <!-- /#content-top -->
+        
+        
+		
+		<div id="content-area">
+                      <div class="tabs"></div>
+          
+          
+          							<h1 class="title">Howard S. Gordon, MD</h1>
+			          
+	        
+          
+
+
+
+<div style="position: relative; width: 63%; float: left;">
+
+      <div class="field-field-researcher-photo">
+      <img src="https://www.ihrp.uic.edu/files/researcher_image/gordon_howard_thmb.jpg" />
+    </div>
+  
+  <h2>
+      Professor of Medicine  </h2>
+
+  <p>
+    <p>Dr. Howard S. Gordon is a professor of medicine in the <a href="http://chicago.medicine.uic.edu/departments___programs/departments/medicine/general_internal_medicine">Division of Academic Internal Medicine and Geriatrics</a> of the Department of Medicine in the UIC College of Medicine.</p>
+<p>Dr. Gordon studied electrical engineering at Massachusetts Institute of Technology, completed his medical training at University of Cincinnati College of Medicine, and survived internship and residency in internal medicine at University Hospitals of Cleveland and the Cleveland Veterans Affairs Medical Center (VAMC). He completed a three-year health services research fellowship at University Hospitals in Cleveland and Case Western Reserve University with selected statistics and health policy coursework in 1996.</p>
+<p>In 2006, he moved his research program to Chicago, after almost ten years at Baylor College of Medicine and the Houston VAMC. Dr. Gordon is board certified in internal medicine and teaches residents and medical students at the University of Illinois Medical Center and the Jesse Brown VAMC.</p>
+  </p>
+
+  <p>
+    <h2>Research Interests</h2>
+  </p>
+  <p>
+    <p>Understanding, reducing, and eliminating racial disparities in health care; assessing and improving physician-patient communications</p>
+  </p>
+
+  <p>
+    <h2>Recent and Noteworthy Publications</h2>
+  </p>
+  <p>
+    <p>Find a longer list of <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Gordon+HS">articles by Dr. Gordon</a>, including the latest, on PubMed.</p>
+
+<p>Gordon HS, Sharp LK, Schoenthaler A. "They are talking from the Encyclopedia Britannica brain": diabetes patients' perceptions of barriers to communicating with physicians. BMC Health Serv Res. 2020 Mar 13;20(1):211. doi: 10.1186/s12913-020-5063-4.</p>
+<p>Woodard L, Kamdar N, Hundt N, Gordon HS, Hertz B, Amspoker AB, Kiefer L, Mehta P, Odom E, Rajan S, Stone E, Jones L, Naik AD. Empowering patients in chronic care to improve diabetes distress and glycaemic control: Protocol for a hybrid implementation-effectiveness clinical trial. Endocrinol Diabetes Metab. 2019 Nov 18;3(1):e00099. doi: 10.1002/edm2.99. eCollection 2020 Jan.</p>
+<p>Abraham J, Burton S, Gordon HS. Moving patients from emergency department to medical intensive care unit: Tracing barriers and root contributors.Int J Med Inform. 2020 Jan;133:104012. doi: 10.1016/j.ijmedinf.2019.104012. Epub 2019 Oct 18.</p>
+<p>Eliacin J, Cunningham B, Partin MR, Gravely A, Taylor BC, Gordon HS, Saha S, Burgess DJ. Veterans Affairs Providers' Beliefs About the Contributors to and Responsibility for Reducing Racial and Ethnic Health Care Disparities. Health Equity. 2019 Aug 23;3(1):436-448. doi: 10.1089/heq.2019.0018. eCollection 2019.</p>
+<p>Rattray NA, Flanagan ME, Militello LG, et al. &quot;Do You Know What I Know?&quot;: How Communication Norms and Recipient Design Shape the Content and Effectiveness of Patient Handoffs. J Gen Intern Med. 2019;34(2):264&ndash;271. doi:10.1007/s11606-018-4755-5&nbsp;[<a href="https://www.ncbi.nlm.nih.gov/pubmed/30535752">See abstract.</a>]</p>
+<p>Burgess DJ, Bokhour BG, Cunningham BA, et al. Communicating with providers about racial healthcare disparities: The role of providers&#39; prior beliefs on their receptivity to different narrative frames. Patient Educ Couns. 2019;102(1):139&ndash;147. doi:10.1016/j.pec.2018.08.030 [<a href="https://www.ncbi.nlm.nih.gov/pubmed/30266266">See abstract.</a>]</p>
+<p>Tarlov E, Wing C, Gordon HS, et al. Does Effectiveness of Weight Management Programs Depend on the Food Environment?. Health Serv Res. 2018;53(6):4268&ndash;4290. doi:10.1111/1475-6773.13043 [<a href="https://www.ncbi.nlm.nih.gov/pubmed/30246454">See abstract.</a>]</p>
+<p>Rattray NA, Ebright P, Flanagan ME, et al. Content counts, but context makes the difference in developing expertise: a qualitative study of how residents learn end of shift handoffs. BMC Med Educ. 2018;18(1):249. Published 2018 Nov 3. doi:10.1186/s12909-018-1350-8 [<a href="https://www.ncbi.nlm.nih.gov/pubmed/30390668">See abstract.</a>]</p>
+<p>Gollust SE, Cunningham BA, Bokhour BG, et al. What Causes Racial Health Care Disparities? A Mixed-Methods Study Reveals Variability in How Health Care Providers Perceive Causal Attributions. Inquiry. ;55:46958018762840. doi:10.1177/0046958018762840 [<a href="https://www.ncbi.nlm.nih.gov/pubmed/29553296">See abstract.</a>]</p>
+<p>Chanfreau-Coffinier C, Gordon HS, Schweizer CA, et al. Mental Health Screening Results Associated with Women Veterans&#39; Ratings of Provider Communication, Trust, and Care Quality. Womens Health Issues. 2018;28(5):430&ndash;438. doi:10.1016/j.whi.2018.05.004 [<a href="https://www.ncbi.nlm.nih.gov/pubmed/30017475">See abstract.</a>]</p>
+<p>Gordon HS, Pugach O, Berbaum ML, Ford ME.&nbsp;Examining patients&rsquo; trust in physicians and the VA healthcare system in a prospective cohort followed for six-months after an exacerbation of heart failure. Patient Educ Couns. 2014;97(2):173-9. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/25088616">See abstract.</a>]</p>
+<p>Merkow RP, Bilimoria KY, Sherman KL, McCarter MD, Gordon HS, Bentrem DJ. Efficiency of colorectal cancer care among veterans: analysis of treatment wait times at veterans affairs medical centers. J Oncol Pract. 2013;9(4):e154-63.[<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3710183/">See abstract.</a>]</p>
+<p>Ahluwalia SC, Levin JR, Lorenz KA, Gordon HS. &quot;There&#39;s no cure for this condition&quot;: how physicians discuss advance care planning in heart failure. Patient Educ Couns. 2013;91(2):200-5.[<a href="https://www.ncbi.nlm.nih.gov/pubmed/23369373">See abstract.</a>]</p>
+<p>Sharp LK, Ureste PJ, Torres LA, Bailey L, Gordon HS, Gerber BS. Time to sign: the relationship between health literacy and signature time. Patient Educ Couns. 2013;90(1):18-22. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/23154148">See abstract.</a>]</p>
+<p>Merkow RP, Bilimoria KY, McCarter MD, Chow WB, Gordon HS, Stewart AK, et al. Effect of histologic subtype on treatment and outcomes for esophageal cancer in the United States. Cancer.&nbsp;2012;118(13):3268-76.&nbsp;[<a href="http://www.ncbi.nlm.nih.gov/pubmed/22006369">See abstract.</a>]</p>
+<p>Ahluwalia SC, Levin JR, Lorenz KA, Gordon HS. Missed opportunities for advance care planning communication during outpatient clinic visits. J Gen Intern Med. 2012;27(4):445-51. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/22038469">See abstract.</a>]</p>
+<p>Hausmann LR, Hanusa BH, Kresevic DM, Zickmund S, Ling BS, Gordon HS, et al. Orthopedic communication about osteoarthritis treatment: Does patient race matter? Arthritis Care Res (Hoboken). 2011;63(5):635-42. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/21225676">See abstract.</a>]</p>
+<p>Gordon HS, Gerber BS. What we&#39;ve got here is a failure to communicate. J Gen Intern Med. 2011;26(2):104-6. Editorial.[<a href="https://www.ncbi.nlm.nih.gov/pubmed/21080095">See abstract.</a>]</p>
+<p>Hausmann LR, Mor M, Hanusa BH, Zickmund S, Cohen PZ, Grant R, et al. The effect of patient race on total joint replacement recommendations and utilization in the orthopedic setting. J Gen Intern Med. 2010;25(9):982-8. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/20509053">See abstract.</a>]</p>
+<p>Gordon HS, Nowlin PR, Maynard D, Berbaum ML, Deswal A. Mortality after hospitalization for heart failure in blacks compared to whites. Am J Cardiol. 2010 Mar 1;105(5):694-700. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/20185019">See abstract.</a>]</p>
+<p>Morse DS, Edwardsen EA, Gordon HS. Missed opportunities for interval empathy in lung cancer communication. Arch Intern Med. 2008;168(17):1853-8.[<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2678758/">See abstract.</a>]</p>
+<p>Arozullah AM, Gordon HS, Yarnold PR, Soltysik R, Ferreira M, Wolf MS, et al. Predictors of prostate cancer stage at presentation using optimal discriminant analysis. J Gen Inter Med. 2008;23(Suppl 2):376.[<a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0155856">See abstract.</a>]</p>
+<p>Jaroszewski DE, Huh J, Chu D, Malaisarie SC, Riffel AD, Gordon HS, Wang XL, Bakaeen FG. Utility of detailed preoperative cardiac testing and incidence of post-thoracotomy myocardial infarction. J Thorac Cardiovasc Surg. 2008;135(3):648-55.[<a href="https://www.ncbi.nlm.nih.gov/pubmed/18329488">See abstract.</a>]</p>
+<p>Street RL, Gordon HS. Companion participation in cancer consultations.&nbsp; Psychooncology. 2008;17(3): 244-251.[<a href="https://www.ncbi.nlm.nih.gov/pubmed/17534881">See abstract.</a>]</p>
+<p>Ford ME, Alford SH, Britton D, McClary B, Gordon HS. Factors influencing perceptions of breast cancer genetic counseling among women in an urban health care system. J Genet Couns. 2007;16(6):735-53.[<a href="https://www.ncbi.nlm.nih.gov/pubmed/17701328">See abstract.</a>]</p>
+<p>Street RL, Gordon HS, Haidet P. Physicians&rsquo; communication and perceptions of patients: Is it how they look, how they talk, or is it just the doctor? Social Science &amp; Medicine. 2007;65(3):586-598.[<a href="https://www.ncbi.nlm.nih.gov/pubmed/17462801">See abstract.</a>]</p>
+<p>Street RL, Gordon HS.&nbsp; The clinical context and patient participation in post-diagnostic consultations. Patient Educ Couns. 2006;64(1-3):217-24.[<a href="https://www.ncbi.nlm.nih.gov/pubmed/16859865">See abstract.</a>]</p>
+<p>Gordon HS, Street RL Jr, Sharf BF, Souchek J. Racial differences in trust and lung cancer patients&#39; perceptions of physician communication. J Clin Oncol. 2006;24(6):904-9.[<a href="https://www.ncbi.nlm.nih.gov/pubmed/16484700">See abstract.</a>]</p>
+  </p>
+
+</div>
+
+
+<div style="float:right; width: 32%;" class="right-sidebar">
+<p><strong>Contact Info</strong></p>
+
+<p>
+  Phone: (312) 996-8591<br />
+
+  Fax: (312) 413-8950<br />
+
+
+  E-mail: <a href="mailto:hsg@uic.edu">hsg@uic.edu</a><br />
+</p>
+
+  <p><p>&nbsp;</p>
+<p><strong>Institute for Health Research and Policy</strong><br />
+	University of Illinois at Chicago (MC 275)<br />
+	488 Westside Research Office Bldg.<br />
+	1747 West Roosevelt Road<br />
+	Chicago, IL 60608</p>
+</p>
+
+<br />
+
+  <strong>Other Title(s)</strong><br />
+	<p>Physician at the Jesse Brown Veterans Affairs Medical Center<br />
+	Member,&nbsp;<span style="background-color: rgb(255, 255, 255); text-align: -webkit-left; ">UI Cancer Center&nbsp;</span></p>
+  <br />
+
+
+
+
+
+
+
+  <p>
+    <strong>Recently Completed Research</strong>
+  </p>
+  <p>
+    <ul>
+	<li>
+		ALLHAT Implementation Planning Grant</li>
+	<li>
+		Breast Cancer Genetics Study</li>
+	<li>
+		Knowledge as a Predictor in Self-management of Heart Failure</li>
+	<li>
+		<a href="/study/physican-patient-communication-patients-chronic-heart-failure">Physican-Patient Communication in Patients with Chronic Heart Failure</a></li>
+	<li>
+		<a href="/study/video-encourage-active-patient-participation">Video to Encourage Active Partient Participation</a></li>
+	<li>
+		Understanding and Eliminating Racial/Ethnic Variations in Health Care</li>
+</ul>
+  </p>
+
+</div>
+        </div>
+
+        		
+      </div></div> <!-- /#content-inner, /#content -->
+
+              <div id="navbar"><div id="navbar-inner">
+
+          <a name="navigation" id="navigation"></a>
+
+          
+        </div></div> <!-- /#navbar-inner, /#navbar -->
+      
+
+    </div></div> <!-- /#main-inner, /#main -->
+
+    <div id="footer"><div id="footer-inner">
+      <div id="footer-message">  <footer id="footer" class="region region-footer">
+    <div id="block-block-43" class="block block-block first last odd">
+
+      
+  <p><strong>Institute for Health Research and Policy of the University of Illinois at Chicago</strong><br />
+	Multidisciplinary Home of UIC Researchers Collaborating in the Social and Health Sciences</p>
+<p>1747 W. Roosevelt Road, MC 275, Westside Research Office Bldg., Chicago, IL 60608<br />
+	T: <a href="tel:(312) 996-7222">(312) 996-7222</a> · F: (312) 996-2703</p>
+<p><a href="http://www.uic.edu/">UIC.edu</a> · <a href="https://www.uic.edu/apps/find-people/search">Campus Directory</a> · <a href="http://disabilityresources.uic.edu/">Disability Resources</a> · <a href="/content/employment-ihrp">Job Openings</a> · <a href="https://maps.uic.edu/">Maps</a> · <a href="/content/contact-us">Contact Us</a></p>
+<p>© 2020 <a href="http://www.uillinois.edu/trustees/">The Board of Trustees of the University of Illinois</a> · Privacy Policy · Webmaster: <a href="mailto:IHRP-webfix@uic.edu">IHRP-webfix@uic.edu</a></p>
+
+</div>
+  </footer>
+</div>
+
+    </div></div> <!-- /#footer-inner, /#footer -->
+
+    
+    
+  </div></div> <!-- /#page-inner, /#page -->
+    <script src="sites/all/themes/ihrp/js/customize-twitter-1.1/customize-twitter-1.1.min.js" type="text/javascript"></script>
+  <script>
+	var options = {
+    	"url": "sites/all/themes/ihrp/css/twitter.css",
+		"timeout_length": 1800
+	};
+	CustomizeTwitterWidget(options);
+</script>
+</body>
+</html>

@@ -1,0 +1,440 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+  <title>Bridging the Gap: Research Informing Practice for Healthy Youth Behavior (No. 4) | Institute for Health Research and Policy | University of Illinois at Chicago</title>
+
+  <meta name="verify-v1" content="M3D7RktfZuClXLKtfBxpnsbmXcHxs+8um0cJ6n3SKFE=" />
+<meta name="description" content="This study, funded by the Robert Wood Johnson Foundation from 2008-2012, was directed by Dr. Frank Chaloupka, principal investigator. " />
+
+  
+  <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/study/bridging-gap-research-informing-practice-healthy-youth-behavior-no-4" />
+<link rel="shortlink" href="/node/1897" />
+<link rel="shortcut icon" href="https://www.ihrp.uic.edu/files/favicon.ico" type="image/vnd.microsoft.icon" />
+  <style>
+@import url("https://www.ihrp.uic.edu/modules/system/system.base.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/system/system.messages.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/system/system.theme.css?q8vwl2");
+</style>
+<style>
+@import url("https://www.ihrp.uic.edu/modules/aggregator/aggregator.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/comment/comment.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/date/date_api/date.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/field/theme/field.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/node/node.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/search/search.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/user/user.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/views/css/views.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/ckeditor/css/ckeditor.css?q8vwl2");
+</style>
+<style>
+@import url("https://www.ihrp.uic.edu/sites/all/modules/ctools/css/ctools.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/print/print_ui/css/print_ui.theme.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/css/nice_menus.css?q8vwl2");
+</style>
+<style>
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/tabs.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/print.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/style.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/zen.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/html-elements.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/ihrp_menu.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/ihrp_researcher.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/ihrp_study.css?q8vwl2");
+</style>
+  
+    <link rel="stylesheet" href="/sites/all/themes/ihrp/css/ihrp_main.css" type="text/css"/>
+  
+
+
+  <!--[if IE]>
+    <link rel="stylesheet" href="sites/all/themes/ihrp/css/ie.css" type="text/css"/>
+   
+    <style type="text/css">
+      /* place css fixes for all versions of IE in this conditional comment */
+      .thrColFixHdr #sidebar2, .thrColFixHdr #sidebar1 { padding-top: 30px; }
+      .thrColFixHdr #mainContent { zoom: 1; }
+      /* the above proprietary zoom property gives IE the hasLayout it needs to avoid several bugs */
+    </style>
+  <![endif]-->
+
+  <!--[if IE 5]>
+    <style type="text/css">
+      /* place css box model fixes for IE 5* in this conditional comment */
+      .thrColFixHdr #sidebar1 { width: 180px; }
+      .thrColFixHdr #sidebar2 { width: 190px; }
+    </style>
+  <![endif]-->
+
+  <script src="https://www.ihrp.uic.edu/misc/jquery.js?v=1.4.4"></script>
+<script src="https://www.ihrp.uic.edu/misc/jquery-extend-3.4.0.js?v=1.4.4"></script>
+<script src="https://www.ihrp.uic.edu/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.ihrp.uic.edu/misc/drupal.js?q8vwl2"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/js/jquery.bgiframe.js?v=2.1"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/js/jquery.hoverIntent.js?v=0.5"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/js/superfish.js?v=1.4.8"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/js/nice_menus.js?v=1.0"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/google_analytics/googleanalytics.js?q8vwl2"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-4417342-1", {"cookieDomain":"auto"});ga("send", "pageview");</script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/field_group/field_group.js?q8vwl2"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/themes/ihrp/js/script.js?q8vwl2"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"ihrp","theme_token":"LWNyE-jmpZBmtWJZlupWvS7o70yQCVUHZAZQJpd9BPg","js":{"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/mimedetect\/nice_menus\/js\/jquery.bgiframe.js":1,"sites\/all\/modules\/mimedetect\/nice_menus\/js\/jquery.hoverIntent.js":1,"sites\/all\/modules\/mimedetect\/nice_menus\/js\/superfish.js":1,"sites\/all\/modules\/mimedetect\/nice_menus\/js\/nice_menus.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/field_group\/field_group.js":1,"sites\/all\/themes\/ihrp\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/print\/print_ui\/css\/print_ui.theme.css":1,"sites\/all\/modules\/mimedetect\/nice_menus\/css\/nice_menus.css":1,"sites\/all\/themes\/zen\/ihrp\/ihrp_menu.css":1,"sites\/all\/themes\/ihrp\/system.menus.css":1,"sites\/all\/themes\/ihrp\/css\/tabs.css":1,"sites\/all\/themes\/ihrp\/css\/print.css":1,"sites\/all\/themes\/ihrp\/css\/style.css":1,"sites\/all\/themes\/ihrp\/css\/zen.css":1,"sites\/all\/themes\/ihrp\/css\/html-elements.css":1,"sites\/all\/themes\/ihrp\/css\/ihrp_menu.css":1,"sites\/all\/themes\/ihrp\/css\/ihrp_researcher.css":1,"sites\/all\/themes\/ihrp\/css\/ihrp_study.css":1}},"nice_menus_options":{"delay":"0","speed":"fast"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/study\/bridging-gap-research-informing-practice-healthy-youth-behavior-no-4":true},"field_group":{"no_style":"full","fieldset":"full"}});</script>
+</head>
+
+<body class="thrColFixHdr html not-front not-logged-in no-sidebars page-node page-node- page-node-1897 node-type-study section-study not-front not-logged-in page-node page-node- page-node-1897 node-type-study 
+ not-logged-in not-front type-study">
+
+  
+  <div id="page"><div id="page-inner">
+    <a name="top" id="navigation-top"></a>
+    <div role="banner" id="header"><div id="header-inner" class="clear-block" role="navigation" aria-label="Top Menu">
+      <a href="/"><img src="/sites/all/themes/ihrp/images/IHRP_Logo.png" alt="Institute for Health Research and Policy" title="I H R P home page" /></a>
+
+      <!-- the following is the code for the little blue top menu  -->
+      <span class="littleBlueMenu">
+        <a href="/people/list">People</a>
+        <a href="/content/contact-us">Contact Us</a>
+         
+            <a href="/print/1897">Print this page</a>		        <a href="/forward/?path=node/1897">E-mail to a Colleague</a>		          </span>
+      
+	             <div id="primary">
+        </div> <!-- /#primary -->
+      
+      
+    </div></div> <!-- /#header-inner, /#header -->
+
+    <div role="main" id="main"><div id="main-inner" class="clear-block with-navbar">
+      <div id="content"><div id="content-inner">
+                  <div id="search-box">
+              <div class="region region-search-form">
+    <div id="block-search-form" class="block block-search first last odd" role="search">
+
+      
+  <form action="/study/bridging-gap-research-informing-practice-healthy-youth-behavior-no-4" method="post" id="search-block-form" accept-charset="UTF-8"><div>
+<div class="container-inline">
+  <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-WoIwthsiOmuwa7cCBXqY-X9XpaO5yq8JI9AjDDfE1tM" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+</div>
+  </div>
+          </div> <!-- /#search-box -->
+                          <div id="content-top">
+              <div class="region region-content-top">
+    <div id="block-nice-menus-1" class="block block-nice-menus first last odd">
+
+        <h2 class="block__title block-title"><span class="nice-menu-hide-title">Main menu</span></h2>
+    
+  <ul class="nice-menu nice-menu-down nice-menu-main-menu" id="nice-menu-1"><li class="menu__item menu-11518 menuparent  menu-path-node-4984 first odd "><a href="/content/institute-welcome-intro" title="" class="menu__link">About</a><ul><li class="menu__item menu-11516 menu-path-node-4984 first odd "><a href="/content/institute-welcome-intro" class="menu__link">Welcome</a></li>
+<li class="menu__item menu-11514 menu-path-node-4983  even "><a href="/content/about-mission-social-health-sciences-research" class="menu__link">Mission</a></li>
+<li class="menu__item menu-11524 menu-path-node-4996  odd "><a href="/content/admin-IHRP-snapshot" class="menu__link">IHRP Snapshot</a></li>
+<li class="menu__item menu-7001 menu-path-node-2873  even "><a href="/content/about-our-fellows-affiliates" class="menu__link">Fellows &amp; Affiliates</a></li>
+<li class="menu__item menu-2114 menu-path-node-1357  odd "><a href="/content/employment-ihrp" class="menu__link">Jobs</a></li>
+<li class="menu__item menu-11585 menu-path-node-5034  even last"><a href="/content/media-professionals" class="menu__link">For Media Professionals</a></li>
+</ul></li>
+<li class="menu__item menu-11523 menuparent  menu-path-node-5036  even "><a href="/content/about-advantages-UIC-researchers" title="" class="menu__link">Why IHRP? </a><ul><li class="menu__item menu-11588 menu-path-node-5036 first odd "><a href="/content/about-advantages-UIC-researchers" title="" class="menu__link">Advantages</a></li>
+<li class="menu__item menu-11521 menu-path-node-18  even "><a href="/content/why-ihrp-research-faqs" class="menu__link">FAQs</a></li>
+<li class="menu__item menu-11515 menu-path-node-4982  odd last"><a href="/content/learn-more-join-us" class="menu__link">Affiliate with IHRP</a></li>
+</ul></li>
+<li class="menu__item menu-11533 menuparent  menu-path-node-5027  odd "><a href="/content/scientific-resources-intro" class="menu__link">Scientific Resources</a><ul><li class="menu__item menu-11582 menu-path-node-5027 first odd "><a href="/content/scientific-resources-intro" title="" class="menu__link">Overview</a></li>
+<li class="menu__item menu-11522 menu-path-node-23  even "><a href="/content/institute-leadership" class="menu__link">Leadership</a></li>
+<li class="menu__item menu-11052 menu-path-node-4683  odd "><a href="/center/data-management-core-for-all-UIC-researchers" class="menu__link">Data Management Core</a></li>
+<li class="menu__item menu-2054 menu-path-node-1584  even "><a href="/center/methodology-research-core-for-all-UIC-researchers" class="menu__link">Methodology Research Core</a></li>
+<li class="menu__item menu-2064 menu-path-node-39  odd last"><a href="/content/training-every-stage-research-careers" class="menu__link">Training</a></li>
+</ul></li>
+<li class="menu__item menu-11532 menuparent  menu-path-node-4999  even "><a href="/content/admin-resources-intro" title="" class="menu__link">Administrative Resources</a><ul><li class="menu__item menu-11531 menu-path-node-4999 first odd "><a href="/content/admin-resources-intro" class="menu__link">Overview</a></li>
+<li class="menu__item menu-11584 menu-path-node-4979  even "><a href="/content/admin-grants-finance" class="menu__link">Grants &amp; Finance</a></li>
+<li class="menu__item menu-11507 menu-path-node-4978  odd "><a href="/content/admin-human-resources-team" class="menu__link">Human Resources</a></li>
+<li class="menu__item menu-11505 menu-path-node-4977  even "><a href="/content/admin-computing-environment" class="menu__link">Data Tech and Security</a></li>
+<li class="menu__item menu-11508 menu-path-node-4825  odd "><a href="/content/admin-communications" class="menu__link">Communications</a></li>
+<li class="menu__item menu-11511 menu-path-node-4980  even last"><a href="/content/resources-facilities" class="menu__link">Facilities</a></li>
+</ul></li>
+<li class="menu__item menu-11535 menuparent  menu-path-node-4803  odd last"><a href="/content/our-research-focus" title="" class="menu__link">Research</a><ul><li class="menu__item menu-11534 menu-path-node-4803 first odd "><a href="/content/our-research-focus" class="menu__link">Scientific Focus</a></li>
+<li class="menu__item menu-2130 menu-path-studies-list-current-all  even "><a href="/studies/list/current/all" title="" class="menu__link">Studies</a></li>
+<li class="menu__item menu-11408 menu-path-researchers-list-all  odd "><a href="/researchers/list/all" title="" class="menu__link">Researchers</a></li>
+<li class="menu__item menu-2030 menuparent  menu-path-node-1563  even "><a href="/content/centers" class="menu__link">Centers</a><ul><li class="menu__item menu-2086 menu-path-node-7 first odd "><a href="/center/center-research-health-and-aging" class="menu__link">Center for Research on Health and Aging</a></li>
+<li class="menu__item menu-2087 menu-path-node-8  even last"><a href="/center/health-policy-center" class="menu__link">Health Policy Center</a></li>
+</ul></li>
+<li class="menu__item menu-11504 menuparent  menu-path-node-4975  odd "><a href="/content/project-websites" class="menu__link">Project Websites</a><ul><li class="menu__item menu-10646 menu-path-gouicedu-asthmaaction first odd "><a href="http://go.uic.edu/AsthmaAction" title="" class="menu__link">Asthma Action</a></li>
+<li class="menu__item menu-2079 menu-path-scecdp-ihrpuicedu-  even "><a href="https://cecdp-ihrp.uic.edu/" title="" class="menu__link">Cancer Education and Career Development Program</a></li>
+<li class="menu__item menu-10737 menu-path-co-opchicagoihrpuicedu-  odd "><a href="http://co-opchicago.ihrp.uic.edu/" title="" class="menu__link">CO-OP Chicago</a></li>
+<li class="menu__item menu-10499 menu-path-fitandstrongorg-  even "><a href="http://fitandstrong.org/" title="" class="menu__link">Fit &amp; Strong!</a></li>
+<li class="menu__item menu-10548 menu-path-node-79  odd "><a href="/center/center-research-health-and-aging/midwest-roybal-center" title="IHRP is the home of the Midwest Roybal Center, funded continuously by the National Institute on Aging since 1998." class="menu__link">Midwest Roybal Center</a></li>
+<li class="menu__item menu-10501 menu-path-tobacconomicsorg-  even last"><a href="http://tobacconomics.org/" title="" class="menu__link">Tobacconomics</a></li>
+</ul></li>
+<li class="menu__item menu-11517 menu-path-news-list  even last"><a href="/news/list" title="" class="menu__link">News</a></li>
+</ul></li>
+</ul>
+
+</div>
+  </div>
+          </div> <!-- /#content-top -->
+        
+        
+		
+		<div id="content-area">
+                      <div class="tabs"></div>
+          
+          
+          							<h1 class="title">Bridging the Gap: Research Informing Practice for Healthy Youth Behavior (No. 4)</h1>
+			          
+	        
+          
+
+
+
+<div class="content-left">
+    
+  
+    <div class="projectBlock">
+    <h2>Abstract</h2>
+    <div class="field field-type-text field-field-study-abstract">
+      <div class="field-items">
+        <div class="field-item"><p>The ImpacTeen project is conducted as part of the RWJF-funded Bridging the Gap (BTG) program and builds on BTG&rsquo;s past/ongoing efforts and leverage the substantial investment the National Institute on Drug Abuse has made in the University of Michigan&rsquo;s annual Monitoring the Future (MTF) Study. A number of tobacco-related research activities conducted during previous rounds of ImpacTeen continue in this part of the study, such as the development and implementation of a system to collect state tobacco control expenditures data, annual updating of the ImpacTeen state-level tobacco control policy database, and fielding of the &quot;Strength of Tobacco Control&quot; survey in 2010.<br />
+	<br />
+	The fourth round of ImpacTeen reflects a shift in focus from previous years of the project with the majority of funding devoted to data collection, analysis, and reporting on the policy, program, and environmental determinants of childhood and adolescent obesity. Continuing Activities with ImpacTeen 4 funding include the annual collection and coding of wellness policies in a nationally representative sample of school districts, annual conduct of the Food &amp; Fitness primary school administrator survey, annual collection and reporting of state-level obesity-related policies, and the acquisition and analysis of commercial and archival databases. Annual monographs are produced to highlight key data and trends emerging from the Food &amp; Fitness primary school survey and school district wellness policy collection and coding efforts. In addition, for the first time since 2003, community data collection activities are resuming in those communities surrounding second-year MTF schools, with a focus on assessing the community food environment, physical activity opportunities, local policies and other community factors potentially relevant to youth healthy eating, physical activity, and obesity.<br />
+	<br />
+	Data collected from this broad range of ImpacTeen activities are linked to the attitudinal, behavioral and health outcome data from the ongoing MTF survey, with the intention of documenting national trends and evaluating the impact of school-, community-, and state-level policies, programs, and other environmental influences on youth behaviors (nutrition, physical activity, and substance use) and on youth obesity.</p>
+</div>
+      </div>
+    </div>
+  </div>
+  
+    <div class="projectBlock"><h2>Research Product(s)</h2>
+    <div class="field field-type-text field-field-study-research-product">
+      <div class="field-items">
+        <div class="field-item"><h3>
+	Bridging the Gap Research Briefs</h3>
+<p><a href="http://www.bridgingthegapresearch.org/_asset/7jf02g/BTG_competitive_beverage_brief_final-8-7-12.pdf">Beverages Sold in Public Schools: August 2012</a></p>
+<p><a href="http://www.bridgingthegapresearch.org/_asset/2jc2wr/btg_fast_food_pricing_032012.pdf">Exterior Marketing Practices of Fast-Food Restaurants: March 2012</a></p>
+<p><a href="http://www.bridgingthegapresearch.org/_asset/02fpi3/btg_street_walkability_FINAL_03-09-12.pdf">Income Disparities in Street Features that Encourage Walking: March 2012</a></p>
+<p><a href="http://www.bridgingthegapresearch.org/_asset/5q86hg/btg_land_use_pa_FINAL_03-09-12.pdf">Using Local Land Use Laws to Facilitate Physical Activity: March 2012</a></p>
+<p><a href="http://www.bridgingthegapresearch.org/_asset/gl9776/btg_joint_use_agreements-2-10-12.pdf">Joint Use Agreements: Creating Opportunities for Physical Activity: February 2012</a></p>
+<p><a href="http://www.bridgingthegapresearch.org/_asset/z9cm9b/btg_team_nutrition_111711.pdf">Improving School Foods Through the Team Nutrition Program:<span class="btg_document_name"> New Findings from U.S. Elementary Schools: </span>November 2011</a></p>
+<p><a href="http://www.bridgingthegapresearch.org/_asset/qvb125/BTG_Brief_Competitive_Foods_Beverages_June_2010_final.pdf">Availability of Competitive Foods and Beverages: June 2010</a></p>
+<p><a href="http://www.bridgingthegapresearch.org/_asset/rc7kd6/HER_BTG_Brief_SSBtaxes-2009.pdf">Sugar-Sweetened Beverage Taxes and Public Health: July 2009</a></p>
+<h3>
+	Bridging the Gap Reports</h3>
+<p><a href="http://www.bridgingthegapresearch.org/_asset/92v1fd/ES_2012_execsumm.pdf">School Policies and Practices to Improve Health and Prevent Obesity: National Elementary School Survey Results (Volume 2): January 2012</a></p>
+<p><a href="http://www.bridgingthegapresearch.org/_asset/984r22/SS_2011_monograph.pdf">School Policies and Practices to Improve Health and Prevent Obesity: National Secondary School Survey Results: August 2011</a></p>
+<p><a href="http://www.bridgingthegapresearch.org/_asset/6q2pg2/ES_2010_monograph.pdf">School Policies and Practices to Improve Health and Prevent Obesity: National Elementary School Survey Results: School Years 2006-07 and 2007-08: November 2010</a></p>
+<p><a href="http://www.bridgingthegapresearch.org/client_files/pdfs/Monographs/WP_2010_report.pdf">School District Wellness Policies: Evaluating Progress and Potential for Improving Children&rsquo;s Health Three Years after the Federal Mandate, School Years 2006-07, 2007-08, and 2008-2009: August 2010</a></p>
+</div>
+      </div>
+    </div>
+  </div>
+  
+    <div class="projectBlock">
+    <h2>Research Partner(s)</h2>
+    <div class="field field-type-text field-field-study-research-partners">
+      <div class="field-items">
+        <div class="field-item"><p><a href="http://www.isr.umich.edu/home/">University of Michigan Institute for Social Research</a></p>
+</div>
+      </div>
+    </div>
+  </div>
+  
+      <div class="projectBlock">
+    <h2>Affiliated Center/Program</h2>
+    <div class="field field-type-nodereference field-field-study-affiliated-center">
+      <div class="field-items">
+                              <div class="field-item"><p><a href="../center/health-policy-center">Health Policy Center</a></p></div>
+              </div>
+    </div>
+  </div>
+    
+</div> <!-- /#content-left -->
+
+
+<div class="content-right">
+
+
+  <div class="callout">
+    <p>This is a long-term, ongoing study. Learn about the current stage of this research:</p>
+
+    <a href="../study/bridging-gap-research-informing-policies-and-practices-healthy-youth-2014-2015">Bridging the Gap: Research Informing Policies and Practices for Healthy Youth (No. 6)</a>
+  </div>
+
+
+<div class="content-right-details">
+
+
+  
+  <div class="clearfloat"></div>
+    <div class="clearfloat"></div>
+  
+    <div class="projectBlock"><strong>Funding Agency</strong>
+    <div class="field field-type-text field-field-study-funding-agency">
+      <div class="field-items">
+        <div class="field-item"><p><a href="http://www.rwjf.org">Robert Wood Johnson Foundation </a></p>
+<p>&nbsp;</p>
+<p><strong>Principal investigator</strong><br />
+	<a href="/researcher/frank-j-chaloupka-phd">Frank J. Chaloupka, PhD</a></p>
+<p>&nbsp;</p>
+<p><strong>Co-investigators</strong><br />
+	<a href="https://ahs.uic.edu/kinesiology-nutrition/directory/braunschweig-carol/">Carol Braunschweig, PhD, RD</a><br />
+	<a href="/researcher/jamie-f-chriqui-phd-mhs">Jamie F. Chriqui, PhD, MHS</a><br />
+	<a href="https://www.researchgate.net/profile/Euna_Han">Euna Han, PhD</a><br />
+	<a href="/researcher/lisa-m-powell-phd">Lisa M. Powell, PhD</a><br />
+	<a href="/researcher/sandy-j-slater-phd">Sandy J. Slater, PhD</a><br />
+	<a href="https://econ.uic.edu/economics/faculty/john-a-tauras">John A. Tauras, PhD</a><br />
+	Lindsey Turner, PhD<br />
+	<a href="https://neighborhoodsandhealth.uic.edu/profiles/shannon-n-zenk-phd-rn/">Shannon N. Zenk, PhD, MPH, RN</a></p>
+</div>
+      </div>
+    </div>
+  </div>
+    <div class="clearfloat"></div>
+  
+    <div class="projectBlock"><strong>Start date</strong>
+    <div class="field field-type-date field-field-study-date-start">
+      <div class="field-items">
+        <div class="field-item">
+          12/01/2008        </div>
+      </div>
+    </div>
+  </div>
+    
+    <div class="projectBlock"><strong>End date</strong>
+    <div class="field field-type-date field-field-study-date-end">
+      <div class="field-items">
+        <div class="field-item">
+          08/31/2012        </div>
+      </div>
+    </div>
+  </div>
+    <div class="clearfloat"></div>
+
+    <div class="projectBlock"><strong>Total award</strong>
+    <div class="field field-type-number-integer field-field-study-total-award-amount1">
+      <div class="field-items">
+        <div class="field-item">$13,692,669</div>
+      </div>
+    </div>
+  </div>
+    <div class="clearfloat"></div>
+  
+    <div class="clearfloat"></div>
+ 
+    <div class="projectBlock"><strong>About this grant</strong>
+    <div class="field field-type-text field-field-study-subcontract-info">
+      <div class="field-items">
+        <div class="field-item"><p>This was the fourth RWJF award for ImpacTeen, built on work done in <a href="/study/bridging-gap-research-informing-practice-healthy-youth-behavior-no-3">ImpacTeen No. 3</a>. <a href="/study/bridging-gap-research-informing-policies-and-practices-healthy-youth-2014-2015">See the latest on this research.</a></p>
+</div>
+      </div>
+    </div>
+  </div>
+    <div class="clearfloat"></div>
+  
+
+</div>
+</div> <!-- /#content-right -->
+<div class="clearfloat"></div>
+
+<div class="content-bottom">
+
+    <div class="projectBlock"><h2>Related publications</h2><br />
+    <div class="field field-type-text field-field-study-releated-publicatio">
+      <div class="field-items">
+        <div class="field-item"><p>See articles published <a href="/study/bridging-gap-research-informing-practice-and-policy-healthy-youth">since August 2012</a>.</p>
+<p>Turner L, Chaloupka FJ. Slow progress in changing the school food environment: nationally representative results from public and private elementary schools. J Acad Nutr Diet. 2012 Sep;112(9):1380-9. [<a href="/content/slow-progress-changing-school-food-environment-nationally-representative-results-public-and-">See abstract.</a>]</p>
+<p>Turner L, Chaloupka FJ. Encouraging trends in student access to competitive beverages in US public elementary schools, 2006-2007 to 2010-2011. Arch Pediatr Adolesc Med. 2012 July;166(7):673-675. [See <a href="/content/encouraging-trends-student-access-competitive-beverages-us-public-elementary-schools-2006-11">abstract</a>.]</p>
+<p>Sandoval A, Turner L, Nicholson L, Chriqui J, Tortorelli M, Chaloupka FJ. The relationship among state laws, district policies, and elementary school-based measurement of children&#39;s body mass index. J Sch Health. 2012 May;82(5):239-245. [See <a href="/content/relationship-among-state-laws-district-policies-and-elementary-school-based-measurement-chil">abstract</a>.]</p>
+<p>Schneider L, Chriqui J, Nicholson L, Turner L, Gourdet C, Chaloupka F. Are farm-to-school programs more common in states with farm-to-school-related laws? J Sch Health. 2012 May;82(5):210-216. [See <a href="/content/are-farm-school-programs-more-common-states-farm-school-related-laws">abstract</a>.]</p>
+<p>Taber DR, Chriqui JF, Chaloupka FJ. Association and diffusion of nutrition and physical activity policies on the state and district level. J Sch Health. 2012 May;82(5):201-209.&nbsp; [See<a href="../../content/association-and-diffusion-nutrition-and-physical-activity-policies-state-and-district-level"> </a><a href="/content/association-and-diffusion-nutrition-and-physical-activity-policies-state-and-district-level">abstract</a>.]</p>
+<p>Turner L, Chaloupka FJ. Students access to competitive foods in elementary schools: trends over time and regional differences. &nbsp;Arch Pediatr Adolesc Med. 2012 Feb;166(2):164-169. [<a href="../../content/students-access-competitive-foods-elementary-schools-trends-over-time-and-regional-differenc">See abstract.</a>]</p>
+<p>Chriqui JF, Taber DR, Slater SJ, Turner L, Lowrey KM, Chaloupka FJ. The impact of state safe routes to school-related laws on active travel to school policies and practices in U.S. elementary schools. Health Place. 2012 Jan;18(1):8-15. [<a href="../../content/impact-state-safe-routes-school-related-laws-active-travel-school-policies-and-practices-us-">See abstract.</a>]</p>
+<p>Khan T, Powell LM, Wada R. Fast food consumption and food prices: evidence from panel data on 5th and 8th grade children. J Obes. 2012;2012:857697. [<a href="../../content/fast-food-consumption-and-food-prices-evidence-panel-data-5th-and-8th-grade-children">See abstract.</a>]</p>
+<p>Krauss RC, Powell LM, Wada R. Weight misperceptions and racial and ethnic disparities in adolescent female body mass index. J Obes. 2012:205393. [<a href="/content/weight-misperceptions-and-racial-and-ethnic-disparities-adolescent-female-body-mass-index">See abstract.</a>]</p>
+<p>Taber DR, Chriqui JF, Chaloupka FJ. Differences in nutrient intake associated with state laws regarding fat, sugar, and caloric content of competitive foods. Arch Pediatr Adolesc Med. 2012;166(5):452-458. [<a href="/content/differences-nutrient-intake-associated-state-laws-regarding-fat-sugar-and-caloric-content-co">See abstract.</a>]</p>
+<p>Han E, Powell L, Slater S, Quinn C. Validation of secondary commercial data sources for physical activity facilities in urban and non-urban settings. J Phys Act Health<em>.</em> 2012 Nov;9(8):1080-8. [<a href="../../content/validation-secondary-commercial-data-sources-physical-activity-facilities-urban-and-non-urba">See abstract.</a>]</p>
+<p>Svastisalee CM, Nordahl H, Gl&uuml;mer C, Holstein BE, Powell LM, Due P. Supermarket and fast-food outlet exposure in Copenhagen: associations with socio-economic and demographic characteristics. Public Health Nutr. 2011 Sep;14(9):1618-26. [See <a href="/content/supermarket-and-fast-food-outlet-exposure-copenhagen-associations-socioeconomic-and-demograp">abstract</a>.]</p>
+<p>Powell LM, Schermbeck RM, Szczypka G, Chaloupka FJ, Braunschweig CL. Trends in the nutritional content of television food advertisements seen by children in the United States: analyses by age, food categories, and companies. Arch Pediatr Adolesc Med. 2011 Dec;165(12):1078-86. [See <a href="/content/trends-nutritional-content-television-food-advertisements-seen-children-united-states">abstract</a>.]</p>
+<p>Han E, Norton EC, Powell LM. Direct and indirect effects of body weight on adult wages. Econ Hum Biol. 2011 Dec;9(4):381-92. [See <a href="/content/direct-and-indirect-effects-body-weight-adult-wages">abstract</a>.]</p>
+<p>Isgor Z, Powell LM. Availability of commercial physical activity facilities and physical activity outside of school among high school students. J Phys Act Health. 2011 Jul;8(5):707-15. [See <a href="/content/availability-commercial-physical-activity-facilities-and-physical-activity-outside-school-am">abstract</a>.]</p>
+<p>Powell LM, Han E, Zenk SN, Khan T, Quinn CM, Gibbs KP, Pugach O, Barker DC, Resnick EA, Myllyluoma J, Chaloupka FJ. Field validation of secondary commercial data sources on the retail food outlet environment in the U.S. Health Place. 2011 Sep;17(5):1122-31.[See <a href="/content/field-validation-secondary-commercial-data-sources-retail-food-outlet-environment-us">abstract</a>.]</p>
+<p>Brener ND, Chriqui JF, O&#39;Toole TP, Schwartz MB, McManus T. Establishing a baseline measure of school wellness-related policies implemented in a nationally representative sample of school districts. J Am Diet Assoc. 2011 Jun;111(6):894-901. [See <a href="/content/establishing-baseline-measure-school-wellness-related-policies-implemented-nationally-repres">abstract</a>.]</p>
+<p>Chaloupka FJ, Powell LM, Chriqui JF. Sugar-sweetened beverages and obesity prevention: policy recommendations. J Policy Anal Manage. 2011 Summer;30(3):662-4.</p>
+<p>Chaloupka FJ, Powell LM, Chriqui JF. Sugar-sweetened beverages and obesity: the potential impact of public policies. J Policy Anal Manage. 2011 Summer;30(3):645-55.</p>
+<p>Turner L, Chaloupka FJ. Wide availability of high-calorie beverages in US elementary schools. Arch Pediatr Adolesc Med. 2011 Mar;165(3):223-8. [See <a href="/content/wide-availability-high-calorie-beverages-us-elementary-schools">abstract</a>.]</p>
+<p>Han E, Powell LM. Effect of food prices on the prevalence of obesity among young adults. Public Health. 2011 Mar;125(3):129-35. [See <a href="/content/effect-food-prices-prevalence-obesity-among-young-adults">abstract</a>.]</p>
+<p>Chriqui JF, Chaloupka FJ. Transparency and oversight in local wellness policies. J Sch Health. 2011 Feb;81(2):114-21. [See <a href="/content/transparency-and-oversight-local-wellness-policies">abstract</a>.]</p>
+<p>Beydoun MA, Powell LM, Chen X, Wang Y. Food prices are associated with dietary quality, fast food consumption, and body mass index among U.S. children and adolescents. J Nutr. 2011 Feb;141(2):304-11. [See <a href="/content/food-prices-are-associated-dietary-quality-fast-food-consumption-and-body-mass-index-among-u">abstract</a>.]</p>
+<p>Powell LM, Han E. The costs of food at home and away from home and consumption patterns among U.S. adolescents. J Adolesc Health. 2011 Jan;48(1):20-6. [See <a href="/content/costs-food-home-and-away-home-and-consumption-patterns-among-us-adolescents">abstract</a>.]</p>
+<p>Lee SH, Rowan MT, Powell LM, Newman S, Klassen AC, Frick KD, et al. Characteristics of prepared food sources in low-income neighborhoods of Baltimore City. Ecol Food Nutr. 2010 Nov 1;49(6):409-430. [See <a href="/content/characteristics-prepared-food-sources-low-income-neighborhoods-baltimore-city">abstract</a>.]</p>
+<p>Powell LM, Szczypka G, Chaloupka FJ. Trends in exposure to television food advertisements among children and adolescents in the United States. Arch Pediatr Adolesc Med. 2010 Sep;164(9):794-802. [See <a href="/content/trends-exposure-television-food-advertisements-among-children-and-adolescents-united-states">abstract</a>.]</p>
+<p>Powell LM, Han E, Chaloupka FJ. Economic contextual factors, food consumption, and obesity among U.S. adolescents. J Nutr. 2010 Jun;140(6):1175-80. Review. [See <a href="/content/economic-contextual-factors-food-consumption-and-obesity-among-us-adolescents">abstract</a>.]</p>
+<p>Sturm R, Powell LM, Chriqui JF, Chaloupka FJ. Soda taxes, soft drink consumption, and children&#39;s body mass index. Health Aff (Millwood). 2010 May;29(5):1052-8. [See <a href="/content/soda-taxes-soft-drink-consumption-and-childrens-body-mass-index">abstract</a>.]</p>
+<p>Mirtcheva DM, Powell LM. Participation in the national school lunch program: importance of school-level and neighborhood contextual factors. J Sch Health. 2009 Oct;79(10):485-94. [See <a href="/content/participation-national-school-lunch-program-importance-school-level-and-neighborhood-context">abstract</a>.]</p>
+<p>Powell LM. Fast food costs and adolescent body mass index: evidence from panel data. J Health Econ. 2009 Sep;28(5):963-70.</p>
+<p>Chaloupka FJ, Powell LM. Price, availability, and youth obesity: evidence from Bridging the Gap. Prev Chronic Dis. 2009 Jul;6(3):A93. [See <a href="/content/price-availability-and-youth-obesity-evidence-bridging-gap">abstract</a>.]</p>
+</div>
+      </div>
+    </div>
+  </div>
+    <div class="clearfloat"></div>
+  
+    <div class="projectBlock"><h2>News releases</h2><br />
+    <div class="field field-type-text field-field-study-news-release">
+      <div class="field-items">
+        <div class="field-item"><p><a href="/content/uic-receives-16m-study-impact-environment-kids-health">UIC Receives $16M to Study Impact of Environment on Kids&#39; Health</a>&nbsp;(UIC News, 12/15/2008)</p>
+</div>
+      </div>
+    </div>
+  </div>
+  
+</div> <!-- /#bottom-content -->
+        </div>
+
+        		
+      </div></div> <!-- /#content-inner, /#content -->
+
+              <div id="navbar"><div id="navbar-inner">
+
+          <a name="navigation" id="navigation"></a>
+
+          
+        </div></div> <!-- /#navbar-inner, /#navbar -->
+      
+
+    </div></div> <!-- /#main-inner, /#main -->
+
+    <div id="footer"><div id="footer-inner">
+      <div id="footer-message">  <footer id="footer" class="region region-footer">
+    <div id="block-block-43" class="block block-block first last odd">
+
+      
+  <p><strong>Institute for Health Research and Policy of the University of Illinois at Chicago</strong><br />
+	Multidisciplinary Home of UIC Researchers Collaborating in the Social and Health Sciences</p>
+<p>1747 W. Roosevelt Road, MC 275, Westside Research Office Bldg., Chicago, IL 60608<br />
+	T: <a href="tel:(312) 996-7222">(312) 996-7222</a> · F: (312) 996-2703</p>
+<p><a href="http://www.uic.edu/">UIC.edu</a> · <a href="https://www.uic.edu/apps/find-people/search">Campus Directory</a> · <a href="http://disabilityresources.uic.edu/">Disability Resources</a> · <a href="/content/employment-ihrp">Job Openings</a> · <a href="https://maps.uic.edu/">Maps</a> · <a href="/content/contact-us">Contact Us</a></p>
+<p>© 2020 <a href="http://www.uillinois.edu/trustees/">The Board of Trustees of the University of Illinois</a> · Privacy Policy · Webmaster: <a href="mailto:IHRP-webfix@uic.edu">IHRP-webfix@uic.edu</a></p>
+
+</div>
+  </footer>
+</div>
+
+    </div></div> <!-- /#footer-inner, /#footer -->
+
+    
+    
+  </div></div> <!-- /#page-inner, /#page -->
+    <script src="sites/all/themes/ihrp/js/customize-twitter-1.1/customize-twitter-1.1.min.js" type="text/javascript"></script>
+  <script>
+	var options = {
+    	"url": "sites/all/themes/ihrp/css/twitter.css",
+		"timeout_length": 1800
+	};
+	CustomizeTwitterWidget(options);
+</script>
+</body>
+</html>

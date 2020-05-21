@@ -1,0 +1,594 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin List -->
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Type:</strong>
+		<a href='/list.php?id=2&amp;type=1&amp;letter=all'>Alumni</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=all'>Directorate</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=3&amp;letter=all'>Faculty</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=4&amp;letter=all'>Former Staff</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=5&amp;letter=all'>Staff</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=all'><strong>Students</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=7&amp;letter=all'>Visitors</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=all&amp;letter=all'>All</a><br>
+		<strong>Name:</strong>
+		<a href='/list.php?id=2&amp;type=6&amp;letter=A'>A</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=B'>B</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=C'>C</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=D'>D</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=E'>E</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=F'>F</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=G'>G</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=H'>H</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=I'>I</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=J'>J</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=K'>K</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=L'>L</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=M'>M</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=N'>N</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=O'>O</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=P'>P</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=Q'>Q</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=R'>R</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=S'>S</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=T'>T</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=U'>U</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=V'>V</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=W'>W</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=X'>X</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=Y'>Y</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=Z'>Z</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=all'><strong>All</strong></a>
+	</div>
+</div>
+<!-- End List Pagination -->
+<div id='list_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin List List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2454'><img src='/resizedImages/500x280-crop-jalmaguer.jpg' alt='' title='Jade Almaguer' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2454'>Jade Almaguer</a></strong><br>
+			Research Experience Undergraduate (REU)<br>
+			<a href='mailto:jalmag2@uic.edu'>jalmag2@uic.edu</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2306'><img src='/resizedImages/500x280-crop-aalsaiari.jpg' alt='' title='Abeer Alsaiari' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2306'>Abeer Alsaiari</a></strong><br>
+			PhD Candidate<br>
+			<a href='mailto:aalsai3@uic.edu'>aalsai3@uic.edu</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2370'><img src='/resizedImages/500x280-crop-karica.jpg' alt='' title='Kenan Arica' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2370'>Kenan Arica</a></strong><br>
+			Research Experience Undergraduate<br>
+			<a href='http://github.com/kenanarica' target='_blank'>http://github.com/kenanarica</a><br>
+			<a href='mailto:kenanarica@gmail.com'>kenanarica@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=285'><img src='/resizedImages/500x280-crop-jillianaurisano.jpg' alt='' title='Jillian Aurisano' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=285'>Jillian Aurisano</a></strong><br>
+			PhD Candidate<br>MS Graduate, 2014<br>
+			<a href='http://www.auriweb.com/' target='_blank'>http://www.auriweb.com/</a><br>
+			<a href='mailto:jillian.aurisano@gmail.com'>jillian.aurisano@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2446'><img src='/resizedImages/500x280-crop-rawan.jpg' alt='' title='Rafiya Awan' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2446'>Rafiya Awan</a></strong><br>
+			College of Engineering Intern<br>
+			<a href='mailto:rawan2@uic.edu'>rawan2@uic.edu</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2475'><img src='/resizedImages/500x280-crop-tbargo_sm.jpg' alt='' title='Timothy Bargo' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2475'>Timothy Bargo</a></strong><br>
+			Research Experience Undergraduate (REU)<br>
+			<a href='https://www.linkedin.com/in/timothy-bargo-13965a15b/' target='_blank'>https://www.linkedin.com/in/timothy-bargo-13965a15b/</a><br>
+			<a href='mailto:tim@timbargo.com'>tim@timbargo.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=300'><img src='/resizedImages/500x280-crop-krishna_sm.jpg' alt='' title='Krishna Bharadwaj' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=300'>Krishna Bharadwaj</a></strong><br>
+			PhD Candidate<br>MS Graduate, 2015<br>
+			<a href='mailto:krishnaknbharadwaj@gmail.com'>krishnaknbharadwaj@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2231'><img src='/resizedImages/500x280-crop-aburks.png' alt='' title='Andrew Burks' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2231'>Andrew Burks</a></strong><br>
+			PhD Student<br>Research Experience Undergraduate, 2016-2017<br>
+			<a href='mailto:aburks3@uic.edu'>aburks3@uic.edu</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2440'><img src='/resizedImages/500x280-crop-zhongyichen.jpg' alt='' title='Zhongyi Chen' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2440'>Zhongyi Chen</a></strong><br>
+			Research Experience Undergraduate (REU)<br>
+			<a href='mailto:zchen230@uic.edu'>zchen230@uic.edu</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2422'><img src='/misc/default_500x280.png' alt='' title='Hayley Christianson' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2422'>Hayley Christianson</a></strong><br>
+			Research Experience Undergraduate (REU)<br>
+			<a href='mailto:hchris6@uic.edu'>hchris6@uic.edu</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2447'><img src='/resizedImages/500x280-crop-ddanciu.jpg' alt='' title='Darian Danciu' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2447'>Darian Danciu</a></strong><br>
+			College of Engineering Intern<br>
+			<a href='mailto:ddanci2@uic.edu'>ddanci2@uic.edu</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2461'><img src='/resizedImages/500x280-crop-cfloricel.jpg' alt='' title='Carla Floricel' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2461'>Carla Floricel</a></strong><br>
+			PhD Graduate Student<br>
+			<a href='mailto:cflori3@uic.edu'>cflori3@uic.edu</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2305'><img src='/resizedImages/500x280-crop-phabibi.jpg' alt='' title='Pantea Habibi' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2305'>Pantea Habibi</a></strong><br>
+			PhD Candidate<br>
+			<a href='mailto:phabib4@uic.edu'>phabib4@uic.edu</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2421'><img src='/resizedImages/500x280-crop-gjagadeesan.png' alt='' title='Ganesh Jagadeesan' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2421'>Ganesh Jagadeesan</a></strong><br>
+			MS Graduate, 2019<br>
+			<a href='https://www.linkedin.com/in/ganeshjcs' target='_blank'>https://www.linkedin.com/in/ganeshjcs</a><br>
+			<a href='mailto:csganeshj@gmail.com'>csganeshj@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2439'><img src='/resizedImages/500x280-crop-kyrajones.jpg' alt='' title='Kyra Jones' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2439'>Kyra Jones</a></strong><br>
+			Research Experience Undergraduate (REU)<br>
+			<a href='kyrajonesdesign.myportfolio.com' target='_blank'>kyrajonesdesign.myportfolio.com</a><br>
+			<a href='mailto:kjones69@uic.edu'>kjones69@uic.edu</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2298'><img src='/resizedImages/500x280-crop-vivekkrishnakumar.jpg' alt='' title='Vivek Krishnakumar' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2298'>Vivek Krishnakumar</a></strong><br>
+			PhD Candidate<br>MS Graduate, 2017<br>
+			<a href='http://www.vivekweb.com' target='_blank'>http://www.vivekweb.com</a><br>
+			<a href='mailto:vkrish9@uic.edu'>vkrish9@uic.edu</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2472'><img src='/resizedImages/500x280-crop-akumar.jpg' alt='' title='Abhinav Kumar' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2472'>Abhinav Kumar</a></strong><br>
+			PhD Candidate<br>
+			<a href='mailto:akumar34@uic.edu'>akumar34@uic.edu</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2189'><img src='/resizedImages/500x280-crop-tluciani.jpg' alt='' title='Timothy Luciani' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2189'>Timothy Luciani</a></strong><br>
+			PhD Candidate<br>
+			<a href='http://tlucia2.people.uic.edu' target='_blank'>http://tlucia2.people.uic.edu</a><br>
+			<a href='mailto:tluciani21@gmail.com'>tluciani21@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2415'><img src='/resizedImages/500x280-crop-mmantovani.jpg' alt='' title='Mirko Mantovani' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2415'>Mirko Mantovani</a></strong><br>
+			MS Student<br>
+			<a href='https://mmanto2.people.uic.edu/' target='_blank'>https://mmanto2.people.uic.edu/</a><br>
+			<a href='mailto:mmanto2@uic.edu'>mmanto2@uic.edu</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2410'><img src='/resizedImages/500x280-crop-lmirza.jpg' alt='' title='Lubna Miza' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2410'>Lubna Miza</a></strong><br>
+			MS Student<br>
+			<a href='lubnamirza.com' target='_blank'>lubnamirza.com</a><br>
+			<a href='mailto:lmirza3@uic.edu'>lmirza3@uic.edu</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2300'><img src='/resizedImages/500x280-crop-harishnaik.png' alt='' title='Harish Naik' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2300'>Harish Naik</a></strong><br>
+			PhD Candidate<br>
+			<a href='http://hnaik.com' target='_blank'>http://hnaik.com</a><br>
+			<a href='mailto:hnaik2@uic.edu'>hnaik2@uic.edu</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2301'><img src='/resizedImages/500x280-crop-ashwininaik.jpg' alt='' title='Ashwini Naik' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2301'>Ashwini Naik</a></strong><br>
+			PhD Candidate<br>
+			<a href='https://sites.google.com/site/ashwiniprojects/' target='_blank'>https://sites.google.com/site/ashwiniprojects/</a><br>
+			<a href='mailto:ashwinignaik@gmail.com'>ashwinignaik@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2460'><img src='/resizedImages/500x280-crop-nalamnipu.jpg' alt='' title='Md Nafiul Alam Nipu' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2460'>Md Nafiul Alam Nipu</a></strong><br>
+			PhD Graduate Student<br>
+			<a href='mailto:mnipu2@uic.edu'>mnipu2@uic.edu</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=270'><img src='/resizedImages/500x280-crop-anishimoto_2014.jpg' alt='' title='Arthur Nishimoto' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=270'>Arthur Nishimoto</a></strong><br>
+			PhD Candidate<br>MS Graduate, 2014<br>
+			<a href='http://arthurnishimoto.blogspot.com/' target='_blank'>http://arthurnishimoto.blogspot.com/</a><br>
+			<a href='mailto:anishi2@uic.edu'>anishi2@uic.edu</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2364'><img src='/resizedImages/500x280-crop-rnishimoto.jpg' alt='' title='Ryan Nishimoto' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2364'>Ryan Nishimoto</a></strong><br>
+			MS Student<br>
+			<a href='mailto:nishimo1@uic.edu'>nishimo1@uic.edu</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=311'><img src='/resizedImages/500x280-crop-jnovak-2.png' alt='' title='John Novak III' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=311'>John Novak III</a></strong><br>
+			PhD Candidate<br>
+			<a href='mailto:John.Novak@gmail.com'>John.Novak@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2368'><img src='/resizedImages/500x280-crop-jodonnell.jpg' alt='' title='Jack O'Donnell' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2368'>Jack O'Donnell</a></strong><br>
+			Research Experience Undergraduate (REU)<br>
+			<a href='mailto:odonnellj24@gmail.com'>odonnellj24@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2456'><img src='/resizedImages/500x280-crop-aperritano-2.png' alt='' title='Anthony Perritano' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2456'>Anthony Perritano</a></strong><br>
+			PhD Candidate<br>
+			<a href='https://www.evl.uic.edu/aperritano/' target='_blank'>https://www.evl.uic.edu/aperritano/</a><br>
+			<a href='mailto:aperritano@gmail.com'>aperritano@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2448'><img src='/resizedImages/500x280-crop-spopowski.jpg' alt='' title='Szymon Popowski' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2448'>Szymon Popowski</a></strong><br>
+			Research Experience Undergraduate (REU)<br>
+			<a href='mailto:spopow2@uic.edu'>spopow2@uic.edu</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2304'><img src='/resizedImages/500x280-crop-nshakhnini.jpg' alt='' title='Nina Sakhnini' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2304'>Nina Sakhnini</a></strong><br>
+			MS Student<br>
+			<a href='http://www.ninasakhnini.net' target='_blank'>http://www.ninasakhnini.net</a><br>
+			<a href='mailto:sakhnini.nina@gmail.com'>sakhnini.nina@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2470'><img src='/resizedImages/500x280-crop-ssrabanti.jpg' alt='' title='Sanjana Srabanti' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2470'>Sanjana Srabanti</a></strong><br>
+			PhD Graduate Student<br>
+			<a href='mailto:ssraba2@uic.edu'>ssraba2@uic.edu</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2250'><img src='/resizedImages/500x280-crop-jtrellestrabucco_sm.png' alt='' title='Juan Trelles Trabucco' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2250'>Juan Trelles Trabucco</a></strong><br>
+			PhD Candidate<br>MS Graduate, 2017<br>
+			<a href='mailto:jtrell2@uic.edu'>jtrell2@uic.edu</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2299'><img src='/resizedImages/500x280-crop-haithanhtran.jpg' alt='' title='Hai Thanh Tran' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2299'>Hai Thanh Tran</a></strong><br>
+			PhD Candidate<br>
+			<a href='mailto:htran41@uic.edu'>htran41@uic.edu</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2365'><img src='/resizedImages/500x280-crop-rvanniasamy.jpg' alt='' title='Ramnarayanan Vannia Samy' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2365'>Ramnarayanan Vannia Samy</a></strong><br>
+			MS Graduate, 2019<br>
+			<a href='mailto:ramnarayanan15144@gmail.com'>ramnarayanan15144@gmail.com</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2191'><img src='/misc/default_500x280.png' alt='' title='Haoyu Wang' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2191'>Haoyu Wang</a></strong><br>
+			PhD Candidate
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2467'><img src='/misc/default_500x280.png' alt='' title='Andrew Wentzel' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2467'>Andrew Wentzel</a></strong><br>
+			MS Graduate Student<br>
+			<a href='mailto:awentze2@uic.edu'>awentze2@uic.edu</a>
+		</div>
+	</td>
+</tr>
+<!-- End List List -->
+	</table>
+</div>
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Type:</strong>
+		<a href='/list.php?id=2&amp;type=1&amp;letter=all'>Alumni</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=2&amp;letter=all'>Directorate</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=3&amp;letter=all'>Faculty</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=4&amp;letter=all'>Former Staff</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=5&amp;letter=all'>Staff</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=all'><strong>Students</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=7&amp;letter=all'>Visitors</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=all&amp;letter=all'>All</a><br>
+		<strong>Name:</strong>
+		<a href='/list.php?id=2&amp;type=6&amp;letter=A'>A</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=B'>B</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=C'>C</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=D'>D</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=E'>E</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=F'>F</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=G'>G</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=H'>H</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=I'>I</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=J'>J</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=K'>K</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=L'>L</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=M'>M</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=N'>N</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=O'>O</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=P'>P</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=Q'>Q</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=R'>R</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=S'>S</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=T'>T</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=U'>U</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=V'>V</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=W'>W</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=X'>X</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=Y'>Y</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=Z'>Z</a>&nbsp;&nbsp;
+		<a href='/list.php?id=2&amp;type=6&amp;letter=all'><strong>All</strong></a>
+	</div>
+</div>
+<!-- End List Pagination -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

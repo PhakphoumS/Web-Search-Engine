@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
+    <style>
+
+      body {
+        margin:0;
+        min-height:100%;
+        font: 20px/1.5em 'source sans pro', helvetica, arial, sans-serif;
+        color: #333;
+        -webkit-font-smoothing:antialiased;
+        -moz-osx-font-smoothing:grayscale;
+      }
+
+      h1 {
+        text-transform: uppercase;
+        letter-spacing: 4px;
+        color:steelblue;
+        font-size:1.8em;
+        margin:0;
+      }
+      #wrapper {
+        padding:10%;
+      }
+      #main {
+        max-width:700px;
+        margin-top:10px;
+      }
+
+      @media only screen and (min-width: 768px) {
+        h1 {
+          position:absolute;
+          display:inline-block;
+          padding-top: 5px;
+          margin-left:-280px;
+          margin-left:calc(-200px - 5%);
+        }
+        #wrapper {
+          padding:5%;
+        }
+        #main {
+          margin-left:280px;
+          margin-left: calc(200px + 5%);
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div id="wrapper">
+      <div id="main">
+        <h1>Trina Roy</h1>
+        <p>
+          Trina Roy is a Senior Software Developer at Pixar Animation Studios and a graduate of the Computer Science Department (then called Electrical Engineering Computer Science, or EECS) at University of Illinois at Chicago (UIC), where she was a research assistant at the Electronic Visualization Laboratory (EVL).
+        </p>
+        <p>
+          Long before she ever worked on computers, Trina had a fascination with computer graphics. The seed was sown in high school with early music videos. She attended Willamette University in Oregon, where she intended to study music therapy. Once there, however, she quickly swapped one keyboard for another and changed her major to computer science. In the late ‘80s, there wasn't much in the way of computer graphics classes for undergraduates, so she made her own way by building visualization software for Mars Lander mission data for her undergraduate senior project.
+        </p>
+        <p>
+          After graduating Willamette, Trina spent a few years working at Honeywell and SpaceLabs Medical on user interfaces and 2D graphics. One of her bosses encouraged her to go to graduate school if she really wanted to do 3D computer graphics. She applied several places and was offered a full scholarship to University of California Berkeley, but opted to instead enroll in the UIC Computer Science Department and study virtual reality and scientific visualization at EVL. At the time, EVL had recently invented the CAVE™ Automatic Virtual Environment, and was involved in major collaborations with the National Center for Supercomputing Applications (NCSA) at the University of Illinois at Urbana-Champaign. Trina worked with NCSA astronomers (astronomy is another interest of hers) to apply virtual reality and visualization to gravitational waves and the Big Bang. For her Master’s Thesis, she did fluid flow simulations. EVL’s focus on art and science has had a huge impact on how she learned computer graphics and how she cultivated her creative side, and influenced her professional career and her personal friendships.
+        </p>
+        <p>
+          Upon graduating UIC, Trina started her software career at Silicon Graphics, Inc. (SGI) in the Bay Area. Among other things, she prototyped application visualizations to help educate potential buyers on the capabilities of the company’s graphics workstations.
+        </p>
+        <p>
+          After SGI, Trina landed a job at PDI/Dreamworks where she could utilize her graduate school experiences visualizing physical phenomena, and wrote physics-based simulation code for the then unknown movie about a big green ogre named “Shrek”, which went on to earn an Academy Award for Best Animated Feature Film. Since then, she's worked in three countries on 11 different movies, for Weta Digital, Double Negative Visual Effects, and now Pixar. Her work can be seen in the snow of New York in “King Kong” (which won an Oscar for Best Achievement in Visual Effects) and the destruction of the Hall of Prophecies in “Harry Potter and the Order of the Phoenix”. She developed destruction software for "Harry Potter" and "The Dark Knight" and deformation software for "John Carter of Mars". She was also responsible for on-set photography for "The Dark Knight Rises" and "Inception" (which won an Oscar for Best Achievement in Visual Effects).  
+        </p>
+        <p>
+          Currently, at Pixar, Trina works on RenderMan for Katana, a bridge tool to render visual effects seen in many of today’s feature films. She served as a Surrogate Committee Member for the 2017 and 2016 Scientific and Technical Academy Awards, and received the 2017 Distinguished Alumni Citation from Willamette University. In 2008, she was nominated for the Visual Effects Society (VES) Award for “Outstanding Created Environment in a Live Action Motion Picture” for her work on the Hall of Prophecies in "Harry Potter and the Order of the Phoenix".
+        </p>
+        <p>
+          After spending most of her career as one of a few women software engineers, she is now reaching out to the younger generation to encourage young women and girls to get involved in STEM careers. Her movies are the hook with which she engages kids and spreads the word that science is fun and Geek Girls are cool! For leisure, when she's not making pixels dance, Trina enjoys hiking in the Cascades.
+        </p>
+      </div>
+    </div>
+  </body>
+</html>

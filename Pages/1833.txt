@@ -1,0 +1,2979 @@
+  
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js ie ie6 lt-ie9 lt-ie8 lt-ie7" lang="en-US"> <![endif]-->
+<!--[if IE 7]><html class="no-js ie ie7 lt-ie9 lt-ie8" lang="en-US"> <![endif]-->
+<!--[if IE 8]><html class="no-js ie ie8 lt-ie9" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js" lang="en-US"> <!--<![endif]-->
+
+    <head>
+
+<!-- Google Analytics script (RED and this site) -->
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+              (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    
+        ga('create', 'UA-20665772-1', 'auto');
+    
+        ga('create', 'UA-24550204-1', 'auto', 'lasTracker');
+    
+        ga('send', 'pageview');
+    
+        ga('lasTracker.send', 'pageview');
+      </script>
+<!-- End Google Analytics script (RED and this site) -->
+
+
+
+<!-- Google Tag Manager script for RED multisite -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+              j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})
+              (window,document,'script','dataLayer','GTM-W2Q8D2K');
+  </script>
+<!-- End Google Tag Manager script for RED multisite -->
+
+
+
+
+
+
+        <title>
+                            FAQs | College of Liberal Arts and Sciences | University of Illinois at Chicago
+                    </title>
+
+
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="pingback" href="https://las.uic.edu/xmlrpc.php" />
+
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="/apple-touch-icon-60x60.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/apple-touch-icon-152x152.png" />
+<link rel="icon" type="image/png" href="/favicon-196x196.png" sizes="196x196" />
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16" />
+<link rel="icon" type="image/png" href="/favicon-128.png" sizes="128x128" />
+<meta name="application-name" content="&nbsp;"/>
+<meta name="msapplication-TileColor" content="#FFFFFF" />
+<meta name="msapplication-TileImage" content="mstile-144x144.png" />
+<meta name="msapplication-square70x70logo" content="mstile-70x70.png" />
+<meta name="msapplication-square150x150logo" content="mstile-150x150.png" />
+<meta name="msapplication-wide310x150logo" content="mstile-310x150.png" />
+<meta name="msapplication-square310x310logo" content="mstile-310x310.png" />
+
+    <link rel="stylesheet" href="https://las.uic.edu/wp-content/themes/uic-red/main.css?v=1588698688" type="text/css" media="all" />
+    <link rel="stylesheet" href="https://las.uic.edu/wp-content/themes/uic-red/theinhardt.css?v=1588698688" type="text/css" media="all">
+
+    <link rel='dns-prefetch' href='//www.uic.edu' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/las.uic.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=5d22ad4e79d53a5a8c98a4d20d4dd9b6"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://las.uic.edu/wp-includes/css/dist/block-library/style.min.css?ver=5d22ad4e79d53a5a8c98a4d20d4dd9b6' type='text/css' media='all' />
+<link rel='stylesheet' id='sb_instagram_styles-css'  href='https://las.uic.edu/wp-content/plugins/instagram-feed/css/sb-instagram.min.css?ver=1.12.1' type='text/css' media='all' />
+<link rel='stylesheet' id='sb-font-awesome-css'  href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='https://las.uic.edu/wp-content/plugins/tablepress/css/default.min.css?ver=1.9.2' type='text/css' media='all' />
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/2.2.3/jquery.min.js?ver=5d22ad4e79d53a5a8c98a4d20d4dd9b6'></script>
+<link rel='https://api.w.org/' href='https://las.uic.edu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://las.uic.edu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://las.uic.edu/wp-includes/wlwmanifest.xml" /> 
+
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		if (window.wfLogHumanRan) { return; }
+		window.wfLogHumanRan = true;
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//las.uic.edu/?wordfence_lh=1&hid=24CAE12ECF4D651E44E979C5EDD45612');
+</script>
+</head>
+      
+  <body>
+
+<!-- Google Tag Manager for RED multisite (noscript) -->
+<noscript>
+  <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W2Q8D2K" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager for RED multisite (noscript) -->
+
+
+
+
+
+  
+  
+
+  
+  
+
+  
+  
+
+  <div class="l-page page-template-default page page-id-7154 page-parent page-child parent-pageid-1108 post-type--page  site-type-a theme--navy is-sidebar  ">
+
+
+    <!--[if lte IE 9]>
+<div class="browser-stripe u-dark-region">
+  <div class="l-full">
+      <h2>Your browser is unsupported</h2>
+      <p>We recommend using the latest version of IE11, Edge, Chrome, Firefox or Safari.</p>
+  </div>
+</div>
+<![endif]-->
+<div class="browser-stripe u-dark-region ie10">
+  <div class="l-full">
+      <h2>Your browser is unsupported</h2>
+      <p>We recommend using the latest version of IE11, Edge, Chrome, Firefox or Safari.</p>
+  </div>
+</div>
+    
+<header class="l-header" role="banner">
+
+  
+  <div class="header-navigation">
+
+      <div id="skip" class="skip-menu assistive-text">
+  <p>
+    <span class="_main">
+    <a href="#article">Skip to the content of this page</a>,
+    </span>
+    <a class="_primary-menu" href="#menu-main">the main menu</a>,
+
+        <a class="_secondary-menu" href="#menu-secondary">the secondary menu</a>,
+    
+    
+    <a class="_search" href="#search">the site search form</a>,
+
+    <a class="_home" href="https://las.uic.edu">the site home page</a>.
+  </p>
+</div>
+
+      <div class="eyebrow-mobile-wrapper js-eyebrow-mobile">
+<div class="eyebrow-mobile">
+            <div class="eyebrow-mobile-logo eyebrow-logo">
+            <a href="http://uic.edu" class="uic-logo-icon eyebrow-mobile-logo__uic-logo">
+ <svg aria-label="UIC.edu home" viewBox="0 0 55 55" xmlns="http://www.w3.org/2000/svg">
+ <title>UIC Logo</title>
+ <circle class="_circle" cx="27" cy="27" r="25" fill="none" />
+<path class="_mark" d="M49.73 23.917l-4.583 2.2c-.44-1.71-1.397-2.718-3.056-2.718-2.25 0-3.39 1.862-3.39 4.918 0 3.03 1.14 4.844 3.39 4.844 1.555 0 2.462-.83 2.954-2.203l4.79 1.707c-1.242 2.824-3.754 4.767-7.768 4.767-5.57 0-8.754-3.728-8.754-9.116 0-5.41 3.368-9.114 8.857-9.114 4.194 0 6.68 2.407 7.56 4.713zm-24.264-4.403h5.282v17.61h-5.282v-17.61zm-3.21 10.41c0 2.46-.258 3.65-.96 4.844-1.164 1.94-4.27 2.692-6.99 2.692-2.72 0-5.828-.753-6.993-2.692-.698-1.194-.96-2.384-.96-4.844v-10.41h5.284v10.513c0 1.192.157 1.968.596 2.486.416.492 1.09.726 2.073.726.983 0 1.657-.235 2.07-.727.44-.518.597-1.294.597-2.486V19.514h5.282v10.41zM54.5 27.5c0-14.912-12.09-27-27-27-14.913 0-27 12.088-27 27s12.087 27 27 27c14.91 0 27-12.088 27-27z" fill="#FFF " fill-rule="evenodd"/>
+</svg>
+</a>
+    </div>
+                <div class="site-title-eyebrow-mobile">
+          <a href="https://las.uic.edu">College of Liberal Arts and Sciences</a>
+        </div>
+    
+    <button aria-label="Search the site" class="search-toggle-mobile js-search-toggle-mobile">
+  <span class="icon-search ">
+        <span class="assistive-text">Search the site</span>
+      </span>
+    </button>
+    <button class="nav-header-toggle js-nav-header-toggle">
+      <span class="icon-menu ">
+      Toggle Menu
+      </span>
+    </button>
+  </div>
+  <div class="search-input-container-mobile">
+    <div class="search-input-container-mobile__content">
+      <div class="search-title">
+        Search
+        <a class="search-close search-toggle-mobile">
+          <svg aria-label="Close search box" width="100%" height="100%" viewBox="0 0 22 22">
+            <use xlink:href="https://las.uic.edu/wp-content/themes/uic-red/images/svgs/svgs.svg#icon-close"></use>
+          </svg>
+        </a>
+      </div>
+      <form method="get" action="/search" role="search" aria-label="Search this site on your mobile device">
+        <input type="text" name="q" class="search-input-mobile" placeholder="Search..." tabindex="-1" aria-label="Search this site on your mobile device" disabled="">
+        <input type="submit" class="submit-button" name="search" value="Submit">
+      </form>
+    </div>
+  </div>
+</div>
+
+    <div class="header-navigation__eyebrow">
+
+                    <div class="header-navigation-logo header-logo">
+                        <a href="http://uic.edu" class="uic-logo-icon header-navigation-logo__uic-logo">
+ <svg aria-label="UIC.edu home" viewBox="0 0 55 55" xmlns="http://www.w3.org/2000/svg">
+ <title>UIC Logo</title>
+ <circle class="_circle" cx="27" cy="27" r="25" fill="none" />
+<path class="_mark" d="M49.73 23.917l-4.583 2.2c-.44-1.71-1.397-2.718-3.056-2.718-2.25 0-3.39 1.862-3.39 4.918 0 3.03 1.14 4.844 3.39 4.844 1.555 0 2.462-.83 2.954-2.203l4.79 1.707c-1.242 2.824-3.754 4.767-7.768 4.767-5.57 0-8.754-3.728-8.754-9.116 0-5.41 3.368-9.114 8.857-9.114 4.194 0 6.68 2.407 7.56 4.713zm-24.264-4.403h5.282v17.61h-5.282v-17.61zm-3.21 10.41c0 2.46-.258 3.65-.96 4.844-1.164 1.94-4.27 2.692-6.99 2.692-2.72 0-5.828-.753-6.993-2.692-.698-1.194-.96-2.384-.96-4.844v-10.41h5.284v10.513c0 1.192.157 1.968.596 2.486.416.492 1.09.726 2.073.726.983 0 1.657-.235 2.07-.727.44-.518.597-1.294.597-2.486V19.514h5.282v10.41zM54.5 27.5c0-14.912-12.09-27-27-27-14.913 0-27 12.088-27 27s12.087 27 27 27c14.91 0 27-12.088 27-27z" fill="#FFF " fill-rule="evenodd"/>
+</svg>
+</a>
+            </div>
+                <div class="header-navigation__eyebrow-menus">
+
+            <div class="header-navigation__logo-and-site-title">
+
+                                <div class="site-title-main ">
+                                      <a href="https://las.uic.edu">College of Liberal Arts and Sciences</a>
+                                    </div>
+              
+            </div>
+          <nav class="header-menus js-header-menus " aria-label="Primary" role="navigation">
+
+  <div class="site-title-mobile-menu">
+    <a href="https://las.uic.edu">College of Liberal Arts and Sciences</a>
+  </div>
+
+  
+  <h2 class="assistive-text">Main Menu</h2>
+  <ul id="menu-main" class="menu menu-main" aria-label="Main Menu">
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-8608 menu-item-has-children">
+      <a 
+        class="menu-main__first-link"
+        href="/about/"
+        target="_self">
+
+        About
+      </a>
+
+              <button class="menu-main__expand-item js-expand-item" role="button">
+          <svg class="menu-main__expand-icon" aria-label="Expand About menu" width="32" height="32" viewBox="0 0 32 32">
+            <title>Expand About menu</title>
+            <g fill="none" fill-rule="evenodd">
+              <ellipse class="menu-main__expand-circle" stroke-width="1" stroke="#001E62" fill="#001E62" cx="16" cy="16" rx="15.5" ry="15.5"></ellipse>
+              <path class="menu-main__expand-chevron" stroke-width="2" stroke="#fff" stroke-linecap="round" d="M12 18l4-4 4 4"></path>
+            </g>
+          </svg>
+        </button>
+
+        <div class="menu-main__submenus-container">
+          <ul class="menu-main__second-list">
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-2628">
+                <a 
+                  class="menu-main__second-link"
+                  href="/about/las-news/"
+                  target="_self">
+
+                  LAS News
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-8117">
+                <a 
+                  class="menu-main__second-link"
+                  href="/about/las-calendar/"
+                  target="_self">
+
+                  LAS Calendar
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-7430">
+                <a 
+                  class="menu-main__second-link"
+                  href="/academics/all-las-programs/"
+                  target="_self">
+
+                  Academic Areas
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-1671 menu-item-has-children">
+                <a 
+                  class="menu-main__second-link"
+                  href="/about/directories/"
+                  target="_self">
+
+                  Directories
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-8442 menu-item-has-children">
+                <a 
+                  class="menu-main__second-link"
+                  href="/about/administration/"
+                  target="_self">
+
+                  Administration
+                </a>
+              </li>
+                      </ul>
+
+          <div class="menu-main__mega-menu-container">
+                      </div>
+        </div>
+          </li>
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-487 menu-item-has-children">
+      <a 
+        class="menu-main__first-link"
+        href="/academics/"
+        target="_self">
+
+        Academics
+      </a>
+
+              <button class="menu-main__expand-item js-expand-item" role="button">
+          <svg class="menu-main__expand-icon" aria-label="Expand Academics menu" width="32" height="32" viewBox="0 0 32 32">
+            <title>Expand Academics menu</title>
+            <g fill="none" fill-rule="evenodd">
+              <ellipse class="menu-main__expand-circle" stroke-width="1" stroke="#001E62" fill="#001E62" cx="16" cy="16" rx="15.5" ry="15.5"></ellipse>
+              <path class="menu-main__expand-chevron" stroke-width="2" stroke="#fff" stroke-linecap="round" d="M12 18l4-4 4 4"></path>
+            </g>
+          </svg>
+        </button>
+
+        <div class="menu-main__submenus-container">
+          <ul class="menu-main__second-list">
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-1914">
+                <a 
+                  class="menu-main__second-link"
+                  href="/academics/why-las/"
+                  target="_self">
+
+                  Why Liberal Arts &amp; Sciences?
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-2203">
+                <a 
+                  class="menu-main__second-link"
+                  href="/academics/all-las-programs/"
+                  target="_self">
+
+                  Departments &amp; Programs
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-190 menu-item-has-children">
+                <a 
+                  class="menu-main__second-link"
+                  href="/academics/las-majors/"
+                  target="_self">
+
+                  Majors
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-395">
+                <a 
+                  class="menu-main__second-link"
+                  href="/academics/las-minors/"
+                  target="_self">
+
+                  Minors
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-175">
+                <a 
+                  class="menu-main__second-link"
+                  href="/academics/pre-professional/"
+                  target="_self">
+
+                  Pre-Professional Programs
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-1339">
+                <a 
+                  class="menu-main__second-link"
+                  href="/academics/secondary-education/"
+                  target="_self">
+
+                  Secondary Education
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-7371">
+                <a 
+                  class="menu-main__second-link"
+                  href="/admissions-aid/graduatestudents/"
+                  target="_self">
+
+                  Graduate Programs
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-10115">
+                <a 
+                  class="menu-main__second-link"
+                  href="/academics/onlinepathways/"
+                  target="_self">
+
+                  Online Pathways
+                </a>
+              </li>
+                      </ul>
+
+          <div class="menu-main__mega-menu-container">
+                      </div>
+        </div>
+          </li>
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current_page_ancestor menu-item-872 menu-item-has-children">
+      <a 
+        class="menu-main__first-link"
+        href="/lasresearch/"
+        target="_self">
+
+        Research
+      </a>
+
+              <button class="menu-main__expand-item js-expand-item" role="button">
+          <svg class="menu-main__expand-icon" aria-label="Expand Research menu" width="32" height="32" viewBox="0 0 32 32">
+            <title>Expand Research menu</title>
+            <g fill="none" fill-rule="evenodd">
+              <ellipse class="menu-main__expand-circle" stroke-width="1" stroke="#001E62" fill="#001E62" cx="16" cy="16" rx="15.5" ry="15.5"></ellipse>
+              <path class="menu-main__expand-chevron" stroke-width="2" stroke="#fff" stroke-linecap="round" d="M12 18l4-4 4 4"></path>
+            </g>
+          </svg>
+        </button>
+
+        <div class="menu-main__submenus-container">
+          <ul class="menu-main__second-list">
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-7471 menu-item-has-children">
+                <a 
+                  class="menu-main__second-link"
+                  href="/lasresearch/research-strengths/"
+                  target="_self">
+
+                  Research Strengths
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current_page_ancestor menu-item-7473 menu-item-has-children">
+                <a 
+                  class="menu-main__second-link"
+                  href="/lasresearch/student-research/"
+                  target="_self">
+
+                  Student Research
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-832">
+                <a 
+                  class="menu-main__second-link"
+                  href="/lasresearch/institutes-centers/"
+                  target="_self">
+
+                  Institutes &amp; Centers
+                </a>
+              </li>
+                      </ul>
+
+          <div class="menu-main__mega-menu-container">
+                      </div>
+        </div>
+          </li>
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-637 menu-item-has-children">
+      <a 
+        class="menu-main__first-link"
+        href="/admissions-aid/"
+        target="_self">
+
+        Admissions &amp; Aid
+      </a>
+
+              <button class="menu-main__expand-item js-expand-item" role="button">
+          <svg class="menu-main__expand-icon" aria-label="Expand Admissions &amp; Aid menu" width="32" height="32" viewBox="0 0 32 32">
+            <title>Expand Admissions &amp; Aid menu</title>
+            <g fill="none" fill-rule="evenodd">
+              <ellipse class="menu-main__expand-circle" stroke-width="1" stroke="#001E62" fill="#001E62" cx="16" cy="16" rx="15.5" ry="15.5"></ellipse>
+              <path class="menu-main__expand-chevron" stroke-width="2" stroke="#fff" stroke-linecap="round" d="M12 18l4-4 4 4"></path>
+            </g>
+          </svg>
+        </button>
+
+        <div class="menu-main__submenus-container">
+          <ul class="menu-main__second-list">
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-262">
+                <a 
+                  class="menu-main__second-link"
+                  href="/admissions-aid/financial-aid-scholarships/"
+                  target="_self">
+
+                  Financial Aid &amp; Scholarships
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-10956">
+                <a 
+                  class="menu-main__second-link"
+                  href="/admissions-aid/admitted-student/"
+                  target="_self">
+
+                  Admitted Students
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-162">
+                <a 
+                  class="menu-main__second-link"
+                  href="/admissions-aid/undergraduate/"
+                  target="_self">
+
+                  First-Year Students
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-185">
+                <a 
+                  class="menu-main__second-link"
+                  href="/admissions-aid/transfer/"
+                  target="_self">
+
+                  Transfer Students
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-184">
+                <a 
+                  class="menu-main__second-link"
+                  href="/admissions-aid/special-programs/"
+                  target="_self">
+
+                  Special Programs
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-176">
+                <a 
+                  class="menu-main__second-link"
+                  href="/admissions-aid/graduatestudents/"
+                  target="_self">
+
+                  Graduate Students
+                </a>
+              </li>
+                      </ul>
+
+          <div class="menu-main__mega-menu-container">
+                      </div>
+        </div>
+          </li>
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-203 menu-item-has-children">
+      <a 
+        class="menu-main__first-link"
+        href="/advising/"
+        target="_self">
+
+        Advising
+      </a>
+
+              <button class="menu-main__expand-item js-expand-item" role="button">
+          <svg class="menu-main__expand-icon" aria-label="Expand Advising menu" width="32" height="32" viewBox="0 0 32 32">
+            <title>Expand Advising menu</title>
+            <g fill="none" fill-rule="evenodd">
+              <ellipse class="menu-main__expand-circle" stroke-width="1" stroke="#001E62" fill="#001E62" cx="16" cy="16" rx="15.5" ry="15.5"></ellipse>
+              <path class="menu-main__expand-chevron" stroke-width="2" stroke="#fff" stroke-linecap="round" d="M12 18l4-4 4 4"></path>
+            </g>
+          </svg>
+        </button>
+
+        <div class="menu-main__submenus-container">
+          <ul class="menu-main__second-list">
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-691 menu-item-has-children">
+                <a 
+                  class="menu-main__second-link"
+                  href="/advising/orientation/"
+                  target="_self">
+
+                  New Student Orientation
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-1499">
+                <a 
+                  class="menu-main__second-link"
+                  href="/advising/your-assigned-advisor/"
+                  target="_self">
+
+                  Your Assigned Advisor
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-1517">
+                <a 
+                  class="menu-main__second-link"
+                  href="/advising/major-minor-advising/"
+                  target="_self">
+
+                  Major &amp; Minor Advising
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-9239">
+                <a 
+                  class="menu-main__second-link"
+                  href="/advising/career-development/"
+                  target="_self">
+
+                  Career Development
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-9257">
+                <a 
+                  class="menu-main__second-link"
+                  href="/advising/pre-health/"
+                  target="_self">
+
+                  Pre-Health
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-9256">
+                <a 
+                  class="menu-main__second-link"
+                  href="/advising/pre-law/"
+                  target="_self">
+
+                  Pre-Law
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-10022">
+                <a 
+                  class="menu-main__second-link"
+                  href="/advising/first-at-las/"
+                  target="_self">
+
+                  First-at-LAS
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-955">
+                <a 
+                  class="menu-main__second-link"
+                  href="/advising/honors-scholarships/"
+                  target="_self">
+
+                  Scholarships &amp; Honors
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-1147">
+                <a 
+                  class="menu-main__second-link"
+                  href="/advising/gpa-calculator/"
+                  target="_self">
+
+                  GPA Calculator
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-994">
+                <a 
+                  class="menu-main__second-link"
+                  href="/advising/tutoring/"
+                  target="_self">
+
+                  Tutoring
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-901">
+                <a 
+                  class="menu-main__second-link"
+                  href="/advising/intercollege-transfer/"
+                  target="_self">
+
+                  Intercollege Transfer
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-1215 menu-item-has-children">
+                <a 
+                  class="menu-main__second-link"
+                  href="/advising/policies-procedures/"
+                  target="_self">
+
+                  Policies &amp; Procedures
+                </a>
+              </li>
+                      </ul>
+
+          <div class="menu-main__mega-menu-container">
+                      </div>
+        </div>
+          </li>
+  </ul>
+
+  <div class="l-eyebrow">
+
+    <h2 class="assistive-text">Eyebrow menu</h2>
+    <ul id="menu-eyebrow" class="menu menu-eyebrow" aria-label="Eyebrow menu">
+            <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-8443">
+            <a  href="https://alumni.las.uic.edu/" target="_self">Alumni &amp; Friends</a>
+        </li>
+            <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-9111">
+            <a  href="https://give.las.uic.edu/units/las/" target="_self">+Give</a>
+        </li>
+    </ul>
+
+    <h2 class="assistive-text">UIC menu</h2>
+    <ul class="menu-uic">
+      <li class="_item">
+    <a href="http://uic.edu">UIC.edu</a>
+  </li>
+  <li class="_item">
+    <a href="http://maps.uic.edu/">Campus Map</a>
+  </li>
+</ul>
+
+
+
+    <div aria-label="Primary" role="search" class="search-wrapper">
+
+      <button id="search" class="search-toggle">
+        <span class="icon-search ">
+          <span class="assistive-text">Search</span>
+        </span>
+      </button>
+
+      <div class="search-input-container">
+        <div class="search-input-container__form">
+          <form method="get" action="/search" >
+            <input type="text" name="q" class="search-input" placeholder="Search..." tabindex="-1" aria-label="Search" disabled="">
+            <input type="submit" class="submit-button" name="search" value="Submit">
+          </form>
+        </div>
+      </div>
+
+    </div>
+
+
+  </div>
+
+
+</nav>
+        </div>
+    </div>
+
+    
+  </div>
+
+    
+        <a href="#menu-secondary" class="menu-secondary-anchor">
+      View Menu
+      <svg aria-label="Down arrow icon" width="32" height="32" viewBox="0 0 32 32" role="presentation">
+        <title>Down arrow icon</title>
+        <g fill="none" fill-rule="evenodd">
+          <circle class="_circle" stroke-width="1" stroke="#007Da5" fill="#fff" cx="16" cy="16" r="15"/>
+          <path class="_arrow" stroke-width="2" stroke="#001E62" stroke-linecap="round" d="M12 17l4 4 4-4M16 20v-9"/>
+        </g>
+      </svg>
+    </a>
+        
+</header>
+
+    <main id="main" class="l-content-wrapper" role="main">
+
+      
+                
+	      
+      <div class="l-full">
+
+        <div class="l-content ">
+
+          
+                      <nav class="breadcrumbs" aria-label="Breadcrumbs">
+  <h2 class="assistive-text">Breadcrumbs</h2>
+  <ol class="menu" vocab="https://schema.org/" typeof="BreadcrumbList">
+
+  
+          <li property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" href="https://las.uic.edu"><span property="name">College of Liberal Arts and Sciences</span></a>
+        <meta property="position" content="0">
+      </li>
+    
+  
+          <li property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" href="https://las.uic.edu/lasresearch/"><span property="name">Research</span></a>
+        <meta property="position" content="1">
+      </li>
+    
+  
+          <li property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" href="https://las.uic.edu/lasresearch/student-research/"><span property="name">Student Research</span></a>
+        <meta property="position" content="2">
+      </li>
+    
+  
+          <li property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" href="https://las.uic.edu/lasresearch/student-research/lasuri/"><span property="name">LAS Undergraduate Research Initiative (LASURI)</span></a>
+        <meta property="position" content="2">
+      </li>
+    
+  
+          <li property="itemListElement" typeof="ListItem"><span property="name">FAQs</span>
+        <meta property="position" content="3">
+      </li>
+    
+  
+  </ol>
+</nav>
+          
+          <article class="post-type-page" id="article">
+            
+          <div class="intro-text">
+
+                      <h1 class="_title post-title">FAQs</h1>
+              
+            
+            <figure class="captioned-image">
+    <img src="https://las.uic.edu/wp-content/uploads/sites/181/2018/10/slideshow_LASURIApp-1-min-1090x595.jpg" alt="student presenting a poster">
+      </figure>
+    
+    
+        
+  </div>
+        <div class="components">
+
+  
+    
+      
+
+<section class="component  ">
+
+  
+    <div class="component-accordion js-component-accordion">
+
+    
+    <div class="component-description">
+                    <h2 id="faqs-for-students" class="__title visible">FAQs for Students</h2>
+                    </div>
+
+    <dl class="component-accordion__accordion"
+        role="presentation">
+
+    <dt class="component-accordion__title"
+          role="heading"
+          aria-level="1">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-1-1"
+          id="tab-sectionID-1-1"
+          type="button">
+            Is LASURI restricted to certain majors?
+        </button>
+      </dt>
+
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-1-1"
+          id="panel-sectionID-1-1"
+          role="region">
+
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+
+  
+    
+      
+
+<div class="component  component--is-in-another-component">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="is-lasuri-restricted-to-certain-majors" class="__title invisible">Is LASURI restricted to certain majors?</h2>
+                    </div>
+
+  
+  <p>LASURI is open to any undergraduate, degree-seeking student whose major field of study is in the College of Liberal Arts and Sciences.  We encourage students majoring in the humanities, social sciences, natural sciences, and interdisciplinary programs in LAS to apply for the award.</p>
+
+
+
+  
+</div>
+
+  
+</div>
+
+    
+
+</div>
+          </div>
+      </dd>
+
+    <dt class="component-accordion__title"
+          role="heading"
+          aria-level="2">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-1-2"
+          id="tab-sectionID-1-2"
+          type="button">
+            How many times can I participate in the program?
+        </button>
+      </dt>
+
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-1-2"
+          id="panel-sectionID-1-2"
+          role="region">
+
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+
+  
+    
+      
+
+<div class="component  component--is-in-another-component">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="how-many-times-can-i-participate-in-the-program" class="__title invisible">How many times can I participate in the program?</h2>
+                    </div>
+
+  
+  <p>We encourage you to continue your research partnership over several semesters. However, to serve the largest number of students as possible, LASURI funds are limited to two semesters.</p>
+<p>Students who have already received a two-semester LASURI award are urged to apply for other scholarships or register for course credit instead. Those who have received one semester may reapply for one additional semester.</p>
+
+
+
+  
+</div>
+
+  
+</div>
+
+    
+
+</div>
+          </div>
+      </dd>
+
+    <dt class="component-accordion__title"
+          role="heading"
+          aria-level="3">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-1-3"
+          id="tab-sectionID-1-3"
+          type="button">
+            What if I want to work on my own project, rather than a faculty member's project?
+        </button>
+      </dt>
+
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-1-3"
+          id="panel-sectionID-1-3"
+          role="region">
+
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+
+  
+    
+      
+
+<div class="component  component--is-in-another-component">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="what-if-i-want-to-work-on-my-own-project-rather-than-a-faculty-members-project" class="__title invisible">What if I want to work on my own project, rather than a faculty member's project?</h2>
+                    </div>
+
+  
+  <p>The purpose of LASURI is to facilitate productive research partnerships between professors and undergraduates. Mentors and LASURI research assistants work together on projects they have agreed are sound and feasible for the student. This may include brand new projects or an integration of the LASURI research assistant into a faculty member&#8217;s on-going project.  The fundamental requirement is that all project team members meet the basic program expectations of active mentorship, research activity, a public research presentation, and a final summary.</p>
+
+
+
+  
+</div>
+
+  
+</div>
+
+    
+
+</div>
+          </div>
+      </dd>
+
+    <dt class="component-accordion__title"
+          role="heading"
+          aria-level="4">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-1-4"
+          id="tab-sectionID-1-4"
+          type="button">
+            Who can be a faculty mentor?
+        </button>
+      </dt>
+
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-1-4"
+          id="panel-sectionID-1-4"
+          role="region">
+
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+
+  
+    
+      
+
+<div class="component  component--is-in-another-component">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="who-can-be-a-faculty-mentor" class="__title invisible">Who can be a faculty mentor?</h2>
+                    </div>
+
+  
+  <p>Mentors from all colleges are welcome, though preference may be given to faculty with a LAS affiliation. Possible faculty mentors may include individuals with a clinical, emeritus, or research associate appointments. Advanced graduate students are not eligible to formally serve as faculty mentors.</p>
+<p>If a faculty member has already agreed to serve as mentor for your project, great! Once you enter their contact information in the LASURI student application, the faculty member will receive an email prompting them to complete the mentor portion of the application. Be sure to give them plenty of time before the application deadline to do this; you&#8217;ll be able to see in SnAP when the mentor&#8217;s portion has been submitted.</p>
+
+
+
+  
+</div>
+
+  
+</div>
+
+    
+
+</div>
+          </div>
+      </dd>
+
+    <dt class="component-accordion__title"
+          role="heading"
+          aria-level="5">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-1-5"
+          id="tab-sectionID-1-5"
+          type="button">
+            I won't be on campus full-time next year. Can I still apply?
+        </button>
+      </dt>
+
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-1-5"
+          id="panel-sectionID-1-5"
+          role="region">
+
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+
+  
+    
+      
+
+<div class="component  component--is-in-another-component">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="i-wont-be-on-campus-full-time-next-year-can-i-still-apply" class="__title invisible">I won't be on campus full-time next year. Can I still apply?</h2>
+                    </div>
+
+  
+  <p>Full-time enrollment is required to receive LASURI funding. However, if you will be a full-time student during one semester next year, you can apply for only that semester. Most projects approved for LASURI funding carry over two semesters, but the committee will entertain proposals for single-semester projects. Be sure to discuss this with your faculty mentor so you can design a project feasible for this time frame.</p>
+<p>If you originally apply for and receive two semesters of funding and later find out that you won&#8217;t be available for the full year, let us know right away. You&#8217;re able to receive funding only for the semester in which you are on campus, enrolled full-time, and participating in LASURI.</p>
+
+
+
+  
+</div>
+
+  
+</div>
+
+    
+
+</div>
+          </div>
+      </dd>
+
+    <dt class="component-accordion__title"
+          role="heading"
+          aria-level="6">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-1-6"
+          id="tab-sectionID-1-6"
+          type="button">
+            Can faculty work with multiple LASURI students, either on the same project or on multiple projects?
+        </button>
+      </dt>
+
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-1-6"
+          id="panel-sectionID-1-6"
+          role="region">
+
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+
+  
+    
+      
+
+<div class="component  component--is-in-another-component">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="can-faculty-work-with-multiple-lasuri-students-either-on-the-same-project-or-on-multiple-projects" class="__title invisible">Can faculty work with multiple LASURI students, either on the same project or on multiple projects?</h2>
+                    </div>
+
+  
+  <p>If they are willing to mentor more than one student, they may support more than one application. However, they will be asked to prioritize the applications and preference may given to their highest-ranked applicant(s).</p>
+
+
+
+  
+</div>
+
+  
+</div>
+
+    
+
+</div>
+          </div>
+      </dd>
+
+    <dt class="component-accordion__title"
+          role="heading"
+          aria-level="7">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-1-7"
+          id="tab-sectionID-1-7"
+          type="button">
+            I don't see LASURI in my "Recommended opportunities" on SnAP. Where can I find it?
+        </button>
+      </dt>
+
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-1-7"
+          id="panel-sectionID-1-7"
+          role="region">
+
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+
+  
+    
+      
+
+<div class="component  component--is-in-another-component">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="i-dont-see-lasuri-in-my-recommended-opportunities-on-snap-where-can-i-find-it" class="__title invisible">I don't see LASURI in my "Recommended opportunities" on SnAP. Where can I find it?</h2>
+                    </div>
+
+  
+  <p>Log in to snap.uic.edu, go to the Opportunities tab, select &#8220;Ours,&#8221; and search for &#8220;LASURI.&#8221;</p>
+
+
+
+  
+</div>
+
+  
+</div>
+
+    
+
+</div>
+          </div>
+      </dd>
+
+    <dt class="component-accordion__title"
+          role="heading"
+          aria-level="8">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-1-8"
+          id="tab-sectionID-1-8"
+          type="button">
+            Do I have to complete the general application on SnAP before I can apply for LASURI?
+        </button>
+      </dt>
+
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-1-8"
+          id="panel-sectionID-1-8"
+          role="region">
+
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+
+  
+    
+      
+
+<div class="component  component--is-in-another-component">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="do-i-have-to-complete-the-general-application-on-snap-before-i-can-apply-for-lasuri" class="__title invisible">Do I have to complete the general application on SnAP before I can apply for LASURI?</h2>
+                    </div>
+
+  
+  <p>Yes, new SnAP users will need to answer the general questions before you can apply for a specific opportunity. However, the LASURI review committee does not focus on the general portion of the application.</p>
+
+
+
+  
+</div>
+
+  
+</div>
+
+    
+
+</div>
+          </div>
+      </dd>
+
+    <dt class="component-accordion__title"
+          role="heading"
+          aria-level="9">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-1-9"
+          id="tab-sectionID-1-9"
+          type="button">
+            What if my faculty mentor doesn't submit their part of the application before the deadline?
+        </button>
+      </dt>
+
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-1-9"
+          id="panel-sectionID-1-9"
+          role="region">
+
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+
+  
+    
+      
+
+<div class="component  component--is-in-another-component">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="what-if-my-faculty-mentor-doesnt-submit-their-part-of-the-application-before-the-deadline" class="__title invisible">What if my faculty mentor doesn't submit their part of the application before the deadline?</h2>
+                    </div>
+
+  
+  <p>To be considered for LASURI during the 2020-2021 academic year, both the student and faculty parts of the application must be submitted by March 13, 2019 at 11:59 pm. SnAP will let you monitor which parts have been received, so you can follow up with your faculty mentor, if needed.</p>
+<p>You will need to enter the prospective faculty mentor&#8217;s UIC email address in the application itself, and SnAP will send them a message asking them to complete a few questions about you and your application. To give them plenty of time to respond to those questions, we recommend you save their contact information early; they should receive the email right away, even if you&#8217;re still working on the application.</p>
+
+
+
+  
+</div>
+
+  
+</div>
+
+    
+
+</div>
+          </div>
+      </dd>
+
+    <dt class="component-accordion__title"
+          role="heading"
+          aria-level="10">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-1-10"
+          id="tab-sectionID-1-10"
+          type="button">
+            Can I get independent study credit for my LASURI research?
+        </button>
+      </dt>
+
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-1-10"
+          id="panel-sectionID-1-10"
+          role="region">
+
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+
+  
+    
+      
+
+<div class="component  component--is-in-another-component">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="can-i-get-independent-study-credit-for-my-lasuri-research" class="__title invisible">Can I get independent study credit for my LASURI research?</h2>
+                    </div>
+
+  
+  <p>Potentially. If you and your faculty mentor agree that it would be appropriate and if you are on the same page with regard to expectations and assessments, LASURI has no objection to you enrolling in relevant independent study credit. Talk to your academic advisor if you have questions about the limitations on the amount of independent study credit that can count toward your degree requirements.</p>
+
+
+
+  
+</div>
+
+  
+</div>
+
+    
+
+</div>
+          </div>
+      </dd>
+
+    <dt class="component-accordion__title"
+          role="heading"
+          aria-level="11">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-1-11"
+          id="tab-sectionID-1-11"
+          type="button">
+            I'm considering a project that requires human participants. Will I need IRB approval?
+        </button>
+      </dt>
+
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-1-11"
+          id="panel-sectionID-1-11"
+          role="region">
+
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+
+  
+    
+      
+
+<div class="component  component--is-in-another-component">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="im-considering-a-project-that-requires-human-participants-will-i-need-irb-approval" class="__title invisible">I'm considering a project that requires human participants. Will I need IRB approval?</h2>
+                    </div>
+
+  
+  <p>Yes, but talk to your faculty mentor about what&#8217;s required. If you&#8217;re contributing to their larger project, it may fall under the approval they&#8217;ve already received.</p>
+
+
+
+  
+</div>
+
+  
+</div>
+
+    
+
+</div>
+          </div>
+      </dd>
+
+    <dt class="component-accordion__title"
+          role="heading"
+          aria-level="12">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-1-12"
+          id="tab-sectionID-1-12"
+          type="button">
+            What does it mean that I have been named as an alternate or only received one semester of funding?
+        </button>
+      </dt>
+
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-1-12"
+          id="panel-sectionID-1-12"
+          role="region">
+
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+
+  
+    
+      
+
+<div class="component  component--is-in-another-component">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="what-does-it-mean-that-i-have-been-named-as-an-alternate" class="__title invisible">What does it mean that I have been named as an alternate?</h2>
+                    </div>
+
+  
+  <p>The selection committee identifies and ranks alternates to be funded if another participant withdraws from LASURI.  There is no guarantee that an alternate will be offered funding, but it remains a possibility, and being named an alternate should be seen as an acknowledgement of the research proposal&#8217;s strength.</p>
+<p>On occasion, the committee will decide to offer one semester of funding to certain projects in an effort to allow more students to participate. If you accept the semester of funding, be sure to work with your faculty mentor to adapt your project to the new time frame. If you have time left in your undergraduate career, you can reapply for one additional semester of funding in a future academic year.</p>
+
+
+
+  
+</div>
+
+  
+</div>
+
+    
+
+</div>
+          </div>
+      </dd>
+
+    <dt class="component-accordion__title"
+          role="heading"
+          aria-level="13">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-1-13"
+          id="tab-sectionID-1-13"
+          type="button">
+            Will LASURI funds impact my Financial Aid?
+        </button>
+      </dt>
+
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-1-13"
+          id="panel-sectionID-1-13"
+          role="region">
+
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+
+  
+    
+      
+
+<div class="component  component--is-in-another-component">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="will-lasuri-funds-impact-my-financial-aid" class="__title invisible">Will LASURI funds impact my Financial Aid?</h2>
+                    </div>
+
+  
+  <p>It&#8217;s possible, yes. The Financial Aid office evaluates it as part of your available funding, and that may impact the amount you ultimately receive from LASURI or another source. We provide award information to Financial Aid so that LASURI may be factored into award letters distributed during the summer. We encourage you to check the aid letter you received for details, and speak with the Office of Financial Aid if you have questions about how this may impact you.</p>
+
+
+
+  
+</div>
+
+  
+</div>
+
+    
+
+</div>
+          </div>
+      </dd>
+
+    <dt class="component-accordion__title"
+          role="heading"
+          aria-level="14">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-1-14"
+          id="tab-sectionID-1-14"
+          type="button">
+            When will I receive my award funds?
+        </button>
+      </dt>
+
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-1-14"
+          id="panel-sectionID-1-14"
+          role="region">
+
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+
+  
+    
+      
+
+<div class="component  component--is-in-another-component">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="when-will-i-receive-my-award-funds" class="__title invisible">When will I receive my award funds?</h2>
+                    </div>
+
+  
+  <p>Each semester&#8217;s award will be disbursed after the term&#8217;s add/drop deadline so that full-time enrollment can be verified. Payment is also contingent on satisfactory progress, as determined by the faculty mentor. Keep in mind that LASURI funds may be factored into your financial aid package; check the aid letter you received for details, and speak with the Office of Financial Aid if you have questions about how this may impact you.</p>
+
+
+
+  
+</div>
+
+  
+</div>
+
+    
+
+</div>
+          </div>
+      </dd>
+
+    <dt class="component-accordion__title"
+          role="heading"
+          aria-level="15">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-1-15"
+          id="tab-sectionID-1-15"
+          type="button">
+            Why am I not seeing $2,500 in my account?
+        </button>
+      </dt>
+
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-1-15"
+          id="panel-sectionID-1-15"
+          role="region">
+
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+
+  
+    
+      
+
+<div class="component  component--is-in-another-component">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="why-am-i-not-seeing-2500-on-my-account" class="__title invisible">Why am I not seeing $2,500 on my account?</h2>
+                    </div>
+
+  
+  <p>Payments are distributed on a semesterly basis, so you&#8217;d see a max of $1,250. Remember that your aid package can be impacted by this award or vice versa. Check with your Financial Aid Counselor if you have questions about how that will play out for you.</p>
+
+
+
+  
+</div>
+
+  
+</div>
+
+    
+
+</div>
+          </div>
+      </dd>
+
+    
+    </dl>
+  </div>
+
+  
+</section>
+
+    
+
+    
+      
+
+<section class="component  ">
+
+  
+  
+    <div class="
+    component-call-to-action
+    
+    
+    ">
+
+    
+    <div class="component-description">
+                    <h2 id="faq-links" class="__title invisible">FAQ links</h2>
+                    </div>
+
+    <ul class="_items call-to-action-links">
+              <li>
+                      <a  href="mailto:lasuri@uic.edu" target="_top">
+                              <span class="call-to-action-links__icon envelope-icon" aria-hidden="true">
+                  <svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
+  <title>Envelope icon</title>
+  <g fill="none" fill-rule="evenodd">
+    <circle class="_circle" fill="#001E62" cx="18" cy="18" r="18"/>
+    <rect class="_mark" fill="#FFF" x="8" y="10" width="20" height="16" rx="1"/>
+    <path class="_circle-color" d="M22.354 19.646c-.196-.195-.512-.195-.708 0-.195.196-.195.512 0 .708l4 4c.196.195.512.195.708 0 .195-.196.195-.512 0-.708l-4-4zM9.646 23.646c-.195.196-.195.512 0 .708.196.195.512.195.708 0l4-4c.195-.196.195-.512 0-.708-.196-.195-.512-.195-.708 0l-4 4zM17.646 20.354c.196.195.512.195.708 0l8-8c.195-.196.195-.512 0-.708-.196-.195-.512-.195-.708 0l-8 8h.708l-8-8c-.196-.195-.512-.195-.708 0-.195.196-.195.512 0 .708l8 8z" fill="#001E62"/>
+  </g>
+</svg>
+                </span>
+                <span class="_text">Email LASURI</span>
+                          </a>
+                  </li>
+              <li>
+                      <a  href="https://las.uic.edu/lasresearch/student-research/lasuri/eligibility/"
+            target="_self">
+                            <span class="call-to-action-links__icon check-icon" aria-hidden="true">
+                  <svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
+  <title>Check icon</title>
+  <g fill="none" fill-rule="evenodd">
+    <ellipse class="_circle" fill="#001E62" cx="18" cy="18" rx="18" ry="18"/>
+    <path class="_mark" d="M15.168 24.555c.396.593 1.268.593 1.664 0l8-12c.306-.46.182-1.08-.277-1.387-.46-.306-1.08-.182-1.387.277l-8 12h1.664l-4-6c-.306-.46-.927-.583-1.387-.277-.46.306-.583.927-.277 1.387l4 6z" fill="#FFF"/>
+  </g>
+</svg>
+                </span>
+                <span class="_text">Eligibility</span>
+              
+            </a>
+                  </li>
+              <li>
+                      <a  href="https://las.uic.edu/lasresearch/student-research/lasuri/application-process/"
+            target="_self">
+                            <span class="call-to-action-links__icon write-icon" aria-hidden="true">
+                  <svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
+  <title>Edit icon</title>
+  <g fill="none" fill-rule="evenodd">
+    <circle class="_circle" fill="#001E62" cx="18" cy="18" r="18"/>
+    <path class="_mark" d="M23 24l1-1H12l1 1V12l-1 1h6c.552 0 1-.448 1-1s-.448-1-1-1h-7v14h14v-7c0-.552-.448-1-1-1s-1 .448-1 1v6z" fill="#FFF"/>
+    <path class="_mark" fill="#FFF" d="M21 13.5l1.5 1.5-5.5 5.5-2 .5.5-2M24.5 10l1.5 1.5-2.5 2.5-1.5-1.5z"/>
+  </g>
+</svg>
+                </span>
+                <span class="_text">Application &amp; Timeline</span>
+              
+            </a>
+                  </li>
+              <li>
+                      <a  href="https://las.uic.edu/lasresearch/student-research/lasuri/program-components/"
+            target="_self">
+                            <span class="call-to-action-links__icon matrix-icon" aria-hidden="true">
+                  <svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
+  <title>Matrix icon</title>
+  <g fill="none" fill-rule="evenodd">
+    <circle class="_circle" fill="#001E62" cx="18" cy="18" r="18"/>
+    <circle class="_mark" fill="#FFF" cx="12" cy="24" r="2"/>
+    <circle class="_mark" fill="#FFF" cx="18" cy="24" r="2"/>
+    <circle class="_mark" fill="#FFF" cx="24" cy="24" r="2"/>
+    <circle class="_mark" fill="#FFF" cx="12" cy="18" r="2"/>
+    <circle class="_mark" fill="#FFF" cx="18" cy="18" r="2"/>
+    <circle class="_mark" fill="#FFF" cx="24" cy="18" r="2"/>
+    <circle class="_mark" fill="#FFF" cx="12" cy="12" r="2"/>
+    <circle class="_mark" fill="#FFF" cx="18" cy="12" r="2"/>
+    <circle class="_mark" fill="#FFF" cx="24" cy="12" r="2"/>
+  </g>
+</svg>
+                </span>
+                <span class="_text">Program Components</span>
+              
+            </a>
+                  </li>
+              <li>
+                      <a  href="https://las.uic.edu/lasresearch/student-research/lasuri/program-components/sample-lasuri-abstracts/"
+            target="_self">
+                            <span class="call-to-action-links__icon user-icon" aria-hidden="true">
+                  <svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
+  <title>User icon</title>
+  <g fill="none" fill-rule="evenodd">
+    <circle class="_circle" fill="#001E62" cx="18" cy="18" r="18"/>
+    <path class="_mark" d="M28.09 26.197C25.707 29.127 22.072 31 18 31s-7.707-1.872-10.09-4.803c1.367-.762 4.573-2.54 5.125-2.744.182-.077.428-.823.488-1.48l.04-.428h.455l.304-1.474.007-.02c.013-.05.022-.174-.018-.2-.473-.32-1.248-1.518-1.41-3.416l-.327-.17-.298-2.284.502-.326-.118-3.344-.004-.02c-.022-.16-.455-3.955 7.11-5.145l.088-.014c.24.036.476.076.71.123l-.28.56c-.028.067-.098.343.384.618.812.468 2.276 1.307 2.608 3.184h.07l-.002.484-.004.102.032.5h-.05l-.103 2.954.503.326-.298 2.283-.327.17c-.162 1.9-.937 3.097-1.41 3.416-.044.028-.025.173-.017.2l.312 1.495h.455l.04.427c.07.735.324 1.41.488 1.48.553.205 3.76 1.983 5.125 2.745z" fill="#FFF"/>
+  </g>
+</svg>
+                </span>
+                <span class="_text">Sample Projects</span>
+              
+            </a>
+                  </li>
+          </ul>
+  </div>
+
+
+  
+</section>
+
+    
+
+    
+      
+
+<section class="component  ">
+
+  
+    <div class="component-accordion js-component-accordion">
+
+    
+    <div class="component-description">
+                    <h2 id="faqs-for-faculty" class="__title visible">FAQs for Faculty</h2>
+                    </div>
+
+    <dl class="component-accordion__accordion"
+        role="presentation">
+
+    <dt class="component-accordion__title"
+          role="heading"
+          aria-level="1">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-3-1"
+          id="tab-sectionID-3-1"
+          type="button">
+            Am I eligible to mentor a LASURI student?
+        </button>
+      </dt>
+
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-3-1"
+          id="panel-sectionID-3-1"
+          role="region">
+
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+
+  
+    
+      
+
+<div class="component  component--is-in-another-component">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="am-i-eligible-to-participate-in-the-program" class="__title invisible">Am I eligible to participate in the program?</h2>
+                    </div>
+
+  
+  <p>Faculty mentors may have clinical, emeritus, or research associate appointments. Although mentors from all colleges are welcome, preference may be given to faculty with a LAS affiliation.</p>
+<p>Advanced graduate students are not eligible to formally serve as faculty mentors.</p>
+
+
+
+  
+</div>
+
+  
+</div>
+
+    
+
+</div>
+          </div>
+      </dd>
+
+    <dt class="component-accordion__title"
+          role="heading"
+          aria-level="2">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-3-2"
+          id="tab-sectionID-3-2"
+          type="button">
+            Do I have to have to post a research profile on the Undergraduate Research Experience website?
+        </button>
+      </dt>
+
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-3-2"
+          id="panel-sectionID-3-2"
+          role="region">
+
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+
+  
+    
+      
+
+<div class="component  component--is-in-another-component">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="do-i-have-to-have-to-post-a-research-profile-on-the-undergraduate-research-experience-website" class="__title invisible">Do I have to have to post a research profile on the Undergraduate Research Experience website?</h2>
+                    </div>
+
+  
+  <p>No, but you are welcome to do so in order to attract qualified students for your project. You may also reach out to individual students on your own or vice versa.</p>
+
+
+
+  
+</div>
+
+  
+</div>
+
+    
+
+</div>
+          </div>
+      </dd>
+
+    <dt class="component-accordion__title"
+          role="heading"
+          aria-level="3">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-3-3"
+          id="tab-sectionID-3-3"
+          type="button">
+            What kinds of expenses are appropriate uses of the project research funds?
+        </button>
+      </dt>
+
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-3-3"
+          id="panel-sectionID-3-3"
+          role="region">
+
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+
+  
+    
+      
+
+<div class="component  component--is-in-another-component">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="what-kinds-of-expenses-are-appropriate-uses-of-the-project-research-funds" class="__title invisible">What kinds of expenses are appropriate uses of the project research funds?</h2>
+                    </div>
+
+  
+  <p>Any expenses related to the research project are acceptable. This includes: laboratory reagents, equipment, study participant compensation, student conference travel funds, books, etc. Contact us if you have questions about a specific purchase, and ask your departmental administrator about how to procure items using university funds. As always, materials purchased with LASURI funds remain university property.</p>
+
+
+
+  
+</div>
+
+  
+</div>
+
+    
+
+</div>
+          </div>
+      </dd>
+
+    <dt class="component-accordion__title"
+          role="heading"
+          aria-level="4">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-3-4"
+          id="tab-sectionID-3-4"
+          type="button">
+            How do I access the project research funds?
+        </button>
+      </dt>
+
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-3-4"
+          id="panel-sectionID-3-4"
+          role="region">
+
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+
+  
+    
+      
+
+<div class="component  component--is-in-another-component">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="how-do-i-access-the-project-research-funds" class="__title invisible">How do I access the project research funds?</h2>
+                    </div>
+
+  
+  <p>Research expense funds will be released to faculty research accounts around the third week of your mentee&#8217;s first semester of participation in LASURI. In cases where the mentor does not have an individual research fund, it will be disbursed to departmental accounts.</p>
+<p>The total research expense support provided will be disbursed via this single, lump-sum transfer.  Non-LAS faculty will need to provide account information for their home department in order to receive the funds. Please be in touch with your department&#8217;s business manager if you have questions about accessing the funds.</p>
+
+
+
+  
+</div>
+
+  
+</div>
+
+    
+
+</div>
+          </div>
+      </dd>
+
+    <dt class="component-accordion__title"
+          role="heading"
+          aria-level="5">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-3-5"
+          id="tab-sectionID-3-5"
+          type="button">
+            Can I work with multiple LASURI students, either on the same project or on multiple projects?
+        </button>
+      </dt>
+
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-3-5"
+          id="panel-sectionID-3-5"
+          role="region">
+
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+
+  
+    
+      
+
+<div class="component  component--is-in-another-component">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="can-i-work-with-multiple-lasuri-students-either-on-the-same-project-or-on-multiple-projects" class="__title invisible">Can I work with multiple LASURI students, either on the same project or on multiple projects?</h2>
+                    </div>
+
+  
+  <p>If you are willing to mentor more than one student, you may support more than one application. However, you will be asked to rank these applications and priority may be given to the student(s) you have ranked highest. In general, no more than two student applicants will be approved per faculty mentor.</p>
+
+
+
+  
+</div>
+
+  
+</div>
+
+    
+
+</div>
+          </div>
+      </dd>
+
+    <dt class="component-accordion__title"
+          role="heading"
+          aria-level="6">
+        <button
+          class="component-accordion__button js-toggle-acc"
+          aria-expanded="false"
+          aria-controls="panel-sectionID-3-6"
+          id="tab-sectionID-3-6"
+          type="button">
+            What does it mean that my student has been named as an alternate or only received one semester of funding?
+        </button>
+      </dt>
+
+      <dd class="component-accordion__content component-accordion__content--collapsed"
+          aria-labelledby="tab-sectionID-3-6"
+          id="panel-sectionID-3-6"
+          role="region">
+
+          <div class="component-accordion__content-wrapper">
+            <div class="components">
+
+  
+    
+      
+
+<div class="component  component--is-in-another-component">
+
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="what-does-it-mean-that-my-student-has-been-named-as-an-alternate" class="__title invisible">What does it mean that my student has been named as an alternate?</h2>
+                    </div>
+
+  
+  <p>The selection committee identifies and ranks alternates to be funded if another participant withdraws from LASURI.  There is no guarantee that an alternate will be offered funding, but it remains a possibility, and being named an alternate should be seen as an acknowledgement of the research proposal&#8217;s strength.</p>
+<p>On occasion, the committee will decide to offer one semester of funding to certain projects in an effort to allow more students to participate. If the student decides to move forward with a single semester of funding, they should work with the faculty mentor to adapt the project to the new time frame.</p>
+
+
+
+  
+</div>
+
+  
+</div>
+
+    
+
+</div>
+          </div>
+      </dd>
+
+    
+    </dl>
+  </div>
+
+  
+</section>
+
+    
+
+</div>
+
+          </article>
+        </div>
+
+                                            
+                                 
+              
+                            
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+
+
+
+
+   
+                                 
+              
+                            
+                                 
+              
+                            
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+
+   
+                                 
+              
+                            
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+
+
+
+
+   
+                                 
+              
+
+                      <div class="l-sidebar">
+             <nav role="navigation" id="menu-secondary" aria-label="Secondary Research" class="menu-secondary">
+               <div class="menu-secondary__title-container">
+                 <h2 class="menu-secondary__title"><a  class="menu-secondary__title-link" href="https://las.uic.edu/lasresearch/">Research</a></h2>
+                 <a  class="menu-secondary__back-to-content" href="#main">
+                   <svg aria-label="Back to main content" width="32" height="32" viewBox="0 0 32 32">
+                     <title>Back to main content</title>
+                     <g fill="none" fill-rule="evenodd">
+                       <circle class="_circle" fill="#fff" stroke="#007FA5" stroke-width="1" cx="16" cy="16" r="15"/>
+                       <path class="_arrow" d="M16 21v-9M12 15l4-4 4 4" stroke="#001E62" stroke-width="2" stroke-linecap="round"/>
+                     </g>
+                   </svg>
+                 </a>
+               </div>
+
+                <ul  class="menu ">
+                  
+                  <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-7471 menu-item-has-children">
+                    <a  href="/lasresearch/research-strengths/" target="_self"><span>Research Strengths</span>                          <span class="expand-item"></span></a>
+  <ul class="_child">
+    <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-7507">
+    <a href="/lasresearch/research-strengths/health-matters/" target="_self"><span>Health Matters</span></a>    </li>
+    <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-7506">
+    <a href="/lasresearch/research-strengths/urban-issues/" target="_self"><span>Urban Issues</span></a>    </li>
+    <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-7530">
+    <a href="/lasresearch/research-strengths/educational-research/" target="_self"><span>Educational Research</span></a>    </li>
+    <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-7551">
+    <a href="/lasresearch/research-strengths/fundamental-science-math/" target="_self"><span>Fundamental Science &amp; Math</span></a>    </li>
+    <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-7557">
+    <a href="/lasresearch/research-strengths/data-science/" target="_self"><span>Data Science</span></a>    </li>
+  </ul>
+                  </li>
+                  
+                  <li class="_item  menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current_page_ancestor menu-item-7473 menu-item-has-children">
+                    <a  href="/lasresearch/student-research/" target="_self"><span>Student Research</span>                          <span class="expand-item"></span></a>
+  <ul class="_child">
+    <li class="_item  menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-1122 menu-item-has-children">
+    <a href="/lasresearch/student-research/lasuri/" target="_self"><span>LAS Undergraduate Research Initiative (LASURI)</span>        <span class="expand-item"></span></a>
+  <ul class="_child">
+    <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-1453">
+    <a href="/lasresearch/student-research/lasuri/eligibility/" target="_self"><span>Eligibility for LASURI</span></a>    </li>
+    <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-2470">
+    <a href="/lasresearch/student-research/lasuri/application-process/" target="_self"><span>Application Process</span></a>    </li>
+    <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-1465 menu-item-has-children">
+    <a href="/lasresearch/student-research/lasuri/program-components/" target="_self"><span>Program Components</span>        <span class="expand-item"></span></a>
+  <ul class="_child">
+    <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-7419">
+    <a href="/lasresearch/student-research/lasuri/program-components/sample-lasuri-abstracts/" target="_self"><span>Sample LASURI Abstracts</span></a>    </li>
+  </ul>
+  </li>
+    <li class="_item  menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-7154 current_page_item menu-item-7156">
+    <a href="/lasresearch/student-research/lasuri/faqs/" target="_self"><span>FAQs</span></a>    </li>
+    <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-1614">
+    <a href="/lasresearch/student-research/lasuri/contact/" target="_self"><span>Contact LASURI</span></a>    </li>
+  </ul>
+  </li>
+  </ul>
+                  </li>
+                  
+                  <li class="_item  menu-item menu-item-type-post_type menu-item-object-page menu-item-832">
+                    <a  href="/lasresearch/institutes-centers/" target="_self"><span>Institutes &amp; Centers</span></a>                                      </li>
+                                  </ul>
+
+              </nav>
+            </div>
+       
+                            
+                                 
+              
+                            
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+
+
+
+
+   
+                                 
+              
+                            
+                                 
+              
+                            
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+                                 
+              
+                            
+
+
+
+
+   
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+
+
+
+
+   
+                                 
+              
+                            
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+
+
+
+
+   
+                                 
+              
+                            
+                                 
+              
+                            
+                                 
+              
+                            
+
+
+
+
+   
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+                                 
+              
+                            
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+
+   
+
+
+          
+                          </div>
+    </main>
+
+    
+        <footer id="footer" class="footer u-dark-region" role="contentinfo">
+
+  <div class="footer-contact">
+    <div class="l-full">
+
+          <div class="mega-footer-contact">
+
+    <div class="mega-footer-contact__brand mega-footer-contact__brand--wordmark">
+        <div class="footer-logo">
+                        <div class="footer-logo__wordmark-wrapper">
+                <div class="uic-wordmark  uic-wordmark--mega-footer">
+
+  <div class="_mark">
+    <a href="http://uic.edu" class="uic-logo-icon ">
+ <svg aria-label="UIC.edu home" viewBox="0 0 55 55" xmlns="http://www.w3.org/2000/svg">
+ <title>UIC Logo</title>
+ <circle class="_circle" cx="27" cy="27" r="25" fill="none" />
+<path class="_mark" d="M49.73 23.917l-4.583 2.2c-.44-1.71-1.397-2.718-3.056-2.718-2.25 0-3.39 1.862-3.39 4.918 0 3.03 1.14 4.844 3.39 4.844 1.555 0 2.462-.83 2.954-2.203l4.79 1.707c-1.242 2.824-3.754 4.767-7.768 4.767-5.57 0-8.754-3.728-8.754-9.116 0-5.41 3.368-9.114 8.857-9.114 4.194 0 6.68 2.407 7.56 4.713zm-24.264-4.403h5.282v17.61h-5.282v-17.61zm-3.21 10.41c0 2.46-.258 3.65-.96 4.844-1.164 1.94-4.27 2.692-6.99 2.692-2.72 0-5.828-.753-6.993-2.692-.698-1.194-.96-2.384-.96-4.844v-10.41h5.284v10.513c0 1.192.157 1.968.596 2.486.416.492 1.09.726 2.073.726.983 0 1.657-.235 2.07-.727.44-.518.597-1.294.597-2.486V19.514h5.282v10.41zM54.5 27.5c0-14.912-12.09-27-27-27-14.913 0-27 12.088-27 27s12.087 27 27 27c14.91 0 27-12.088 27-27z" fill="#FFF " fill-rule="evenodd"/>
+</svg>
+</a>
+  </div>
+
+  <div class="_text">
+    <a href="https://las.uic.edu">
+                  <span class="_line">College of</span>
+              <span class="_line">Liberal Arts</span>
+              <span class="_line">and</span>
+              <span class="_line">Sciences</span>
+              </a>
+  </div>
+
+</div>
+            </div>
+            </div>
+    </div>
+
+  <div class="mega-footer-contact__menus">
+
+        <div class="mega-footer-contact__quick-menus _quick-menus">
+
+            <nav class="mega-footer-contact__quick-menu" id="menu1" aria-label="footer-menu-1">
+        <h2>LAS QUICK LINKS</h2>
+        <ul id="menu-quick-1" class="menu menu-quick-1" aria-label="LAS QUICK LINKS">
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-7577">
+      <a href="https://admissions.uic.edu/" target="_blank">Apply Now!</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-9697">
+      <a href="https://customviewbook.las.uic.edu/home" target="_self">Create Your CustomViewbook!</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-7578">
+      <a href="/" target="_self">College of LAS</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-7579">
+      <a href="/advising/" target="_self">LAS Advising</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-7580">
+      <a href="https://alumni.las.uic.edu" target="_self">LAS Alumni and Friends</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-7581">
+      <a href="https://career.las.uic.edu" target="_self">LAS Career Development</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-7582">
+      <a href="https://it.las.uic.edu" target="_self">LAS IT</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-7583">
+      <a href="https://prehealth.las.uic.edu" target="_self">LAS Pre-Health</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-7584">
+      <a href="https://prelaw.las.uic.edu" target="_self">LAS Pre-Law</a>
+    </li>
+  </ul>
+      </nav>
+      
+      
+      
+    </div>
+    
+    
+  </div>
+
+  <div class="mega-footer-contact__contact">
+
+    <div class="_contact">
+      <h2>Contact</h2>
+      <div class="site-contact-container">  <div class="site-unit-name"><h3>Student Academic Affairs &amp; Advising</h3></div>
+      <div class="site-address">601 S. Morgan St., 3rd floor UH Chicago, IL 60607</div>
+      <div class="site-phone">Phone: <a  href="tel:(312) 996-3366">(312) 996-3366</a></div>
+      <div class="site-fax">Fax: <a  href="tel:(312) 413-8577">(312) 413-8577</a></div>
+      <div class="site-email"><a  href="mailto:lasadvising@uic.edu">lasadvising@uic.edu</a></div>
+</div>
+      <div class="site-contact-container">  <div class="site-unit-name_SiteContact2"><h3>LAS Administration</h3></div>
+      <div class="site-address_SiteContact2">601 S. Morgan St., 4th floor UH Chicago, IL 60607</div>
+      <div class="site-phone_SiteContact2">Phone: <a  href="tel:(312) 413-2500">(312) 413-2500</a></div>
+      <div class="site-fax_SiteContact2">Fax: <a  href="tel:(312) 413-2511">(312) 413-2511</a></div>
+    </div>
+    </div>
+
+    <div class="mega-footer-contact__site-social-links">
+       <div aria-label="Social Media Accounts" class="site-social-links">
+  <h2 class="site-social-links__header assistive-text">Social Media Accounts</h2>
+  <ul class="site-social-links__list">
+        <li class="site-social-links__list-item"><a  class="site-social-links__link facebook" href="https://www.facebook.com/UIC.LAS">
+      <svg class="site-social-links__link-icon " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" aria-label="Facebook"><title>Facebook</title><path d="M17 26.7V15h3.2s.3-2 .4-4H17V8.3s.5-.9 1-.9h2.5c0-.6.2-2.4.3-4h-3.7c-5 0-4.9 3.9-4.9 4.5v3.2h-3v4h3.1v11.7H17z"/></svg>
+    </a></li>
+            <li class="site-social-links__list-item"><a  class="site-social-links__link linkedin" href="https://www.linkedin.com/company/uic-college-of-liberal-arts-and-sciences ">
+      <svg class="site-social-links__link-icon " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" aria-label="LinkedIn"><title>LinkedIn</title><path d="M9 27h3.836V14.212H9V27zm2.4-19c-.67 0-1.24.24-1.704.712C9.234 9.185 9 9.77 9 10.452c0 .684.234 1.27.696 1.742.463.472 1.035.712 1.703.712.667 0 1.24-.24 1.702-.712.463-.473.697-1.058.697-1.74 0-.684-.235-1.27-.698-1.742C12.64 8.24 12.067 8 11.4 8zm15.025 7.18c-.934-.997-2.107-1.503-3.485-1.503-1.064 0-2.053.343-2.95 1.02v-.816H15.77V27h4.223v-7.262c0-.832.2-1.434.61-1.84.41-.408.88-.608 1.43-.608.732 0 1.573.268 1.573 2.357V27h4.222v-7.875c0-1.627-.47-2.954-1.4-3.946z" /></svg>
+    </a></li>
+            <li class="site-social-links__list-item"><a  class="site-social-links__link twitter" href="https://twitter.com/UICLAS">
+      <svg class="site-social-links__link-icon " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" aria-label="Twitter"><title>Twitter</title><path d="M25.4 9.4c-.7.3-1.5.6-2.4.7.9-.5 1.5-1.3 1.8-2.3-.8.5-1.7.8-2.6 1-.8-.8-1.8-1.3-3-1.3-2.3 0-4.1 1.9-4.1 4.1 0 .3 0 .6.1.9-3.4-.2-6.5-1.8-8.5-4.3-.4.6-.6 1.3-.6 2.1 0 1.4.7 2.7 1.8 3.4-.7 0-1.3-.2-1.9-.5v.1c0 2 1.4 3.7 3.3 4.1-.3.1-.7.1-1.1.1-.3 0-.5 0-.8-.1.5 1.6 2.1 2.8 3.9 2.9-1.4 1.1-3.2 1.8-5.1 1.8-.3 0-.7 0-1-.1 1.8 1.2 4 1.9 6.3 1.9 7.6 0 11.8-6.3 11.8-11.8v-.5c.9-.6 1.6-1.3 2.1-2.2z"/></svg>
+    </a></li>
+            <li class="site-social-links__list-item"><a  class="site-social-links__link instagram" href="https://www.instagram.com/uiclas/">
+      <svg class="site-social-links__link-icon " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" aria-label="Instagram"><title>Instagram</title><path fill="none" d="M15 18.8c2 0 3.6-1.6 3.6-3.6S17 11.5 15 11.5s-3.6 1.6-3.6 3.6 1.6 3.7 3.6 3.7z"/><path fill="none" d="M20 15.2c0 2.7-2.2 5-5 5s-5-2.2-5-5c0-.7.1-1.3.4-1.9H6.5V22c0 .9.7 1.6 1.6 1.6H22c.9 0 1.6-.7 1.6-1.6v-8.7h-3.9c.1.6.3 1.2.3 1.9z"/><path d="M21.9 5.1H11.5v5.8h-1.4V5.1H8.8v5.8H7.4V5.2c-1.3.2-2.3 1.4-2.3 2.9V22c0 1.6 1.3 3 3 3H22c1.6 0 3-1.3 3-3V8.1c-.1-1.7-1.4-3-3.1-3zm-2.6 3.4h2.4v2.4h-2.4V8.5zm-4.3 3c2 0 3.6 1.6 3.6 3.6S17 18.8 15 18.8s-3.6-1.6-3.6-3.6 1.6-3.7 3.6-3.7zm8.5 10.4c0 .9-.7 1.6-1.6 1.6H8.1c-.9 0-1.6-.7-1.6-1.6v-8.7h3.9c-.2.6-.4 1.2-.4 1.9 0 2.7 2.2 5 5 5s5-2.2 5-5c0-.7-.1-1.3-.4-1.9h3.9v8.7z"/></svg>
+    </a></li>
+            <li class="site-social-links__list-item"><a  class="site-social-links__link youtube" href="https://www.youtube.com/user/UICLibArtsSciences">
+      <svg class="site-social-links__link-icon " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" aria-label="Youtube"><title>YouTube</title><path d="M9.5 11.8h1.4V8.3l1.6-4.8h-1.4l-.9 3.3-.9-3.3H7.9l1.6 5M14.4 11.9c.6 0 1-.1 1.3-.4.3-.3.5-.7.5-1.2V7.1c0-.5-.2-.8-.5-1.1-.3-.3-.7-.4-1.3-.4-.6 0-1 .1-1.3.4-.3.3-.5.7-.5 1.1v3.2c0 .5.2.9.5 1.2.3.3.7.4 1.3.4zM13.9 7c0-.1 0-.2.1-.3.1-.1.2-.1.4-.1s.3 0 .4.1c.1.1.2.2.2.3v3.3c0 .2 0 .3-.1.4-.1.1-.2.1-.4.1s-.3 0-.4-.1c-.1-.1-.1-.2-.1-.4V7zM18 11.8c.2 0 .5-.1.7-.2.2-.1.5-.3.7-.6v.7h1.2V5.6h-1.2v4.6c-.1.1-.2.2-.4.3-.1.1-.3.1-.3.1-.1 0-.2 0-.2-.1-.1-.1-.1-.2-.1-.3V5.6h-1.2v5.1c0 .4.1.6.2.8.1.3.3.3.6.3zM20.7 19.3c-.2 0-.3 0-.4.2-.1.1-.1.3-.1.5v.6h1V20c0-.2 0-.4-.1-.5-.1-.1-.2-.2-.4-.2zM17 19.3c-.4-.1-.6.2-.6.2V23s.3.4.7.2c0 0 .2-.1.2-.5v-2.9c.1.1.2-.4-.3-.5z"/><path d="M23.1 14.9c-.9-.9-8.4-.9-8.4-.9s-7.6 0-8.5.9c-.9.9-.9 5.3-.9 5.4 0 0 0 4.5.9 5.4.9.9 8.5.9 8.5.9s7.6 0 8.5-.9c.9-.9.9-5.4.9-5.4 0-.1-.1-4.5-1-5.4zm-12.2 2.7H9.7V24H8.4v-6.4H7.2v-1.1H11v1.1zm3.6 6.4h-1.1v-.6c-.2.2-.4.4-.6.5-.2.1-.4.2-.6.2-.3 0-.4-.1-.6-.2-.1-.2-.2-.4-.2-.7v-4.6h1.1v4.3c0 .1 0 .2.1.3 0 .1.1.1.2.1s.2 0 .3-.1l.3-.3v-4.2h1.1V24zm4-1.1c0 .4-.1.7-.3.9-.2.2-.4.3-.7.3-.2 0-.4 0-.6-.1-.2-.1-.3-.2-.5-.4v.4h-1.1v-7.5h1.1v2.4c.1-.2.3-.3.5-.4.2-.1.3-.1.5-.1.3 0 .6.1.8.4.2.2.3.6.3 1v3.1zm3.8-1.5h-2.1v1c0 .3 0 .5.1.6.1.1.2.2.4.2s.3 0 .4-.1c.1-.1.1-.3.1-.6v-.3h1.1v.3c0 .6-.1 1-.4 1.3-.3.3-.7.4-1.2.4s-.9-.2-1.2-.5c-.3-.3-.4-.7-.4-1.3V20c0-.5.2-.9.5-1.2.3-.3.7-.5 1.2-.5s.9.1 1.2.4c.3.3.4.7.4 1.2v1.5z"/></svg>
+    </a></li>
+          </ul>
+</div>
+    </div>
+  </div>
+</div>
+    
+    </div>
+  </div>
+
+  
+  <div class="footer-uic-menu">
+    <div class="l-full">
+
+      <div aria-label="UIC.edu Links">
+  <h2 class="assistive-text">UIC.edu links</h2>
+  <ul class="uic-footer-menu">
+    <li><strong><a href="https://uic.edu/">UIC.edu</a></strong></li>
+    <li><a href="https://catalog.uic.edu/ucat/academic-calendar/">Academic Calendar</a></li>
+    <li><a href="https://uicflames.com/">Athletics</a></li>
+    <li><a href="https://www.uic.edu/apps/departments-az/search">Campus Directory</a></li>
+    <li><a href="https://disabilityresources.uic.edu/">Disability Resources</a></li>
+    <li><a href="https://emergency.uic.edu/">Emergency Information</a></li>
+    <li><a href="https://today.uic.edu/events">Event Calendar</a></li>
+    <li><a href="https://uic.edu/about/job-opportunities">Job Openings</a></li>
+    <li><a href="https://library.uic.edu/">Library</a></li>
+    <li><a href="https://maps.uic.edu/">Maps</a></li>
+    <li><a href="https://ready.uic.edu/digital-materials/uic-safe-mobile-app/">UIC Safe Mobile App</a></li>
+    <li><a href="https://today.uic.edu/">UIC Today</a></li>
+    <li><a href="https://uihealth.uic.edu/">UI Health</a></li>
+    <li><a href="https://dos.uic.edu/student-veterans-affairs/">Veterans Affairs</a></li>
+  </ul>
+</div>
+
+    </div>
+  </div>
+
+  <div class="footer-legal">
+    <div class="l-full">
+
+      <div class="red-version">Powered by Red 2.38.0</div>
+
+<div class="site-copyright">
+  &copy; 2020 The Board of Trustees of the University of Illinois <span class="pipe-separator">|</span>
+  <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a>
+</div>
+
+<div class="campuses" aria-label="Campuses">
+  <h2 class="assistive-text">Campuses</h2>
+  <ul class="campuses-list">
+    <li><a href="https://www.uillinois.edu/">University of Illinois System</a></li>
+    <li><a href="https://illinois.edu/">Urbana-Champaign</a></li>
+    <li><a href="https://www.uis.edu/">Springfield</a></li>
+  </ul>
+</div>
+<div class="cookie-banner">
+  <div id="footer-bottom">
+    <a class="optanon-show-settings">Cookie Settings</a>
+  </div>
+</div>
+    </div>
+  </div>
+
+</footer>
+
+	    </div>
+
+
+  <!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://las.uic.edu/wp-admin/admin-ajax.php";
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sb_instagram_js_options = {"sb_instagram_at":"","font_method":"svg"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://las.uic.edu/wp-content/plugins/instagram-feed/js/sb-instagram.min.js?ver=1.12.1'></script>
+<script type='text/javascript' src='https://las.uic.edu/wp-content/plugins/uic-red/js-admin/uic-publish-post-settings.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://las.uic.edu/wp-content/plugins/uic-red/js-admin/acf-field-group-toggle.js?ver=1.0.0'></script>
+<script type='text/javascript' src='//www.uic.edu/apps/web-alert/alert.js?ver=3'></script>
+<script type='text/javascript' src='https://las.uic.edu/wp-content/themes/uic-red/js/main.js?ver=1'></script>
+<script type='text/javascript' src='https://las.uic.edu/wp-includes/js/wp-embed.min.js?ver=5d22ad4e79d53a5a8c98a4d20d4dd9b6'></script>
+
+
+
+  
+  
+  <script async src="https://cdn.cookielaw.org/consent/f5cc0259-ebf9-460e-b628-c1d661e5d3b6.js" type="text/javascript" charset="UTF-8"></script>
+
+  </body>
+</html>

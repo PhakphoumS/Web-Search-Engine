@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Entry -->
+<table id='entry_area' class='fixedTable'>
+	<tr>
+		<td style='width:676px;'>
+			<div id='entry_info'>
+<!-- Begin Entry Information -->
+<div style='margin-top:0;' id='entry_image_large'><img style='left:182px;' src='/resizedImages/1280x720-piotr.png' alt='' title='Peter Hanula' width='276' height='360'></div>
+<div class='entry_content'>
+	<h3>Related Entries</h3>
+	<strong>Events:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2411'>UIC Computer Science/EVL Marai Developing Computer Programs to Aid Cancer Patients</a></li>
+		<li><a href='/entry.php?id=2247'>UIC/EVL Receives Honorable Mention in IEEE VIS 2016’s VGTC VPG Data Visualization Contest</a></li>
+	</ul><br>
+	<strong>Research:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2333'>QuBBD: Precision E-Radiomics for Dynamic Big Head & Neck Cancer Data</a></li>
+	</ul>
+</div>
+<!-- End Entry Information -->
+			</div>
+		</td>
+		<td style='width:374px;'>
+			<div id='entry_sidebar'>
+<!-- Begin Entry Sidebar -->
+<div class='entry_content'>
+	<h3>Peter Hanula</h3>
+	MS Graduate, 2018<br>
+	Computer Science<br>
+	<a href='mailto:peterhanulajr@gmail.com'>peterhanulajr@gmail.com</a><br><br>
+	<a href='https://p10tr.gitlab.io/' target='_blank'>https://p10tr.gitlab.io/</a><br><br>
+	<h3>Bibliography</h3>
+	<ul>
+		<li><a href='/entry.php?id=2466'>Canahuate, G., Cardenas, C.E., Edwards, B., Elgohari, B., Elhalawani, H., Fuller, C.D., Hanula, P., Luciani, T., Marai, G.E., Mohamed, A.S., Vock, D., Wentzel, A., Cohort-Based Spatial Similarity Can Predict Radiotherapy Dose Distribution, <em>ASTRO Annual Meeting of the American Society for Radiation Oncology</em>, Chicago, IL, pp. 1-2, September 15, 2019</a></li>
+		<li><a href='/entry.php?id=2459'>Canahuate. G., Elgohary, B., Fuller, C.D., Hanula, P., Luciani, T,, Marai, G.E., Vock, D., Wentzel, A., Cohort-based T-SSIM Visual Computing for Radiation Therapy Prediction and Exploration, <em>IEEE Transactions on Visualization and Computer Graphics</em>, IEEE Vis 2019, pp. 1-11, August 22, 2019</a></li>
+		<li><a href='/entry.php?id=2427'>Aguilera, J., Hanula, P., Marai, G.E., Piekutowski, K., DarkSky Halos: Use-Based Exploration of Dark Matter Formation Data in a Hybrid Immersive Virtual Environment, <em>Virtual Environments, Frontiers in Robotics and AI</em>, vol 6, no 11, March 4, 2019</a></li>
+		<li><a href='/bibliography.php?id=2251'><strong>View more&hellip;</strong></a></li>
+	</ul>
+</div>
+<!-- End Entry Sidebar-->
+			</div>
+		</td>
+	</tr>
+</table>
+<!-- End Entry -->
+<script>
+	// Making both divs the same height is much easier in JavaScript
+	var entryInfo = document.getElementById("entry_info");
+	var entrySidebar = document.getElementById("entry_sidebar");
+	
+	if (entryInfo && entrySidebar) {
+		var maxHeight = Math.max(entryInfo.offsetHeight, entrySidebar.offsetHeight)-20;
+		entryInfo.style.height = maxHeight+"px";
+		entrySidebar.style.height = maxHeight+"px";
+	}
+</script>
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

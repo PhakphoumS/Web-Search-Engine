@@ -1,0 +1,393 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+  <title>Frank J. Chaloupka, PhD | Institute for Health Research and Policy | University of Illinois at Chicago</title>
+
+  <meta name="verify-v1" content="M3D7RktfZuClXLKtfBxpnsbmXcHxs+8um0cJ6n3SKFE=" />
+<meta name="description" content="Dr. Chaloupka is a distinguished economist and research professor of health policy and administration at the University of Illinois at Chicago. He directs IHRP's Health Policy Center. " />
+
+  
+  <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/researcher/frank-j-chaloupka-phd" />
+<link rel="shortlink" href="/node/1229" />
+<link rel="shortcut icon" href="https://www.ihrp.uic.edu/files/favicon.ico" type="image/vnd.microsoft.icon" />
+  <style>
+@import url("https://www.ihrp.uic.edu/modules/system/system.base.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/system/system.messages.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/system/system.theme.css?q8vwl2");
+</style>
+<style>
+@import url("https://www.ihrp.uic.edu/modules/aggregator/aggregator.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/comment/comment.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/date/date_api/date.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/field/theme/field.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/node/node.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/search/search.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/user/user.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/views/css/views.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/ckeditor/css/ckeditor.css?q8vwl2");
+</style>
+<style>
+@import url("https://www.ihrp.uic.edu/sites/all/modules/ctools/css/ctools.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/forward/forward.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/print/print_ui/css/print_ui.theme.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/css/nice_menus.css?q8vwl2");
+</style>
+<style>
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/tabs.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/print.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/style.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/zen.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/html-elements.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/ihrp_menu.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/ihrp_researcher.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/ihrp_study.css?q8vwl2");
+</style>
+  
+    <link rel="stylesheet" href="/sites/all/themes/ihrp/css/ihrp_main.css" type="text/css"/>
+  
+
+
+  <!--[if IE]>
+    <link rel="stylesheet" href="sites/all/themes/ihrp/css/ie.css" type="text/css"/>
+   
+    <style type="text/css">
+      /* place css fixes for all versions of IE in this conditional comment */
+      .thrColFixHdr #sidebar2, .thrColFixHdr #sidebar1 { padding-top: 30px; }
+      .thrColFixHdr #mainContent { zoom: 1; }
+      /* the above proprietary zoom property gives IE the hasLayout it needs to avoid several bugs */
+    </style>
+  <![endif]-->
+
+  <!--[if IE 5]>
+    <style type="text/css">
+      /* place css box model fixes for IE 5* in this conditional comment */
+      .thrColFixHdr #sidebar1 { width: 180px; }
+      .thrColFixHdr #sidebar2 { width: 190px; }
+    </style>
+  <![endif]-->
+
+  <script src="https://www.ihrp.uic.edu/misc/jquery.js?v=1.4.4"></script>
+<script src="https://www.ihrp.uic.edu/misc/jquery-extend-3.4.0.js?v=1.4.4"></script>
+<script src="https://www.ihrp.uic.edu/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.ihrp.uic.edu/misc/drupal.js?q8vwl2"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/js/jquery.bgiframe.js?v=2.1"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/js/jquery.hoverIntent.js?v=0.5"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/js/superfish.js?v=1.4.8"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/js/nice_menus.js?v=1.0"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/google_analytics/googleanalytics.js?q8vwl2"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-4417342-1", {"cookieDomain":"auto"});ga("send", "pageview");</script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/field_group/field_group.js?q8vwl2"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/themes/ihrp/js/script.js?q8vwl2"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"ihrp","theme_token":"RzURK9GjxWpnvfzPV8E3d7X9EEY7-36euNEuWUyFiPE","js":{"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/mimedetect\/nice_menus\/js\/jquery.bgiframe.js":1,"sites\/all\/modules\/mimedetect\/nice_menus\/js\/jquery.hoverIntent.js":1,"sites\/all\/modules\/mimedetect\/nice_menus\/js\/superfish.js":1,"sites\/all\/modules\/mimedetect\/nice_menus\/js\/nice_menus.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/field_group\/field_group.js":1,"sites\/all\/themes\/ihrp\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/forward\/forward.css":1,"sites\/all\/modules\/print\/print_ui\/css\/print_ui.theme.css":1,"sites\/all\/modules\/mimedetect\/nice_menus\/css\/nice_menus.css":1,"sites\/all\/themes\/zen\/ihrp\/ihrp_menu.css":1,"sites\/all\/themes\/ihrp\/system.menus.css":1,"sites\/all\/themes\/ihrp\/css\/tabs.css":1,"sites\/all\/themes\/ihrp\/css\/print.css":1,"sites\/all\/themes\/ihrp\/css\/style.css":1,"sites\/all\/themes\/ihrp\/css\/zen.css":1,"sites\/all\/themes\/ihrp\/css\/html-elements.css":1,"sites\/all\/themes\/ihrp\/css\/ihrp_menu.css":1,"sites\/all\/themes\/ihrp\/css\/ihrp_researcher.css":1,"sites\/all\/themes\/ihrp\/css\/ihrp_study.css":1}},"nice_menus_options":{"delay":"0","speed":"fast"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/researcher\/frank-j-chaloupka-phd":true},"field_group":{"no_style":"full","fieldset":"full"}});</script>
+</head>
+
+<body class="thrColFixHdr html not-front not-logged-in no-sidebars page-node page-node- page-node-1229 node-type-researcher section-researcher not-front not-logged-in page-node page-node- page-node-1229 node-type-researcher 
+ not-logged-in not-front type-researcher">
+
+  
+  <div id="page"><div id="page-inner">
+    <a name="top" id="navigation-top"></a>
+    <div role="banner" id="header"><div id="header-inner" class="clear-block" role="navigation" aria-label="Top Menu">
+      <a href="/"><img src="/sites/all/themes/ihrp/images/IHRP_Logo.png" alt="Institute for Health Research and Policy" title="I H R P home page" /></a>
+
+      <!-- the following is the code for the little blue top menu  -->
+      <span class="littleBlueMenu">
+        <a href="/people/list">People</a>
+        <a href="/content/contact-us">Contact Us</a>
+         
+            <a href="/print/1229">Print this page</a>		        <a href="/forward/?path=node/1229">E-mail to a Colleague</a>		          </span>
+      
+	             <div id="primary">
+        </div> <!-- /#primary -->
+      
+      
+    </div></div> <!-- /#header-inner, /#header -->
+
+    <div role="main" id="main"><div id="main-inner" class="clear-block with-navbar">
+      <div id="content"><div id="content-inner">
+                  <div id="search-box">
+              <div class="region region-search-form">
+    <div id="block-search-form" class="block block-search first last odd" role="search">
+
+      
+  <form action="/researcher/frank-j-chaloupka-phd" method="post" id="search-block-form" accept-charset="UTF-8"><div>
+<div class="container-inline">
+  <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-xDtZUcD_XiQMNg-_pRed7GVIaVsOfhAeWLJVlSfZdgI" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+</div>
+  </div>
+          </div> <!-- /#search-box -->
+                          <div id="content-top">
+              <div class="region region-content-top">
+    <div id="block-nice-menus-1" class="block block-nice-menus first last odd">
+
+        <h2 class="block__title block-title"><span class="nice-menu-hide-title">Main menu</span></h2>
+    
+  <ul class="nice-menu nice-menu-down nice-menu-main-menu" id="nice-menu-1"><li class="menu__item menu-11518 menuparent  menu-path-node-4984 first odd "><a href="/content/institute-welcome-intro" title="" class="menu__link">About</a><ul><li class="menu__item menu-11516 menu-path-node-4984 first odd "><a href="/content/institute-welcome-intro" class="menu__link">Welcome</a></li>
+<li class="menu__item menu-11514 menu-path-node-4983  even "><a href="/content/about-mission-social-health-sciences-research" class="menu__link">Mission</a></li>
+<li class="menu__item menu-11524 menu-path-node-4996  odd "><a href="/content/admin-IHRP-snapshot" class="menu__link">IHRP Snapshot</a></li>
+<li class="menu__item menu-7001 menu-path-node-2873  even "><a href="/content/about-our-fellows-affiliates" class="menu__link">Fellows &amp; Affiliates</a></li>
+<li class="menu__item menu-2114 menu-path-node-1357  odd "><a href="/content/employment-ihrp" class="menu__link">Jobs</a></li>
+<li class="menu__item menu-11585 menu-path-node-5034  even last"><a href="/content/media-professionals" class="menu__link">For Media Professionals</a></li>
+</ul></li>
+<li class="menu__item menu-11523 menuparent  menu-path-node-5036  even "><a href="/content/about-advantages-UIC-researchers" title="" class="menu__link">Why IHRP? </a><ul><li class="menu__item menu-11588 menu-path-node-5036 first odd "><a href="/content/about-advantages-UIC-researchers" title="" class="menu__link">Advantages</a></li>
+<li class="menu__item menu-11521 menu-path-node-18  even "><a href="/content/why-ihrp-research-faqs" class="menu__link">FAQs</a></li>
+<li class="menu__item menu-11515 menu-path-node-4982  odd last"><a href="/content/learn-more-join-us" class="menu__link">Affiliate with IHRP</a></li>
+</ul></li>
+<li class="menu__item menu-11533 menuparent  menu-path-node-5027  odd "><a href="/content/scientific-resources-intro" class="menu__link">Scientific Resources</a><ul><li class="menu__item menu-11582 menu-path-node-5027 first odd "><a href="/content/scientific-resources-intro" title="" class="menu__link">Overview</a></li>
+<li class="menu__item menu-11522 menu-path-node-23  even "><a href="/content/institute-leadership" class="menu__link">Leadership</a></li>
+<li class="menu__item menu-11052 menu-path-node-4683  odd "><a href="/center/data-management-core-for-all-UIC-researchers" class="menu__link">Data Management Core</a></li>
+<li class="menu__item menu-2054 menu-path-node-1584  even "><a href="/center/methodology-research-core-for-all-UIC-researchers" class="menu__link">Methodology Research Core</a></li>
+<li class="menu__item menu-2064 menu-path-node-39  odd last"><a href="/content/training-every-stage-research-careers" class="menu__link">Training</a></li>
+</ul></li>
+<li class="menu__item menu-11532 menuparent  menu-path-node-4999  even "><a href="/content/admin-resources-intro" title="" class="menu__link">Administrative Resources</a><ul><li class="menu__item menu-11531 menu-path-node-4999 first odd "><a href="/content/admin-resources-intro" class="menu__link">Overview</a></li>
+<li class="menu__item menu-11584 menu-path-node-4979  even "><a href="/content/admin-grants-finance" class="menu__link">Grants &amp; Finance</a></li>
+<li class="menu__item menu-11507 menu-path-node-4978  odd "><a href="/content/admin-human-resources-team" class="menu__link">Human Resources</a></li>
+<li class="menu__item menu-11505 menu-path-node-4977  even "><a href="/content/admin-computing-environment" class="menu__link">Data Tech and Security</a></li>
+<li class="menu__item menu-11508 menu-path-node-4825  odd "><a href="/content/admin-communications" class="menu__link">Communications</a></li>
+<li class="menu__item menu-11511 menu-path-node-4980  even last"><a href="/content/resources-facilities" class="menu__link">Facilities</a></li>
+</ul></li>
+<li class="menu__item menu-11535 menuparent  menu-path-node-4803  odd last"><a href="/content/our-research-focus" title="" class="menu__link">Research</a><ul><li class="menu__item menu-11534 menu-path-node-4803 first odd "><a href="/content/our-research-focus" class="menu__link">Scientific Focus</a></li>
+<li class="menu__item menu-2130 menu-path-studies-list-current-all  even "><a href="/studies/list/current/all" title="" class="menu__link">Studies</a></li>
+<li class="menu__item menu-11408 menu-path-researchers-list-all  odd "><a href="/researchers/list/all" title="" class="menu__link">Researchers</a></li>
+<li class="menu__item menu-2030 menuparent  menu-path-node-1563  even "><a href="/content/centers" class="menu__link">Centers</a><ul><li class="menu__item menu-2086 menu-path-node-7 first odd "><a href="/center/center-research-health-and-aging" class="menu__link">Center for Research on Health and Aging</a></li>
+<li class="menu__item menu-2087 menu-path-node-8  even last"><a href="/center/health-policy-center" class="menu__link">Health Policy Center</a></li>
+</ul></li>
+<li class="menu__item menu-11504 menuparent  menu-path-node-4975  odd "><a href="/content/project-websites" class="menu__link">Project Websites</a><ul><li class="menu__item menu-10646 menu-path-gouicedu-asthmaaction first odd "><a href="http://go.uic.edu/AsthmaAction" title="" class="menu__link">Asthma Action</a></li>
+<li class="menu__item menu-2079 menu-path-scecdp-ihrpuicedu-  even "><a href="https://cecdp-ihrp.uic.edu/" title="" class="menu__link">Cancer Education and Career Development Program</a></li>
+<li class="menu__item menu-10737 menu-path-co-opchicagoihrpuicedu-  odd "><a href="http://co-opchicago.ihrp.uic.edu/" title="" class="menu__link">CO-OP Chicago</a></li>
+<li class="menu__item menu-10499 menu-path-fitandstrongorg-  even "><a href="http://fitandstrong.org/" title="" class="menu__link">Fit &amp; Strong!</a></li>
+<li class="menu__item menu-10548 menu-path-node-79  odd "><a href="/center/center-research-health-and-aging/midwest-roybal-center" title="IHRP is the home of the Midwest Roybal Center, funded continuously by the National Institute on Aging since 1998." class="menu__link">Midwest Roybal Center</a></li>
+<li class="menu__item menu-10501 menu-path-tobacconomicsorg-  even last"><a href="http://tobacconomics.org/" title="" class="menu__link">Tobacconomics</a></li>
+</ul></li>
+<li class="menu__item menu-11517 menu-path-news-list  even last"><a href="/news/list" title="" class="menu__link">News</a></li>
+</ul></li>
+</ul>
+
+</div>
+  </div>
+          </div> <!-- /#content-top -->
+        
+        
+		
+		<div id="content-area">
+                      <div class="tabs"></div>
+          
+          
+          							<h1 class="title">Frank J. Chaloupka, PhD</h1>
+			          
+	        
+          
+
+
+
+<div style="position: relative; width: 63%; float: left;">
+
+      <div class="field-field-researcher-photo">
+      <img src="https://www.ihrp.uic.edu/files/researcher_image/Chaloupka_w.jpg" />
+    </div>
+  
+  <h2>
+      Research Professor, Health Policy and Administration                                                                                                                       </h2>
+
+  <p>
+    <p>Dr. Chaloupka is a research professor in the Division of Health Policy and Administration of the University of Illinois at Chicago <a href="https://publichealth.uic.edu/">School of Public Health</a>. An economist internationally recognized for his study of the economics of tobacco control, he directs IHRP&#39;s <a href="/center/health-policy-center">Health Policy Center</a>. He is also a research associate at the National Bureau of Economic Research&#39;s Health Economics Program and Program on Children.</p>
+<p>From 1997 to 2016, Dr. Chaloupka co-directed, with Lloyd Johnston of the University of Michigan, <a href="http://www.bridgingthegapresearch.org">Bridging the Gap</a>, a interdisciplinary national research program funded by the Robert Wood Johnson Foundation. That program contributed substantially to the scientific understanding of the influences of policy, programs, and environment on youth, and influenced federal, state and local policy initiatives to improve the health behaviors of children and adolescents.</p>
+<p>He is a recipient of the World Health Organization&#39;s <a href="http://www.who.int/tobacco/wntd/awards2014/en/">2014 World No Tobacco Day Award</a>, the 2011 John Slade Award of the Society for Research on Nicotine and Tobacco and, with Geoffrey Fong, PhD, of the University of Waterloo, the 2015 Luther Terry Award for Outstanding Research Contribution. He is the principal investigator of <a href="http://tobacconomics.org/">Tobacconomics</a>, economic research that informs tobacco control policy.&nbsp;</p>
+<p>He serves on the Institute of Medicine committee on Leading Health Indicators for Healthy People 2020, and the ad hoc National Research Council Committee on the Illicit Tobacco Market, which wrote <a href="http://www.nap.edu/catalog/19016/understanding-the-us-illicit-tobacco-market-characteristics-policy-context-and">this report</a>. Previously, Dr. Chaloupka served on the IOM committee that wrote <a href="https://www.nap.edu/catalog/12847/bridging-the-evidence-gap-in-obesity-prevention-a-framework-to">Bridging the Evidence Gap in Obesity Prevention: A Framework to Inform Decision Making</a>. He also contributed as an editor and author to the <a href="http://www.cdc.gov/tobacco/data_statistics/sgr/2012/">2012 Surgeon General&#39;s Report, Preventing Tobacco Use Among Youth and Young Adults</a>.</p>
+<p>Dr. Chaloupka received his doctorate in economics from the City University of New York Graduate School in 1988.</p>
+  </p>
+
+  <p>
+    <h2>Research Interests</h2>
+  </p>
+  <p>
+    <p>The impact of economic, policy and other environmental influences on health behaviors, including tobacco, alcohol and illicit drug use, physical activity, diet, and related outcomes; the economics of tobacco and tobacco control, particularly in developing countries.</p>
+  </p>
+
+  <p>
+    <h2>Recent and Noteworthy Publications</h2>
+  </p>
+  <p>
+    <p>Find the abstracts and links to full-text files for more than 200 of <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Chaloupka+FJ">Dr. Chaloupka&#39;s publications on PubMed</a>.</p>
+<p>Shang C, Ngo A, Chaloupka FJ. The pass-through of alcohol excise taxes to prices in OECD countries. Eur J Health Econ. 2020 Mar 31. doi: 10.1007/s10198-020-01177-w.</p>
+<p>Shang C, Weaver SR, White JS, Huang J, Nonnemaker J, Cheng KW, Chaloupka FJ. E-cigarette Product Preferences among Adult Smokers: A Discrete Choice Experiment. Tob Regul Sci. 2020 Jan;6(1):66-80. doi: 10.18001/trs.6.1.7.</p>
+<p>Cheng KW, Shang C, Lee HM, Chaloupka FJ, Fong GT, Borland R, Heckman BW, Hitchman SC, O&#39;Connor RJ, Levy DT, Cummings KM. Costs of vaping: evidence from ITC Four Country Smoking and Vaping Survey. Tob Control. 2020 Feb 21. pii: tobaccocontrol-2019-055344. doi: 10.1136/tobaccocontrol-2019-055344.</p>
+<p>Unger JB, Chaloupka FJ, Vallone D, Thrasher JF, Nettles DS, Hendershot TP, Swan GE; PhenX TRR Environment Working Group. PhenX: Environment measures for Tobacco Regulatory Research. Tob Control. 2020 Jan;29(Suppl 1):s35-s42. doi: 10.1136/tobaccocontrol-2018-054469.</p>
+<p>Ribisl KM, Chaloupka FJ, Kirchner TR, Henriksen L, Nettles DS, Geisler RC, Hendershot TP, Swan GE; PhenX TRR Vector Working Group. PhenX: Vector measures for tobacco regulatory research. Control. 2020 Jan;29(Suppl 1):s27-s34. doi: 10.1136/tobaccocontrol-2019-054977.</p>
+<p>Wilkinson AL, Scollo MM, Wakefield MA, Spittal MJ, Chaloupka FJ, Durkin SJ. Smoking prevalence following tobacco tax increases in Australia between 2001 and 2017: an interrupted time-series analysis. Lancet Public Health. 2019 Dec;4(12):e618-e627. doi: 10.1016/S2468-2667(19)30203-8.</p>
+<p>Blanchette JG, Chaloupka FJ, Naimi TS. The Composition and Magnitude of Alcohol Taxes in States: Do They Cover Alcohol-Related Costs? J Stud Alcohol Drugs. 2019 Jul;80(4):408-414.</p>
+<p>Pope DA, Poe L, Stein JS, Kaplan BA, DeHart WB, Mellis AM, Heckman BW, Epstein LH, Chaloupka FJ, Bickel WK. The Experimental Tobacco Marketplace: Demand and Substitutability as a Function of Cigarette Taxes and e-Liquid Subsidies. Nicotine Tob Res. 2019 Jul 27. pii: ntz116. doi: 10.1093/ntr/ntz116.</p>
+<p>Driezen P, Nargis N, Thompson ME, Cummings KM, Fong GT, Chaloupka FJ, Shang C, Cheng KW. State-Level Affordability of Factory-Made Cigarettes among Current US Smokers: Findings from the ITC US Survey, 2003-2015. Int J Environ Res Public Health. 2019 Jul 9;16(13). pii: E2439. doi: 10.3390/ijerph16132439</p>
+<p>Guindon GE, Paraje GR, Chaloupka FJ. Association of Tobacco Control Policies With Youth Smoking Onset in Chile. JAMA Pediatr. 2019 Jun 10. doi: 10.1001/jamapediatrics.2019.1500.&nbsp;</p>
+<p>Cheng KW, Chaloupka FJ, Shang C, Ngo A, Fong GT, Borland R, Heckman BW, Levy DT, Cummings KM. Prices, use restrictions and electronic cigarette use-evidence from wave 1 (2016) US data of the ITC Four Country Smoking and Vaping Survey. Addiction. 2019 Jan 28. doi: 10.1111/add.14562. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/30476065/">See abstract</a>]</p>
+<p>Huang J, Chriqui JF, DeLong H, Mirza M, Diaz MC, Chaloupka FJ. Do state minimum markup/price laws work? Evidence from retail scanner data and TUS-CPS.&nbsp;Tob Control. 2016 Oct;25(Suppl 1):i52-i59. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/27697948">See abstract.</a>]</p>
+<p>Stoklosa M, Drope J, Chaloupka FJ.&nbsp;Prices and E-Cigarette Demand: Evidence From the European Union.&nbsp;Nicotine Tob Res. 2016 Oct;18(10):1973-80. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/27085083">See abstract.</a>]</p>
+<p>San S, Chaloupka FJ.&nbsp;The impact of tobacco expenditures on spending within Turkish households.&nbsp;Tob Control. 2016 Sep;25(5):558-63. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/26292702">See abstract.</a>]&nbsp;</p>
+<p>Jha P, MacLennan M, Chaloupka FJ, Yurekli A, Ramasundarahettige C, Palipudi K, et al.&nbsp;Global Hazards of Tobacco and the Benefits of Smoking Cessation and Tobacco Taxes.&nbsp;In: Gelband H, Jha P, Sankaranarayanan R, Horton S, editors. Cancer: Disease Control Priorities, Third Edition (Volume 3). Washington (DC): The International Bank for Reconstruction and Development/The World Bank; 2015 Nov 1. Chapter 10. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/26913345">See abstract.</a>]</p>
+<p>Powell LM, Kumanyika SK, Isgor Z, Rimkus L, Zenk SN, Chaloupka FJ.&nbsp;Price promotions for food and beverage products in a nationwide sample of food stores.&nbsp;Prev Med. 2016 Jan 29;86:106-113. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/26827618">See abstract.</a>]</p>
+<p>McKinnon RA, Siddiqi SM, Chaloupka FJ, Mancino L, Prasad K.&nbsp;Obesity-Related Policy/Environmental Interventions: A Systematic Review of Economic Analyses.&nbsp;Am J Prev Med. 2015 Dec 18. pii: S0749-3797(15)00729-1. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/26707464">See abstract.</a>]</p>
+<p>Ohri-Vachaspati P, Turner L, Adams MA, Bruening M, Chaloupka FJ. School Resources and Engagement in Technical Assistance Programs Is Associated with Higher Prevalence of Salad Bars in Elementary School Lunches in the United States. J Acad Nutr Diet. 2016 Mar;116(3):417-26. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/26703184">See abstract.</a>]&nbsp;</p>
+<p>Nikaj S, Chaloupka F.&nbsp;School personnel smoking, school-level policies, and adolescent smoking in low- and middle-income countries.&nbsp;Tob Control. 2015 Oct 30. pii: tobaccocontrol-2015-052531. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/26519427">See abstract.</a>]</p>
+<p>San S, Chaloupka FJ.&nbsp;The impact of tobacco expenditures on spending within Turkish households.&nbsp;Tob Control. 2015 Aug 20. pii: tobaccocontrol-2014-052000. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/26292702">See abstract.</a>]</p>
+<p>Chaloupka FJ, Sweanor D, Warner KE.&nbsp;Differential Taxes for Differential Risks--Toward Reduced Harm from Nicotine-Yielding Products.&nbsp;N Engl J Med. 2015 Aug 13;373(7):594-7. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/26267620">See abstract.</a>]</p>
+<p>Taber DR, Chriqui JF, Vuillaume R, Kelder SH, Chaloupka FJ.&nbsp;The association between state bans on soda only and adolescent substitution with other sugar-sweetened beverages: a cross-sectional study.&nbsp;Int J Behav Nutr Phys Act. 2015 Jul 27;12 Suppl 1:S7. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/26221969">See abstract.</a>]</p>
+<p>Taber DR, Chriqui JF, Powell LM, Perna FM, Robinson WR, Chaloupka FJ.&nbsp;Socioeconomic Differences in the Association Between Competitive Food Laws and the School Food Environment.&nbsp;J Sch Health. 2015 Sep;85(9):578-86. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/26201754">See abstract.</a>]</p>
+<p>Contreary KA, Chattopadhyay SK, Hopkins DP, Chaloupka FJ, Forster JL, Grimshaw V, Holmes CB, Goetzel RZ, Fielding JE; Community Preventive Services Task Force. Economic impact of tobacco price increases through taxation: a community guide systematic review. Am J Prev Med. 2015 Oct;49(4):553-62. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/26188686">See abstract.</a>]</p>
+<p>Ross H, Husain MJ, Kostova D, Xu X, Edwards SM, Chaloupka FJ, Ahluwalia IB. Approaches for controlling illicit tobacco trade - nine countries and the European Union.&nbsp;MMWR Morb Mortal Wkly Rep. 2015;64(20):547-50. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/26020137">See abstract</a>.]</p>
+<p>Chriqui J, DeLong H, Chaloupka F, Edwards SM, Xu X, Promoff G. MMR Morb Mortal Wkly. Use of tobacco tax stamps to prevent and reduce illicit tobacco trade - United States, 2014. 2015;64(20):541-6. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/26020136">See abstract</a>.]</p>
+<p>Grucza RA, Hur M, Agrawal A, Krauss MJ, Plunk AD, Cavazos-Rehg PA, Chaloupka FJ, Bierut LJ. A reexamination of medical marijuana policies in relation to suicide risk. Drug Alcohol Depend. 2015;152:68-72. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/25979644">See abstract.</a>]</p>
+<p>Zenk SN, Powell LM, Isgor Z, Rimkus L, Barker DC, Chaloupka FJ. Prepared food availability in U.S. food stores: a national study. Am J Prev Med. 2015 Oct;49(4):553-62. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/25913149">See abstract.</a>]</p>
+<p>Huang J, Zheng R, Chaloupka FJ, Fong GT, Jiang Y.&nbsp;Differential responsiveness to cigarette price by education and income among adult urban Chinese smokers. Tob Control. 2015 Jul;24 Suppl 3:iii76-iii82.&nbsp;[<a href="http://www.ncbi.nlm.nih.gov/pubmed/25855640">See abstract.</a>]</p>
+<p>Shang C, Chaloupka FJ, Fong GT, Thompson M, O&#39;Connor RJ. The association between tax structure and cigarette price variability: findings from the International Tobacco Control Policy Evaluation (ITC) Project. Tob Control. 2015 Jul;24 Suppl 3:iii88-iii93. [<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4612523/">See abstract.</a>]</p>
+<p>Liber AC, Ross H, Omar M, Chaloupka FJ. The impact of the Malaysian minimum cigarette price law: findings from the ITC Malaysia Survey. Tob Control. 2015 Jul;24 Suppl 3:iii83-iii87. [<a href="http://tobaccocontrol.bmj.com/content/early/2015/03/25/tobaccocontrol-2014-052028">See abstract.</a>]</p>
+<p>Curti D, Shang C, Ridgeway W, Chaloupka FJ, Fong GT. The use of legal, illegal and roll-your-own cigarettes to increasing tobacco excise taxes and comprehensive tobacco control policies: findings from the ITC Uruguay survey. Tob Control. 2015 Jul;24 Suppl 3:iii17-iii24.&nbsp;[<a href="http://tobaccocontrol.bmj.com/content/early/2015/03/03/tobaccocontrol-2014-051890">See abstract</a>.]</p>
+<p>Guindon GE, Paraje GR, Chaloupka FJ.The impact of prices and taxes on the use of tobacco products in Latin America and the Caribbean. Am J Public Health. 2015 Mar;105(3):e9-19. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/25602902">See abstract.</a>]</p>
+<p>Jha P, Chaloupka FJ, eds. Tobacco Control in Developing Countries. Oxford: Oxford University Press, 2000. [<a href="http://web.worldbank.org/WBSITE/EXTERNAL/TOPICS/EXTHEALTHNUTRITIONANDPOPULATION/EXTETC/0,,contentMDK:20226973~menuPK:478900~pagePK:148956~piPK:216618~theSitePK:376601,00.html">See abstract.</a>]</p>
+<p>Jha P, Chaloupka FJ. Curbing the Epidemic: Governments and the Economics of Tobacco Control. Washington DC: The World Bank, 1999.[<a href="http://tobaccocontrol.bmj.com/content/8/2/196">See abstract.</a>]</p>
+  </p>
+
+  <p>
+    <h2>Honors and Awards</h2>
+  </p>
+  <p>
+    <p>World Health Organization&#39;s <a href="http://www.who.int/tobacco/wntd/awards2014/en/">World No Tobacco Day Award, 2014</a><br />
+	Society for Research on Nicotine and Tobacco&#39;s John Slade Award, 2011<br />
+	UIC Researcher of the Year in Social Sciences and the Humanities, 2008<br />
+	UIC Distinguished Professor<br />
+	UIC University Scholar Award</p>
+  </p>
+</div>
+
+
+<div style="float:right; width: 32%;" class="right-sidebar">
+<p><strong>Contact Info</strong></p>
+
+<p>
+  Phone: (312) 413-2287<br />
+
+  Fax: (312) 996-2703<br />
+
+
+  E-mail: <a href="mailto:fjc@uic.edu">fjc@uic.edu</a><br />
+</p>
+
+  <p><p>&nbsp;</p>
+<p><strong>Institute for Health Research and Policy</strong><br />
+	University of Illinois at Chicago (MC 275)<br />
+	413 Westside Research Office Bldg.<br />
+	1747 West Roosevelt Road<br />
+	Chicago, IL 60608</p>
+</p>
+
+<br />
+
+  <strong>Other Title(s)</strong><br />
+	<p>Director, <a href="/center/health-policy-center">Health Policy Center</a><br />
+	Member,&nbsp;<span>UI Cancer Center</span></p>
+  <br />
+
+
+  <p>
+    <strong>IHRP Affiliation(s)</strong>
+  </p>
+  <ul>
+        	      <li><a href="../center/health-policy-center">Health Policy Center</a></li>
+      </ul>
+  <br />
+
+  <p>
+    <strong>Current IHRP Research Studies (PI)</strong>
+  </p>
+  <ul>
+        	    	<li><a href="../study/accelerating-progress-tobacco-taxes-low-and-middle-income-countries">Accelerating Progress on Tobacco Taxes in Low and Middle Income Countries</a></li>
+      </ul>
+  <br />
+
+
+
+
+  <p>
+    <strong>Recently Completed Research</strong>
+  </p>
+  <p>
+    <ul>
+	<li>
+		<a href="/study/assessing-intended-and-unintended-consequences-e-cigarette-tv-advertising">Assessing the Intended and Unintended Consequences of E-cigarette TV Advertising</a></li>
+	<li>
+		<a href="/study/bridging-gap-research-informing-policies-and-practices-healthy-youth-2014-2015">Bridging the Gap: Research Informing Policies and Practices for Healthy Youth</a></li>
+	<li>
+		<a href="https://www.ihrp.uic.edu/study/evaluation-local-level-sweetened-beverage-taxation-united-states">Evaluation of Local-Level Sweetened Beverage Taxation in the United States</a></li>
+	<li>
+		<a href="/study/monitoring-and-assessing-impact-tax-and-price-policies-us-tobacco-use">Monitoring and Assessing the Impact of Tax and Price Policies on U.S. Tobacco Use</a></li>
+	<li>
+		<a href="/study/national-school-wellness-policy-study">National School Wellness Policy Study</a></li>
+	<li>
+		<div>
+			<a href="/study/tcors-enhancing-economic-impact-evaluation-used-fda-s-rules-tobacco-products">TCORS: Enhancing the Economic Impact Evaluation Used in FDA&rsquo;s Rules for Tobacco Products</a></div>
+	</li>
+	<li>
+		<div>
+			<a href="/study/tobacco-policy-evaluation-low-and-middle-income-countries-itc-surveys-project-1">Tobacco Policy Evaluation in Low and Middle Income Countries: The ITC Surveys, Project 1</a></div>
+	</li>
+</ul>
+  </p>
+
+</div>
+        </div>
+
+        		
+      </div></div> <!-- /#content-inner, /#content -->
+
+              <div id="navbar"><div id="navbar-inner">
+
+          <a name="navigation" id="navigation"></a>
+
+          
+        </div></div> <!-- /#navbar-inner, /#navbar -->
+      
+
+    </div></div> <!-- /#main-inner, /#main -->
+
+    <div id="footer"><div id="footer-inner">
+      <div id="footer-message">  <footer id="footer" class="region region-footer">
+    <div id="block-block-43" class="block block-block first last odd">
+
+      
+  <p><strong>Institute for Health Research and Policy of the University of Illinois at Chicago</strong><br />
+	Multidisciplinary Home of UIC Researchers Collaborating in the Social and Health Sciences</p>
+<p>1747 W. Roosevelt Road, MC 275, Westside Research Office Bldg., Chicago, IL 60608<br />
+	T: <a href="tel:(312) 996-7222">(312) 996-7222</a> · F: (312) 996-2703</p>
+<p><a href="http://www.uic.edu/">UIC.edu</a> · <a href="https://www.uic.edu/apps/find-people/search">Campus Directory</a> · <a href="http://disabilityresources.uic.edu/">Disability Resources</a> · <a href="/content/employment-ihrp">Job Openings</a> · <a href="https://maps.uic.edu/">Maps</a> · <a href="/content/contact-us">Contact Us</a></p>
+<p>© 2020 <a href="http://www.uillinois.edu/trustees/">The Board of Trustees of the University of Illinois</a> · Privacy Policy · Webmaster: <a href="mailto:IHRP-webfix@uic.edu">IHRP-webfix@uic.edu</a></p>
+
+</div>
+  </footer>
+</div>
+
+    </div></div> <!-- /#footer-inner, /#footer -->
+
+    
+    
+  </div></div> <!-- /#page-inner, /#page -->
+    <script src="sites/all/themes/ihrp/js/customize-twitter-1.1/customize-twitter-1.1.min.js" type="text/javascript"></script>
+  <script>
+	var options = {
+    	"url": "sites/all/themes/ihrp/css/twitter.css",
+		"timeout_length": 1800
+	};
+	CustomizeTwitterWidget(options);
+</script>
+</body>
+</html>

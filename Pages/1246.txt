@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Entry -->
+<table id='entry_area' class='fixedTable'>
+	<tr>
+		<td style='width:676px;'>
+			<div id='entry_info'>
+<!-- Begin Entry Info -->
+<h3>Summer Internship Enables UIC/EVL Student to Work on Multi-Person Virtual Reality</h3><br>
+<div class='entry_content'>
+	<strong>Participants:</strong> <a href='/entry.php?id=281'>Victor Mateevitsi</a><br><br>
+	<strong>Institutions:</strong> Microsoft Research<br><br>
+<!-- Begin Entry Description -->
+Victor Mateevitsi, a University of Illinois at Chicago (UIC) PhD student in the Computer Science (CS) Department and the Electronic Visualization Laboratory (EVL), applied to Microsoft Research for a 2015 summer internship to work on virtual and augmented reality systems. Selected, he worked in Jaron Lanier&rsquo;s lab; Lanier is a highly regarded computer scientist, writer and composer, who pioneered virtual and augmented reality in the 1980s. Lanier is researching multi-person mixed reality - i.e., enabling more than one person to interact with the same virtual object or phenomenon at the same time.<br><br>
+Mateevitsi, whose PhD advisor is CS Associate Professor and EVL Director of Research Andy Johnson, is interested in Human Augmentics and Sensory Augmentation; i.e., how wearable technologies and body sensors affect people&rsquo;s perception of the world around them and, more specifically, how these devices can improve one&rsquo;s awareness in complex environments.<br><br>
+Given his interest in wearable technologies, the opportunity to work on augmented reality at Microsoft Research for the summer, particularly under the tutelage of a luminary in the field, was a wonderful opportunity. Mateevitsi worked on applications with interns from Stanford University, MIT Media Lab, University of North Carolina, Chapel Hill, Georgia Tech, and other notable institutions.<br><br>
+Lanier&rsquo;s project is called Comradre (pronounced &ldquo;comradery&rdquo;). Headsets were made using smartphones and laptop computers, and the tracking of a person&rsquo;s head movements were performed using external sensors. Mateevitsi worked with a small group to create a system that allowed sound waves to be detected and then shown visually. In one scene from the group&rsquo;s video, the sound produced by Lanier&rsquo;s flute playing was shown in mixed reality.<br><br>
+To learn more about how researchers in Lanier&rsquo;s lab at Microsoft Research are exploring ways for people to share experiences in mixed reality, see the October 12, 2015 article <a href="http://www.technologyreview.com/news/542341/microsoft-researchers-are-working-on-multi-person-virtual-reality/">&ldquo;Microsoft Researchers Are Working on Multi-Person Virtual Reality&rdquo;</a> by Will Night, published in the MIT Technology Review.<br><br>
+<!-- End Entry Description -->
+	<strong>Email:</strong> <a href='mailto:mvictoras@gmail.com'>mvictoras@gmail.com</a><br><br>
+	<strong>Date:</strong> November 10, 2015
+</div>
+<!-- End Entry Info -->
+			</div>
+		</td>
+		<td style='width:374px;'>
+			<div id='entry_sidebar'>
+<!-- Begin Entry Sidebar -->
+<div id='entry_image_small'>
+	<img style='left:0; ' src='/resizedImages/350x622-microsoftinternship.png' alt='' title='Summer Internship Enables UIC/EVL Student to Work on Multi-Person Virtual Reality' width='350' height='203'>
+</div>
+<span class='smallText'>This example of shared mixed reality shows two students both seeing a visual effect as they shake hands. - Image appeared in the MIT Technology Review article.</span><br><br>
+<div class='entry_content'>
+	<h3>Related Entries</h3>
+	<strong>Directory:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=281'>Victor Mateevitsi</a></li>
+	</ul><br>
+	<strong>Research:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2040'>SpiderSense</a></li>
+	</ul><br>
+	<h3>Related Categories</h3>
+	<ul>
+		<li><a href='/category.php?id=3&amp;related=3'>Applications</a></li>
+		<li><a href='/category.php?id=32&amp;related=3'>Human Augmentics</a></li>
+		<li><a href='/category.php?id=28&amp;related=3'>VR</a></li>
+	</ul>
+</div>
+<!-- End Entry Sidebar-->
+			</div>
+		</td>
+	</tr>
+</table>
+<!-- End Entry -->
+<script>
+	// Making both divs the same height is much easier in JavaScript
+	var entryInfo = document.getElementById("entry_info");
+	var entrySidebar = document.getElementById("entry_sidebar");
+	
+	if (entryInfo && entrySidebar) {
+		var maxHeight = Math.max(entryInfo.offsetHeight, entrySidebar.offsetHeight)-20;
+		entryInfo.style.height = maxHeight+"px";
+		entrySidebar.style.height = maxHeight+"px";
+	}
+</script>
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

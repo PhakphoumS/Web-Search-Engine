@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin List -->
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Page:</strong>
+		<a href='/list.php?id=5&amp;page=1'><strong>1</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=2'>2</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=3'>3</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=4'>4</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=5'>5</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=6'>6</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=7'>7</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=8'>8</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=9'>9</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=10'>10</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=11'>11</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=12'>12</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=13'>13</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=14'>14</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=15'>15</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=16'>16</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=17'>17</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<div id='list_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin List List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2494'><img src='/resizedImages/500x280-crop-sage3-2.png' alt='' title='Collaborative Research: CSSI Frameworks: SAGE3: Smart Amplified Group Environment for Harnessing the Data Revolution' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2494'>Collaborative Research: CSSI Frameworks: SAGE3: Smart Amplified Group Environment for Harnessing the Data Revolution</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=49'>Lance Long</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a><br>
+			May 15, 2020 - April 30, 2025<br><br>
+			UIC PI: Maxine Brown, co-PIs: Andrew Johnson, Luc Renambot University of Hawaii Manoa PI: Jason Leigh Virginia Polytechnic PI: Chirstopher North NSF&hellip; <a href='/entry.php?id=2494'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2476'><img src='/resizedImages/500x280-crop-dtsoupikovamdunne-2.jpg' alt='' title='Discovery Partners Institute: The Autism and Innovation Initiative' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2476'>Discovery Partners Institute: The Autism and Innovation Initiative</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=188'>Daria Tsoupikova</a><br>
+			August 16, 2019 - Ongoing<br><br>
+			PI: Maureen Dunne, Disability and Human Development, UIC co-PI: Tamar Heller, Disability and Human Development, UIC co-PI: Daria Tsoupikova, New&hellip; <a href='/entry.php?id=2476'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2469'><img src='/misc/default_500x280.png' alt='' title='High-performance computing and data-driven modeling of aircraft contrails' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2469'>High-performance computing and data-driven modeling of aircraft contrails</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=2052'>G. Elisabeta Marai</a>, (co-PI), Roberto Paoli (PI, UIC MIE)<br>
+			July 1, 2019 - June 30, 2022<br><br>
+			In this project, we will develop a novel computational method to model the evolution of aircraft contrail (ice particles forming in aircraft&hellip; <a href='/entry.php?id=2469'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2437'><img src='/resizedImages/500x280-crop-cancer-disparities-interface.png' alt='' title='Cancer Disparities in Chicago' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2437'>Cancer Disparities in Chicago</a></strong><br>
+			<strong>Researchers:</strong> Yashika Goyal<br>
+			February 1, 2019 - May 1, 2019<br><br>
+			Cancer has a major impact on society all around the world. It affects people of all population groups though certain groups bear more burden of&hellip; <a href='/entry.php?id=2437'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2401'><img src='/resizedImages/500x280-crop-sensei-panama-imageofresearch-2016_ljl2080-small-3.jpg' alt='' title='COMPaaS DLV: Composable Platform as a Service Instrument for Deep Learning & Visualization' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2401'>COMPaaS DLV: Composable Platform as a Service Instrument for Deep Learning & Visualization</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=2052'>G. Elisabeta Marai</a>, <a href='/entry.php?id=178'>Maxine Brown</a><br>
+			October 1, 2018 - September 30, 2021<br><br>
+			Project Period: October 1, 2018 - September 30, 2021 September 9, 2018 - The National Science Foundation (NSF) awarded a three-year grant to the UIC&hellip; <a href='/entry.php?id=2401'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2402'><img src='/resizedImages/500x280-crop-sage2cybersecurity_sm-2.jpg' alt='' title='SAGE2 Team Engaging with the Trusted CI Center on SAGE2 Cybersecurity' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2402'>SAGE2 Team Engaging with the Trusted CI Center on SAGE2 Cybersecurity</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=2415'>Mirko Mantovani</a><br>
+			October 1, 2018 - September 30, 2019<br><br>
+			The SAGE Development Team at the Laboratory for Advanced Visualization &amp; Applications (LAVA) at the University of Hawaiʻi at Manoa and the&hellip; <a href='/entry.php?id=2402'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2363'><img src='/resizedImages/500x280-crop-sounddome.png' alt='' title='Ableton Live Integration & Audio Effects for a 32 Speaker Ambisonic Sound System' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2363'>Ableton Live Integration & Audio Effects for a 32 Speaker Ambisonic Sound System</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=2137'>Anil Camci</a>, <a href='/entry.php?id=2362'>Sean Walker</a>, Ryan Hauser<br>
+			August 15, 2018 - Ongoing<br><br>
+			Ableton Live is music software designed for computer-based composition and performance. Ambisonics is a full-sphere surround sound technique used for&hellip; <a href='/entry.php?id=2363'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2398'><img src='/misc/default_500x280.png' alt='' title='NIH: R01: SCH: INT: MyPHA: Automatically generating personalized accounts of inpatient hospitalization' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2398'>NIH: R01: SCH: INT: MyPHA: Automatically generating personalized accounts of inpatient hospitalization</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=2278'>Debaleena Chattopadhyay</a><br>
+			August 1, 2018 - July 31, 2022<br><br>
+			Pi: Barbara Di Eugenio; Co-I: Debaleena Chattopadhyay A growing body of research has found that patients who actively manage their health have better&hellip; <a href='/entry.php?id=2398'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2442'><img src='/resizedImages/500x280-crop-continuum2019_renambot.jpg' alt='' title='Spatial Audio in the Continuum Environment' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2442'>Spatial Audio in the Continuum Environment</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=2362'>Sean Walker</a><br>
+			May 22, 2018 - May 22, 2019<br><br>
+			The Continuum environment is a high-resolution computer-enhanced group collaboration workspace, consisting of large format 2D touch-enabled and 3D&hellip; <a href='/entry.php?id=2442'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2353'><img src='/resizedImages/500x280-crop-caterpillar.png' alt='' title='SAGE2 Project Management Application' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2353'>SAGE2 Project Management Application</a></strong><br>
+						January 1, 2018 - May 15, 2018<br><br>
+			Caterpillar Inc. is working with the UIC Electronic Visualization Laboratory (EVL) to develop a SAGE2&trade; application to enable distributed teams&hellip; <a href='/entry.php?id=2353'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2425'><img src='/resizedImages/500x280-crop-abilitylab_demoworld_maxine.png' alt='' title='Virtual Reality Enhanced Physical Therapy' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2425'>Virtual Reality Enhanced Physical Therapy</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=2361'>Francesco Mantovani</a>, <a href='/entry.php?id=2364'>Ryan Nishimoto</a>, <a href='/entry.php?id=2358'>Simone Amico</a><br>
+			January 1, 2018 - December 31, 2018<br><br>
+			The Shirley Ryan AbilityLab of Chicago worked with the Electronic Visualization Laboratory (EVL) at the University of Illinois at Chicago to use&hellip; <a href='/entry.php?id=2425'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2428'><img src='/resizedImages/500x280-crop-vissnippets_sage2.png' alt='' title='VisSnippets: A Web-Based System for Impromptu Collaborative Data Exploration on Large Displays' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2428'>VisSnippets: A Web-Based System for Impromptu Collaborative Data Exploration on Large Displays</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=2231'>Andrew Burks</a><br>
+			January 1, 2018 - Ongoing<br><br>
+			In the past decades, science has become increasingly interdisciplinary and scientific discovery has experienced a paradigm shift from the classical&hellip; <a href='/entry.php?id=2428'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2330'><img src='/misc/default_500x280.png' alt='' title='Incorporating Image-based Features into Biomedical Document Classification' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2330'>Incorporating Image-based Features into Biomedical Document Classification</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=2052'>G. Elisabeta Marai</a>, <a href='/entry.php?id=2250'>Juan Trelles Trabucco</a>, <br><br>UIC PI: G.E. Marai<br>University of Delaware PI: H. Shatkay<br>Co-PIs: C. Arighi, C. Kambhamettu, C. Wu<br>
+			September 14, 2017 - August 31, 2021<br><br>
+			This collaborative research project led by the colleagues at the University of Delaware aims to develop and advance tools for using image-data&hellip; <a href='/entry.php?id=2330'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2333'><img src='/misc/default_500x280.png' alt='' title='QuBBD: Precision E-Radiomics for Dynamic Big Head & Neck Cancer Data' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2333'>QuBBD: Precision E-Radiomics for Dynamic Big Head & Neck Cancer Data</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=2076'>Chihua Ma</a>, <a href='/entry.php?id=2052'>G. Elisabeta Marai</a>, <a href='/entry.php?id=2251'>Peter Hanula</a>, <br><br>Grant PI: Georgeta-Elisabeta Marai (UIC); Guadalupe Canahuate (University of Iowa); Clifton David Fuller (MD Anderson Cancer Center); David M. Vock (University of Minnesota)<br>
+			September 1, 2017 - August 31, 2020<br><br>
+			Cancer treatment courses which rely on imaging and spatially-dependent therapy involve making multiple treatment decisions (e.g., radiotherapy alone&hellip; <a href='/entry.php?id=2333'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2309'><img src='/resizedImages/500x280-crop-anl_lcfbuilding.png' alt='' title='Vis for Deep Learning for Biology' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2309'>Vis for Deep Learning for Biology</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=285'>Jillian Aurisano</a><br>
+			May 16, 2017 - May 15, 2018<br><br>
+			Deep learning is often referred to as a &lsquo;black box&rsquo;, because, aside from selecting model and the model hyperparameters (like the learning&hellip; <a href='/entry.php?id=2309'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<!-- End List List -->
+	</table>
+</div>
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Page:</strong>
+		<a href='/list.php?id=5&amp;page=1'><strong>1</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=2'>2</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=3'>3</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=4'>4</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=5'>5</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=6'>6</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=7'>7</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=8'>8</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=9'>9</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=10'>10</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=11'>11</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=12'>12</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=13'>13</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=14'>14</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=15'>15</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=16'>16</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=17'>17</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<!-- End List -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

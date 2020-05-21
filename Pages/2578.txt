@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin List -->
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Page:</strong>
+		<a href='/list.php?id=5&amp;page=1'>1</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=2'>2</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=3'>3</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=4'>4</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=5'>5</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=6'>6</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=7'>7</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=8'>8</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=9'>9</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=10'>10</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=11'>11</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=12'><strong>12</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=13'>13</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=14'>14</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=15'>15</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=16'>16</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=17'>17</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<div id='list_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin List List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1702'><img src='/resizedImages/500x280-crop-accessbot-2.jpg' alt='' title='The Ganymede Accessbot: An Enabling Technology for Teleconferencing' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1702'>The Ganymede Accessbot: An Enabling Technology for Teleconferencing</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=75'>Alan Cruz</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=35'>Javier Girado</a>, <a href='/entry.php?id=24'>Jonas Talandis</a>, <a href='/entry.php?id=129'>Maggie Rawlings</a>, <a href='/entry.php?id=133'>Paul Rossman</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			May 1, 1998 - May 15, 2001<br><br>
+			The problem of providing accessibility for the handicapped goes far beyond merely providing ramps and elevators in buildings, cars, airplanes, and&hellip; <a href='/entry.php?id=1702'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1686'><img src='/misc/default_500x280.png' alt='' title='CAVE&trade; Line-Of-Sight Calibration Procedure' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1686'>CAVE&trade; Line-Of-Sight Calibration Procedure</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=62'>Dave Adamczyk</a>, <a href='/entry.php?id=38'>Eric He</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, <a href='/entry.php?id=78'>Marek Czernuszenko</a>, <a href='/entry.php?id=91'>Morteza Ghazisaedy</a>, <a href='/entry.php?id=14'>Robert V. Kenyon</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			March 1, 1998 - January 1, 2000<br><br>
+			This is a continuation of the research begun by Marek Czernuszenko with some refinements to the procedure as described in the associated documents. <a href='/entry.php?id=1686'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1988'><img src='/resizedImages/500x280-crop-paris-2.jpg' alt='' title='Instrumentation Development for Human-Centered Tele-Immersion' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1988'>Instrumentation Development for Human-Centered Tele-Immersion</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			January 9, 1998 - October 31, 2002<br><br>
+			The UIC Electronic Visualization Laboratory (EVL) has six years of experience building first and second-generation virtual reality devices (the CAVE&hellip; <a href='/entry.php?id=1988'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1673'><img src='/resizedImages/500x280-crop-i_based.jpg' alt='' title='ImageBased Modeling' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1673'>ImageBased Modeling</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=78'>Marek Czernuszenko</a>, <a href='/entry.php?id=95'>Robert Grzeszczuk</a><br>
+			January 1, 1998 - May 15, 1998<br><br>
+			&ldquo;The proposed approach involves video taping a scene twice with a hand-held video camera. Each time the recording is performed under different&hellip; <a href='/entry.php?id=1673'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1682'><img src='/resizedImages/500x280-crop-tandem_logo_sm.gif' alt='' title='Tandem' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1682'>Tandem</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=106'>Abhinav Kapoor</a>, <a href='/entry.php?id=94'>Ben Goldstein</a>, <a href='/entry.php?id=56'>Chris Scharver</a>, <a href='/entry.php?id=12'>Josephine Anstey</a>, <a href='/entry.php?id=45'>Michael Lewis</a>, <a href='/entry.php?id=55'>Nikita Sawant</a>, <a href='/entry.php?id=57'>Satheesh Subramanian</a>, <a href='/entry.php?id=61'>Zhongwei Qui</a><br>
+			January 1, 1998 - April 1, 1999<br><br>
+			This project seeks to expedite the creation of more compelling collaborative VR applications using either the CAVE or Immersadesk VR display devices&hellip; <a href='/entry.php?id=1682'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1747'><img src='/resizedImages/500x280-crop-ve.jpg' alt='' title='VisualEyes' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1747'>VisualEyes</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=21'>Jason Leigh</a>, Randall C. Smith, David A. Brown<br>
+			January 1, 1998 - June 30, 2004<br><br>
+			General Motors has developed VisualEyes (VE) - an application that allows designers to import 3D CAD models into the CAVE for quick visual inspection&hellip; <a href='/entry.php?id=1747'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1749'><img src='/resizedImages/500x280-crop-ring.jpg' alt='' title='Tele-Immersion Performance Studies' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1749'>Tele-Immersion Performance Studies</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=52'>Kyoung Shin Park</a>, <a href='/entry.php?id=14'>Robert V. Kenyon</a>, Hong-Yee Wong<br>
+			January 1, 1998 - January 1, 2000<br><br>
+			Studies are being conducted involving a cooperative tele-operation task in which two remote participants in CAVEs work together to manipulate shared&hellip; <a href='/entry.php?id=1749'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1847'><img src='/resizedImages/500x280-crop-ncsa_logo2.gif' alt='' title='Alliance Expeditions' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1847'>Alliance Expeditions</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, National Center for Supercomputing Applications, Argnonne National Laboratory, Network for Earthquake Simulation, Earthscope, GriPhyN, TeraGrid communities<br>
+			October 1, 1997 - September 30, 2004<br><br>
+			For the past 17 years, EVL&rsquo;s partnership with NCSA and the Alliance has enabled the rapid deployment and acceptance of EVL&rsquo;s advanced&hellip; <a href='/entry.php?id=1847'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1848'><img src='/resizedImages/500x280-crop-starlight_6.jpg' alt='' title='TeraGrid DTFnet' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1848'>TeraGrid DTFnet</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, Argonne National Laboratory, Northwestern University<br>
+			October 1, 1997 - September 1, 2004<br><br>
+			The TeraGrid DTFnet is an anchor tenant at StarLight, where EVL works with networking engineers from Argonne National Laboratory and Northwestern&hellip; <a href='/entry.php?id=1848'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1675'><img src='/resizedImages/500x280-crop-ncsalogo.gif' alt='' title='NCSA: National Computational Science Alliance' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1675'>NCSA: National Computational Science Alliance</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, L. Smarr, R. Abdulla, C. Bender, D. Ceperley, J. Connolly, R. GileJ. Hennessy, K. Kennedy;. McRae, J. Ostriker, D. Reed, R. Stevens, M. Vernon, P. Woodward<br>
+			October 1, 1997 - September 30, 2005<br><br>
+			After 10 years, the NSF Supercomputer Centers Program was replaced with the NSF Partnerships for Advanced Computational Infrastructure (PACI)&hellip; <a href='/entry.php?id=1675'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1969'><img src='/resizedImages/500x280-crop-rndearth_present.jpg' alt='' title='The Round Earth Project' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1969'>The Round Earth Project</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=121'>Carlos Orrego</a>, <a href='/entry.php?id=65'>Joseph Alexander</a>, <a href='/entry.php?id=134'>Maria Roussou</a>, <a href='/entry.php?id=16'>Tom Moher</a>, M. Gillingham, J. Hemmerich, J. Jain, M. Orr, S. Ohlsson, T. DeFanti<br>
+			October 1, 1997 - September 1, 2000<br><br>
+			The Round Earth Project is investigating how virtual reality technology can be used to help teach concepts that are counter-intuitive to a&hellip; <a href='/entry.php?id=1969'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1738'><img src='/resizedImages/500x280-crop-vrear.jpg' alt='' title='The Virtual Temporal Bone' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1738'>The Virtual Temporal Bone</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=15'>Alan Millman</a>, Theodore P. Mason M.D, Mary Rasmussen, Ray Evenhouse, Linda Warren, Noah Lowenthal, Jay McElroy, Rose Seelaus, Judy Challender, Edward L. Applebaum, Walter Panko Ph.D<br>
+			August 1, 1997 - July 30, 1999<br><br>
+			Mastery of the complex anatomic interrelationships of the human temporal bone is an essential part of otolaryngologic residency training, requiring&hellip; <a href='/entry.php?id=1738'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1974'><img src='/resizedImages/500x280-crop-startap_logo2004_v3.gif' alt='' title='STAR TAP&#8480; : Science, Technology, and Research Transit Access Point' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1974'>STAR TAP&#8480; : Science, Technology, and Research Transit Access Point</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=2454'>Jade Almaguer</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, A. Kassem, R.Butler<br>
+			May 1, 1997 - April 30, 2004<br><br>
+			STAR TAP&#8480; - Science, Technology, And Research Transit Access Point - is a persistent infrastructure, funded by the National Science Foundation&hellip; <a href='/entry.php?id=1974'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1681'><img src='/resizedImages/500x280-crop-cave6d.jpg' alt='' title='CAVE6D' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1681'>CAVE6D</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=106'>Abhinav Kapoor</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, G.H. Wheless, C. Lascara - Center for Coastal Physcial Oceanography, Old Dominion University<br>
+			January 1, 1997 - December 1, 1999<br><br>
+			CAVE5D, co-developed by Wheless and Lascara from ODU and Dr. Bill Hibbard from the University of Wisconsin-Madison, is a configurable virtual reality&hellip; <a href='/entry.php?id=1681'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1970'><img src='/resizedImages/500x280-crop-dimensionlandavatar4.gif' alt='' title='A Comparsion of Video, Avatar &amp; Face-To-Face in Collaborative Virtual Learning Environments' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1970'>A Comparsion of Video, Avatar &amp; Face-To-Face in Collaborative Virtual Learning Environments</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=74'>Jim Costigan</a><br>
+			September 1, 1996 - May 1, 1997<br><br>
+			The use of communication technology has an effect on communication. Studies have been conducted that show these effects vary by transmission channel&hellip; <a href='/entry.php?id=1970'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<!-- End List List -->
+	</table>
+</div>
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Page:</strong>
+		<a href='/list.php?id=5&amp;page=1'>1</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=2'>2</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=3'>3</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=4'>4</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=5'>5</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=6'>6</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=7'>7</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=8'>8</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=9'>9</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=10'>10</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=11'>11</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=12'><strong>12</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=13'>13</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=14'>14</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=15'>15</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=16'>16</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=17'>17</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<!-- End List -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

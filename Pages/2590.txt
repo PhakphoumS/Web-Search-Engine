@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Entry -->
+<table id='entry_area' class='fixedTable'>
+	<tr>
+		<td style='width:676px;'>
+			<div id='entry_info'>
+<!-- Begin Entry Info -->
+<h3>NIH: R01: SCH: INT: MyPHA: Automatically generating personalized accounts of inpatient hospitalization</h3><br>
+<div class='entry_content'>
+	<strong>Researchers:</strong> <a href='/entry.php?id=2278'>Debaleena Chattopadhyay</a><br><br>
+	<strong>Funding:</strong> NIH Grant #: 1R01CA225446-01<br><br>
+<!-- Begin Entry Description -->
+Pi: Barbara Di Eugenio; Co-I: Debaleena Chattopadhyay<br><br>
+A growing body of research has found that patients who actively manage their health have better outcomes, and patient engagement has become a central tenet in recent healthcare approaches. However, it has also been shown that many patients lack knowledge of their disease and medications, particularly as concerns chronic health conditions, whose exacerbation causes about two thirds of hospitalizations every year in the USA. Discharge instructions after hospitalization are a critical tool to engage patients in their self-care, but are often unsuccessful. Our hypothesis is that, to engage patients at discharge, a personalized hospitalization summary should be provided, that integrates physician and nurse documentation, and is informed by the patient's level of engagement in self-care and their socio-cultural perspective.<br><br>
+Our transformative pilot work on physician and nurse documentation has identified an additional obstacle to the effective flow of information from professionals to patients: vocabulary differences between physicians and nurses. By leveraging the Unified Medical Language System Metathesaurus, we found no common synonyms between physician and nurse documentations for 75% of patients. Further, 86% of terms patients use are simple compared to only 15% for physicians. The lack of common language among patients, physicians and nurses motivates including all perspectives to make instructions meaningful for patients. Our hypothesis is that a better informed patient population who understands the connections between their illness, hospital experience, and discharge instructions will be more empowered and more engaged in their chronic disease management. Our innovation is to automatically create an easy-to-understand, personalized hospitalization summary that integrates events described in the EHR; and that is responsive to the patient's needs and preferences, and their activation framework (PAF) level. We pursue four specific aims: 1. To investigate socio-cultural patterns of patient perceptions of illness via a socio linguistic analysis of patient interviews; 2. To integrate multi-faceted information about a patient, as provided by physicians and nurses; 3a. To develop MyPHA, a novel application program, which will automatically generate the personalized summaries and deliver them to the patient on a tablet. MyPHA will be informed by aims 1 and 2, and will be grounded in Natural Language Generation technology; 3b. To evaluate MyPHA with multiple cycles of formative evaluation with all stakeholders, and a summative evaluation with patients. 
+Whereas our pilot work has focused on heart failure, the techniques we will develop can easily be adapted to the management of other chronic health conditions, in particular for patients with cancer and cancer survivors. In addition, cancer and heart failure can co-occur, especially in older patients, and several cancer treatments can lead to the development of heart failure. The software program MyPHA will be released ooen source to the research communitv to enable raoid customization to other chronic conditions. <br><br>
+Awarded Amount:  $1,495,213<br><br>
+<!-- End Entry Description -->
+	<strong>Date:</strong> August 1, 2018 - July 31, 2022
+</div>
+<!-- End Entry Info -->
+			</div>
+		</td>
+		<td style='width:374px;'>
+			<div id='entry_sidebar'>
+<!-- Begin Entry Sidebar -->
+<div id='entry_image_small'>
+	<img src='/misc/default_700x272.png' alt='' title='NIH: R01: SCH: INT: MyPHA: Automatically generating personalized accounts of inpatient hospitalization' width='350' height='136'>
+</div>
+<div class='entry_content'>
+	<h3>Related Entries</h3>
+	<strong>Directory:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2278'>Debaleena Chattopadhyay</a></li>
+	</ul><br>
+	<strong>Research:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2347'>UIC Human-Computer Interaction (HCI) Laboratory</a></li>
+	</ul><br>
+	<h3>Related Categories</h3>
+	<ul>
+		<li><a href='/category.php?id=3&amp;related=5'>Applications</a></li>
+		<li><a href='/category.php?id=43&amp;related=5'>Human Computer Interaction (HCI)</a></li>
+		<li><a href='/category.php?id=33&amp;related=5'>Natural Language Processing</a></li>
+		<li><a href='/category.php?id=20&amp;related=5'>Software</a></li>
+	</ul>
+</div>
+<!-- End Entry Sidebar-->
+			</div>
+		</td>
+	</tr>
+</table>
+<!-- End Entry -->
+<script>
+	// Making both divs the same height is much easier in JavaScript
+	var entryInfo = document.getElementById("entry_info");
+	var entrySidebar = document.getElementById("entry_sidebar");
+	
+	if (entryInfo && entrySidebar) {
+		var maxHeight = Math.max(entryInfo.offsetHeight, entrySidebar.offsetHeight)-20;
+		entryInfo.style.height = maxHeight+"px";
+		entrySidebar.style.height = maxHeight+"px";
+	}
+</script>
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Entry -->
+<table id='entry_area' class='fixedTable'>
+	<tr>
+		<td style='width:676px;'>
+			<div id='entry_info'>
+<!-- Begin Entry Info -->
+<h3>Immersive Analytics Lessons from the Electronic Visualization Laboratory: a 25 Year Perspective</h3>
+<div id='entry_image_large'><img style='left:0;' src='/resizedImages/1280x720-cga_evl_ia25years.jpg' alt='' title='Immersive Analytics Lessons from the Electronic Visualization Laboratory: a 25 Year Perspective' width='640' height='360'></div>
+<span class='smallText'>CAVE2 immersive exploration of dark matter formation in the universe. While little information can be shown on a typical desktop display, the high-resolution tiled environment lets analysts examine details without losing the context of the larger dataset.</span><br><br>
+<div class='entry_content'>
+	<strong>Authors:</strong> <a href='/entry.php?id=2052'>Marai, G.E.</a>, <a href='/entry.php?id=21'>Leigh, J. </a>, <a href='/entry.php?id=10'>Johnson, A.E.</a><br><br>
+	<strong>Publication:</strong> <em>IEEE Computer Graphics and Applications</em>, vol 39, no 3, pp. 54-66<br><br>
+	<strong>URL:</strong> <a href='https://dx.doi.org/10.1109/MCG.2019.2901428' target='_blank'>https://dx.doi.org/10.1109/MCG.2019.2901428</a><br><br>
+<!-- Begin Entry Description -->
+This article provides a 25 year-long perspective on Immersive Analytics through the lens of first-in-kind technological advancements introduced at the Electronic Visualization Laboratory, University of Illinois at Chicago, along with the challenges and lessons learned from multiple Immersive Analytics projects.<br><br>
+The Electronic Visualization Lab (EVL) at the University of Illinois at Chicago has been at the forefront of Virtual Reality research since 1992, when it introduced the CAVE&trade; Automatic Virtual Environment, the first projection-based virtual reality system in the world. Since then, the lab has developed a wide range of immersive systems and technologies to be used for visualization and visual analysis tasks, such as PARIS&trade;, ImmersaDesk&trade;, CAVE2&trade;, and SAGE2&trade;. These technologies paved the way for the resurgence in virtual reality in the past few years, and lead to the introduction of Immersive Analytics - which investigates how new interaction
+and display technologies can be used to support analytical reasoning by immersing the users in data.<br><br><br><br>
+<!-- End Entry Description -->
+	<strong>Date:</strong> May 1, 2019 - June 30, 2019<br><br>
+	<strong>Document:</strong> <a href='/documents/cga_evl_ia25years.pdf'>View PDF</a>
+</div>
+<!-- End Entry Info -->
+			</div>
+		</td>
+		<td style='width:374px;'>
+			<div id='entry_sidebar'>
+<!-- Begin Entry Sidebar -->
+<div class='entry_content'>
+	<h3>Related Entries</h3>
+	<strong>Directory:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=10'>Andrew Johnson</a></li>
+		<li><a href='/entry.php?id=21'>Jason Leigh</a></li>
+		<li><a href='/entry.php?id=2052'>G. Elisabeta Marai</a></li>
+	</ul><br>
+	<strong>Research:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2042'>SAGE2&trade; Scalable Amplified Group Environment</a></li>
+		<li><a href='/entry.php?id=2016'>CAVE2: Next-Generation Virtual-Reality and Visualization Hybrid Environment for Immersive Simulation and Information Analysis</a></li>
+		<li><a href='/entry.php?id=1703'>PARIS&trade; : Personal Augmented Reality Immersive System</a></li>
+		<li><a href='/entry.php?id=1770'>ImmersaDesk&trade;</a></li>
+		<li><a href='/entry.php?id=1769'>The CAVE&trade; Virtual Reality Theater</a></li>
+		<li><a href='/related.php?id=2431&amp;related=5'><strong>View more&hellip;</strong></a></li>
+	</ul><br>
+	<h3>Related Categories</h3>
+	<ul>
+		<li><a href='/category.php?id=9&amp;related=4'>Devices</a></li>
+		<li><a href='/category.php?id=43&amp;related=4'>Human Computer Interaction (HCI)</a></li>
+		<li><a href='/category.php?id=12&amp;related=4'>Human Factors</a></li>
+		<li><a href='/category.php?id=45&amp;related=4'>Instrumentation</a></li>
+		<li><a href='/category.php?id=20&amp;related=4'>Software</a></li>
+		<li><a href='/category.php?id=24&amp;related=4'>User Groups</a></li>
+		<li><a href='/category.php?id=35&amp;related=4'>Visual Analytics</a></li>
+		<li><a href='/category.php?id=36&amp;related=4'>Visual Informatics</a></li>
+		<li><a href='/category.php?id=27&amp;related=4'>Visualization</a></li>
+		<li><a href='/category.php?id=28&amp;related=4'>VR</a></li>
+	</ul>
+</div>
+<!-- End Entry Sidebar-->
+			</div>
+		</td>
+	</tr>
+</table>
+<!-- End Entry -->
+<script>
+	// Making both divs the same height is much easier in JavaScript
+	var entryInfo = document.getElementById("entry_info");
+	var entrySidebar = document.getElementById("entry_sidebar");
+	
+	if (entryInfo && entrySidebar) {
+		var maxHeight = Math.max(entryInfo.offsetHeight, entrySidebar.offsetHeight)-20;
+		entryInfo.style.height = maxHeight+"px";
+		entrySidebar.style.height = maxHeight+"px";
+	}
+</script>
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

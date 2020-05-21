@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin List -->
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Page:</strong>
+		<a href='/list.php?id=5&amp;page=1'>1</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=2'>2</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=3'>3</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=4'>4</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=5'>5</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=6'>6</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=7'>7</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=8'><strong>8</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=9'>9</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=10'>10</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=11'>11</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=12'>12</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=13'>13</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=14'>14</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=15'>15</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=16'>16</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=17'>17</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<div id='list_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin List List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1893'><img src='/resizedImages/500x280-crop-embeddedphenonmena.jpg' alt='' title='Embedded Phenomena' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1893'>Embedded Phenomena</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=4'>Brenda Lopez Silva</a>, <a href='/entry.php?id=252'>Brian Uphoff</a>, <a href='/entry.php?id=246'>Darshan Bhatt</a>, <a href='/entry.php?id=253'>Peter Malcolm</a>, <a href='/entry.php?id=16'>Tom Moher</a><br>
+			January 1, 2004 - December 31, 2009<br><br>
+			Embedded Phenomena is an emerging framework intended to support science inquiry in K-6 classrooms. The basic idea is to use simulation to map&hellip; <a href='/entry.php?id=1893'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1908'><img src='/resizedImages/500x280-crop-topologysm.jpg' alt='' title='AR-PIN / PDC' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1908'>AR-PIN / PDC</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=38'>Eric He</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=231'>Xi Wang</a><br>
+			September 1, 2003 - Ongoing<br><br>
+			Grid is a computing architecture that consists of distributed clusters of computers interconnected by a network. Grid computing is used in a variety&hellip; <a href='/entry.php?id=1908'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2010'><img src='/resizedImages/500x280-crop-videogames.png' alt='' title='Video Game Design and Development' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2010'>Video Game Design and Development</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=21'>Jason Leigh</a><br>
+			August 16, 2003 - Ongoing<br><br>
+			Since 2003, EVL director Jason Leigh has been teaching the UIC undergraduate computer science course #426 (Video Game Design and Development). This&hellip; <a href='/entry.php?id=2010'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1884'><img src='/resizedImages/500x280-crop-immersaview_logo05-2.jpg' alt='' title='ImmersaView Launcher' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1884'>ImmersaView Launcher</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=168'>Allan Spale</a><br>
+			July 1, 2003 - November 9, 2004<br><br>
+			ImmersaView Launcher is an application that allows a user to run ImmersaView remotely from any computer and transfer the appropriate files from the&hellip; <a href='/entry.php?id=1884'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1932'><img src='/resizedImages/500x280-crop-transitivesnapshot.jpg' alt='' title='Transitive' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1932'>Transitive</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=4'>Brenda Lopez Silva</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=44'>Naveen Krishnaprasad</a>, <a href='/entry.php?id=169'>Shalini Venkataraman</a><br>
+			April 30, 2003 - August 30, 2004<br><br>
+			The Transitive project was conceived and developed as a means to visualize point-to-point file transfers like those most commonly exchanged on the&hellip; <a href='/entry.php?id=1932'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1885'><img src='/resizedImages/500x280-crop-anrlogo-5.jpg' alt='' title='LambdaStream' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1885'>LambdaStream</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=214'>Chaoyue Xiong</a>, <a href='/entry.php?id=38'>Eric He</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=209'>Venkatram Vishwanath</a>, Tadao Murata<br>
+			January 1, 2003 - Ongoing<br><br>
+			LambdaStream is a transport protocol designed specifically to support gigabit-level streaming, which is required by streaming applications over&hellip; <a href='/entry.php?id=1885'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1904'><img src='/resizedImages/500x280-crop-1book.jpg' alt='' title='Cryptoclub - Using Mathematics to Make and Break Secret Codes' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1904'>Cryptoclub - Using Mathematics to Make and Break Secret Codes</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=188'>Daria Tsoupikova</a>, Janet Beissinger, Vera Pless<br>
+			January 1, 2003 - August 8, 2008<br><br>
+			A new student book to teach mathematics for grades 5-8 entitled Cryptoclub - Using Mathematics to Make and Break Secret Codes is published by AK&hellip; <a href='/entry.php?id=1904'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1839'><img src='/resizedImages/500x280-crop-optiputer_animate.gif' alt='' title='The OptIPuter' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1839'>The OptIPuter</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=23'>Alan Verlo</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, <a href='/entry.php?id=16'>Tom Moher</a>, Larry Smarr (CalIT2), Bob Grossman (NCDM / UIC)<br>
+			October 1, 2002 - September 30, 2007<br><br>
+			related url: www.evl.uic.edu/cavern/optiputer The OptIPuter is a five-year, $13.9 million National Science Foundation funded project to interconnect&hellip; <a href='/entry.php?id=1839'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1853'><img src='/resizedImages/500x280-crop-marsrercsm.png' alt='' title='Machines Assisting Recovery in Stroke (MARS)' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1853'>Machines Assisting Recovery in Stroke (MARS)</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=14'>Robert V. Kenyon</a>, <a href='/entry.php?id=232'>Xun Luo</a>, Z. Rymer (PI), A. Halper, J. Hidler, T. G. Hornby, L. Kahn (Northwestern University);D. Kamper, J. Patton (Rehabilitation Institute of Chicago);D. Reinkensmeyer (University of California, Irvine)<br>
+			October 1, 2002 - September 30, 2007<br><br>
+			Thanks to the new robotic devices with computer displays, there have been great strides in fundamental research that suggests a promising future in&hellip; <a href='/entry.php?id=1853'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1838'><img src='/resizedImages/500x280-crop-wiggleview_istrip2.jpg' alt='' title='Wiggleview' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1838'>Wiggleview</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=166'>Atul Nayak</a>, <a href='/entry.php?id=21'>Jason Leigh</a><br>
+			September 1, 2002 - August 30, 2003<br><br>
+			Wiggleview is a tool developed by the Electronic Visualization Laboratory (EVL) at the University of Illinois at Chicago (UIC) for visualizing&hellip; <a href='/entry.php?id=1838'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1855'><img src='/resizedImages/500x280-crop-geopad_new.jpg' alt='' title='The GeoPad Project' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1855'>The GeoPad Project</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, Paul Morin / University of Minnesota, Peter Knopp, Ben van der Pluijm, Peter van Keken / University of Michigan, Brian Davis / US Geological Survey<br>
+			September 1, 2002 - May 15, 2003<br><br>
+			The GeoPad project is an extension of the collaboration of geoscientist and computer scientist initiated with the GeoWall Consortium. The focus of&hellip; <a href='/entry.php?id=1855'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1931'><img src='/resizedImages/500x280-crop-anrlogo-7.jpg' alt='' title='Reliable Blast UDP' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1931'>Reliable Blast UDP</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=38'>Eric He</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a><br>
+			September 1, 2002 - January 1, 2006<br><br>
+			High speed bulk data transfer is an important part of many data-intensive scientific applications. The aggressive bulk data transfer algorithm&hellip; <a href='/entry.php?id=1931'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1831'><img src='/resizedImages/500x280-crop-vr_portal_res.jpg' alt='' title='VR Portal' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1831'>VR Portal</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=161'>Geoffrey Allen Baum</a>, <a href='/entry.php?id=165'>Keith Miller</a>, <a href='/entry.php?id=53'>Tim Portlock</a>, <a href='/entry.php?id=2'>Todd Margolis</a><br>
+			May 1, 2002 - April 1, 2003<br><br>
+			The VR Portal is a configurable virtual reality installation system. The compelling experience is derived from its immersive screen, head-tracked 3D&hellip; <a href='/entry.php?id=1831'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1823'><img src='/resizedImages/500x280-crop-macagave.jpg' alt='' title='MacIntosh AGAVE / GeoWall' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1823'>MacIntosh AGAVE / GeoWall</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=16'>Tom Moher</a><br>
+			March 1, 2002 - February 28, 2003<br><br>
+			The MacIntosh AGAVE / GeoWall consists of a dual 1Ghz PowerPC G4 with 512M RAM and a GeForce 4MX graphics card connected to two InFocus 530&hellip; <a href='/entry.php?id=1823'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1846'><img src='/resizedImages/500x280-crop-morphing_karltimm-3.jpg' alt='' title='Real-Time Video View Morphing' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1846'>Real-Time Video View Morphing</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=59'>Karl Timm</a><br>
+			March 1, 2002 - September 1, 2003<br><br>
+			Real-Time Video View Morphing is a real-time virtual video camera application based on view morphing. This system takes video input from multiple&hellip; <a href='/entry.php?id=1846'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<!-- End List List -->
+	</table>
+</div>
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Page:</strong>
+		<a href='/list.php?id=5&amp;page=1'>1</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=2'>2</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=3'>3</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=4'>4</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=5'>5</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=6'>6</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=7'>7</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=8'><strong>8</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=9'>9</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=10'>10</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=11'>11</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=12'>12</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=13'>13</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=14'>14</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=15'>15</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=16'>16</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=17'>17</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<!-- End List -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

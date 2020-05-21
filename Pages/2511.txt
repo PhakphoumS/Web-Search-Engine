@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin List -->
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Year:</strong>
+		<a href='/list.php?id=3&amp;year=2020'>2020</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2019'>2019</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2018'>2018</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2017'>2017</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2016'>2016</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2015'>2015</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2014'>2014</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2013'>2013</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2012'>2012</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2011'>2011</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2010'>2010</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2009'>2009</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2008'>2008</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2007'>2007</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2006'>2006</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2005'>2005</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2004'>2004</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2003'>2003</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2002'>2002</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2001'>2001</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2000'>2000</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1999'>1999</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1998'><strong>1998</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1997'>1997</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1996'>1996</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1995'>1995</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1994'>1994</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1993'>1993</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1992'>1992</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1987'>1987</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1979'>1979</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1976'>1976</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1975'>1975</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1974'>1974</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1973'>1973</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<div id='list_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin List List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=386'><img src='/resizedImages/500x280-crop-dolinsky.gif' alt='' title='Interiors (Blue Window Pane) :: MFA Thesis Exhibition' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=386'><em>Interiors (Blue Window Pane)</em> :: MFA Thesis Exhibition</a></strong><br>
+			<a href='/entry.php?id=86'>Margaret Dolinsky</a><br>
+			December 4, 1998<br><br>
+			Margaret Dolinsky&rsquo;s MFA Thesis Exhibition and Reception was held Friday December 4, 1998 4-8 pm at the Engineering Research Facility, 842 W&hellip; <a href='/entry.php?id=386'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=335'><img src='/resizedImages/500x280-crop-sc98.gif' alt='' title='The International Grid (iGrid) 1998' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=335'>The International Grid (iGrid) 1998</a></strong><br>
+			<a href='/entry.php?id=23'>Alan Verlo</a>, <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=5'>Dana M. Plepys</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=74'>Jim Costigan</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, Kyoung Shin Park, Abhinav Kapoor, Nikita Sawant<br>
+			November 7, 1998 - November 13, 1998<br><br>
+			The &ldquo;International Grid&rdquo; (iGrid) research booth at Supercomputing &rsquo;98 was a collaboration between the Electronic Visualization&hellip; <a href='/entry.php?id=335'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=385'><img src='/resizedImages/500x280-crop-ntt.jpg' alt='' title='NTT Visits EVL to Implement MediaCruising' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=385'>NTT Visits EVL to Implement MediaCruising</a></strong><br>
+			<a href='/entry.php?id=23'>Alan Verlo</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, EVL faculty, staff, and students<br>
+			October 1, 1998<br><br>
+			NTT researchers visit to implement MediaCruising. MediaCruising is a prototype advanced networking protocol optimized for streaming media and bulk&hellip; <a href='/entry.php?id=385'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=383'><img src='/resizedImages/500x280-crop-internet2.gif' alt='' title='Internet2 1998 Fall Meeting' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=383'>Internet2 1998 Fall Meeting</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=74'>Jim Costigan</a>, <a href='/entry.php?id=108'>Johnny Lawson</a>, <a href='/entry.php?id=12'>Josephine Anstey</a>, <a href='/entry.php?id=86'>Margaret Dolinsky</a>, <a href='/entry.php?id=89'>Tom Frisch</a>, Dana Plepys, Dan Sandin, Tom DeFanti<br>
+			September 26, 1998 - September 29, 1998<br><br>
+			EVL is taking part in the Internet2 Digital Video Network with Multiple Distributed Broadcast Stations (I2-DTVN). This application is part of the&hellip; <a href='/entry.php?id=383'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=384'><img src='/resizedImages/500x280-crop-startap.gif' alt='' title='Jason Leigh Presents at HPCAsia &rsquo;98' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=384'>Jason Leigh Presents at HPCAsia &rsquo;98</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a><br>
+			September 22, 1998 - September 25, 1998<br><br>
+			Jason Leigh attended HPCAsia &rdquo;98 to present the paper entitled, &ldquo;Preliminary STAR TAP Tele-Immersion Experiments between Chicago and&hellip; <a href='/entry.php?id=384'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=382'><img src='/resizedImages/500x280-crop-infowar.jpg' alt='' title='EVLers at Ars Electronic Festival &rsquo;98' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=382'>EVLers at Ars Electronic Festival &rsquo;98</a></strong><br>
+			<a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=70'>Hisham Bizri</a>, <a href='/entry.php?id=12'>Josephine Anstey</a>, <a href='/entry.php?id=134'>Maria Roussou</a><br>
+			September 7, 1998 - September 12, 1998<br><br>
+			EVLers presented two VR art applications in the Ars Electronica (AEC) CAVE for the InfoWar Festival: &ldquo;Mitologies&rdquo; (H. Bizri, M. Roussou&hellip; <a href='/entry.php?id=382'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=334'><img src='/resizedImages/500x280-crop-sig98.gif' alt='' title='EVLers at SIGGRAPH 98' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=334'>EVLers at SIGGRAPH 98</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=111'>Gary Lindahl</a>, <a href='/entry.php?id=70'>Hisham Bizri</a>, <a href='/entry.php?id=12'>Josephine Anstey</a>, Jim Costigan, M. Dolinsky, Andrew Johnson, Jason Leigh, Tom Coffin, Christina Vasilakis, Maria Roussou<br>
+			July 19, 1998 - July 24, 1998<br><br>
+			EVL&rsquo;s participation in SIGGRAPH 98 included virtual reality demonstrations using an ImmersaDesk2 in the &ldquo;Guerilla VR&rdquo; venue at the&hellip; <a href='/entry.php?id=334'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=333'><img src='/resizedImages/500x280-crop-iptlogo.jpg' alt='' title='2nd International Immersive Projection Technology Workshop' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=333'>2nd International Immersive Projection Technology Workshop</a></strong><br>
+			<a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=78'>Marek Czernuszenko</a><br>
+			May 11, 1998 - May 12, 1998<br><br>
+			Marek Czernuszenko presented a research paper: &ldquo;Line of Sight Method for Tracker Calibration in Projection-Based VR Systems&rdquo;, documenting&hellip; <a href='/entry.php?id=333'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=332'><img src='/resizedImages/500x280-crop-alliance98.jpg' alt='' title='Alliance &rsquo;98' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=332'>Alliance &rsquo;98</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=111'>Gary Lindahl</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=74'>Jim Costigan</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, <a href='/entry.php?id=73'>Tom Coffin</a>, Carlos Orrego, Dave Pape, Josephine Anstey, Javier Girado, Abhinav Kapoor, Kyoung Park<br>
+			April 27, 1998 - April 30, 1998<br><br>
+			The National Computational Science Alliance (Alliance) is a partnership among computational scientists, computer scientists, and professionals in&hellip; <a href='/entry.php?id=332'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=379'><img src='/resizedImages/500x280-crop-daughters.gif' alt='' title='UIC&rsquo;S 6th Annual Daughters at Work Day' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=379'>UIC&rsquo;S 6th Annual Daughters at Work Day</a></strong><br>
+			<a href='/entry.php?id=86'>Margaret Dolinsky</a>, EVL faculty, staff, and students<br>
+			April 23, 1998<br><br>
+			EVL is participating in the Sixth Annual UIC Daughters at Work Day organized by The Office of Women&rsquo;s Affairs, Thursday, April 23. Sixteen&hellip; <a href='/entry.php?id=379'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=380'><img src='/resizedImages/500x280-crop-vd.jpg' alt='' title='EVL at Internet2 Spring Meeting &rsquo;98' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=380'>EVL at Internet2 Spring Meeting &rsquo;98</a></strong><br>
+			<a href='/entry.php?id=23'>Alan Verlo</a>, <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=96'>Maggie Hallam</a>, <a href='/entry.php?id=129'>Maggie Rawlings</a>, Dave Pape, Jim Costigan, Tom Frisch, Fang Wang, Abhinav Kapoor<br>
+			April 16, 1998<br><br>
+			Demonstrations of advanced Internet applications hosted by Internet2 and Highway 1 on April 16 will be a highlight of the University Corporation for&hellip; <a href='/entry.php?id=380'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=331'><img src='/resizedImages/500x280-crop-merc.jpg' alt='' title='Internet2 - Advanced Applications Demonstrations' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=331'>Internet2 - Advanced Applications Demonstrations</a></strong><br>
+			<a href='/entry.php?id=106'>Abhinav Kapoor</a>, <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=149'>Fang Wang</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=145'>Marcus Thiebaux</a>, <a href='/entry.php?id=103'>Tomoko Imai</a>, Alan Verlo, Maggie Rawlings, Tom DeFanti, Maxine Brown<br>
+			April 14, 1998 - April 17, 1998<br><br>
+			Demonstrations of advanced Internet applications hosted by Internet2 and Highway 1 were the highlight of the University Corporation for Advanced&hellip; <a href='/entry.php?id=331'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=330'><img src='/resizedImages/500x280-crop-crayola.jpg' alt='' title='Electronic Fields' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=330'>Electronic Fields</a></strong><br>
+			<a href='/entry.php?id=5'>Dana M. Plepys</a>, <a href='/entry.php?id=51'>Dave Pape</a>, <a href='/entry.php?id=113'>Deb Lowman (1966-2018)</a>, <a href='/entry.php?id=65'>Joseph Alexander</a>, <a href='/entry.php?id=12'>Josephine Anstey</a>, <a href='/entry.php?id=86'>Margaret Dolinsky</a>, <a href='/entry.php?id=31'>Ralph De Stefano</a>, <a href='/entry.php?id=89'>Tom Frisch</a><br>
+			April 1, 1998 - May 29, 1998<br><br>
+			The Illinois Art Gallery at 100 West Randolph, Chicago presented Electronic Fields. The exhibition was curated by Jane Stevens (IAG) and Dana Plepys&hellip; <a href='/entry.php?id=330'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=329'><img src='/resizedImages/500x280-crop-mediartech.gif' alt='' title='Mediartech 98' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=329'>Mediartech 98</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=51'>Dave Pape</a><br>
+			March 23, 1998 - March 29, 1998<br><br>
+			Mediartech 1998 Digital Renaissance Show featured Electronic Visualization Laboratory (EVL) virtual reality applications showcased on an ImmersaDesk&hellip; <a href='/entry.php?id=329'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=378'><img src='/resizedImages/500x280-crop-internet2_logo_new.jpg' alt='' title='DeFanti Heads Internet2 Applications Council' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=378'>DeFanti Heads Internet2 Applications Council</a></strong><br>
+			<a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			March 11, 1998<br><br>
+			EVL&rsquo;s involvement with the next generation of the internet, which began with work on the I-WAY at Supercomputing 95, continues with Tom DeFanti&hellip; <a href='/entry.php?id=378'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=377'><img src='/resizedImages/500x280-crop-giiawards.gif' alt='' title='The N.I.C.E. Project Named As Finalist for GII Awards' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=377'>The N.I.C.E. Project Named As Finalist for GII Awards</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=146'>Christina Vasilakis</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=134'>Maria Roussou</a>, <a href='/entry.php?id=16'>Tom Moher</a><br>
+			February 1, 1998<br><br>
+			The N.I.C.E. Project is a finalist in the Global Information Infrastructure (GII) Awards. &ldquo;A cross between the Oscars and the Baldridge Awards&hellip; <a href='/entry.php?id=377'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=376'><img src='/resizedImages/500x280-crop-mca.gif' alt='' title='Sandin Conducts VR Workshop for MCA' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=376'>Sandin Conducts VR Workshop for MCA</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a><br>
+			January 31, 1998<br><br>
+			Experience a hands-on introduction to virtual reality at UIC&rsquo;s Electronic Visualization Laboratory, CAVE. The presentation by instructor, Dan&hellip; <a href='/entry.php?id=376'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=375'><img src='/resizedImages/500x280-crop-durbin.jpg' alt='' title='Technology Leadership Workshop' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=375'>Technology Leadership Workshop</a></strong><br>
+			<a href='/entry.php?id=5'>Dana M. Plepys</a>, EVL faculty, staff, and students<br>
+			January 10, 1998<br><br>
+			EVL will host U.S. Senator Dick Durbin and members of the Illinois Congressional Delegation at UIC on Saturday, January 10, 1998. CAVE and&hellip; <a href='/entry.php?id=375'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=373'><img src='/resizedImages/500x280-crop-idesk2.jpg' alt='' title='ImmersaDesk2 Commercialized' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=373'>ImmersaDesk2 Commercialized</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			January 1, 1998<br><br>
+			The ImmersaDesk2, designed and developed at EVL, is a roadworthy (air cargo qualified) version of the ImmersaDesk. With the press of a button, this&hellip; <a href='/entry.php?id=373'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=374'><img src='/resizedImages/500x280-crop-ntii.jpg' alt='' title='National Tele-Immersion Initiative' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=374'>National Tele-Immersion Initiative</a></strong><br>
+			<a href='/entry.php?id=6'>Thomas A. DeFanti</a>, EVL faculty, staff, and students<br>
+			January 1, 1998<br><br>
+			EVL as part of the Tele-Immersion initiative led by Jaron Lanier and Advanced Network &amp; Services (ANS) is focusing upon allowing users in&hellip; <a href='/entry.php?id=374'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<!-- End List List -->
+	</table>
+</div>
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Year:</strong>
+		<a href='/list.php?id=3&amp;year=2020'>2020</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2019'>2019</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2018'>2018</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2017'>2017</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2016'>2016</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2015'>2015</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2014'>2014</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2013'>2013</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2012'>2012</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2011'>2011</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2010'>2010</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2009'>2009</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2008'>2008</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2007'>2007</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2006'>2006</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2005'>2005</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2004'>2004</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2003'>2003</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2002'>2002</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2001'>2001</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2000'>2000</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1999'>1999</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1998'><strong>1998</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1997'>1997</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1996'>1996</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1995'>1995</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1994'>1994</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1993'>1993</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1992'>1992</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1987'>1987</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1979'>1979</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1976'>1976</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1975'>1975</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1974'>1974</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1973'>1973</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<!-- End List -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

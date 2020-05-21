@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin List -->
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Year:</strong>
+		<a href='/list.php?id=4&amp;year=2020'>2020</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2019'>2019</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2018'>2018</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2017'>2017</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2016'>2016</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2015'>2015</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2014'>2014</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2013'>2013</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2012'>2012</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2011'>2011</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2010'>2010</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2009'>2009</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2008'>2008</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2007'>2007</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2006'>2006</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2005'>2005</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2004'>2004</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2003'>2003</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2002'><strong>2002</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2001'>2001</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2000'>2000</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1999'>1999</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1998'>1998</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1997'>1997</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1996'>1996</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1995'>1995</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1994'>1994</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1993'>1993</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1992'>1992</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1991'>1991</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1990'>1990</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1989'>1989</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1987'>1987</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1985'>1985</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1984'>1984</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1977'>1977</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1976'>1976</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<div id='list_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin List List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1356'><img src='/resizedImages/500x280-crop-wiggleview_agu2002.jpg' alt='' title='WiggleView : Visualizing Large Seismic Datasets' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=166'>Nayak, A.</a>, <a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, Russo, R., Morin, P., Laughbon, C., <a href='/entry.php?id=38'>Ahern T.</a><br>
+			<strong><a href='/entry.php?id=1356'>WiggleView : Visualizing Large Seismic Datasets</a></strong><br>
+			<em>American Geophysical Union, Eos Trans. <em>AGU, 83(47), Fall Meet. Suppl., Abstract U61A-0007</em></em>, San Francisco, California<br>
+			December 6, 2002<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1421'><img src='/resizedImages/500x280-crop-optiputer_logo-4.gif' alt='' title='Teleimmersion and Visualization with the OptIPuter' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=6'>DeFanti, T.</a>, <a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=178'>Brown, M.</a>, <a href='/entry.php?id=7'>Sandin, D.</a>, Yu, O., <a href='/entry.php?id=170'>Zhang, C.</a>, <a href='/entry.php?id=183'>Singh, R.</a>, <a href='/entry.php?id=38'>He, E.</a>, <a href='/entry.php?id=212'>Alimohideen, J.</a>, <a href='/entry.php?id=44'>Krishnaprasad, N.</a>, <a href='/entry.php?id=237'>Grossman, R.</a>, Mazzucco, M., Smarr, L., Ellisman, M., Papadopoulos, A., Chien, A., Orcutt, J.<br>
+			<strong><a href='/entry.php?id=1421'>Teleimmersion and Visualization with the OptIPuter</a></strong><br>
+			<em>Proceedings of the 12th International Conference on Artificial Reality and Telexistence (ICAT 2002)</em>, The University of Tokyo, Japan<br>
+			December 3, 2002<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1357'><img src='/misc/default_500x280.png' alt='' title='Panels, Tools and Views: A Framework for Visual Programming' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=168'>Spale, A.</a><br>
+			<strong><a href='/entry.php?id=1357'>Panels, Tools and Views: A Framework for Visual Programming</a></strong><br>
+			<em>Master of Science in Computer Science, University of Illinois at Chicago</em><br>
+			December 1, 2002<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1350'><img src='/resizedImages/500x280-crop-continuum_new.jpg' alt='' title='Amplified Collaboration Environments' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=52'>Park, K.</a>, <a href='/entry.php?id=166'>Nayak, A.</a>, <a href='/entry.php?id=183'>Singh, R.</a>, <a href='/entry.php?id=30'>Chowdhry, V.</a>, <a href='/entry.php?id=6'>DeFanti, T.</a><br>
+			<strong><a href='/entry.php?id=1350'>Amplified Collaboration Environments</a></strong><br>
+			<em>VizGrid Symposium</em>, Tokyo, Japan<br>
+			November 1, 2002<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1360'><img src='/resizedImages/500x280-crop-teravision-2.jpg' alt='' title='TeraVision: a High Resolution Graphics Streaming Device for Amplified Collaboration Environments' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=6'>DeFanti, T.</a>, <a href='/entry.php?id=183'>Singh, R.</a>, Karayannis, F.<br>
+			<strong><a href='/entry.php?id=1360'>TeraVision: a High Resolution Graphics Streaming Device for Amplified Collaboration Environments</a></strong><br>
+			<em>Future Generation Computer Systems 1008 (2003)</em><br>
+			November 1, 2002<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1358'><img src='/resizedImages/500x280-crop-gsa_logo1.gif' alt='' title='Benefits And Implications Of Using Stereo Projection In Earth Science Classrooms' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			Kirkby, K., Morin, P., Finley, F., Brandt, J., Burdick, R., <a href='/entry.php?id=166'>Nayak, A.</a><br>
+			<strong><a href='/entry.php?id=1358'>Benefits And Implications Of Using Stereo Projection In Earth Science Classrooms</a></strong><br>
+			<em>The Geological Society Of America, 2002 Denver Annual Meeting</em>, Denver, CO, pp. Paper #43077<br>
+			October 27, 2002<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1343'><img src='/resizedImages/500x280-crop-igrid2002.jpg' alt='' title='iGrid2002 The International Virtual Laboratory' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=178'>Brown, M.</a><br>
+			<strong><a href='/entry.php?id=1343'>iGrid2002 The International Virtual Laboratory</a></strong><br>
+			<em>Proceedings of iGrid2002</em>, Amsterdam, The Netherlands<br>
+			September 23, 2002<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1382'><img src='/resizedImages/500x280-crop-griz_pic.jpg' alt='' title='Griz: Experience with Remote Visualization over an Optical Grid' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=192'>Renambot, L.</a>, van der Schaaf, T., Bal, H., <a href='/entry.php?id=163'>Germans, D.</a>, Spoelder, H.J.W.<br>
+			<strong><a href='/entry.php?id=1382'>Griz: Experience with Remote Visualization over an Optical Grid</a></strong><br>
+			<em>Journal of Future Generation Computer Systems (FGCS)</em>, Elsevier Science Press, Volume 19, Issue 6, August 2003, pp. 871-882<br>
+			September 23, 2002<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1334'><img src='/resizedImages/500x280-crop-anrlogo-3.jpg' alt='' title='Reliable Blast UDP : Predictable High Performance Bulk Data Transfer' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=38'>He, E.</a>, <a href='/entry.php?id=21'>Leigh, J.</a>, Yu, O., <a href='/entry.php?id=6'>DeFanti T. A.</a><br>
+			<strong><a href='/entry.php?id=1334'>Reliable Blast UDP : Predictable High Performance Bulk Data Transfer</a></strong><br>
+			<em>IEEE Cluster Computing 2002</em>, Chicago, IL<br>
+			September 1, 2002<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1338'><img src='/misc/default_500x280.png' alt='' title='Object-Oriented Framework for Adaptation in a DFS' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			Kumar, A., <a href='/entry.php?id=38'>Theys, M. D.</a><br>
+			<strong><a href='/entry.php?id=1338'>Object-Oriented Framework for Adaptation in a DFS</a></strong><br>
+			<em>Proceedings of SPIE - Java / Jini Technologies and High-Performance Pervasive Computing</em>, pp. 99-108<br>
+			August 1, 2002<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1335'><img src='/resizedImages/500x280-crop-dan4-small.jpg' alt='' title='Alive on the Grid' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=51'>Pape, D.</a>, <a href='/entry.php?id=7'>Sandin, D.</a><br>
+			<strong><a href='/entry.php?id=1335'><em>Alive on the Grid</em></a></strong><br>
+			<em>SCI 2002 - 6th World Multiconference on Systemics, Cybernetics and Informatics</em>, vol 12, Orlando, FL, pp. 485-490<br>
+			July 14, 2002<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1337'><img src='/misc/default_500x280.png' alt='' title='Simulation and Comparison of Cost, Priority and FCFS Scheduling Schemes Over an Adaptive Network Model' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=155'>Ramaraju, B.P.</a>, <a href='/entry.php?id=38'>Theys, M.D.</a><br>
+			<strong><a href='/entry.php?id=1337'>Simulation and Comparison of Cost, Priority and FCFS Scheduling Schemes Over an Adaptive Network Model</a></strong><br>
+			<em>2002 International Conference on Parallel and Distributed Processing Techniques and Applications (PDPTA 2002)</em>, pp. 7<br>
+			June 1, 2002<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1351'><img src='/resizedImages/500x280-crop-collaborationfieldkids2.jpg' alt='' title='Collecting Data and Looking for Patterns in a Virtual Field' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=16'>Moher, T.</a>, <a href='/entry.php?id=30'>Cho, Y.</a>, Edelson, D., Reiser, B.<br>
+			<strong><a href='/entry.php?id=1351'>Collecting Data and Looking for Patterns in a Virtual Field</a></strong><br>
+			<em>Proceedings of IEEE VR 2002</em>, Orlando, FL<br>
+			March 24, 2002<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1332'><img src='/misc/default_500x280.png' alt='' title='AccessGrid-to-Go : Providing AccessGrid access on Personal Digital Assistants' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			Thorson, M., <a href='/entry.php?id=21'>Leigh, J.</a>, Maajid,G., <a href='/entry.php?id=52'>Park, K.</a>, <a href='/entry.php?id=166'>Nayak, A.</a>, Salva, P., Berry, S.<br>
+			<strong><a href='/entry.php?id=1332'>AccessGrid-to-Go : Providing AccessGrid access on Personal Digital Assistants</a></strong><br>
+			<em>Access Grid Retreat 2002 Proceedings</em>, La Jolla, CA<br>
+			March 4, 2002<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1333'><img src='/resizedImages/500x280-crop-teravisionstreams.jpg' alt='' title='TeraVision: a Platform and Software Independent Solution for Real Time Display Distribution in Advanced Collaborative Environments' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=35'>Girado, J.</a>, <a href='/entry.php?id=183'>Singh, R.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=52'>Park, K.</a>, <a href='/entry.php?id=6'>DeFanti, T. A.</a><br>
+			<strong><a href='/entry.php?id=1333'>TeraVision: a Platform and Software Independent Solution for Real Time Display Distribution in Advanced Collaborative Environments</a></strong><br>
+			<em>Access Grid Retreat 2002 Proceedings</em>, La Jolla, CA<br>
+			March 4, 2002<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1342'><img src='/resizedImages/500x280-crop-janet_g2006.jpg' alt='' title='Augmenting Elementary School Education with VR' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=16'>Moher, T.</a>, <a href='/entry.php?id=30'>Cho, Y.</a>, <a href='/entry.php?id=287'>Lin, Y.</a>, <a href='/entry.php?id=171'>Haas, D.</a>, <a href='/entry.php?id=172'>Kim, J.</a><br>
+			<strong><a href='/entry.php?id=1342'>Augmenting Elementary School Education with VR</a></strong><br>
+			<em>IEEE Computer Graphics and Applications</em>, vol 22, no 2, pp. 6-9, M. Macedonia|L. Rosenblum<br>
+			March 1, 2002<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1401'><img src='/misc/default_500x280.png' alt='' title='An Approach for Facilitating Service Management in Networked Virtual Manufacturing Environments' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			Gierach, K., <a href='/entry.php?id=22'>Thompson, D.</a>, Banerjee, P.<br>
+			<strong><a href='/entry.php?id=1401'>An Approach for Facilitating Service Management in Networked Virtual Manufacturing Environments</a></strong><br>
+			<em>Robotics and Computer-Integrated Manufacturing (Product and Process Design), vol. 18, no. 2, 2002, pp. 147-156</em><br>
+			February 1, 2002<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1330'><img src='/resizedImages/500x280-crop-lowcostvr.png' alt='' title='A Low-Cost Projection Based Virtual Reality Display' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=51'>Pape, D.</a>, <a href='/entry.php?id=12'>Anstey, J.</a>, <a href='/entry.php?id=20'>Dawe, G.</a><br>
+			<strong><a href='/entry.php?id=1330'>A Low-Cost Projection Based Virtual Reality Display</a></strong><br>
+			<em>The Engineering Reality of Virtual Reality 2002 SPIE Electronic Imaging: Science and Technology 2002</em>, San Jose, CA<br>
+			January 24, 2002<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1339'><img src='/resizedImages/500x280-crop-cscl2002_06.jpg' alt='' title='A Two-Tiered Collaborative Design for Observational Science Activities in Simulated Environments' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=16'>Moher, T.</a>, <a href='/entry.php?id=172'>J. Kim</a>, <a href='/entry.php?id=171'>D. Haas</a><br>
+			<strong><a href='/entry.php?id=1339'>A Two-Tiered Collaborative Design for Observational Science Activities in Simulated Environments</a></strong><br>
+			<em>Computer Support for Collaborative Learning (CSCL) 2002</em>, Boulder, Colorado, pp. 361-370<br>
+			January 7, 2002<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1403'><img src='/misc/default_500x280.png' alt='' title='Motion Modeling Concepts in Virtual Manufacturing Simulator' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			Tesic, R., Banerjee, P.<br>
+			<strong><a href='/entry.php?id=1403'>Motion Modeling Concepts in Virtual Manufacturing Simulator</a></strong><br>
+			<em>International Journal of Advanced Manufacturing Systems</em>, vol 1, no 1, pp. 37-50<br>
+			January 1, 2002<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1406'><img src='/misc/default_500x280.png' alt='' title='Analyzing the Relationship of Presence and Immersive Tendencies on the Conceptual Design Review Process' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			Banerjee, P., Bochenek, G., Ragusa, J.<br>
+			<strong><a href='/entry.php?id=1406'>Analyzing the Relationship of Presence and Immersive Tendencies on the Conceptual Design Review Process</a></strong><br>
+			<em>ASME Journal of Computing and Information Science in Engineering, vol. 2, no. 1, 2002, pp. 59-64</em><br>
+			January 1, 2002<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1409'><img src='/misc/default_500x280.png' alt='' title='Reconfigurable Driving Platforms in CAVE&reg;' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			Zhou, X., <a href='/entry.php?id=182'>Luciano, C.</a>, Banerjee, P., Knight, J.<br>
+			<strong><a href='/entry.php?id=1409'>Reconfigurable Driving Platforms in CAVE&reg;</a></strong><br>
+			<em>SPIE, Virtual Reality and its Applications in Industry (VRAI)</em>, vol 4756, Bellingham, WA, ISSN 0277-786X, ISBN 0-8194-4519-3<br>
+			January 1, 2002<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1410'><img src='/misc/default_500x280.png' alt='' title='A Supervisory Data-Traffic Controller in Collaborative Virtual Reality Simulations' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			Akgunduz, A., Banerjee, P.<br>
+			<strong><a href='/entry.php?id=1410'>A Supervisory Data-Traffic Controller in Collaborative Virtual Reality Simulations</a></strong><br>
+			<em>ASME IMECE 2002-32470, New Orleans, 2002</em><br>
+			January 1, 2002<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1411'><img src='/misc/default_500x280.png' alt='' title='3D Animation Of Telecollaborative Anthropomorphous Avatars Using High-Performance Real-Time Inverse Kinematics Based On Dual Quaternions' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=182'>Luciano, C.</a>, Banerjee, P., Mehrotra, S.<br>
+			<strong><a href='/entry.php?id=1411'>3D Animation Of Telecollaborative Anthropomorphous Avatars Using High-Performance Real-Time Inverse Kinematics Based On Dual Quaternions</a></strong><br>
+			<em>Proceedings of Japan-USA Symposium on Flexible Automation, 2002</em><br>
+			January 1, 2002<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1412'><img src='/misc/default_500x280.png' alt='' title='Tendencies And Market Perspective In The Virtual Reality And Visual Simulation Area' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			Netto, A.V., Banerjee, P.<br>
+			<strong><a href='/entry.php?id=1412'>Tendencies And Market Perspective In The Virtual Reality And Visual Simulation Area</a></strong><br>
+			<em>Proc. SVR Conf., Brazil, 2002.</em><br>
+			January 1, 2002<br>
+		</div>
+	</td>
+</tr>
+<!-- End List List -->
+	</table>
+</div>
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Year:</strong>
+		<a href='/list.php?id=4&amp;year=2020'>2020</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2019'>2019</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2018'>2018</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2017'>2017</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2016'>2016</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2015'>2015</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2014'>2014</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2013'>2013</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2012'>2012</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2011'>2011</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2010'>2010</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2009'>2009</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2008'>2008</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2007'>2007</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2006'>2006</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2005'>2005</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2004'>2004</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2003'>2003</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2002'><strong>2002</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2001'>2001</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2000'>2000</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1999'>1999</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1998'>1998</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1997'>1997</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1996'>1996</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1995'>1995</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1994'>1994</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1993'>1993</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1992'>1992</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1991'>1991</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1990'>1990</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1989'>1989</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1987'>1987</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1985'>1985</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1984'>1984</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1977'>1977</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1976'>1976</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<!-- End List -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

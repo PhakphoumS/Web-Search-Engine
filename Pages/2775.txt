@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Entry -->
+<table id='entry_area' class='fixedTable'>
+	<tr>
+		<td style='width:676px;'>
+			<div id='entry_info'>
+<!-- Begin Entry Info -->
+<h3>GeoWall 2</h3><br>
+<div class='entry_content'>
+	<strong>Researchers:</strong> <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=169'>Shalini Venkataraman</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br><br>
+	<strong>URL:</strong> <a href='http://www.evl.uic.edu/cavern/optiputer/geowall2.html' target='_blank'>http://www.evl.uic.edu/cavern/optiputer/geowall2.html</a><br><br>
+	<strong>Funding:</strong> NSF<br><br>
+<!-- Begin Entry Description -->
+The first generation of the GeoWall was targeted at providing affordable 3D stereoscopic visualization of small- to modest-sized Geoscience datasets. Continuing the trend to take advantage of the commodity computing, GeoWall2 is designed to cost-effectively serve Geoscience applications that require greater display resolution and visualization capacity.<br><br>
+
+The full GeoWall2 consists of 15 LCD panels tiled in a 5x3 array comprising a total resolution of 8000x3600 pixels. Each LCD panel is driven by a single PC with a high-end graphics card such as Nvidia&rsquo;s Quadro FX3000, at least 250GBytes of disk space, 2.5-3GHz CPU, and Gigabit Ethernet networking. GeoWall2 is scalable in that smaller or even larger versions can be built by adjusting the number of LCDs and computers. Furthermore GeoWall2 is backwards compatible with the original GeoWall in that the combined graphics capability of the computing cluster can be used to generate stereoscopic visualizations.<br><br>
+
+Applications of GeoWall2 include the visualization of large remote sensing, volume rendering imagery, mapping, seismic interpretation, museum exhibits and other applications that require a large collaborative screen area.<br><br>
+
+GeoWall2 was developed with support from the National Science Foundation.<br><br>
+<!-- End Entry Description -->
+	<strong>Email:</strong> <a href='mailto:spiff@evl.uic.edu'>spiff@evl.uic.edu</a><br><br>
+	<strong>Date:</strong> January 1, 2002 - September 30, 2007
+</div>
+<!-- End Entry Info -->
+			</div>
+		</td>
+		<td style='width:374px;'>
+			<div id='entry_sidebar'>
+<!-- Begin Entry Sidebar -->
+<div id='entry_image_small'>
+	<img style='left:0; ' src='/resizedImages/350x622-geowall2_istrip4.gif' alt='' title='GeoWall 2' width='350' height='302'>
+</div>
+<span class='smallText'>The GeoWall2 TileDisplay - L. Renambot, EVL</span><br><br>
+<div class='entry_content'>
+	<h3>Related Entries</h3>
+	<strong>Directory:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=6'>Thomas A. DeFanti</a></li>
+		<li><a href='/entry.php?id=10'>Andrew Johnson</a></li>
+		<li><a href='/entry.php?id=20'>Greg Dawe</a></li>
+		<li><a href='/entry.php?id=169'>Shalini Venkataraman</a></li>
+		<li><a href='/entry.php?id=192'>Luc Renambot</a></li>
+		<li><a href='/related.php?id=1863&amp;related=2'><strong>View more&hellip;</strong></a></li>
+	</ul><br>
+	<strong>Events:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=878'>UIC Technology Aids Obama Inaugural Security</a></li>
+		<li><a href='/entry.php?id=873'>OptIPortal Facilitates Logistics &amp; Security Planning for Inauguration</a></li>
+		<li><a href='/entry.php?id=835'>Geowall Technology Used to Analyze Flood Data in Iowa</a></li>
+		<li><a href='/entry.php?id=808'>Photos of Mercury from NASA&rsquo;s MESSENGER Shown on EVL&rsquo;s Tile Display at Adler Planetarium</a></li>
+		<li><a href='/entry.php?id=773'>EVL Director Discusses Advanced Techniques In LSU Center For Computation &amp; Technology Distinguished Lecture</a></li>
+		<li><a href='/related.php?id=1863&amp;related=3'><strong>View more&hellip;</strong></a></li>
+	</ul><br>
+	<strong>Papers:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=1573'>Advances in Computer Displays (chapter)</a></li>
+		<li><a href='/entry.php?id=1473'>GeoWall: Stereoscopic Visualization for Geoscience Research and Education</a></li>
+		<li><a href='/entry.php?id=1486'>Tangible User Interface Testing on the LambdaTable: A High Resolution Tiled LCD Tabletop</a></li>
+		<li><a href='/entry.php?id=1433'>Scalable Graphics Architecture for High-Resolution Displays</a></li>
+		<li><a href='/entry.php?id=1485'>Lambda Table: High Resolution Tiled Display Table for Interacting with Large Visualizations</a></li>
+		<li><a href='/related.php?id=1863&amp;related=4'><strong>View more&hellip;</strong></a></li>
+	</ul><br>
+	<strong>Research:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=1889'>GeoWall2 for Informal Science Education in Museums</a></li>
+		<li><a href='/entry.php?id=1897'>Electro</a></li>
+		<li><a href='/entry.php?id=1882'>SAGE: Scalable Adaptive Graphics Environment</a></li>
+		<li><a href='/entry.php?id=1839'>The OptIPuter</a></li>
+		<li><a href='/entry.php?id=2053'>Effective Use of Large Visualization Displays</a></li>
+		<li><a href='/related.php?id=1863&amp;related=5'><strong>View more&hellip;</strong></a></li>
+	</ul><br>
+	<h3>Related Categories</h3>
+	<ul>
+		<li><a href='/category.php?id=9&amp;related=5'>Devices</a></li>
+		<li><a href='/category.php?id=24&amp;related=5'>User Groups</a></li>
+	</ul>
+</div>
+<!-- End Entry Sidebar-->
+			</div>
+		</td>
+	</tr>
+</table>
+<!-- End Entry -->
+<script>
+	// Making both divs the same height is much easier in JavaScript
+	var entryInfo = document.getElementById("entry_info");
+	var entrySidebar = document.getElementById("entry_sidebar");
+	
+	if (entryInfo && entrySidebar) {
+		var maxHeight = Math.max(entryInfo.offsetHeight, entrySidebar.offsetHeight)-20;
+		entryInfo.style.height = maxHeight+"px";
+		entrySidebar.style.height = maxHeight+"px";
+	}
+</script>
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

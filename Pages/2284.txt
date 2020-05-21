@@ -1,0 +1,372 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+  <title>Shannon N. Zenk, PhD, MPH, RN | Institute for Health Research and Policy | University of Illinois at Chicago</title>
+
+  <meta name="verify-v1" content="M3D7RktfZuClXLKtfBxpnsbmXcHxs+8um0cJ6n3SKFE=" />
+<meta name="description" content="Dr. Zenk is an associate professor of health systems science in the UIC College of Nursing and an IHRP Fellow." />
+
+  
+  <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/researcher/shannon-n-zenk-rn-mph-msn-phd" />
+<link rel="shortlink" href="/node/1342" />
+<link rel="shortcut icon" href="https://www.ihrp.uic.edu/files/favicon.ico" type="image/vnd.microsoft.icon" />
+  <style>
+@import url("https://www.ihrp.uic.edu/modules/system/system.base.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/system/system.messages.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/system/system.theme.css?q8vwl2");
+</style>
+<style>
+@import url("https://www.ihrp.uic.edu/modules/aggregator/aggregator.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/comment/comment.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/date/date_api/date.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/field/theme/field.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/node/node.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/search/search.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/modules/user/user.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/views/css/views.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/ckeditor/css/ckeditor.css?q8vwl2");
+</style>
+<style>
+@import url("https://www.ihrp.uic.edu/sites/all/modules/ctools/css/ctools.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/forward/forward.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/print/print_ui/css/print_ui.theme.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/css/nice_menus.css?q8vwl2");
+</style>
+<style>
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/tabs.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/print.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/style.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/zen.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/html-elements.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/ihrp_menu.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/ihrp_researcher.css?q8vwl2");
+@import url("https://www.ihrp.uic.edu/sites/all/themes/ihrp/css/ihrp_study.css?q8vwl2");
+</style>
+  
+    <link rel="stylesheet" href="/sites/all/themes/ihrp/css/ihrp_main.css" type="text/css"/>
+  
+
+
+  <!--[if IE]>
+    <link rel="stylesheet" href="sites/all/themes/ihrp/css/ie.css" type="text/css"/>
+   
+    <style type="text/css">
+      /* place css fixes for all versions of IE in this conditional comment */
+      .thrColFixHdr #sidebar2, .thrColFixHdr #sidebar1 { padding-top: 30px; }
+      .thrColFixHdr #mainContent { zoom: 1; }
+      /* the above proprietary zoom property gives IE the hasLayout it needs to avoid several bugs */
+    </style>
+  <![endif]-->
+
+  <!--[if IE 5]>
+    <style type="text/css">
+      /* place css box model fixes for IE 5* in this conditional comment */
+      .thrColFixHdr #sidebar1 { width: 180px; }
+      .thrColFixHdr #sidebar2 { width: 190px; }
+    </style>
+  <![endif]-->
+
+  <script src="https://www.ihrp.uic.edu/misc/jquery.js?v=1.4.4"></script>
+<script src="https://www.ihrp.uic.edu/misc/jquery-extend-3.4.0.js?v=1.4.4"></script>
+<script src="https://www.ihrp.uic.edu/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.ihrp.uic.edu/misc/drupal.js?q8vwl2"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/js/jquery.bgiframe.js?v=2.1"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/js/jquery.hoverIntent.js?v=0.5"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/js/superfish.js?v=1.4.8"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/mimedetect/nice_menus/js/nice_menus.js?v=1.0"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/google_analytics/googleanalytics.js?q8vwl2"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-4417342-1", {"cookieDomain":"auto"});ga("send", "pageview");</script>
+<script src="https://www.ihrp.uic.edu/sites/all/modules/field_group/field_group.js?q8vwl2"></script>
+<script src="https://www.ihrp.uic.edu/sites/all/themes/ihrp/js/script.js?q8vwl2"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"ihrp","theme_token":"H1ckV4DLwOHv1hWZZYKlYNvIgSWi9VgFhoXrZRcJ1rQ","js":{"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/mimedetect\/nice_menus\/js\/jquery.bgiframe.js":1,"sites\/all\/modules\/mimedetect\/nice_menus\/js\/jquery.hoverIntent.js":1,"sites\/all\/modules\/mimedetect\/nice_menus\/js\/superfish.js":1,"sites\/all\/modules\/mimedetect\/nice_menus\/js\/nice_menus.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/field_group\/field_group.js":1,"sites\/all\/themes\/ihrp\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/forward\/forward.css":1,"sites\/all\/modules\/print\/print_ui\/css\/print_ui.theme.css":1,"sites\/all\/modules\/mimedetect\/nice_menus\/css\/nice_menus.css":1,"sites\/all\/themes\/zen\/ihrp\/ihrp_menu.css":1,"sites\/all\/themes\/ihrp\/system.menus.css":1,"sites\/all\/themes\/ihrp\/css\/tabs.css":1,"sites\/all\/themes\/ihrp\/css\/print.css":1,"sites\/all\/themes\/ihrp\/css\/style.css":1,"sites\/all\/themes\/ihrp\/css\/zen.css":1,"sites\/all\/themes\/ihrp\/css\/html-elements.css":1,"sites\/all\/themes\/ihrp\/css\/ihrp_menu.css":1,"sites\/all\/themes\/ihrp\/css\/ihrp_researcher.css":1,"sites\/all\/themes\/ihrp\/css\/ihrp_study.css":1}},"nice_menus_options":{"delay":"0","speed":"fast"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/researcher\/shannon-n-zenk-rn-mph-msn-phd":true},"field_group":{"no_style":"full","fieldset":"full"}});</script>
+</head>
+
+<body class="thrColFixHdr html not-front not-logged-in no-sidebars page-node page-node- page-node-1342 node-type-researcher section-researcher not-front not-logged-in page-node page-node- page-node-1342 node-type-researcher 
+ not-logged-in not-front type-researcher">
+
+  
+  <div id="page"><div id="page-inner">
+    <a name="top" id="navigation-top"></a>
+    <div role="banner" id="header"><div id="header-inner" class="clear-block" role="navigation" aria-label="Top Menu">
+      <a href="/"><img src="/sites/all/themes/ihrp/images/IHRP_Logo.png" alt="Institute for Health Research and Policy" title="I H R P home page" /></a>
+
+      <!-- the following is the code for the little blue top menu  -->
+      <span class="littleBlueMenu">
+        <a href="/people/list">People</a>
+        <a href="/content/contact-us">Contact Us</a>
+         
+            <a href="/print/1342">Print this page</a>		        <a href="/forward/?path=node/1342">E-mail to a Colleague</a>		          </span>
+      
+	             <div id="primary">
+        </div> <!-- /#primary -->
+      
+      
+    </div></div> <!-- /#header-inner, /#header -->
+
+    <div role="main" id="main"><div id="main-inner" class="clear-block with-navbar">
+      <div id="content"><div id="content-inner">
+                  <div id="search-box">
+              <div class="region region-search-form">
+    <div id="block-search-form" class="block block-search first last odd" role="search">
+
+      
+  <form action="/researcher/shannon-n-zenk-rn-mph-msn-phd" method="post" id="search-block-form" accept-charset="UTF-8"><div>
+<div class="container-inline">
+  <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-hm5Vn0N2jX54UNLE-oaIXm24WzAufIRfxsCliOGKBTE" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+</div>
+  </div>
+          </div> <!-- /#search-box -->
+                          <div id="content-top">
+              <div class="region region-content-top">
+    <div id="block-nice-menus-1" class="block block-nice-menus first last odd">
+
+        <h2 class="block__title block-title"><span class="nice-menu-hide-title">Main menu</span></h2>
+    
+  <ul class="nice-menu nice-menu-down nice-menu-main-menu" id="nice-menu-1"><li class="menu__item menu-11518 menuparent  menu-path-node-4984 first odd "><a href="/content/institute-welcome-intro" title="" class="menu__link">About</a><ul><li class="menu__item menu-11516 menu-path-node-4984 first odd "><a href="/content/institute-welcome-intro" class="menu__link">Welcome</a></li>
+<li class="menu__item menu-11514 menu-path-node-4983  even "><a href="/content/about-mission-social-health-sciences-research" class="menu__link">Mission</a></li>
+<li class="menu__item menu-11524 menu-path-node-4996  odd "><a href="/content/admin-IHRP-snapshot" class="menu__link">IHRP Snapshot</a></li>
+<li class="menu__item menu-7001 menu-path-node-2873  even "><a href="/content/about-our-fellows-affiliates" class="menu__link">Fellows &amp; Affiliates</a></li>
+<li class="menu__item menu-2114 menu-path-node-1357  odd "><a href="/content/employment-ihrp" class="menu__link">Jobs</a></li>
+<li class="menu__item menu-11585 menu-path-node-5034  even last"><a href="/content/media-professionals" class="menu__link">For Media Professionals</a></li>
+</ul></li>
+<li class="menu__item menu-11523 menuparent  menu-path-node-5036  even "><a href="/content/about-advantages-UIC-researchers" title="" class="menu__link">Why IHRP? </a><ul><li class="menu__item menu-11588 menu-path-node-5036 first odd "><a href="/content/about-advantages-UIC-researchers" title="" class="menu__link">Advantages</a></li>
+<li class="menu__item menu-11521 menu-path-node-18  even "><a href="/content/why-ihrp-research-faqs" class="menu__link">FAQs</a></li>
+<li class="menu__item menu-11515 menu-path-node-4982  odd last"><a href="/content/learn-more-join-us" class="menu__link">Affiliate with IHRP</a></li>
+</ul></li>
+<li class="menu__item menu-11533 menuparent  menu-path-node-5027  odd "><a href="/content/scientific-resources-intro" class="menu__link">Scientific Resources</a><ul><li class="menu__item menu-11582 menu-path-node-5027 first odd "><a href="/content/scientific-resources-intro" title="" class="menu__link">Overview</a></li>
+<li class="menu__item menu-11522 menu-path-node-23  even "><a href="/content/institute-leadership" class="menu__link">Leadership</a></li>
+<li class="menu__item menu-11052 menu-path-node-4683  odd "><a href="/center/data-management-core-for-all-UIC-researchers" class="menu__link">Data Management Core</a></li>
+<li class="menu__item menu-2054 menu-path-node-1584  even "><a href="/center/methodology-research-core-for-all-UIC-researchers" class="menu__link">Methodology Research Core</a></li>
+<li class="menu__item menu-2064 menu-path-node-39  odd last"><a href="/content/training-every-stage-research-careers" class="menu__link">Training</a></li>
+</ul></li>
+<li class="menu__item menu-11532 menuparent  menu-path-node-4999  even "><a href="/content/admin-resources-intro" title="" class="menu__link">Administrative Resources</a><ul><li class="menu__item menu-11531 menu-path-node-4999 first odd "><a href="/content/admin-resources-intro" class="menu__link">Overview</a></li>
+<li class="menu__item menu-11584 menu-path-node-4979  even "><a href="/content/admin-grants-finance" class="menu__link">Grants &amp; Finance</a></li>
+<li class="menu__item menu-11507 menu-path-node-4978  odd "><a href="/content/admin-human-resources-team" class="menu__link">Human Resources</a></li>
+<li class="menu__item menu-11505 menu-path-node-4977  even "><a href="/content/admin-computing-environment" class="menu__link">Data Tech and Security</a></li>
+<li class="menu__item menu-11508 menu-path-node-4825  odd "><a href="/content/admin-communications" class="menu__link">Communications</a></li>
+<li class="menu__item menu-11511 menu-path-node-4980  even last"><a href="/content/resources-facilities" class="menu__link">Facilities</a></li>
+</ul></li>
+<li class="menu__item menu-11535 menuparent  menu-path-node-4803  odd last"><a href="/content/our-research-focus" title="" class="menu__link">Research</a><ul><li class="menu__item menu-11534 menu-path-node-4803 first odd "><a href="/content/our-research-focus" class="menu__link">Scientific Focus</a></li>
+<li class="menu__item menu-2130 menu-path-studies-list-current-all  even "><a href="/studies/list/current/all" title="" class="menu__link">Studies</a></li>
+<li class="menu__item menu-11408 menu-path-researchers-list-all  odd "><a href="/researchers/list/all" title="" class="menu__link">Researchers</a></li>
+<li class="menu__item menu-2030 menuparent  menu-path-node-1563  even "><a href="/content/centers" class="menu__link">Centers</a><ul><li class="menu__item menu-2086 menu-path-node-7 first odd "><a href="/center/center-research-health-and-aging" class="menu__link">Center for Research on Health and Aging</a></li>
+<li class="menu__item menu-2087 menu-path-node-8  even last"><a href="/center/health-policy-center" class="menu__link">Health Policy Center</a></li>
+</ul></li>
+<li class="menu__item menu-11504 menuparent  menu-path-node-4975  odd "><a href="/content/project-websites" class="menu__link">Project Websites</a><ul><li class="menu__item menu-10646 menu-path-gouicedu-asthmaaction first odd "><a href="http://go.uic.edu/AsthmaAction" title="" class="menu__link">Asthma Action</a></li>
+<li class="menu__item menu-2079 menu-path-scecdp-ihrpuicedu-  even "><a href="https://cecdp-ihrp.uic.edu/" title="" class="menu__link">Cancer Education and Career Development Program</a></li>
+<li class="menu__item menu-10737 menu-path-co-opchicagoihrpuicedu-  odd "><a href="http://co-opchicago.ihrp.uic.edu/" title="" class="menu__link">CO-OP Chicago</a></li>
+<li class="menu__item menu-10499 menu-path-fitandstrongorg-  even "><a href="http://fitandstrong.org/" title="" class="menu__link">Fit &amp; Strong!</a></li>
+<li class="menu__item menu-10548 menu-path-node-79  odd "><a href="/center/center-research-health-and-aging/midwest-roybal-center" title="IHRP is the home of the Midwest Roybal Center, funded continuously by the National Institute on Aging since 1998." class="menu__link">Midwest Roybal Center</a></li>
+<li class="menu__item menu-10501 menu-path-tobacconomicsorg-  even last"><a href="http://tobacconomics.org/" title="" class="menu__link">Tobacconomics</a></li>
+</ul></li>
+<li class="menu__item menu-11517 menu-path-news-list  even last"><a href="/news/list" title="" class="menu__link">News</a></li>
+</ul></li>
+</ul>
+
+</div>
+  </div>
+          </div> <!-- /#content-top -->
+        
+        
+		
+		<div id="content-area">
+                      <div class="tabs"></div>
+          
+          
+          							<h1 class="title">Shannon N. Zenk, PhD, MPH, RN</h1>
+			          
+	        
+          
+
+
+
+<div style="position: relative; width: 63%; float: left;">
+
+      <div class="field-field-researcher-photo">
+      <img src="https://www.ihrp.uic.edu/files/researcher_image/Zenk_thmb.jpg" />
+    </div>
+  
+  <h2>
+      Professor of Health Systems Science  </h2>
+
+  <p>
+    <p>Dr. Shannon Zenk is a professor in the <a href="https://www.nursing.uic.edu/about-us/department-health-systems-science">Department of Health Systems Science</a> of the University of Illinois at Chicago College of Nursing and a <a href="/content/about-our-fellows-affiliates">Fellow</a> at the UIC Institute for Health Research and Policy, where she has collaborated on scientific teams since 2004. She is a Fellow of the American Academy of Nursing (FAAN).</p>
+<p>Her research interests center on social determinants of health and health disparities, particularly neighborhood environments. Urban food environments are a major focus of her research. She is involved in community-based participatory research (CBPR) partnerships in Detroit and Chicago.</p>
+<p>Dr. Zenk earned her doctorate in health behavior and health education from the University of Michigan at Ann Arbor, where her predoctoral training was funded by the National Institutes of Health. Her doctoral dissertation focused on neighborhood racial composition, poverty, and food access in metropolitan Detroit using geographic information systems and spatial analysis. She completed postdoctoral training in IHRP&#39;s Cancer Education and Career Development Program, funded by the National Cancer Institute, in 2006.</p>
+  </p>
+
+
+  <p>
+    <h2>Recent and Noteworthy Publications</h2>
+  </p>
+  <p>
+    <p>See a more detailed list of articles by Dr. Shannon Zenk, with links to full-text articles, on <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Zenk+SN+%22University+of+Illinois+at+Chicago%22">this PubMed list</a>.</p>
+<p>Zenk SN, Leider J, Pugach O, Pipito AA, Powell LM. Changes in Beverage Marketing at Stores Following the Oakland Sugar-Sweetened Beverage Tax. Am J Prev Med. 2020 Mar 12. pii: S0749-3797(20)30039-8. doi: 10.1016/j.amepre.2019.12.014.</p>
+<p>Tarlov E, Silva A, Wing C, Slater S, Matthews SA, Jones KK, Zenk SN. Neighborhood Walkability and BMI Change: A National Study of Veterans in Large Urban Areas. Obesity (Silver Spring). 2020 Jan;28(1):46-54. doi: 10.1002/oby.22611.</p>
+<p>Powell LM, Jones K, Duran AC, Tarlov E, Zenk SN. The price of ultra-processed foods and beverages and adult body weight: Evidence from U.S. veterans. Econ Hum Biol. 2019 Aug;34:39-48. doi: 10.1016/j.ehb.2019.05.006.</p>
+<p>Slater SJ, Tarlov E, Jones K, Matthews SA, Wing C, Zenk SN. Would increasing access to recreational places promote healthier weights and a healthier nation? Health Place. 2019 Mar;56:127-134. doi: 10.1016/j.healthplace.2019.01.013.</p>
+<p>Singleton CR, Li Y, Odoms-Young A, Zenk SN, Powell LM. Change in Food and Beverage Availability and Marketing Following the Introduction of a Healthy Food Financing Initiative-Supported Supermarket. Am J Health Promot. 2019 May;33(4):525-533. doi: 10.1177/0890117118801744. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/30282461">See abstract</a>]</p>
+<p>Kershaw KN, Klikuszowian E, Schrader L, et al. Assessment of the influence of food attributes on meal choice selection by socioeconomic status and race/ethnicity among women living in Chicago, USA: A discrete choice experiment [published online ahead of print, 2019 Apr 9]. Appetite. 2019;139:19&ndash;25. doi:10.1016/j.appet.2019.04.003.&nbsp; [<a href="https://www.ncbi.nlm.nih.gov/pubmed/30974181">See abstract</a>]</p>
+<p>Eldeirawi K, Kunzweiler C, Zenk S, et al. Associations of urban greenness with asthma and respiratory symptoms in Mexican American children. Ann Allergy Asthma Immunol. 2019;122(3):289&ndash;295. doi:10.1016/j.anai.2018.12.009. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/30557617">See abstract.</a>]</p>
+<p>Slater SJ, Tarlov E, Jones K, Matthews SA, Wing C, Zenk SN. Would increasing access to recreational places promote healthier weights and a healthier nation?. Health Place. 2019;56:127&ndash;134. doi: 10.1016/j.healthplace.2019.01.013 [<a href="https://www.ncbi.nlm.nih.gov/pubmed/30738347">See abstract.</a>]</p>
+<p>Zenk SN, Kraft AN, Jones KK, Matthews SA. Convergent validity of an activity-space survey for use in health research. Health Place. 2019 Mar;56:19-23. doi: 10.1016/j.healthplace.2019.01.009. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/30684822">See abstract</a>]</p>
+<p>Chambers EC, Hanna DB, Hua S, et al. Relationship between area mortgage foreclosures, homeownership, and cardiovascular disease risk factors: The Hispanic Community Health Study/Study of Latinos. BMC Public Health. 2019;19(1):77. Published 2019 Jan 17. doi:10.1186/s12889-019-6412-2. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/30654781">See abstract</a>]&nbsp;</p>
+<p>Ghosh Roy P, Jones KK, Martyn-Nemeth P, Zenk SN. Contextual correlates of energy-dense snack food and sweetened beverage intake across the day in African American women: An application of ecological momentary assessment. Appetite. 2019;132:73&ndash;81. doi:10.1016/j.appet.2018.09.018. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/30261234">See abstract</a>]&nbsp;</p>
+<p>Duran AC, Zenk SN, Tarlov E, et al. Foreclosures and weight gain: Differential associations by longer neighborhood exposure. Prev Med. 2019;118:23&ndash;29. doi: 10.1016/j.ypmed.2018.07.009. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/30026119">See abstract</a>]&nbsp;</p>
+<p>Tarlov E, Wing C, Gordon HS, Matthews SA, Jones KK, Powell LM, Zenk SN. Does Effectiveness of Weight Management Programs Depend on the Food Environment? Health Serv Res. 2018 Dec;53(6):4268-4290. doi: 10.1111/1475-6773.13043. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/30246454">See abstract</a>]</p>
+<p>Kraft AN, Nunez J, Tarlov E, Slater S, Zenk SN. Racial/ethnic and educational differences in perceptions and use of a new urban trail [published online ahead of print, 2018 Oct 29]. Ethn Health. 2018;1&ndash;16. doi: 10.1080/13557858.2018.1539218 [<a href="https://www.ncbi.nlm.nih.gov/pubmed/30372629">See abstract</a>]</p>
+<p>Zenk SN, Tarlov E, Wing CM, Matthews SA, Tong H, Jones KK, Powell L. Long-Term Weight Loss Effects of a Behavioral Weight Management Program: Does the Community Food Environment Matter? Int J Environ Res Public Health. 2018 Jan 26;15(2). pii: E211. doi: 10.3390/ijerph15020211.&nbsp; [<a href="https://www.ncbi.nlm.nih.gov/pubmed/29373556">See abstract.</a>]</p>
+<p>Springfield S, Buscemi J, Fitzgibbon ML, Stolley MR, Zenk SN, Schiffer L, Sampson J, Jones Q, Murdock T, Davis I, Holland L, Watkins A, Odoms-Young A. A randomized pilot study of a community-based weight loss intervention for African-American women: Rationale and study design of Doing Me! Sisters Standing Together for a Healthy Mind and Body. Contemp Clin Trials. 2015 Jul;43:200-8. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/26079196">See abstract.</a>]</p>
+<p>Zenk SN, Powell LM, Isgor Z, Rimkus L, Barker DC, Chaloupka FJ. Prepared food availability in U.S. food stores: a national study. Am J Prev Med. 2015 Dec;115(12):1975-1985. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/25913149">See abstract.</a>]</p>
+<p>Johnson-Lawrence V, Schulz AJ, Zenk SN, Israel BA, Wineman J, Marans RW, Rowe Z. Joint associations of residential density and neighborhood involvement With physical activity among a multiethnic sample of urban adults. Health Educ Behav. 2015 Aug;42(4):510-517. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/25626432">See abstract.</a>]</p>
+<p>Zenk SN, Powell LM, Odoms-Young AM, Krauss R, Fitzgibbon ML, Block D, Campbell RT. Impact of the revised Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) food package policy on fruit and vegetable prices. J Acad Nutr Diet. 2014 Feb;114(2):288-96. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/24183996">See abstract.</a>]</p>
+<p>Zenk SN, Powell LM, Rimkus L, Isgor Z, Barker DC, Ohri-Vachaspati P, Chaloupka F.&nbsp;Relative and absolute availability of healthier food and beverage alternatives across communities in the United States. Am J Public Health. 2014 Nov;104(11):2170-2178. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/25211721">See abstract.</a>]</p>
+<p>Rimkus L, Powell LM, Zenk SN, Han E, Ohri-Vachaspati P, Pugach O, Barker DC, Resnick EA, Quinn CM, Myllyluoma J, Chaloupka FJ. Development and reliability testing of a food store observation form. J Nutr Educ Behav. 2013 Nov-Dec;45(6):540-8.] [<a href="https://www.ncbi.nlm.nih.gov/pubmed/23726894">See abstract.</a>]</p>
+<p>Zenk SN, Schulz AJ, Israel BA, Mentz G, Miranda PY, Opperman A, Odoms-Young AM. Food shopping behaviours and exposure to discrimination. Public Health Nutr. 2014 May;17(5):1167-76. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/23534814">See abstract.</a>]</p>
+<p>Zenk SN, Odoms-Young A, Powell LM, Campbell RT, Block D, Chavez N, et al. Fruit and vegetable availability and selection: federal food package revisions, 2009. Am J Prev Med. 2012 Oct;43(4):423-8. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/22992361">See abstract.</a>]</p>
+<p>Gittelsohn J, Laska MN, Andreyeva T, Foster G, Rose D, Tester J, Lee SH, Zenk SN, Odoms-Young A, McCoy T, Ayala GX. Small retailer perspectives of the 2009 women, infants and children program food package changes. Am J Health Behav. 2012 Sep;36(5):655-65.[<a href="https://www.ncbi.nlm.nih.gov/pubmed/22584093">See abstract.</a>]</p>
+<p>Izumi BT, Zenk SN, Schulz AJ, Mentz GB, Sand SL, de Majo RF, Wilson C, Odoms-Young A. Inter-rater reliability of the Food Environment Audit for Diverse Neighborhoods (FEAD-N). J Urban Health.&nbsp;2012 Jun;89(3):486-99.&nbsp;[<a href="https://www.ncbi.nlm.nih.gov/pubmed/22350513">See abstract.</a>]</p>
+<p>Ayala GX, Laska MN, Zenk SN, Tester J, Rose D, Odoms-Young A, McCoy T, Gittelsohn J, Foster GD, Andreyeva T. &nbsp;Stocking characteristics and perceived increases in sales among small food store managers/owners associated with the introduction of new food products approved by the Special Supplemental Nutrition Program for Women, Infants, and Children. Public Health Nutr. 2012 Sep;15(9):1771-9.[<a href="https://www.ncbi.nlm.nih.gov/pubmed/22583675">See abstract.</a>]</p>
+<p class="title">Han E, Powell LM, Zenk SN, Rimkus L, Ohri-Vachaspati P, Chaloupka FJ. Classification bias in commercial business lists for retail food stores in the U.S. Int J Behav Nutr Phys Act. 2012 Apr 18;9(1):46. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/22512874">See abstract.</a>]</p>
+<p class="title">Chaix B, Bean K, Daniel M, Zenk SN, Kestens Y, Charreire H, Leal C, Thomas F, Karusisi N, Weber C, Oppert JM, Simon C, Merlo J, Pannier B. Associations of supermarket characteristics with weight status and body fat: a multilevel analysis of individuals within supermarkets (record study). PLoS One. 2012;7(4):e32908. Epub 2012 Apr 4.[<a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0032908">See abstract.</a>]</p>
+<p>Zenk SN, Schulz AJ, Odoms-Young AM, Wilbur J, Matthews S, Gamboa C, et al. Feasibility of using global positioning systems (GPS) with diverse urban adults: before and after data on perceived acceptability, barriers, and ease of use. J Phys Act Health. 2012 Sep;9(7):924-34. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/21952361">See abstract.</a>]</p>
+<p>Powell LM, Han E, Zenk SN, Khan T, Quinn CM, Gibbs KP, et al. Field validation of secondary commercial data sources on the retail food outlet environment in the U.S. Health Place. 2011 Sep;17(5):1122-31. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/21741875">See abstract.</a>]</p>
+<p>Zenk SN, Schulz AJ, Matthews SA, Odoms-Young A, Wilbur J, Wegrzyn L, et al. Activity space environment and dietary and physical activity behaviors: A pilot study. Health Place. 2011 Sep;17(5):1150-61. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/21696995">See abstract.</a>]</p>
+<p>Zenk SN, Odoms-Young AM, Dallas C, Hardy E, Watkins A, Hoskins-Wroten J, et al. &quot;You have to hunt for the fruits, the vegetables&quot;: Environmental barriers and adaptive strategies to acquire food in a low-income African American neighborhood. Health Educ Behav. 2011 Jun;38(3):282-92. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/21511955">See abstract.</a>]</p>
+<p>Grigsby-Toussaint DS, Zenk SN, Odoms-Young A, Ruggiero L, Moise I. Availability of commonly consumed and culturally specific fruits and vegetables in African-american and Latino neighborhoods. J Am Diet Assoc. 2010 May;110(5):746-52. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/20430136">See abstract.</a>]</p>
+<p>Zenk SN, Grigsby-Toussaint DS, Curry SJ, Berbaum M, Schneider L. Short-term temporal stability in observed retail food characteristics. J Nutr Educ Behav. 2010 Jan-Feb;42(1)L26-32. [<a href="https://www.ncbi.nlm.nih.gov/pubmed/20129186">See abstract.</a>]</p>
+  </p>
+
+  <p>
+    <h2>Honors and Awards</h2>
+  </p>
+  <p>
+    <p><a href="/content/recognizing-excellence-among-our-colleagues">IHRP&nbsp;Fellow</a><br />
+	Robert Wood Johnson Foundation Nurse Faculty Scholar</p>
+  </p>
+</div>
+
+
+<div style="float:right; width: 32%;" class="right-sidebar">
+<p><strong>Contact Info</strong></p>
+
+<p>
+  Phone: (312) 355-2790<br />
+
+  Fax: (312) 996-7725<br />
+
+
+  E-mail: <a href="mailto:szenk@uic.edu">szenk@uic.edu</a><br />
+</p>
+
+  <p><p>&nbsp;</p>
+<p><strong>University of Illinois at Chicago (MC 802)</strong><br />
+	College of Nursing<br />
+	845 S. Damen Ave., Rm. 914<br />
+	Chicago, IL 60612-7350</p>
+</p>
+
+<br />
+
+  <strong>Other Title(s)</strong><br />
+	<p>Member,&nbsp;<span style="background-color: rgb(255, 255, 255); text-align: -webkit-left; ">UI Cancer Center&nbsp;</span></p>
+  <br />
+
+  <strong>Other Website</strong><br />
+  <p><a href="https://nursing.uic.edu/profiles/shannon-zenk/">Faculty Profile on College of Nursing website</a></p>
+  <br />
+
+
+
+
+
+
+  <p>
+    <strong>Recently Completed Research</strong>
+  </p>
+  <p>
+    <ul>
+	<li>
+		<a href="/study/bridging-gap-research-informing-policies-and-practices-healthy-youth-2014-2015">Bridging the Gap: Research Informing Policies and Practices for Healthy Youth</a></li>
+	<li>
+		Evaluating Economic Subsidies to Improve Dietary Intake among Low-income Families</li>
+	<li>
+		Fruit and Vegetable Availability among WIC Vendors</li>
+	<li>
+		<a href="/study/iprc-applied-public-health-prevention-research-project">Illinois PRC - Chicago Parks and Communities Study</a></li>
+	<li>
+		<a href="/study/iprc-nutrition-and-obesity-policy-research-and-evaluation-network-collaborating-center">Illinois PRC - Nutrition and Obesity Policy Research and Evaluation Network</a></li>
+	<li>
+		<a href="/study/iprc-physical-activity-policy-research-network-collaborating-center">Illinois PRC - Physical Activity Policy Research Network</a></li>
+	<li>
+		<a href="/study/momentary-correlates-older-black-women-health-behaviors">Momentary Correlates of Older Black Women&rsquo;s Health Behaviors</a></li>
+	<li>
+		<a href="/study/playground-renovations-and-social-capital-youth-park-use-and-physical-activity">Playground Renovations and Social Capital on Youth Park Use and Physical Activity</a></li>
+	<li>
+		<a href="/study/relationship-between-perceived-and-objective-food-environments-dietary-intake-and-weight-statu">The Relationship between Perceived and Objective Food Environments, Dietary Intake and Weight Status in Latino Families</a></li>
+	<li>
+		Socioeconomic Status, Activity-Space Environments, and Obesity Risk in Urban Adults</li>
+	<li>
+		Urban Environments and Obesity in African Americans</li>
+</ul>
+  </p>
+
+</div>
+        </div>
+
+        		
+      </div></div> <!-- /#content-inner, /#content -->
+
+              <div id="navbar"><div id="navbar-inner">
+
+          <a name="navigation" id="navigation"></a>
+
+          
+        </div></div> <!-- /#navbar-inner, /#navbar -->
+      
+
+    </div></div> <!-- /#main-inner, /#main -->
+
+    <div id="footer"><div id="footer-inner">
+      <div id="footer-message">  <footer id="footer" class="region region-footer">
+    <div id="block-block-43" class="block block-block first last odd">
+
+      
+  <p><strong>Institute for Health Research and Policy of the University of Illinois at Chicago</strong><br />
+	Multidisciplinary Home of UIC Researchers Collaborating in the Social and Health Sciences</p>
+<p>1747 W. Roosevelt Road, MC 275, Westside Research Office Bldg., Chicago, IL 60608<br />
+	T: <a href="tel:(312) 996-7222">(312) 996-7222</a> · F: (312) 996-2703</p>
+<p><a href="http://www.uic.edu/">UIC.edu</a> · <a href="https://www.uic.edu/apps/find-people/search">Campus Directory</a> · <a href="http://disabilityresources.uic.edu/">Disability Resources</a> · <a href="/content/employment-ihrp">Job Openings</a> · <a href="https://maps.uic.edu/">Maps</a> · <a href="/content/contact-us">Contact Us</a></p>
+<p>© 2020 <a href="http://www.uillinois.edu/trustees/">The Board of Trustees of the University of Illinois</a> · Privacy Policy · Webmaster: <a href="mailto:IHRP-webfix@uic.edu">IHRP-webfix@uic.edu</a></p>
+
+</div>
+  </footer>
+</div>
+
+    </div></div> <!-- /#footer-inner, /#footer -->
+
+    
+    
+  </div></div> <!-- /#page-inner, /#page -->
+    <script src="sites/all/themes/ihrp/js/customize-twitter-1.1/customize-twitter-1.1.min.js" type="text/javascript"></script>
+  <script>
+	var options = {
+    	"url": "sites/all/themes/ihrp/css/twitter.css",
+		"timeout_length": 1800
+	};
+	CustomizeTwitterWidget(options);
+</script>
+</body>
+</html>

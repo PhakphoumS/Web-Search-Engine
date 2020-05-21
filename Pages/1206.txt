@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Entry -->
+<table id='entry_area' class='fixedTable'>
+	<tr>
+		<td style='width:676px;'>
+			<div id='entry_info'>
+<!-- Begin Entry Info -->
+<h3>SAGE2 11th Annual International SC BOF @ SC19 - Tuesday, November 19, 12:15 - 1:15pm</h3>
+<div id='entry_image_large'><img style='left:0;' src='/resizedImages/1280x720-sc19-color-hor-2.png' alt='' title='SAGE2 11th Annual International SC BOF @ SC19 - Tuesday, November 19, 12:15 - 1:15pm' width='640' height='282'></div>
+<div class='entry_content'>
+	<strong>Participants:</strong> <a href='/entry.php?id=49'>Lance Long</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a><br><br>
+	<strong>URL:</strong> <a href='https://www.sagecommons.org' target='_blank'>https://www.sagecommons.org</a><br><br>
+<!-- Begin Entry Description -->
+For those attending SC19 in Denver, Colorado, we will hold the &ldquo;SAGE2 11th Annual International SC BOF: Scalable Amplified Group Environment for Global Collaboration&rdquo; Birds of a Feather (BOF) meeting:<br><br>
+Tuesday, November 19<br>
+12:15PM - 01:15PM<br>
+Room: 708, Colorado Convention Center<br>
+<a href="https://sc19.supercomputing.org/presentation/?id=bof130&sess=sess279">https://sc19.supercomputing.org/presentation/?id=bof130&sess=sess279</a><br><br>
+SAGE2 (Scalable Amplified Group Environment) is the de facto operating system for managing Big Data on tiled display walls, providing the scientific community with persistent visualization and collaboration services for global cyberinfrastructure. SAGE2 is an open-source, web-based, user-centered platform for local or distributed groups of researchers, educators and students to communicate information and ideas as if they are in the same room. This year&rsquo;s BoF provides a forum to provide new and potential users with an overview of new features and enhancements, and to elicit community input on use cases and roadmaps.<br><br>
+To see SAGE2 demonstrations, visit us at the StarLight research booth on the exhibition floor from Tuesday-Thursday, Booth #993.<br><br>
+Together, we can advance scientific research and education by providing production-quality, community-driven, end-user open services for visualization and collaboration that utilize shared national and international cyberinfrastructure.<br><br>
+See you at SC19!<br><br>
+Jason Leigh<br>
+Laboratory for Advanced Visualization & Applications (LAVA)<br>
+University of Hawaiʻi at Manoa<br>
+<a href="mailto:leighj@hawaii.edu">leighj@hawaii.edu</a><br><br>
+Maxine Brown and Luc Renambot<br>
+Electronic Visualization Laboratory (EVL)<br>
+University of Illinois at Chicago<br>
+<a href="mailto:maxine@uic.edu">maxine@uic.edu</a><br><br>
+SAGE2 receives major funding from the National Science Foundation (award #ACI-1441963). <br>
+SAGE and SAGE2 are trademarks of the University of Illinois Board of Trustees.<br>
+<a href="https://www.sagecommons.org">More information.</a><br><br>
+<!-- End Entry Description -->
+	<strong>Date:</strong> November 19, 2019
+</div>
+<!-- End Entry Info -->
+			</div>
+		</td>
+		<td style='width:374px;'>
+			<div id='entry_sidebar'>
+<!-- Begin Entry Sidebar -->
+<div class='entry_content'>
+	<h3>Related Entries</h3>
+	<strong>Directory:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=192'>Luc Renambot</a></li>
+		<li><a href='/entry.php?id=178'>Maxine Brown</a></li>
+		<li><a href='/entry.php?id=49'>Lance Long</a></li>
+	</ul><br>
+	<strong>Events:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2486'>SAGE2 @ SC19: Demonstrations, Birds of a Feather, and SCinet Participation</a></li>
+	</ul><br>
+	<strong>Research:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2402'>SAGE2 Team Engaging with the Trusted CI Center on SAGE2 Cybersecurity</a></li>
+		<li><a href='/entry.php?id=2042'>SAGE2&trade; Scalable Amplified Group Environment</a></li>
+	</ul><br>
+	<h3>Related Categories</h3>
+	<ul>
+		<li><a href='/category.php?id=3&amp;related=3'>Applications</a></li>
+		<li><a href='/category.php?id=46&amp;related=3'>Cybersecurity</a></li>
+		<li><a href='/category.php?id=37&amp;related=3'>Remote Collaboration</a></li>
+		<li><a href='/category.php?id=20&amp;related=3'>Software</a></li>
+		<li><a href='/category.php?id=34&amp;related=3'>Tele-Collaboration</a></li>
+		<li><a href='/category.php?id=24&amp;related=3'>User Groups</a></li>
+	</ul>
+</div>
+<!-- End Entry Sidebar-->
+			</div>
+		</td>
+	</tr>
+</table>
+<!-- End Entry -->
+<script>
+	// Making both divs the same height is much easier in JavaScript
+	var entryInfo = document.getElementById("entry_info");
+	var entrySidebar = document.getElementById("entry_sidebar");
+	
+	if (entryInfo && entrySidebar) {
+		var maxHeight = Math.max(entryInfo.offsetHeight, entrySidebar.offsetHeight)-20;
+		entryInfo.style.height = maxHeight+"px";
+		entrySidebar.style.height = maxHeight+"px";
+	}
+</script>
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

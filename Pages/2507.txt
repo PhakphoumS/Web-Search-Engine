@@ -1,0 +1,637 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin List -->
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Year:</strong>
+		<a href='/list.php?id=3&amp;year=2020'>2020</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2019'>2019</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2018'>2018</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2017'>2017</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2016'>2016</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2015'>2015</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2014'>2014</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2013'>2013</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2012'>2012</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2011'>2011</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2010'>2010</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2009'>2009</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2008'>2008</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2007'>2007</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2006'>2006</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2005'>2005</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2004'>2004</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2003'>2003</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2002'><strong>2002</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2001'>2001</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2000'>2000</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1999'>1999</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1998'>1998</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1997'>1997</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1996'>1996</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1995'>1995</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1994'>1994</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1993'>1993</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1992'>1992</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1987'>1987</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1979'>1979</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1976'>1976</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1975'>1975</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1974'>1974</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1973'>1973</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<div id='list_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin List List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=474'><img src='/resizedImages/500x280-crop-smhomeinstalled.jpg' alt='' title='Home Exhibition at the Betty Rymer Gallery' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=474'><em>Home</em> Exhibition at the Betty Rymer Gallery</a></strong><br>
+			<a href='/entry.php?id=9'>Drew Browning</a>, Annette Barbier<br>
+			December 11, 2002 - February 7, 2003<br><br>
+			This exhibition and related screenings examine how home is perceived within a socially diverse, multi-cultural society. Given the global scale of&hellip; <a href='/entry.php?id=474'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=470'><img src='/resizedImages/500x280-crop-wiggleview.jpg' alt='' title='Wiggleview Demonstrated at AGU2002' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=470'><em>Wiggleview</em> Demonstrated at AGU2002</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=166'>Atul Nayak</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, Ray Russo, Paul Morin, Chris Laughbon, Russ Welti, Tim Ahern, Shane Ingate<br>
+			December 6, 2002 - December 10, 2002<br><br>
+			EVLers Jason Leigh, Andrew Johnson and Atul Nayak are presenting Wiggleview at the American Geophysical Union 2002 Fall Meeting. Using the AGAVE /&hellip; <a href='/entry.php?id=470'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=472'><img src='/resizedImages/500x280-crop-julia_set.jpg' alt='' title='Sandin &amp; Kauffman Present at ArtSci2002' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=472'>Sandin &amp; Kauffman Present at ArtSci2002</a></strong><br>
+			<a href='/entry.php?id=7'>Daniel J. Sandin</a>, Louis H. Kauffman <br>
+			December 6, 2002 - December 8, 2002<br><br>
+			Daniel Sandin and Louis H. Kauffman are presenting their collaborative research, Explorations &amp; Visualizations of Higher Dimensional Julia Sets&hellip; <a href='/entry.php?id=472'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=471'><img src='/resizedImages/500x280-crop-jason_japan.jpg' alt='' title='Leigh Presents EVL Research at VizGRID Symposium 2002' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=471'>Leigh Presents EVL Research at VizGRID Symposium 2002</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a><br>
+			November 25, 2002<br><br>
+			Jason Leigh, Senior Research Scientist at EVL presented research efforts in the development of tele-immersive collaborative applications /&hellip; <a href='/entry.php?id=471'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=468'><img src='/resizedImages/500x280-crop-toddnewevent_185.jpg' alt='' title='Todd Margolis Organizes Exhibition of New VR Works' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=468'>Todd Margolis Organizes Exhibition of New VR Works</a></strong><br>
+			<a href='/entry.php?id=2'>Todd Margolis</a>, Ben Chang, Dima Al Srouri, Luke Bartels, Diane Figueredo, Paula Gilovich, Flora McGarrell, HyunJoo Oh, Noah Sh<br>
+			November 22, 2002 - November 24, 2002<br><br>
+			Beyond Prototypes presents new virtual reality artworks from the &ldquo;Immersive Environments&rdquo; graduate seminar at the School of the Art&hellip; <a href='/entry.php?id=468'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=467'><img src='/resizedImages/500x280-crop-paris-greg.jpg' alt='' title='PARIS&trade; Debuts at SC&rsquo;02 with Haptic Medical Demo' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=467'>PARIS&trade; Debuts at SC&rsquo;02 with Haptic Medical Demo</a></strong><br>
+			<a href='/entry.php?id=170'>Charles Zhang</a>, <a href='/entry.php?id=56'>Chris Scharver</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, <a href='/entry.php?id=21'>Jason Leigh</a><br>
+			November 16, 2002 - November 22, 2002<br><br>
+			In a truly &lsquo;hands on&rsquo; demonstration, a haptics-enhanced virtual reality device now on exhibit at SC&rsquo;02 in Baltimore, shows how&hellip; <a href='/entry.php?id=467'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=469'><img src='/resizedImages/500x280-crop-sc02.jpg' alt='' title='TeraScope Demo at SC&rsquo;02 Previews OptIPuter Capabilities' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=469'>TeraScope Demo at SC&rsquo;02 Previews OptIPuter Capabilities</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, Mark Ellisman, Philip Papadopoulos<br>
+			November 16, 2002 - November 22, 2002<br><br>
+			Among the hot buzzwords being heard on the SC2002 show floor this week in Baltimore, those prefixed by Lambda are increasingly ubiquitous. In&hellip; <a href='/entry.php?id=469'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=462'><img src='/resizedImages/500x280-crop-averlo_merit.jpg' alt='' title='Verlo Named UIC 2002 Award of Merit Recipient' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=462'>Verlo Named UIC 2002 Award of Merit Recipient</a></strong><br>
+			<a href='/entry.php?id=23'>Alan Verlo</a><br>
+			November 6, 2002<br><br>
+			Electronic Visualization Laboratory&rsquo;s (EVL) and Software Technologies Research Center&rsquo;s (STRC) Associate Director, Alan Verlo is&hellip; <a href='/entry.php?id=462'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=461'><img src='/misc/default_500x280.png' alt='' title='Margolis Exhibits Media at Chicago Filmmakers' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=461'>Margolis Exhibits Media at Chicago Filmmakers</a></strong><br>
+			<a href='/entry.php?id=2'>Todd Margolis</a><br>
+			November 2, 2002<br><br>
+			Todd Margolis exhibits ImmersaGrams, computer-generated autostereoscopic still imagery with other Chicago media artists presenting video&hellip; <a href='/entry.php?id=461'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=459'><img src='/resizedImages/500x280-crop-logoi2.gif' alt='' title='NTT Streams Super High Definition Video From Midwest to West Coast Over High-speed Network' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=459'>NTT Streams Super High Definition Video From Midwest to West Coast Over High-speed Network</a></strong><br>
+			<a href='/entry.php?id=23'>Alan Verlo</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, Donna Cox, Bob Patterson, Stuart Levy, Kleiser Walczak Construction Company, Mikael Forsberg<br>
+			October 28, 2002<br><br>
+			Los Angeles, CA - Japan&rsquo;s Nippon Telegraph and Telephone Corporation (NTT), in collaboration with the University of Illinois at Chicago (UIC)&hellip; <a href='/entry.php?id=459'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=458'><img src='/resizedImages/500x280-crop-leight_nayak.jpg' alt='' title='Jason Leigh and Atul Nayak Present GeoWall Research at SDSU' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=458'>Jason Leigh and Atul Nayak Present <em>GeoWall</em> Research at SDSU</a></strong><br>
+			<a href='/entry.php?id=166'>Atul Nayak</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, Dr. Eric Frost<br>
+			October 22, 2002<br><br>
+			A combination of new projection technology, fast graphics cards and linux PCs have made it possible to provide a stereoscopic projection system that&hellip; <a href='/entry.php?id=458'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=464'><img src='/resizedImages/500x280-crop-city_cluster.jpg' alt='' title='Fischnaller Exhibits CityCluster: From the Renaissance to the Gigabits Networking Age' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=464'>Fischnaller Exhibits <em>CityCluster: From the Renaissance to the Gigabits Networking Age</em></a></strong><br>
+			<a href='/entry.php?id=173'>Alex Hill</a>, <a href='/entry.php?id=175'>Franz Fischnaller</a>, <a href='/entry.php?id=189'>Helen-Nicole Kostis</a><br>
+			October 22, 2002 - October 26, 2002<br><br>
+			Franz Fischnaller presented CityCluster: From the Renaissance to the Gigabits Networking Age in Spain at the Canariasmediafest, October 22- 26, 2002&hellip; <a href='/entry.php?id=464'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=456'><img src='/misc/default_500x280.png' alt='' title='EVL Hosts Open House for GGF6' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=456'>EVL Hosts Open House for GGF6</a></strong><br>
+						October 14, 2002<br><br>
+			In conjunction with Global Grid Forum 6 being held in Chicago, EVL is hosting an open house on Monday, October 14, from 4-6 PM. StarLight&#8480;&hellip; <a href='/entry.php?id=456'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=455'><img src='/resizedImages/500x280-crop-1-quarterly_ambulation.jpg' alt='' title='Fernando Orellana Showcases The Drawing Machine' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=455'>Fernando Orellana Showcases <em>The Drawing Machine</em></a></strong><br>
+			<a href='/entry.php?id=167'>Fernando Orellana</a>, Matthew Adams<br>
+			October 11, 2002 - November 10, 2002<br><br>
+			Ambulation 1/Quarterly is proud to present the work of Matthew Adams and Fernando Orellana in Ambulation. October 11th through November 10th. Opening&hellip; <a href='/entry.php?id=455'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=465'><img src='/resizedImages/500x280-crop-mmbsm.jpg' alt='' title='Multi Mega Book Adapted for Display in RAVE VR System' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=465'>Multi Mega Book Adapted for Display in RAVE VR System</a></strong><br>
+			<a href='/entry.php?id=175'>Franz Fischnaller</a>, Professor Patrick Bourdot<br>
+			October 1, 2002<br><br>
+			During the summer of 2002, the Electronic Visualization Laboratory and the University of Paris adapted &ldquo;The Multi Mega Book&rdquo; Virtual&hellip; <a href='/entry.php?id=465'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=473'><img src='/resizedImages/500x280-crop-ucsd_uci_calit2.jpg' alt='' title='EVL Receives NSF Grant For OptIPuter Research' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=473'>EVL Receives NSF Grant For <em>OptIPuter</em> Research</a></strong><br>
+			<a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, Larry Smarr, Harry E. Gruber, Mark Ellisman, Philip Papadopoulos<br>
+			September 25, 2002<br><br>
+			The National Science Foundation (NSF) awarded $13.5 million over five years to a consortium led by the University of California, San Diego (UCSD)&hellip; <a href='/entry.php?id=473'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=443'><img src='/resizedImages/500x280-crop-igrid02-3.jpg' alt='' title='iGrid2002, The International Virtual Laboratory' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=443'>iGrid2002, The International Virtual Laboratory</a></strong><br>
+			<a href='/entry.php?id=23'>Alan Verlo</a>, <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=157'>Laura Wolf</a>, <a href='/entry.php?id=192'>Luc Renambot</a>, <a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, Cees de Laat<br>
+			September 24, 2002 - September 26, 2002<br><br>
+			Started in 1998, the biennial iGrid (International Grid) event showcases application advancements and middleware innovations enabled by globally&hellip; <a href='/entry.php?id=443'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=454'><img src='/resizedImages/500x280-crop-liquidon_458.jpg' alt='' title='liquidon' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=454'><em>liquidon</em></a></strong><br>
+			<a href='/entry.php?id=60'>Joseph Tremonti</a><br>
+			July 20, 2002<br><br>
+			.:/dev/liquidon/show info::{ produced by::joseph tremonti date::wednesday july 10, 2002 reception::8:30 pm performance::9:00 pm duration::1.0 hrs}&hellip; <a href='/entry.php?id=454'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=449'><img src='/resizedImages/500x280-crop-sabrina.jpg' alt='' title='Signal to Noise' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=449'>Signal to Noise</a></strong><br>
+			<a href='/entry.php?id=167'>Fernando Orellana</a>, <a href='/entry.php?id=2'>Todd Margolis</a>, Kevin Heisner, Daniel Miller, Amy Youngs, Valerie Fuchs, Andrea Polli<br>
+			June 28, 2002 - August 10, 2002<br><br>
+			signal-to-noise ratio: [from analog electronics] n. Used by hackers in a generalization of its technical meaning. &lsquo;Signal&rsquo; refers to&hellip; <a href='/entry.php?id=449'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=450'><img src='/resizedImages/500x280-crop-postcard_front.jpg' alt='' title='plugANDplay' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=450'>plugANDplay</a></strong><br>
+			<a href='/entry.php?id=167'>Fernando Orellana</a>, <a href='/entry.php?id=2'>Todd Margolis</a><br>
+			June 28, 2002 - August 3, 2002<br><br>
+			&ldquo;plugANDplay&rdquo; is an exhibition which pushes the limits and vagaries of an electronically overwhelmed culture. Each piece is to be simply&hellip; <a href='/entry.php?id=450'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=448'><img src='/resizedImages/500x280-crop-wiggle_iris.jpg' alt='' title='Fourteenth Annual IRIS Workshop' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=448'>Fourteenth Annual IRIS Workshop</a></strong><br>
+			<a href='/entry.php?id=166'>Atul Nayak</a>, Paul Morin (University of Minnesota), Shane Ingate and Tim Ahern (IRIS), Ray Russo (Northwestern University)<br>
+			June 12, 2002 - June 15, 2002<br><br>
+			EVLer Atul Nayak and Paul Morin (University of Minnesota) are taking the AGAVE / GeoWall to the 14th Annual IRIS Workshop to show how the AGAVE can&hellip; <a href='/entry.php?id=448'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=447'><img src='/resizedImages/500x280-crop-geo2.jpg' alt='' title='The GeoWall Summit' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=447'>The GeoWall Summit</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=166'>Atul Nayak</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=180'>Vikas Chowdry</a>, Paul Morin<br>
+			June 5, 2002 - June 7, 2002<br><br>
+			EVLers are participatng in the Second GeoWall Summit held in Minneapolis convened by Paul Morin (University of Minnesota) and Jason Leigh (EVL). They&hellip; <a href='/entry.php?id=447'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=453'><img src='/resizedImages/500x280-crop-portal.jpg' alt='' title='Shared Spaces Exhibited at NWU&rsquo;s 2nd Annual Art &amp; Technology Symposium' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=453'><em>Shared Spaces</em> Exhibited at NWU&rsquo;s 2nd Annual Art &amp; Technology Symposium</a></strong><br>
+			<a href='/entry.php?id=161'>Geoffrey Allen Baum</a>, <a href='/entry.php?id=165'>Keith Miller</a>, <a href='/entry.php?id=53'>Tim Portlock</a>, <a href='/entry.php?id=2'>Todd Margolis</a><br>
+			May 24, 2002 - May 25, 2002<br><br>
+			The Northwestern Univerisity&rsquo;s Center for Art &amp; Technology hosts the Second Annual Symposium: Art, Technology and Spirituality which&hellip; <a href='/entry.php?id=453'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=457'><img src='/resizedImages/500x280-crop-k_side.gif' alt='' title='Fischnaller Presents at the Block Museum of Art' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=457'>Fischnaller Presents at the Block Museum of Art</a></strong><br>
+			<a href='/entry.php?id=175'>Franz Fischnaller</a><br>
+			May 24, 2002 - June 23, 2002<br><br>
+			The Block Museum of Art presents &ldquo;KALI: The Goddess of the Millennium&rdquo; by Franz Fischnaller - From May 24 through June 23, 2002 in&hellip; <a href='/entry.php?id=457'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=446'><img src='/resizedImages/500x280-crop-irvineworkshop_new.jpg' alt='' title='NSF ANIR Workshop' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=446'>NSF ANIR Workshop</a></strong><br>
+			<a href='/entry.php?id=178'>Maxine Brown</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, Larry Smarr, William Parker<br>
+			May 20, 2002 - May 21, 2002<br><br>
+			Workshop General Chairs: Larry Smarr and William Parker California Institute for Telecommunications and Information Technology [Cal-(IT)2] University&hellip; <a href='/entry.php?id=446'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=445'><img src='/misc/default_500x280.png' alt='' title='YaLu Lin Presents MFA Thesis ID: Illusion' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=445'>YaLu Lin Presents MFA Thesis ID: Illusion</a></strong><br>
+			<a href='/entry.php?id=46'>Ya Lu Lin</a><br>
+			May 10, 2002 - May 11, 2002<br><br>
+			YaLu Lin presents her virtual reality artwork in a MFA Thesis Exhibition at the Electronic Visualization Laboratory&rsquo;s BATCAVE. The experience&hellip; <a href='/entry.php?id=445'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=451'><img src='/resizedImages/500x280-crop-version02.gif' alt='' title='Version>02' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=451'>Version>02</a></strong><br>
+			<a href='/entry.php?id=161'>Geoffrey Allen Baum</a>, <a href='/entry.php?id=165'>Keith Miller</a>, <a href='/entry.php?id=53'>Tim Portlock</a>, <a href='/entry.php?id=2'>Todd Margolis</a><br>
+			April 18, 2002 - April 21, 2002<br><br>
+			EVLers, Todd Margolis, Tim Portlock, Geoffrey Allen Baum, and Keith Miller (Applied Interactives, N.F.P.) showcase their collective / collaborative&hellip; <a href='/entry.php?id=451'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=444'><img src='/resizedImages/500x280-crop-doug.jpg' alt='' title='Doug Garofalo: Digital Technology in Architectural Practice' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=444'>Doug Garofalo: Digital Technology in Architectural Practice</a></strong><br>
+			<a href='/entry.php?id=9'>Drew Browning</a>, <a href='/entry.php?id=175'>Franz Fischnaller</a><br>
+			April 10, 2002<br><br>
+			As a part of the lecture series for the AD508 Seminar, Doug Garofalo will present his work and discuss how digital technology is changing&hellip; <a href='/entry.php?id=444'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=692'><img src='/resizedImages/500x280-crop-ampathlogo.gif' alt='' title='Andrew Johnson invited to Presents STARTAP and GEOWALL at  the first AMPATH International Conference' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=692'>Andrew Johnson invited to Presents STARTAP and GEOWALL at  the first AMPATH International Conference</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a><br>
+			April 1, 2002 - April 12, 2002<br><br>
+			Andrew Johnson gave a presentation on STARTAP and a demonstration of the GeoWall at the first AMPATH International conference held in Valdivia&hellip; <a href='/entry.php?id=692'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=466'><img src='/resizedImages/500x280-crop-coffin_field2.jpg' alt='' title='Tom Coffin Exhibits &ldquo;Field&rdquo;' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=466'>Tom Coffin Exhibits &ldquo;Field&rdquo;</a></strong><br>
+			<a href='/entry.php?id=73'>Tom Coffin</a>, Jacqueline Matisse-Monnier<br>
+			April 1, 2002 - April 14, 2002<br><br>
+			The Virginia Tech School of the Arts, the Department of Art &amp; Art History, and XYZ Gallery introduces Tom Coffin&rsquo;s, Field, a special&hellip; <a href='/entry.php?id=466'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=440'><img src='/resizedImages/500x280-crop-ieee_logo2.gif' alt='' title='Yongjoo Cho Presents Results of Educational Research at VR 2002 Conference' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=440'>Yongjoo Cho Presents Results of Educational Research at VR 2002 Conference</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=16'>Tom Moher</a>, <a href='/entry.php?id=30'>Yongjoo Cho</a>, D. Edelson, B. Reiser<br>
+			March 24, 2002 - March 28, 2002<br><br>
+			Yongjoo Cho represents EVL at the IEEE Virtual Reality 2002 Conference (VR 2002) in Orlando Florida, March 24-28, 2002. He will present the paper&hellip; <a href='/entry.php?id=440'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=441'><img src='/resizedImages/500x280-crop-iptlogo_large.jpg' alt='' title='Dan Sandin Presents Video Avatar Research at IPT 2002' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=441'>Dan Sandin Presents Video Avatar Research at IPT 2002</a></strong><br>
+			<a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=174'>Damin Keenan</a>, <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=57'>Satheesh Subramanian</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, <a href='/entry.php?id=54'>Vivek Rajan</a><br>
+			March 24, 2002 - March 25, 2002<br><br>
+			Dan Sandin will present, &ldquo;A Realistic Video Avatar System for Networked Virtual Environments&rdquo;, Rajan, V., Subramanian, S., Keenan, D&hellip; <a href='/entry.php?id=441'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=452'><img src='/resizedImages/500x280-crop-who.jpg' alt='' title='Shared Spaces Debuts at the Who? Exhibition' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=452'><em>Shared Spaces</em> Debuts at the <em>Who?</em> Exhibition</a></strong><br>
+			<a href='/entry.php?id=161'>Geoffrey Allen Baum</a>, <a href='/entry.php?id=165'>Keith Miller</a>, <a href='/entry.php?id=53'>Tim Portlock</a>, <a href='/entry.php?id=2'>Todd Margolis</a><br>
+			March 16, 2002 - March 23, 2002<br><br>
+			EVLer&rsquo;s and Applied Interactives, N.F.P mebmers - Todd Margolis, Tim Portlaock, Geoffrey Allen Baum and Keith Miller present their virtual&hellip; <a href='/entry.php?id=452'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=442'><img src='/resizedImages/500x280-crop-cdl.jpg' alt='' title='Cees de Laat: The Road to Optical Networking' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=442'>Cees de Laat: The Road to Optical Networking</a></strong><br>
+			<a href='/entry.php?id=178'>Maxine Brown</a>, Cees de Laat<br>
+			February 21, 2002<br><br>
+			Dr. de Laat will present and discuss different operating models and usage scenarios for optical networking technology under the network and grid&hellip; <a href='/entry.php?id=442'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=439'><img src='/resizedImages/500x280-crop-dummyhead.gif' alt='' title='MFA Students Present VR Art at Immedia 2002' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=439'>MFA Students Present VR Art at Immedia 2002</a></strong><br>
+			<a href='/entry.php?id=60'>Joseph Tremonti</a>, <a href='/entry.php?id=162'>Petra Gemeinboeck</a>, <a href='/entry.php?id=53'>Tim Portlock</a><br>
+			February 8, 2002 - February 18, 2002<br><br>
+			Immedia2002 is presented by entity, the Ann Arbor Electronic Artist Coalition. The annual show has been growing exponentially in participation and&hellip; <a href='/entry.php?id=439'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=463'><img src='/misc/default_500x280.png' alt='' title='Changing Science At Light Speed; Superbroadband Gives Researchers Easy Data Access' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=463'>Changing Science At Light Speed; Superbroadband Gives Researchers Easy Data Access</a></strong><br>
+			<a href='/entry.php?id=6'>Thomas A. DeFanti</a>, Thomas Greene, Rick Stevens, Robert Grossman, Joe Mambretti, Aubrey Bush<br>
+			February 4, 2002<br><br>
+			Increased cholera outbreaks in Bangladesh, it turns out, are correlated with the periodic rising water temperatures in the Pacific Ocean, the weather&hellip; <a href='/entry.php?id=463'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=435'><img src='/resizedImages/500x280-crop-franz.jpg' alt='' title='Franz Fischnaller Selected to be part of the Crossover Team: Studio A' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=435'>Franz Fischnaller Selected to be part of the Crossover Team: Studio A</a></strong><br>
+			<a href='/entry.php?id=175'>Franz Fischnaller</a><br>
+			February 1, 2002 - No Information<br><br>
+			Crossover is Web Lab&rsquo;s strategy to create compelling &ldquo;new media&rdquo; projects that combine the sensibilities and storytelling skills of&hellip; <a href='/entry.php?id=435'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=433'><img src='/resizedImages/500x280-crop-room2_sm.jpg' alt='' title='Todd Margolis Exhibits Electromechanical Art &amp; Media at DEADTECH' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=433'>Todd Margolis Exhibits Electromechanical Art &amp; Media at DEADTECH</a></strong><br>
+			<a href='/entry.php?id=2'>Todd Margolis</a><br>
+			January 5, 2002 - January 29, 2002<br><br>
+			January 5th through the 29th, DEADTECH Gallery presents &ldquo;Confluxus&rdquo; A collection of new media work by Chicago artist Todd Margolis Todd&hellip; <a href='/entry.php?id=433'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<!-- End List List -->
+	</table>
+</div>
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Year:</strong>
+		<a href='/list.php?id=3&amp;year=2020'>2020</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2019'>2019</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2018'>2018</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2017'>2017</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2016'>2016</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2015'>2015</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2014'>2014</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2013'>2013</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2012'>2012</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2011'>2011</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2010'>2010</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2009'>2009</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2008'>2008</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2007'>2007</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2006'>2006</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2005'>2005</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2004'>2004</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2003'>2003</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2002'><strong>2002</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2001'>2001</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=2000'>2000</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1999'>1999</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1998'>1998</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1997'>1997</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1996'>1996</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1995'>1995</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1994'>1994</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1993'>1993</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1992'>1992</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1987'>1987</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1979'>1979</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1976'>1976</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1975'>1975</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1974'>1974</a>&nbsp;&nbsp;
+		<a href='/list.php?id=3&amp;year=1973'>1973</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<!-- End List -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

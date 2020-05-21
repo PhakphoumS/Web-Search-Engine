@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin List -->
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Page:</strong>
+		<a href='/list.php?id=1&amp;page=1'><strong>1</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=2'>2</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=3'>3</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=4'>4</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=5'>5</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=6'>6</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=7'>7</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=8'>8</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=9'>9</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=10'>10</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<div id='list_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin List List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2481'><img src='/resizedImages/500x280-crop-evl08.jpg' alt='' title='TRNQWRLD' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2481'>TRNQWRLD</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=2439'>Kyra Jones</a><br>
+			March 1, 2019 - May 4, 2019<br><br>
+			Kyra Jones, School of Design undergraduate student created a virtual reality environment for the CAVE2 &ldquo;TRNQWRLD&rdquo; under the supervision&hellip; <a href='/entry.php?id=2481'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2028'><img src='/resizedImages/500x280-crop-_ljl2781.jpg' alt='' title='StarTrek Enterprise' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2028'>StarTrek Enterprise</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=270'>Arthur Nishimoto</a><br>
+			January 1, 2011 - Ongoing<br><br>
+			In an homage to &ldquo;StarTrek,&rdquo; EVL graduate student Arthur Nishimoto spent his spare time over the past two years creating a 3D virtual&hellip; <a href='/entry.php?id=2028'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2039'><img src='/resizedImages/500x280-crop-particledreams_rev.jpg' alt='' title='Particle Dreams in Spherical Harmonics' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2039'>Particle Dreams in Spherical Harmonics</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=222'>Robert Kooima</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, Laurie Spiegel<br>
+			January 1, 2011 - Ongoing<br><br>
+			Content and application programming: Dan Sandin Content and systems programming: Robert Kooima Music and sound effects: Laurie Spiegel Driver: Tom&hellip; <a href='/entry.php?id=2039'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2011'><img src='/resizedImages/500x280-crop-sudden_loss1.jpg' alt='' title='Sudden Loss' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2011'>Sudden Loss</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=273'>JD Pirtle</a><br>
+			December 1, 2010 - May 26, 2011<br><br>
+			Sudden Loss is a projected software work created with Processing. At the beginning of the ideation portion of this project, I became intrigued by the&hellip; <a href='/entry.php?id=2011'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2006'><img src='/resizedImages/500x280-crop-image7-2.jpg' alt='' title='The Fall Beyond Tomorrow&rsquo;s Life' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2006'>The Fall Beyond Tomorrow&rsquo;s Life</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=273'>JD Pirtle</a><br>
+			August 16, 2010 - March 15, 2011<br><br>
+			The Fall Beyond Tomorrow&rsquo;s Life is an interactive environment that unites water and sound. The primary components of the piece are a horizontal&hellip; <a href='/entry.php?id=2006'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=2003'><img src='/resizedImages/500x280-crop-meridianusdivinitus.png' alt='' title='Meridianus Divinitus' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=2003'>Meridianus Divinitus</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=239'>Hubert Weldon</a><br>
+			May 1, 2009 - November 17, 2009<br><br>
+			Grav Weldon&rsquo;s MFA thesis research Meridianus Divinitus is an exploration of the body energetic. It is a set of dynamic reinterpretations of&hellip; <a href='/entry.php?id=2003'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1990'><img src='/resizedImages/500x280-crop-instantcopies.png' alt='' title='Instant Copies' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1990'>Instant Copies</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=264'>Andrew Oleksiuk</a><br>
+			March 8, 2009 - September 20, 2009<br><br>
+			Instant Copies is a virtual world immersive environment that plays with the anachronistic concept of xerographic copy machines in a virtual milieu&hellip; <a href='/entry.php?id=1990'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1986'><img src='/resizedImages/500x280-crop-theviewer.jpg' alt='' title='The Viewer' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1986'>The Viewer</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=244'>Julio Obelleiro</a>, Casilda Sanchez<br>
+			November 13, 2008 - Ongoing<br><br>
+			The Viewer consists on a virtual viewer situated in front of the real viewer, and deals with the visualization and comprehension strategies of the&hellip; <a href='/entry.php?id=1986'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1985'><img src='/resizedImages/500x280-crop-buildingmusic_sm2.png' alt='' title='Building Music' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1985'>Building Music</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=244'>Julio Obelleiro</a>, Alberto Garc&iacute;a, Jorge Cano, Pedro Enriquez<br><strong>thanks to:</strong> Carlos Cano, Eurico Moita, Sebastian Alvarez<br>
+			September 1, 2008 - Ongoing<br><br>
+			Building Music is a public large scale interactive installation that explores the musicality of different architectural features. By moving the light&hellip; <a href='/entry.php?id=1985'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1991'><img src='/resizedImages/500x280-crop-unwearablefunctionalgarments.png' alt='' title='Unwearable functional garments II: for three princesses' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1991'>Unwearable functional garments II: for three princesses</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=240'>Heejoo Kim</a><br>
+			September 1, 2008 - May 1, 2009<br><br>
+			Unwearable functional garments II: for three princesses is a single channel 3D animation based on portraying the redesigned and reconstructed&hellip; <a href='/entry.php?id=1991'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1975'><img src='/resizedImages/500x280-crop-visionlogo2.jpg' alt='' title='vision' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1975'>vision</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=244'>Julio Obelleiro</a><br>
+			May 16, 2008 - May 15, 2009<br><br>
+			vision is an open source C++ programming library for the development of audiovisual interactive applications. It is designed to provide a high level&hellip; <a href='/entry.php?id=1975'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1972'><img src='/resizedImages/500x280-crop-replicationsystem-2.png' alt='' title='Replication of System, 2008' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1972'>Replication of System, 2008</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=230'>AnnMarie Cernoch</a>, <a href='/entry.php?id=227'>Ratko Jagodic</a><br>
+			March 1, 2008 - May 23, 2008<br><br>
+			Replication of System, 2008 is an interactive, kinetic, sculptural installation, that explores communication through computer-human interaction and&hellip; <a href='/entry.php?id=1972'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1960'><img src='/resizedImages/500x280-crop-edl.jpg' alt='' title='snstncntnrs' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1960'>snstncntnrs</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=242'>Adam Trowbridge</a><br>
+			November 1, 2007 - November 1, 2008<br><br>
+			snstncntnrs is an open video project in the form of files that include a set of cuts described in a EDL and Final Cut Pro XML file. These cuts can be&hellip; <a href='/entry.php?id=1960'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1995'><img src='/resizedImages/500x280-crop-interrogation.png' alt='' title='Interrogation' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1995'>Interrogation</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=242'>Adam Trowbridge</a><br>
+			October 31, 2007 - May 31, 2009<br><br>
+			Interrogation is a network of projects that includes seizure-edited video and live re-enactment of that video. The work is shown as video, live&hellip; <a href='/entry.php?id=1995'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1977'><img src='/resizedImages/500x280-crop-bbots.png' alt='' title='BendyBots' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1977'>BendyBots</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=230'>AnnMarie Cernoch</a>, <a href='/entry.php?id=227'>Ratko Jagodic</a><br>
+			August 16, 2007 - May 15, 2008<br><br>
+			BendyBots are a series of twenty animatronic creatures. The project is an imaginative daydream about what future mergers of technology and nature&hellip; <a href='/entry.php?id=1977'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<!-- End List List -->
+	</table>
+</div>
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Page:</strong>
+		<a href='/list.php?id=1&amp;page=1'><strong>1</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=2'>2</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=3'>3</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=4'>4</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=5'>5</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=6'>6</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=7'>7</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=8'>8</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=9'>9</a>&nbsp;&nbsp;
+		<a href='/list.php?id=1&amp;page=10'>10</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<!-- End List -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

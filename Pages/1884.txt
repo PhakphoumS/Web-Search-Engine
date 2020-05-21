@@ -1,0 +1,1368 @@
+
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<meta name="title" content="Alex Leow MD, PhD" />
+<link rel="canonical" href="https://www.psych.uic.edu/profile/alex-leow" />
+<meta property="og:site_name" content="UIC Department of Psychiatry" />
+<link rel="shortlink" href="https://www.psych.uic.edu/node/62" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="description" content="Joining the University in 2009, Dr. Leow received clinical training in Psychiatry and research training in biomedical imaging, both at UCLA. Having co-authored more than 70 articles, Dr. Leow&#039;s current research interests focus on developing novel probabilistic reconstruction, tractography, and network analyses techniques for high angular resolution diffusion imaging (HARDI) and their clinical applications. 
+,,
+
+ 584" />
+<meta name="twitter:title" content="Alex Leow" />
+<meta name="twitter:description" content="Joining the University in 2009, Dr. Leow received clinical training in Psychiatry and research training in biomedical imaging, both at UCLA. Having co-authored more than 70 articles, Dr. Leow&#039;s current research interests focus on developing novel probabilistic reconstruction, tractography, and network analyses techniques for high angular resolution diffusion imaging (HARDI) and their clinical applications." />
+<meta property="og:type" content="Profile" />
+<meta property="og:url" content="https://www.psych.uic.edu/profile/alex-leow" />
+<meta name="keywords" content="," />
+<meta property="og:title" content="Alex Leow MD, PhD" />
+<meta property="og:description" content="Joining the University in 2009, Dr. Leow received clinical training in Psychiatry and research training in biomedical imaging, both at UCLA. Having co-authored more than 70 articles, Dr. Leow&#039;s current research interests focus on developing novel probabilistic reconstruction, tractography, and network analyses techniques for high angular resolution diffusion imaging (HARDI) and their clinical applications." />
+<meta name="twitter:image" content="https://www.psych.uic.edu180" />
+<meta property="og:image" content="https://www.psych.uic.edu" />
+<meta property="og:image:url" content="https://www.psych.uic.edu/sites/default/files/styles/thumbnail/public/LeowAlex.jpg?itok=prK-TS2p" />
+<meta property="og:image:secure_url" content="https://www.psych.uic.edu" />
+<meta property="og:image:type" content=",jpg" />
+<meta property="og:image:width" content="180" />
+<meta property="og:image:height" content="180" />
+<meta property="og:updated_time" content="2019-07-16T13:41:46-0500" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script>(function(i,s,o,g,r,a,m){i["UICPsychGoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-75115985-6", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("set", "dimension1", "profile");ga("set", "dimension2", "\/profile\/alex-leow");ga("set", "dimension3", ":|:|:");ga("set", "dimension4", "62:Alex Leow");ga("set", "dimension5", ":|:|:");ga("set", "dimension6", ":|:|:");ga("set", "dimension7", "2017-03-01T11:43:57-0600");ga("set", "dimension8", "2019-07-16T13:41:46-0500");ga("send", "pageview");</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({"gtm.start":new Date().getTime(),event:"gtm.js"});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!="dataLayer"?"&amp;l="+l:"";j.async=true;j.src="https://www.googletagmanager.com/gtm.js?id="+i+dl;f.parentNode.insertBefore(j,f);})(window,document,"script","dataLayer","GTM-5X7BHCS");</script>
+<script>function euCookieComplianceLoadScripts() {}</script>
+<style>div#sliding-popup, div#sliding-popup .eu-cookie-withdraw-banner, .eu-cookie-withdraw-tab {background: #0779bf} div#sliding-popup.eu-cookie-withdraw-wrapper { background: transparent; } #sliding-popup h1, #sliding-popup h2, #sliding-popup h3, #sliding-popup p, .eu-cookie-compliance-more-button, .eu-cookie-compliance-secondary-button, .eu-cookie-withdraw-tab { color: #ffffff;} .eu-cookie-withdraw-tab { border-color: #ffffff;}</style>
+<link rel="shortcut icon" href="/sites/all/themes/custom/uicpsych2017_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="revision" href="/profile/alex-leow" />
+<script>window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_config.templates.email = {
+    subject: "Check this out: ${title}",
+    body: "Click the link:\n${link}"
+};</script>
+
+    <title>Alex Leow MD, PhD</title>
+    <style media="all">
+@import url("/core/assets/vendor/normalize-css/normalize.css?qa0l0p");
+@import url("/core/misc/normalize-fixes.css?qa0l0p");
+@import url("/core/themes/stable/css/system/components/ajax-progress.module.css?qa0l0p");
+@import url("/core/themes/stable/css/system/components/align.module.css?qa0l0p");
+@import url("/core/themes/stable/css/system/components/autocomplete-loading.module.css?qa0l0p");
+@import url("/core/themes/stable/css/system/components/fieldgroup.module.css?qa0l0p");
+@import url("/core/themes/stable/css/system/components/container-inline.module.css?qa0l0p");
+@import url("/core/themes/stable/css/system/components/clearfix.module.css?qa0l0p");
+@import url("/core/themes/stable/css/system/components/details.module.css?qa0l0p");
+@import url("/core/themes/stable/css/system/components/hidden.module.css?qa0l0p");
+@import url("/core/themes/stable/css/system/components/item-list.module.css?qa0l0p");
+@import url("/core/themes/stable/css/system/components/js.module.css?qa0l0p");
+@import url("/core/themes/stable/css/system/components/nowrap.module.css?qa0l0p");
+@import url("/core/themes/stable/css/system/components/position-container.module.css?qa0l0p");
+@import url("/core/themes/stable/css/system/components/progress.module.css?qa0l0p");
+@import url("/core/themes/stable/css/system/components/reset-appearance.module.css?qa0l0p");
+@import url("/core/themes/stable/css/system/components/resize.module.css?qa0l0p");
+@import url("/core/themes/stable/css/system/components/sticky-header.module.css?qa0l0p");
+@import url("/core/themes/stable/css/system/components/system-status-counter.css?qa0l0p");
+@import url("/core/themes/stable/css/system/components/system-status-report-counters.css?qa0l0p");
+@import url("/core/themes/stable/css/system/components/system-status-report-general-info.css?qa0l0p");
+@import url("/core/themes/stable/css/system/components/tabledrag.module.css?qa0l0p");
+@import url("/core/themes/stable/css/system/components/tablesort.module.css?qa0l0p");
+@import url("/core/themes/stable/css/system/components/tree-child.module.css?qa0l0p");
+@import url("/core/themes/stable/css/views/views.module.css?qa0l0p");
+@import url("/modules/contrib/eu_cookie_compliance/css/eu_cookie_compliance.css?qa0l0p");
+@import url("/modules/contrib/addtoany/css/addtoany.css?qa0l0p");
+</style>
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" media="all" />
+<style media="all">
+@import url("/sites/all/themes/custom/uicpsych2017_theme/css/base/style.css?qa0l0p");
+@import url("/sites/all/themes/custom/uicpsych2017_theme/css/base/colors.css?qa0l0p");
+@import url("/sites/all/themes/custom/uicpsych2017_theme/css/base/local.css?qa0l0p");
+@import url("/sites/all/themes/custom/uicpsych2017_theme/css/base/orgchart.css?qa0l0p");
+@import url("/core/themes/classy/css/components/action-links.css?qa0l0p");
+@import url("/core/themes/classy/css/components/breadcrumb.css?qa0l0p");
+@import url("/core/themes/classy/css/components/button.css?qa0l0p");
+@import url("/core/themes/classy/css/components/collapse-processed.css?qa0l0p");
+@import url("/core/themes/classy/css/components/container-inline.css?qa0l0p");
+@import url("/core/themes/classy/css/components/details.css?qa0l0p");
+@import url("/core/themes/classy/css/components/exposed-filters.css?qa0l0p");
+@import url("/core/themes/classy/css/components/field.css?qa0l0p");
+@import url("/core/themes/classy/css/components/form.css?qa0l0p");
+@import url("/core/themes/classy/css/components/icons.css?qa0l0p");
+@import url("/core/themes/classy/css/components/inline-form.css?qa0l0p");
+@import url("/core/themes/classy/css/components/item-list.css?qa0l0p");
+@import url("/core/themes/classy/css/components/link.css?qa0l0p");
+@import url("/core/themes/classy/css/components/links.css?qa0l0p");
+@import url("/core/themes/classy/css/components/menu.css?qa0l0p");
+@import url("/core/themes/classy/css/components/more-link.css?qa0l0p");
+@import url("/core/themes/classy/css/components/pager.css?qa0l0p");
+@import url("/core/themes/classy/css/components/tabledrag.css?qa0l0p");
+@import url("/core/themes/classy/css/components/tableselect.css?qa0l0p");
+@import url("/core/themes/classy/css/components/tablesort.css?qa0l0p");
+@import url("/core/themes/classy/css/components/tabs.css?qa0l0p");
+@import url("/core/themes/classy/css/components/textarea.css?qa0l0p");
+@import url("/core/themes/classy/css/components/ui-dialog.css?qa0l0p");
+@import url("/core/themes/classy/css/components/messages.css?qa0l0p");
+@import url("/core/themes/classy/css/components/progress.css?qa0l0p");
+@import url("/sites/all/themes/custom/uicpsych2017_theme/css/components/primary-menu.css?qa0l0p");
+@import url("/sites/all/themes/custom/uicpsych2017_theme/css/components/to-top.css?qa0l0p");
+</style>
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" media="all" />
+<style media="all">
+@import url("/sites/all/themes/custom/uicpsych2017_theme/smartmenus/addons/bootstrap/jquery.smartmenus.bootstrap.css?qa0l0p");
+</style>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.1/animate.min.css" media="all" />
+<style media="all">
+@import url("/sites/all/themes/custom/uicpsych2017_theme/js/plugins/lazyloader/lazyloader.css?qa0l0p");
+@import url("/sites/all/themes/custom/uicpsych2017_theme/js/plugins/Lightbox/dist/css/lightbox.css?qa0l0p");
+@import url("/sites/all/themes/custom/uicpsych2017_theme/js/plugins/owl-carousel/owl.carousel.css?qa0l0p");
+@import url("/sites/all/themes/custom/uicpsych2017_theme/js/plugins/owl-carousel/owl.theme.css?qa0l0p");
+@import url("/sites/all/themes/custom/uicpsych2017_theme/js/plugins/owl-carousel/owl.transitions.css?qa0l0p");
+@import url("/sites/all/themes/custom/uicpsych2017_theme/js/plugins/animate.css/animate.css?qa0l0p");
+@import url("/sites/all/themes/custom/uicpsych2017_theme/css/file.css?qa0l0p");
+</style>
+
+    
+<!--[if lte IE 8]>
+<script src="/core/assets/vendor/html5shiv/html5shiv.min.js?v=3.7.3"></script>
+<![endif]-->
+
+  </head>
+  <body class="d8-psych-uic-edu not-logged-in path-node page-node-type-profile">
+    <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div id="toTop"><span class="glyphicon glyphicon-chevron-up"></span></div>
+
+<!-- #pre-header -->
+<div id="pre-header" class="hidden-xs hidden-sm clearfix">
+        <!-- #pre-header-inside -->
+    <div class="container">
+        <div id="pre-header-inside" class="clearfix">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="pre-header-area">
+                        <div class="region region-pre-header-first">
+                            <div id="block-block-5" class="block block-block clearfix">
+                            <h2>Quick Links</h2>
+                              <div class="content">
+                                <ul>
+                                    <li><a href="https://www.psych.uic.edu/contact" title="Contact Us">Contact Us</a></li>
+                                    <li><a href="https://www.psych.uic.edu/events" title="Events">Events</a></li>
+                                    <li><a href="http://www.psych.uic.edu/aboutus/directory" target="_blank" title="Directory">Directory</a></li>
+                                    <li><a href="http://www.psych.uic.edu/aboutus/directions" target="_blank" title="Directions">Directions</a></li>
+                                </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                   <div class="pre-header-area">
+                      <div class="region region-pre-header-second">
+                            <div id="block-block-6" class="block block-block clearfix">
+                                <div class="content">
+                                <h2>Tools</h2>
+                                <ul>
+                                    <li><a href="https://employee.psych.uic.edu" target="_blank" title="Employee Self-Service Portal">Employee Self-Service Portal</a></li>
+                                    <li><a href="https://employee.hospital.uic.edu/" target="_blank" title="Hospital Employee Portal">Hospital Employee Portal</a></li>
+                                    <li><a href="https://intranet.psych.uic.edu/sickvacation/index.aspx" target="_blank" title="Sick and Vacation Module">Sick and Vacation Module</a></li>
+                                    <li><a href="https://terminal.psych.uic.edu/RDWeb/Pages/en-US/login.aspx" target="_blank" title="Psych Cloud">Psych Cloud</a></li>
+                                    <li><a href="http://www.obfs.uillinois.edu/tem-resources/" target="_blank" title="Login to TEM">Login to TEM</a></li>
+                                </ul>
+                                </div>
+                            </div>
+                      </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="pre-header-area">
+                        <div class="region region-pre-header-third">
+                           <div id="block-block-7" class="block block-block clearfix">
+                            <h2>Support Us</h2>
+                              <div class="content">
+                                <ul>
+                                    <li><a href="https://www.psych.uic.edu/support-us/donate" title="Donate">Donate</a></li>
+                                    <li><a href="https://www.psych.uic.edu/support-us/participate-in-research" title="Participate in Research">Participate in Research</a></li>
+                                    <li><a href="https://www.psych.uic.edu/support-us/volunteer" title="Volunteer">Volunteer</a></li>
+                                </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+        </div>
+     </div>
+ </div>
+   <div class="toggle-control"><a href="javascript:showPreHeader()" title="View more" aria-label="More Quick Links"><span class="glyphicon glyphicon-plus"></span></a></div>
+</div>
+<!-- EOF: #pre-header -->
+
+
+<!-- #header-top -->
+
+
+
+              
+
+
+
+
+
+<div id="header-top" class="hidden-xs hidden-sm clearfix">
+    <div class="container">
+        <!-- #header-top-inside -->
+        <div id="header-top-inside" class="clearfix">
+            <div class="row">
+                    <div class="col-md-12">
+                    <!-- #header-top-left     -->
+                    <div id="header-top-left" class="clearfix">
+
+                        <div id="headerlogo">
+                                <!-- primary logo  -->
+                                <a class="navbar-brand" href="https://www.psych.uic.edu" title="UIC Department of Psychiatry"><img class="mainlogo" src="/sites/all/themes/custom/uicpsych2017_theme/images/logo/psych-white-lg-secondary-200w.png" style="background-size: cover; position: relative; background-position: center;" alt="UIC Department of Psychiatry">
+                                </a>
+                            </div>
+
+                    </div>
+                    <!-- EOF:#header-top-left -->
+                </div>
+                <div class="col-md-12">
+                    <!-- #header-top-right -->
+                    <div id="header-top-right" class="clearfix">
+                         <nav class="navbar" role="navigation" id="uicpsych-top-menu">
+                            <div class="container">
+                               <div class="collapse navbar-collapse" id="uicpsych-menu-toplinks">
+                                  <ul class="nav navbar-nav navbar-right" data-sm-skip="true">
+                                    <li><a href="https://www.psych.uic.edu/support-us/donate" title="Donate" aria-label="Donate"><i class="glyphicon glyphicon-gift"></i> Giving</a></li>
+                                    <li><a href="https://www.psych.uic.edu/events" title="Psychiatry Events" aria-label="Psychiatry Events"><i class="glyphicon glyphicon-calendar"></i> Events</a></li>
+                                    <li><a href="#psych-websites" title="Psychiatry Affliated Websites" aria-label="Psychiatry Affliated Websites"><i class="glyphicon glyphicon-globe"></i> Our Websites</a></li>
+                                    <li><a href="https://www.psych.uic.edu/directory" title="Psychiatry Directory" aria-label="Psychiatry Directory"><i class="glyphicon glyphicon-user"></i> Directory</a></li>
+                                    <li><a href="https://www.psych.uic.edu/about-us/directions" title="Directions"  aria-label="Directions"><i class="glyphicon glyphicon-map-marker"></i> Directions</a></li>
+                                    <li><a href="https://www.psych.uic.edu/about-us/contact-us" title="Contact Us" aria-label="Contact Us"><i class="glyphicon glyphicon-phone-alt"></i> Contact Us</a></li>
+                                    <li><a href="https://www.psych.uic.edu/search/uicpsych" title="Search Department of Psychiatry Content" aria-label="Search Department of Psychiatry Content"><i class="glyphicon glyphicon-search"></i> Search</a></li>
+                                                                      </ul>
+                                </div>
+                            </div>
+                          </nav>
+                        </div>
+                    </div>
+                    <!-- EOF:#header-top-right -->
+                </div>
+            </div>
+
+        <!-- EOF: #header-top-inside -->
+        </div>
+    </div>
+</div>
+<!-- EOF: #header-top -->
+
+
+
+<!-- #main-navigation -->
+
+
+
+  
+
+    <div id="main-navigation" class="clearfix">
+    <!-- Navigation -->
+    <nav class="navbar" role="navigation" id="uicpsych-nav-main">
+        <div class="container">
+                <div class="navbar-header">
+                      <div class="mobile-icons">
+                          <div class="psych-icons" style="display:none;">
+                            <ul>
+                              <li><a href="https://www.psych.uic.edu/support-us/donate" title="Donate" aria-label="Donate"><i class="glyphicon glyphicon-gift"></i></a></li>
+                            <li><a href="https://www.psych.uic.edu/events" title="Psychiatry Events" aria-label="Psychiatry Events"><i class="glyphicon glyphicon-calendar"></i></a></li>
+                            <li><a href="https://www.psych.uic.edu/directory" title="Psychiatry Directory" aria-label="Psychiatry Directory" ><i class="glyphicon glyphicon-user"></i></a></li>
+                             </ul>
+                          </div>
+                          <button type="button" class="navbar-toggle pull-right" data-toggle="collapse" data-target="#uicpsych-main-menu" aria-label="Mobile menu">
+                            <span class="sr-only" aria-label="Mobile menu">Toggle navigation</span>
+                            <span class="icon-bar" aria-label="Mobile menu"></span>
+                            <span class="icon-bar" aria-label="Mobile menu"></span>
+                            <span class="icon-bar" aria-label="Mobile menu"></span>
+                          </button>
+                      </div>
+
+                      <a class="navbar-brand col-xs-6 col-sm-8 hidden-lg hidden-md" href="https://www.psych.uic.edu" title="UIC Department of Psychiatry"><img src="/sites/all/themes/custom/uicpsych2017_theme/images/logo/psych-logo-white-small.png" style="width:130px;margin-top:-15px;" alt="UIC Department of Psychiatry"></a>
+                </div>
+
+                <div class="navbar-collapse collapse" id="uicpsych-main-menu" data-path="/profile/alex-leow">
+                                        <div id="headerlogo-small" style="position: absolute;" class="hidden-xs hidden-sm">
+                      <a href="https://www.psych.uic.edu" data-drupal-link-system-path="<front>" title="UIC Department of Psychiatry">
+                        <img src="/sites/all/themes/custom/uicpsych2017_theme/images/logo/psych-logo-white-small.png" alt="UIC Department of Psychiatry">
+                      </a>
+                    </div>
+                    
+                    <ul class="nav navbar-nav navbar-right">
+                        <!-- li class="first" id="main-menu-home"><a href="homepage.html">Home</a></li -->
+                        <li><a href="https://www.psych.uic.edu/about-us" title="About the Department of Psychiatry">About Us <!--span class="caret"></span --></a>
+                            <!-- ul class="dropdown-menu">
+                                <li><a href="https://www.psych.uic.edu/about-us#about-us-message">Message from the Head</a></li>
+                                <li><a href="https://www.psych.uic.edu/about-us#about-us-mission">Mission Statement</a></li>
+                                <li><a href="https://www.psych.uic.edu/about-us#about-us-vision">Vision Statement</a></li>
+                                <li><a href="https://www.psych.uic.edu/about-us#about-us-values">Values Statement</a></li>
+                                <li><a href="https://www.psych.uic.edu/about-us#about-us-history">History</a></li>
+                            </ul -->
+                        </li>
+                        <!-- li><a href="http://www.psych.uic.edu/for-patients" target="_blank" title="For Patients, help starts here">For Patients</a></li -->
+                        <li><a href="https://www.psych.uic.edu/clinical" title="Clinical" title="Clinical">Clinical <span class="caret"></span></a>
+                          <ul class="dropdown-menu">
+                                <li><a href="https://www.psych.uic.edu/clinical/adult-services" title="Adult Services">Adult Services</a></li>
+                                <li><a href="https://www.psych.uic.edu/clinical/child-and-adolescent-services" title="Child and Adolescent Services">Child and Adolescent Services</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="https://www.psych.uic.edu/education" title="Education">Education <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="https://www.psych.uic.edu/education/general-psychiatry-residency" title="General Psychiatry Residency"><span class="caret"></span> General Psychiatry Residency</a>
+                                  <ul class="dropdown-menu subcat">
+                                      <li><a href="https://www.psych.uic.edu/node/321" title="Child and Adolescent">Child and Adolescent</a></li>
+                                      <li><a href="https://www.psych.uic.edu/node/313" title="Clinician-Educatork">Clinician-Educator</a></li>
+                                      <li><a href="https://www.psych.uic.edu/node/607" title="Interventional Psychiatry">Interventional Psychiatry</a></li>
+                                      <li><a href="https://www.psych.uic.edu/node/316" title="Psychotherapy">Psychotherapy</a></li>
+                                      <li><a href="https://www.psych.uic.edu/node/314" title="Residency Research Track">Residency Research</a></li>
+                                      <li><a href="https://www.psych.uic.edu/node/399" title="Women’s Mental Health">Women’s Mental Health</a></li>
+                                  </ul>
+                                </li>
+                                <li><a href="https://www.psych.uic.edu/education/psychiatry-fellowships" title="Psychiatry Fellowships">Psychiatry Fellowships</a></li>
+                                <li><a href="https://www.psych.uic.edu/education/medical-student-education" title="Medical Student Education">Medical Student Education</a></li>
+                                <li><a href="https://www.psych.uic.edu/education/psychology-training-programs" title="Psychology Training Programs">Psychology Training Programs</a></li>
+                                <li><a href="https://www.psych.uic.edu/education/social-work-training" title="Social Work Training">Social Work Training</a></li>
+                                <li><a href="https://www.psych.uic.edu/education/continuing-education" title="Continuing Education">Continuing Education</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                          <a href="https://www.psych.uic.edu/research" title="Research">Research <span class="caret"></span></a>
+                          <ul class="dropdown-menu">
+                            <li><a href="https://www.psych.uic.edu/research#research-centers" title="Research Centers">Research Centers</a></li>
+                            <li><a href="https://www.psych.uic.edu/research#research-programs" title="Research Programs">Research Programs</a></li>
+                            <li><a href="https://www.psych.uic.edu/research#research-labs" title="Research Labs">Research Labs</a></li>
+                            <li><a href="https://www.psych.uic.edu/node/314" title="Residency Research Track">Residency Research Tracks</a></li>
+                          </ul>
+                        </li>
+                        <li><a href="https://www.psych.uic.edu/institute-for-juvenile-research" title="Institute for Juvenile Research">IJR</a></li>
+                        <li><a href="https://www.psych.uic.edu/support-us" title="Support Us">Support Us</a></li>
+                    </ul>
+                </div>
+            </div><!-- EOF: container -->
+        </nav>
+    <!-- EOF: #main-navigation-inside -->
+    </div>
+<!-- EOF: #main-navigation -->
+
+<!-- #banner -->
+                                 
+     
+
+                          
+        
+              
+    
+            
+    
+                
+
+<!-- EOF:#banner -->
+
+
+<!-- #page -->
+<div id="page" class="clearfix">
+        <!-- #top-content -->
+       <div id="top-content" class="clearfix">
+        <div class="container">
+
+            <!-- #top-content-inside -->
+            <div id="top-content-inside" class="clearfix">
+                <div class="row">
+                    <div class="col-md-12">
+                    
+                      <div class="region region-highlighted">
+    <div id="block-uicpsych2017-theme-breadcrumbs" class="block block-system block-system-breadcrumb-block clearfix uicpsych-breadcrumb">
+  
+    
+      <div class="content">
+                            
+                                                                    
+                                            <div class="container">
+                      <div class="row">
+                          <div class="col-md-12 col-lg-12">
+                          <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
+                                                    <ol class="cd-breadcrumb triangle pull-left">
+                          
+                                                                                    <li class="">
+                                                                      <a href="/" title="Home"><span class="glyphicon glyphicon-home"></span></a>
+                                                                  </li>
+                            
+                          
+                                                                                                                                                    <li class="current "><em>Profile</em></li>
+                                
+                            
+                          
+                                                                                                                                                    <li class="current "><em>Alex Leow</em></li>
+                                
+                            
+                          
+                                                                                                                                              
+                            
+                                                    </ol><!-- Page Heading/Breadcrumbs -->
+                          </div>
+                      </div>
+                    </div>
+                    
+
+    </div>
+  </div>
+
+  </div>
+
+                    </div>
+                </div>
+            </div>
+            <!-- EOF:#top-content-inside -->
+
+        </div>
+    </div>
+    <!-- EOF: #top-content -->
+    
+    <div id="page-start" class="clearfix page-start"></div>
+
+    <!-- #main-content -->
+          <div id="main-content">
+
+        
+
+
+        <div class="container">
+
+            <div class="row">
+                
+                <section class="col-md-12">
+
+                    <!-- #main -->
+                    <div id="main" class="clearfix">
+
+                        
+                        <!-- EOF:#content-wrapper -->
+                        <div id="content-wrapper">
+
+                                                              <div class="region region-content">
+    <div id="block-uicpsych2017-theme-content--2" class="block block-system block-system-main-block">
+  
+    
+      <div class="content">
+      
+<article data-history-node-id="62" role="profile" about="/profile/alex-leow" class="node node--type-profile node--promoted node--view-mode-full">
+  <div class="node__container">
+      
+      <header ><h2  class="node__title"><span class="field field--name-title field--type-string field--label-hidden">Alex Leow</span>
+<span class="occupation">
+                                                          MD                                                                          PhD                                               </span>        </h2></header>
+
+                                                                                      
+  <div class="row">
+    <div class="top-profile-info">
+          <div class="col-md-3">
+       <div class="profile-image-wrapper pull-left">
+         <img class="img-responsive" alt="Alex Leow" src="/sites/default/files/LeowAlex.jpg" />
+       </div>
+      </div>
+    
+      <div class="col-md-9">
+
+                <span class="profileLabel">Designation</span>
+        <ul class="profileInfo">
+                     <li><span class="designation">Associate Professor in Psychiatry and Bioengineering</span></li>
+                 </ul>
+        
+
+                <span class="profileLabel ">Contact Information</span>
+        <ul class="profileInfo "><li><i class="fa fa-envelope" aria-hidden="true"></i><span class="profileValue"><span class="spamspan"><span class="u">weihliao</span> [at] <span class="d">uic.edu</span></span></span></li><li><i class="fa fa-phone" aria-hidden="true"></i><span class="profileValue">(312) 768-8842 </span></li><li><i class="fa fa-hospital-o" aria-hidden="true"></i><span class="profileValue">
+                                 School of Public Health / Psychiatric Institute <strong>(SPHPI)</strong> <br />
+                   <span class="location_addr">1601 W. Taylor St.<br /></span><span class="location_addr">SPHPI MC 912<br ></span><span class="location_addr">Chicago IL 60612</span>
+                            </span></li>
+             
+                           <li><i class="fa fa-desktop" aria-hidden="true"></i><span class="profileValue">Room #:584</span></li>        </ul>
+        
+                
+
+
+        
+                          
+      </div>
+
+    </div>
+
+
+
+        
+  </div>
+
+
+  <div class="panel-group " id="accordion-profile" role="tablist" aria-multiselectable="true">
+             <div class="panel panel-default">
+          <div class="panel-heading" role="tab" id="headingOne">
+            <h4 class="panel-title">
+              <a role="button" data-toggle="collapse" data-parent="#accordion-profile" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                Overview
+              </a>
+            </h4>
+          </div>
+        <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+          <div class="panel-body">
+            <div  class="node__content">
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Joining the University in 2009, Dr. Leow received clinical training in Psychiatry and research training in biomedical imaging, both at UCLA. Having co-authored more than 70 articles, Dr. Leow's current research interests focus on developing novel probabilistic reconstruction, tractography, and network analyses techniques for high angular resolution diffusion imaging (HARDI) and their clinical applications. Prior to joining the faculty of the Departments of Psychiatry and Bioengineering at UIC, Dr. Leow was affiliated with the Laboratory of NeuroImaging (LONI) at UCLA, and developed several key high-dimensional non-linear image registration techniques. Dr. Leow continues to collaborate extensively with Professor Paul Thompson at LONI, Drs. Lori Altshuler and Jamie Feusner at the Department of Psychiatry at UCLA, Prof. Tony Simon at UC Davis, and Prof. Moo Chung at the University of Wisconsin-Madison, with joint projects investigating a wide range of neuropsychiatric illnesses including bipolar, late-life depression, Alzheimer's disease, body dysmorphic disorder, Fragile-X syndrome, and diabetes-related neuroimaging abnormalities. Besides research, Dr. Leow enjoys playing classical piano as both an amateur soloist and a chamber musician. Dr. Leow currently performs, as a piano trio, with another physician scientist Dr. Jennifer Goldman (violin) at <a href="http://doctors.rush.edu/directory/profile.asp?setsize=10&amp;pict_id=0006720">Rush University</a> and Grammy award winning Chicago Symphony Orchestra cellist (now retired) <a href="http://www.donaldmoline.com">Donald Moline</a>.</p>
+
+<div class="inlineVideo"><iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/l1DgbRWUcBM" width="560"></iframe><br /><span class="caption">Dr. Leow's solo performance at the 2011 Van Cliburn Amateur piano competition</span></div>
+</div>
+      </div>
+           </div>
+        </div>
+      </div>
+          
+      
+
+      
+            <div class="panel panel-default">
+        <div class="panel-heading" role="tab" id="headingFive">
+          <h4 class="panel-title">
+            <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion-profile" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+              Interests
+            </a>
+          </h4>
+        </div>
+        <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
+          <div class="panel-body">
+            <ul class="profileSection">
+                         <li>
+                <span class="label">psychiatry</span>
+                <span class="info"><p><span>Psychiatry practice and research, classical piano, mindfulness based therapy</span></p>
+</span>
+              </li>
+                      </ul>
+          </div>
+        </div>
+      </div>
+      
+
+            <div class="panel panel-default">
+        <div class="panel-heading" role="tab" id="headingProjects">
+          <h4 class="panel-title">
+            <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion-profile" href="#collapseProjects" aria-expanded="false" aria-controls="collapseProjects">
+              Projects
+            </a>
+          </h4>
+        </div>
+        <div id="collapseProjects" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingProjects">
+          <div class="panel-body">
+            <ul class="profileSection">
+                         <li>
+                <h5><strong>Bipolar/diabetes/depression neuroimaging</strong></h5>
+                                <hr>
+              </li>
+                         <li>
+                <h5><strong>Development of imaging and mathematical tools for multi-modal connectome analysis as part of the Collaborative Neuroimaging Environment for Connectomics (CoNECT) at UIC</strong></h5>
+                                <hr>
+              </li>
+                      </ul>
+          </div>
+        </div>
+      </div>
+      
+            <div class="panel panel-default">
+        <div class="panel-heading" role="tab" id="headingSix">
+          <h4 class="panel-title">
+            <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion-profile" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+              Publications
+            </a>
+          </h4>
+        </div>
+        <div id="collapseSix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSix">
+          <div class="panel-body">
+                        <ul class="profileSection profile-publication-list">
+                                                                                         <li>
+                                <p><strong>A. Leow</strong>, S.C. Huang, A. Geng, J. Becker, S. Davis, A. Toga, and P. Thompson (2005) Inverse consistent mapping in 3D deformable image registration: its construction and statistical properties,Information Processing in Medical Imaging. Lecture Notes in Computer Science 3565, pp. 493-503, 2005</p>
+
+<p><strong>Leow A</strong>, Klunder AD, Jack CR, Toga AW, Dale AM, Bernstein MA, Britson PJ, Gunter JL, Ward CP, Whitwell JL, Borowski B, Fleisher A, Fox NC, Harvey D, Kornak J, Schuff N, Studholme C, Alexander GE, Weiner MW, Thompson PM; For the ADNI Preparatory Phase Study (2005). Longitudinal Stability of MRI for Mapping Brain Change using Tensor-Based Morphometry, NeuroImage 2006; 31:627-40.</p>
+
+<p><strong>A Leow</strong>, M-C. Chiang, I. Yanovsky, AD Lee, A. Klunder, J. Becker, S. Davis, A. Toga, P. Thompson(2007) Statistical properties of Jacobian maps and the realization of unbiased large-deformation non-linear image registration. IEEE Transactions on Medical Imaging, vol. 26, no. 06, June 2007, pp 822-832.</p>
+
+<p>M.C. Chiang,&nbsp;<strong>A. Leow</strong>, R.A. Dutton, M. Barysheva, S. Rose, K.L. McMahon, G. I. de Zubicaray, A.W. Toga, and P.T. Thomspon (2007) Fluid registration of diffusion tensor images using information theory. IEEE Transactions on Medical Imaging, vol. 27(40), pp. 442-456.</p>
+
+<p>Xue Hua,&nbsp;<strong>Alex Leow</strong>, Jennifer G. Levitt, Rochelle Caplan, Paul M. Thompson, Arthur W. Toga (2007) Detecting brain growth patterns in normal children using tensor-based morphometry. Human Brain Mapping, vol. 30 (1), pp. 209-219.</p>
+
+<p>Hua X.,&nbsp;<strong>Leow, A.</strong>, Lee S., Klunder A.D., Toga, A.W., et al. 3D characterization of brain atrophy in Alzheimer’ s disease and mild cognitive impairment using tensor-Based morphometry. NeuroImage vol.41, pp. 19-34.</p>
+
+<p><strong>A. Leow</strong>, S. Zhu, L. Zhan, K. McMahon, G.I. de Zubicaray, M. Meredith, M.J. Wright, A.W. Toga, P.M. Thompson the Tensor distribution function. Magnetic Resonance in Medicine. 61(1), pp. 205-214</p>
+
+<p>X. Hua,&nbsp;<strong>A. Leow</strong>, N. Parikshak, S. Lee, M.C. Chiang, A.W. Toga, C.R. Jack Jr, M.W. Weiner, P.M. Thompson (2008). Tensor-Based Morphometry as a Neuroimaging Biomarker for Alzheimer’ s Disease: An MRI Study of 676 AD, MCI, and Normal Subjects. Neuroimage vol. 43, pp. 458-469</p>
+
+<p><strong>Alex Leow</strong>, Igor Yanovsky, Neelroop Parikshak, Xue Hua, Suh Lee, Arthur W. Toga, Clifford R. Jack Jr., Matt A. Bernstein, Paula J. Britson, Jeffrey L. Gunter, Chadwick P. Ward, Bret Borowski, Leslie M. Shaw, John Q. Trojanowski, Adam S. Fleisher, Danielle Harvey, John Kornak, Norbert Schuff,Gene E. Alexander, Michael W. Weiner, Paul Thompson, Alzheimer’ s disease neuroimaging initiative: a one-year follow up study correlating degenerative rates, biomarkers, and cognition. NeuroImage vol.45, pp. 645-655</p>
+
+<p>Gogtay N, Lu A,&nbsp;<strong>Leow, A</strong>, Klunder AD, Lee AD, Chavez A, Greenstein D, Giedd JN, Toga AW, Rapoport JL, Thompson PM (2008) Three dimensional brain growth abnormalities in childhood- onset schizophrenia visualized by using tensor based morphometry. Proc, Natl. Acad Sci USA 105(41):15979-84. Epub 2008 Oct 13.</p>
+
+<p>Yanovsky, I,&nbsp;<strong>Leow, A</strong>, Lee, S, Osher, SA, Thompson PM (2009) Comparing Registration Methods for Mapping Brain Change using Tensor-Based Morphometry. Med Image Anal. 2009 Oct;13(5):679-700.</p>
+
+<p>Zhan L,&nbsp;<strong>Leow A</strong>&nbsp;(corresponding author), Zhu S, Barysheva M, Toga AW, McMahon K, de Zubicaray G, Wright M, Thompson PM (2009) Novel measures of fiber integrity based on the Tensor Distribution Function. To appear in MICCAI (Lecture Notes in Computer Science)</p>
+
+<p>Ho AJ* , Raji CA* , Parikshak N, Becker JT, Lopez OL, Kuller LH, Hua X,&nbsp;<strong>Leow A</strong>, Toga AW, Thompson PM (2009). Brain Structure and Obesity, Human Brain Mapping (Accepted July 2009)</p>
+
+<p>Xue Hua, Suh Lee, Igor Yanovsky,&nbsp;<strong>Alex Leow</strong>, Yi-Yu Chou, April J. Ho, Boris Gutman, Arthur W. Toga, Clifford R. Jack Jr, Matt A. Bernstein, Eric M. Reiman, Danielle J. Harvey, John Kornak, Norbert Schuff, Gene E. Alexander, Michael W. Weiner, Paul M. Thompson and the Alzheimer's Disease Neuroimaging Initiative (2009) OPtimizaing power to track brain degeneration in Alzheimer’ s disease and mild cognitive impairment with tensor-based morphometry: An ADNI study of 515 subjects. In press (NeuroImage)</p>
+
+<p>Jason L. Stein, Xue Hua, Suh Lee, April J. Ho,&nbsp;<strong>Alex D. Leow</strong>, Arthur W. Toga, Andrew J. Saykin, Li Shen, Tatiana Foroud, Nathan Pankratz, Matthew J. Huentelman, David W. Craig, Jill D. Gerber, April N. Allen, Jason J. Corneveaux, Bryan M. DeChairo, Steven G. Potkin, Michael W. Weiner, Paul M. Thompson and the Alzheimer's Disease Neuroimaging Initiative (2010). Voxelwise Genome-wide association study (vGWAS). In press (neuroImage)</p>
+
+<p>Jason L. Stein, Xue Hua, Jonathan H. Morra, Suh Lee, Derrek P. Hibar, April J. Ho,&nbsp;<strong>Alex D. Leow</strong>, Arthur W. Toga, Jae Hoon Sul, Hyun Min Kang, Eleazar Eskin, Andrew J. Saykin, Li Shen, Tatiana Foroud, Nathan Pankratz, Matthew J. Huentelman, David W. Craig, Jill D. Gerber, April N. Allen, Jason J. Corneveaux, Dietrich A. Stephan, Jennifer Webster, Bryan M. DeChairo, Steven G. Potkin, Clifford R. Jack Jr., Michael W. Weiner, Paul M. Thompson and the Alzheimer's Disease Neuroimaging Initiative (2010). Genome-wide analysis reveals novel genes influencing temporal lobestructure with relevance to neurodegeneration in Alzheimer's disease. In press (NeuroImage).</p>
+
+<p>Xue Hua, PhD; Suh Lee, BS; Derrek P Hibar, BS; Igor Yanovsky, PhD;&nbsp;<strong>Alex D Leow</strong>, M D PhD; Arthur W Toga, PhD; Clifford R Jack Jr, MD; Matt A Bernstein, PhD; Eric M Reiman, MD; Danielle J Harvey, PhD; John Kornak, PhD; Norbert Schuff, PhD; Gene E Alexander, PhD; Michael W Weiner, MD, Paul Thompsom (2010) Mapping Alzheimer's Disease Progression in 1309 MRI Scans: PowerEstimates for Different Inter-Scan Intervals. In press (neuroimage)</p>
+
+<p>Zhan L,&nbsp;<strong>Leow AD</strong>, Jahanshad N, Chiang MC, Barysheva M, Lee AD, Toga AW, McMahon KL, de Zubicaray GI, Wright MJ, Thompson PM. How does angular resolution affect diffusion imaging measures? Neuroimage. 2010 Jan 15;49(2):1357-71</p>
+
+<p>Lu PH, Thompson PM,&nbsp;<strong>Leow A</strong>, Lee GJ, Lee A, Yanovsky I, Parikshak N, Khoo T, Wu S, Geschwind D, Bartzokis G. Apolipoprotein E Genotype is Associated with Temporal and Hippocampal Atrophy Rates in Healthy Elderly Adults: A Tensor-Based Morphometry Study.J Alzheimers Dis. 2010 Nov 23.</p>
+
+<p>Ho AJ, Stein JL, Hua X, Lee S, Hibar DP,&nbsp;<strong>Leow AD</strong>, Dinov ID, Toga AW, Saykin AJ, Shen L, Foroud T, Pankratz N, Huentelman MJ, Craig DW, Gerber JD, Allen AN, Corneveaux JJ, Stephan DA, DeCarli CS, DeChairo BM, Potkin SG, Jack CR Jr, Weiner MW, Raji CA, Lopez OL, Becker JT, Carmichael OT, Thompson PM; Alzheimer's Disease Neuroimaging Initiative. A commonly carried allele of the obesity-related FTO gene is associated with reduced brain volume in the healthy elderly.Proc Natl Acad Sci U S A. 2010 May 4;107(18):8404-9.</p>
+
+<p>Sowell ER,&nbsp;<strong>Leow AD</strong>, Bookheimer SY, Smith LM, O'Connor MJ, Kan E, Rosso C, Houston S, Dinov ID, Thompson PM. Differentiating prenatal exposure to methamphetamine and alcohol versus alcohol and not methamphetamine using tensor-based brain morphometry and discriminant analysis.J Neurosci. 2010 Mar 17;30(11):3876-85.</p>
+
+<p>Hua X, Lee S, Hibar DP, Yanovsky I,&nbsp;<strong>Leow AD</strong>, Toga AW, Jack CR Jr, Bernstein MA, Reiman EM, Harvey DJ, Kornak J, Schuff N, Alexander GE, Weiner MW, Thompson PM; Alzheimer's Disease Neuroimaging Initiative. Mapping Alzheimer's disease progression in 1309 MRI scans: powerestimates for different inter-scan intervals.Neuroimage. 2010 May 15;51(1):63-75. Epub 2010 Feb 6.<br />
+<br />
+<strong>A. Leow</strong>, L. Zhan, D. Arienzo, J.J. GadElkarim, A.F. Zhang, O. Ajilore, A. Kumar, P.M. Thompson, J.D. Feusner Hierarchical structural mapping for globally optimized estimation of functional networks. &nbsp;Med Image Comput Comput Assist Interv. MICCAI (2) 2012: 228-236&nbsp;<br />
+<br />
+Johnson J. GadElkarim, Dan Schonfeld, Olusola Ajilore, Liang Zhan, Aifeng Zhang, Jamie Feusner, Paul Thompson, Tony Simon, Anand Kumar, and&nbsp;<strong>Alex Leow</strong>. A Framework for Quantifying Node-Level Community Structure Group Differences in Brain Connectivity Networks. Med Image Comput Comput Assist Interv. MICCAI (2) 2012: 196-203&nbsp;<br />
+<br />
+<strong>Alex Leow</strong>, Olusola Ajilore, Liang Zhan, Donatello Arienzo, Johnson GadElkarim, Aifeng Zhang, Teena Moody, John Van Horn, Jamie Feusner, Anand Kumar, Paul Thompson, Lori Altshuler Impaired inter-hemispheric integration in bipolar disorder revealed using brain network analyses. Biological Psychiatry 2012 Nov 1. [Epub ahead of print]<br />
+<br />
+Torgerson CM, Irimia&nbsp;<strong>A, Leow</strong>&nbsp;AD, Bartzokis G, Moody TD, Jennings RG, Alger JR, Van Horn JD, Altshuler LL.DTI tractography and white matter fiber tract characteristics in euthymic bipolar I patients and healthy control subjects. Brain Imaging Behav. 2012 Oct 16. [Epub ahead of print]<br />
+<br />
+Jamie Feusner, Donatello Arienzo, Wei Li, Liang Zhan, Johnson GadElkarim, Paul Thompson,&nbsp;<strong>Alex Leow</strong>&nbsp;(2012) White matter microstructure in body dysmorphic disorder and its clinical correlates. Accepted and to appear in Psychiatric Research: Neuroimaging<br />
+<br />
+Zhan L, Jahanshad N, Ennis DB, Jin Y, Bernstein MA, Borowski BJ, Jack CR Jr, Toga AW,&nbsp;<strong>Leow AD</strong>, Thompson PM. Angular versus spatial resolution trade-offs for diffusion imaging under time constraints. Hum Brain Mapp. 2012 Apr 21. [Epub ahead of print]<br />
+<br />
+Arienzo D,&nbsp;<strong>Leow A</strong>, Brown JA, Zhan L, Gadelkarim J, Hovav S, Feusner JD. Abnormal Brain network organization in body dysmorphic disorder. Neuropsychopharmacology. 2013 Jan 15.<br />
+<br />
+Zhang AF, Ajilore O, GadElkarim J, Zhan L, Yang SL,&nbsp;<strong>Leow A</strong>, Kumar, A. &nbsp;White Matter Tract Integrity of Anterior limb of Internal Capsule in Major Depression and Type 2 Diabetes. Accepted and to appear in Neuropsychopharmacology.<br />
+<br />
+Gadelkarim J, Ajilore O, Schonfeld D, Zhan L, Thompson P, Feusner J, Kumar A, Altshuler L,&nbsp;<strong>Leow A</strong>. Investigating Brian community structure abnormalities in bipolar disorder using path length associated community estimation. Human Brain Mapping (in press).</p>
+
+              </li>
+                                    </ul>
+          </div>
+        </div>
+      </div>
+      
+      
+            <div class="panel panel-default">
+        <div class="panel-heading" role="tab" id="headingNine">
+          <h4 class="panel-title">
+            <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion-profile" href="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
+              Research Center / Program / Lab
+            </a>
+          </h4>
+        </div>
+        <div id="collapseNine" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingNine">
+          <div class="panel-body">
+            <ul class="profileSection">
+                         <li>
+
+                <span class="icon-research"></span>
+                <span class="info">
+                  <a href="https://brain.uic.edu/" target="_blank" title="the CoNECt lab">the CoNECt lab</a>
+                </span>
+
+                <span class="info">
+                  <p>The Collaborative Neuroimaging Environment for Connectomics at the University of Illinois Chicago (CoNECt@UIC) is an interdisciplinary team of researchers and clinicians devoted to improving our understanding of brain connectivity using novel techniques from neuroimaging and computational neuroscience. We apply these innovative brain mapping methods to elucidate network-based mechanisms associated with a wide variety of clinical conditions and develop new technology-based treatments to address these mechanisms.</p>
+
+                </span>
+              </li>
+                      </ul>
+          </div>
+        </div>
+      </div>
+      
+            <div class="views-element-container">        <div class="panel panel-default">
+        <div class="panel-heading" role="tab" id="headingRschProjects">
+          <h4 class="panel-title">
+            <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion-profile" href="#collapseRschProjects" aria-expanded="false" aria-controls="collapseRschProjects">
+              Research Projects
+            </a>
+          </h4>
+        </div>
+        <div id="collapseRschProjects" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingRschProjects">
+          <div class="panel-body">
+              <div id="embed-resp-table">
+              <div class="row">
+              <div class="col-xs-12">
+              <div class="table-responsive">
+              <table class="table table-hover" cellspacing="0" width="100%">
+                <thead>
+                  <tr>
+                    <td>Title</td>
+                    <td>Description</td>
+                    <td>Investigator(s)</td>
+                    <td>Category</td>
+                    <td>Status</td>
+                  </tr>
+                </thead>
+                <tbody>
+                                   
+
+  
+
+
+
+
+
+
+
+<tr>
+    <td>
+                BiAffect            </td>
+    <td><span></span></td>
+    <td>
+          <ul class="profileSection">
+              <li style="display: inline-block !important;">
+                  <span class="icon-research">PI</span>
+                            <a href="/profile/olusola-ajilore">Olusola Ajilore</a>
+                        <span class="occupation">
+                               MD
+                               PhD
+                          </span>
+                            </li>
+              <li style="display: inline-block !important;">
+                  <span class="icon-research">PI</span>
+                            <a href="/profile/alex-leow">Alex Leow</a>
+                        <span class="occupation">
+                               MD
+                               PhD
+                          </span>
+                            </li>
+          </ul>
+    </td>
+    <td><span>the CoNECt lab</span></td>
+    <td><span>On-going</span></td>
+</tr>
+
+                                   
+
+  
+
+
+
+
+
+
+
+<tr>
+    <td>
+                Connectome Visualization            </td>
+    <td><span></span></td>
+    <td>
+          <ul class="profileSection">
+              <li style="display: inline-block !important;">
+                  <span class="icon-research">PI</span>
+                            <a href="/profile/olusola-ajilore">Olusola Ajilore</a>
+                        <span class="occupation">
+                               MD
+                               PhD
+                          </span>
+                            </li>
+              <li style="display: inline-block !important;">
+                  <span class="icon-research">PI</span>
+                            <a href="/profile/alex-leow">Alex Leow</a>
+                        <span class="occupation">
+                               MD
+                               PhD
+                          </span>
+                            </li>
+          </ul>
+    </td>
+    <td><span>the CoNECt lab</span></td>
+    <td><span>On-going</span></td>
+</tr>
+
+                                   
+
+  
+
+
+
+
+
+
+
+<tr>
+    <td>
+                Connectomics of Mood Disorders            </td>
+    <td><span></span></td>
+    <td>
+          <ul class="profileSection">
+              <li style="display: inline-block !important;">
+                  <span class="icon-research">PI</span>
+                            <a href="/profile/olusola-ajilore">Olusola Ajilore</a>
+                        <span class="occupation">
+                               MD
+                               PhD
+                          </span>
+                            </li>
+              <li style="display: inline-block !important;">
+                  <span class="icon-research">PI</span>
+                            <a href="/profile/alex-leow">Alex Leow</a>
+                        <span class="occupation">
+                               MD
+                               PhD
+                          </span>
+                            </li>
+          </ul>
+    </td>
+    <td><span>the CoNECt lab</span></td>
+    <td><span>On-going</span></td>
+</tr>
+
+                                   
+
+  
+
+
+
+
+
+
+
+<tr>
+    <td>
+                DiaBetty            </td>
+    <td><span></span></td>
+    <td>
+          <ul class="profileSection">
+              <li style="display: inline-block !important;">
+                  <span class="icon-research">PI</span>
+                            <a href="/profile/olusola-ajilore">Olusola Ajilore</a>
+                        <span class="occupation">
+                               MD
+                               PhD
+                          </span>
+                            </li>
+              <li style="display: inline-block !important;">
+                  <span class="icon-research">PI</span>
+                            <a href="/profile/alex-leow">Alex Leow</a>
+                        <span class="occupation">
+                               MD
+                               PhD
+                          </span>
+                            </li>
+          </ul>
+    </td>
+    <td><span>the CoNECt lab</span></td>
+    <td><span>On-going</span></td>
+</tr>
+
+                                   
+
+  
+
+
+
+
+
+
+
+<tr>
+    <td>
+                Machine Learning-Deep Learning            </td>
+    <td><span></span></td>
+    <td>
+          <ul class="profileSection">
+              <li style="display: inline-block !important;">
+                  <span class="icon-research">PI</span>
+                            <a href="/profile/olusola-ajilore">Olusola Ajilore</a>
+                        <span class="occupation">
+                               MD
+                               PhD
+                          </span>
+                            </li>
+              <li style="display: inline-block !important;">
+                  <span class="icon-research">PI</span>
+                            <a href="/profile/alex-leow">Alex Leow</a>
+                        <span class="occupation">
+                               MD
+                               PhD
+                          </span>
+                            </li>
+          </ul>
+    </td>
+    <td><span>the CoNECt lab</span></td>
+    <td><span>On-going</span></td>
+</tr>
+
+                                   
+
+  
+
+
+
+
+
+
+
+<tr>
+    <td>
+                Neuromodulation            </td>
+    <td><span></span></td>
+    <td>
+          <ul class="profileSection">
+              <li style="display: inline-block !important;">
+                  <span class="icon-research">PI</span>
+                            <a href="/profile/olusola-ajilore">Olusola Ajilore</a>
+                        <span class="occupation">
+                               MD
+                               PhD
+                          </span>
+                            </li>
+              <li style="display: inline-block !important;">
+                  <span class="icon-research">PI</span>
+                            <a href="/profile/alex-leow">Alex Leow</a>
+                        <span class="occupation">
+                               MD
+                               PhD
+                          </span>
+                            </li>
+          </ul>
+    </td>
+    <td><span>the CoNECt lab</span></td>
+    <td><span>On-going</span></td>
+</tr>
+
+                                   
+
+  
+
+
+
+
+
+
+
+<tr>
+    <td>
+                Virtual Reality            </td>
+    <td><span></span></td>
+    <td>
+          <ul class="profileSection">
+              <li style="display: inline-block !important;">
+                  <span class="icon-research">PI</span>
+                            <a href="/profile/olusola-ajilore">Olusola Ajilore</a>
+                        <span class="occupation">
+                               MD
+                               PhD
+                          </span>
+                            </li>
+              <li style="display: inline-block !important;">
+                  <span class="icon-research">PI</span>
+                            <a href="/profile/alex-leow">Alex Leow</a>
+                        <span class="occupation">
+                               MD
+                               PhD
+                          </span>
+                            </li>
+          </ul>
+    </td>
+    <td><span>the CoNECt lab</span></td>
+    <td><span>On-going</span></td>
+</tr>
+
+                                </tbody>
+              </table>
+              </div>
+              </div>
+              </div>
+              </div>
+          </div>
+        </div>
+      </div>
+      <!-- EOF: articles-bycontributor -->
+
+</div>
+
+
+      
+
+            <div class="views-element-container">        <div class="panel panel-default">
+        <div class="panel-heading" role="tab" id="headingEleven">
+          <h4 class="panel-title">
+            <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion-profile" href="#collapseEleven" aria-expanded="false" aria-controls="collapseEleven">
+              In the News
+            </a>
+          </h4>
+        </div>
+        <div id="collapseEleven" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingEleven">
+          <div class="panel-body">
+              <div id="embed-resp-table">
+              <div class="row">
+              <div class="col-xs-12">
+              <div class="table-responsive">
+              <table class="table table-hover" cellspacing="0" width="100%">
+                <thead>
+                  <tr>
+                    <td>Date Released</td>
+                    <td>Title</td>
+                    <td>Source</td>
+                  </tr>
+                </thead>
+                <tbody>
+                                   
+<tr>
+    <td><span>09/24/2019</span></td>
+    <td class="node_title"><a href="https://www.psych.uic.edu/in-the-news/a-fitbit-for-your-brain-uic-psych-lab-develops-free-artificial-intelligence-apps-to-help-address-mental-health-crisis">A Fitbit For Your Brain? UIC Psych Lab Develops Free Artificial Intelligence Apps To Help Address Mental Health Crisis</a>
+            </td>
+    <td><span>Block Club Chicago </span></td>
+</tr>
+
+                                   
+<tr>
+    <td><span>01/23/2019</span></td>
+    <td class="node_title"><a href="https://www.psych.uic.edu/in-the-news/correction-growing-up-digital-smartphone-psychiatry-story">Correction: Growing Up Digital-Smartphone Psychiatry story</a>
+            </td>
+    <td><span>The Associated Press </span></td>
+</tr>
+
+                                   
+<tr>
+    <td><span>10/11/2018</span></td>
+    <td class="node_title"><a href="https://www.psych.uic.edu/in-the-news/can-typos-give-insight-into-your-mental-health">Can Typos Give Insight Into Your Mental Health?</a>
+            </td>
+    <td><span>The Wall Streeet Journal </span></td>
+</tr>
+
+                                   
+<tr>
+    <td><span>09/27/2017</span></td>
+    <td class="node_title"><a href="https://www.psych.uic.edu/in-the-news/does-amazon-alexa-have-a-future-in-diabetes-management-support">Does Amazon Alexa have a future in diabetes management support?</a>
+            </td>
+    <td><span>MidCity News </span></td>
+</tr>
+
+                                </tbody>
+              </table>
+              </div>
+              </div>
+              </div>
+              </div>
+          </div>
+        </div>
+      </div>
+      <!-- EOF: articles-bycontributor -->
+
+</div>
+
+
+            <div class="views-element-container"></div>
+
+
+
+      
+      
+    </div>
+  </div>
+    </div>
+</article>
+
+    </div>
+  </div>
+
+<div class="views-element-container block block-views block-views-blockuicpsych-team-uicpsych-team-bysubqueue" id="block-views-block-uicpsych-team-uicpsych-team-bysubqueue">
+  
+    
+      <div class="content">
+      <div>  
+</div>
+
+    </div>
+  </div>
+
+<div class="views-element-container block block-views block-views-blockuicpsych-gallery-uicpsych-media-gallery-vtimeline-slideshow" id="block-views-block-uicpsych-gallery-uicpsych-media-vtimeline-slideshow">
+  
+    
+      <div class="content">
+      <div>  
+
+</div>
+
+    </div>
+  </div>
+
+
+  </div>
+
+                            
+
+                        </div>
+                        <!-- EOF:#content-wrapper -->
+
+                    </div>
+                    <!-- EOF:#main -->
+
+                </section>
+
+                
+            </div>
+
+        </div>
+    </div>
+
+    <!-- EOF:#main-content -->
+
+            <section id="profile-bottom-links">
+                <div class="container">
+                    <div class="services-box">
+                        <div class="row wow fadeInUp" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
+                            <div class="col-md-4">
+                                <div class="media-left"><span class="icon"><i class="fa fa-address-book-o fa-2x" aria-hidden="true"></i></span></div>
+                                <div class="media-body">
+                                    <h3>Directory</h3>
+                                    <ul class="plain">
+                                      <li><a href="/directory/faculty">Faculty</a></li>
+                                      <li><a href="/directory/staff">Staff</a></li>
+                                      <li><a href="/directory/organization">Organization</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="media-left"><span class="icon"><i class="fa fa-calendar-check-o fa-2x" aria-hidden="true"></i></span></div>
+                                <div class="media-body">
+                                    <h3>News and Events</h3>
+                                    <ul class="plain">
+                                      <li><a href="/events">Events</a></li>
+                                      <li><a href="/node/1294">In the News</a></li>
+                                      <li><a href="/node/1293">Newsletters</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="media-left"><span class="icon"><i class="fa fa-heart fa-2x" aria-hidden="true"></i></span></div>
+                                <div class="media-body">
+                                    <h3>Support Us</h3>
+                                    <ul class="plain">
+                                      <li><a href="/support-us/donate">Donate</a></li>
+                                      <li><a href="/support-us/participate-in-research">Participate in Research</a></li>
+                                      <li><a href="/support-us/volunteer">Volunteer</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+    <!-- EOF: #profile-bottom-content -->
+
+</div>
+<!-- EOF:#page -->
+
+<!-- #footer -->
+<footer id="footer" class="clearfix">
+    <div class="container" id="quicklinks">
+
+        <!-- #footer-inside -->
+        <div id="footer-inside" class="clearfix" style="color:#f2f2f2;">
+            <div class="row">
+
+                <div class="col-md-3 col-xs-7">
+                    <div class="footer-area">
+                        <h5>Site Map</h5>
+                        <ul>
+                            <li><a href="https://www.psych.uic.edu/about-us" target="_blank" title="About the Department of Psychiatry">About Us</a></li>
+                            <!-- li><a href="http://www.psych.uic.edu/for-patients" target="_blank" title="For Patients, help starts here" >For Patients</a></li -->
+                            <li><a href="https://www.psych.uic.edu/clinical" title="Clinical">Clinical</a></li>
+                            <li><a href="https://www.psych.uic.edu/education" title="Education">Education</a></li>
+                            <li><a href="https://www.psych.uic.edu/research" title="Research">Research</a></li>
+                            <li><a href="https://www.psych.uic.edu/institute-for-juvenile-research" title="Institute for Juvenile Research">Institute for Juvenile Research</a></li>
+                            <li><a href="https://www.psych.uic.edu/support-us" title="Support Us">Support Us</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-md-3 col-xs-5">
+                    <div class="footer-area">
+                        <h5>Quick Links</h5>
+                        <ul>
+                            <li><a href="https://www.psych.uic.edu/about-us/contact-us" title="Contact Us">Contact Us</a></li>
+
+                            <li><a href="https://www.psych.uic.edu/directory" title="Directory">Faculty & Staff</a></li>
+                            <li><a href="https://www.psych.uic.edu/about-us/directions" title="Directions">Directions</a></li>
+                            <li><a href="https://www.psych.uic.edu/about-us/human-resources-faculty-affairs" title="Human Resources & Faculty Affairs">Human Resources & Faculty Affairs</a></li>
+                            <li><a href="https://www.psych.uic.edu/search/uicpsych" title="Search">Search</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+              <div class="col-md-3 col-xs-7">
+                    <div class="footer-area">
+                        <h5>News and Events</h5>
+                        <ul>
+                            <li><a href="https://www.psych.uic.edu/events" title="Upcoming Events">Upcoming Events</a></li>
+                            <li><a href="https://www.psych.uic.edu/about-us/newsletters" title="Newsletters">Newsletters</a></li>
+                            <li><a href="https://www.psych.uic.edu/about-us/in-the-news" title="Press Releases">Press Releases</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+              <div class="col-md-3 col-xs-5">
+                    <div class="footer-area">
+                        <h5>Support Us</h5>
+                        <ul class="support-us">
+                            <li><a href="https://www.psych.uic.edu/support-us/donate" title="Donate">Donate</a></li>
+                            <li><a href="https://www.psych.uic.edu/support-us/participate-in-research" title="Participate in Research">Participate in Research</a></li>
+                            <li><a href="https://www.psych.uic.edu/support-us/volunteer" title="Volunteer">Volunteer</a></li>
+                        </ul>
+
+                    <h5>Connect</h5>
+                    <ul class="list-unstyled list-inline list-social-icons">
+                        <li>
+                            <a href="https://twitter.com/PsychiatryUIC" target="_blank"><i class="fa fa-twitter-square fa-3x"></i></a>
+                        </li>
+                    </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row" style="margin-top:30px;">
+                <div class="col-md-6 col-xs-12">
+                    <div class="footer-area" id="psych-websites">
+                        <h5>Our Websites</h5>
+                        <ul class="websites">
+                            <!-- li><a href="http://rethinkmentalhealth.uic.edu/" target="_blank" title="Center on Community-based Family and Mental Health">Center on Community-based Family and Mental Health</a></li -->
+                            <li><a href="http://www.cmhsrp.uic.edu/health" target="_blank" title="Center on Psychiatric Disability and Co-Occurring Medical Conditions">Center on Psychiatric Disability and Co-Occurring Medical Conditions</a></li>
+                            <li><a href="https://www.center4healthandsdc.org" target="_blank" title="Center on Integrated Health Care and Self-Directed Recovery">Center on Integrated Health Care and Self-Directed Recovery</a></li>
+                            <li><a href="http://othweb.psych.uic.edu/csp/" target="_blank" title="Clinical Services in Psychopharmcology Program">Clinical Services in Psychopharmcology Program</a></li>
+                            <li><a href="https://gmhm.psych.uic.edu" target="_blank" title="Global Mental Health and Migration Research and Training Programs">Global Mental Health and Migration Research and Training Programs</a></li>
+                            <li><a href="http://www.cmhsrp.uic.edu/nrtc" target="_blank" title="National Research and Training Center">National Research and Training Center</a></li>
+                            <li><a href="https://uifightdepression.psych.uic.edu" target="_blank" title="UI Center on Depression and Resilience">UI Center on Depression and Resilience</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-md-3 col-xs-7">
+                    <div class="footer-area">
+                        <h5>Tools</h5>
+                        <ul>
+                            <li><a href="https://employee.psych.uic.edu" target="_blank" title="Employee Self-Service Portal">Psychiatry Employee Self-Service Portal</a></li>
+                            <li><a href="https://wrkflw.psych.uic.edu" target="_blank">Workflow Management System </a>(Onboarding / Offboarding)</li>
+                            <li><a href="https://employee.hospital.uic.edu/" target="_blank" title="Hospital Employee Portal">UI Hospital Employee Portal</a></li>
+                            <li><a href="https://intranet.psych.uic.edu/sickvacation/index.aspx" target="_blank" title="Sick and Vacation Module">Sick and Vacation Module</a></li>
+                            <li><a href="https://terminal.psych.uic.edu/RDWeb/Pages/en-US/login.aspx" target="_blank" title="Psych Cloud">Psych Cloud</a></li>
+                            <li><a href="http://www.obfs.uillinois.edu/tem-resources/" target="_blank" title="Login to TEM">Login to TEM</a></li>
+                       </ul>
+                    </div>
+                </div>
+
+
+
+                <div class="col-md-3 col-xs-5">
+                    <div class="footer-area">
+                    <!-- h5>Connect</h5>
+                    <ul class="list-unstyled list-inline list-social-icons">
+                        <li>
+                            <a href="#"><i class="fa fa-facebook-square fa-3x"></i></a>
+                        </li>
+                        <li>
+                            <a href="#"><i class="fa fa-linkedin-square fa-3x"></i></a>
+                        </li>
+                        <li>
+                            <a href="#"><i class="fa fa-twitter-square fa-3x"></i></a>
+                        </li>
+                        <li>
+                            <a href="#"><i class="fa fa-google-plus-square fa-3x"></i></a>
+                        </li>
+                    </ul -->
+
+
+                        <a href="http://www.uic.edu"><img src="/sites/all/themes/custom/uicpsych2017_theme/images/logo/uic-white-campus-secondary.png" style="width:150px;" alt="University of Illinois at Chicago"></a>
+
+                        <h5>Web Editor</h5>
+                        <ul class="list-unstyled list-inline list-social-icons">
+                                                            <li><a href="https://www.psych.uic.edu/user"  title="Login">Login</a></li>
+                                                    </ul>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+        <!-- EOF: #footer-inside -->
+
+    </div>
+</footer>
+<!-- EOF #footer -->
+
+
+<footer id="subfooter" class="clearfix">
+    <div class="container">
+
+        <!-- #subfooter-inside -->
+        <div id="subfooter-inside" class="clearfix">
+            <div class="row">
+                <div class="col-md-12">
+                    <!-- #subfooter-left -->
+                    <div class="subfooter-area pull-left">
+                        Copyright © 2020 <a href="http://www.psych.uic.edu" title="Department of Psychiatry" target="_blank">Department of Psychiatry</a> |  <a href="https://www.vpaa.uillinois.edu/resources/web_privacy" target="_blank" title="Privacy Statement">Privacy Statement</a>
+                    </div>
+                    <!-- EOF: #subfooter-left -->
+
+                    <!-- #subfooter-right -->
+                    <div class="subfooter-area pull-right">
+                        <a href="http://www.uic.edu/" target="_blank" title="University of Illinois at Chicago" >University of Illinois at Chicago</a> |  <a href="http://medicine.uic.edu/" target="_blank" title="College of Medicine">College of Medicine </a>
+                    </div>
+                    <!-- EOF: #subfooter-right -->
+
+                </div>
+            </div>
+        </div>
+        <!-- EOF: #subfooter-inside -->
+
+    </div>
+</footer>
+<!-- EOF:#subfooter -->
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/62","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","ajaxPageState":{"libraries":"addtoany\/addtoany,classy\/base,classy\/messages,core\/html5shiv,core\/normalize,eu_cookie_compliance\/eu_cookie_compliance,spamspan\/obfuscate,system\/base,uicpsych2017_theme\/animate,uicpsych2017_theme\/bootstrap,uicpsych2017_theme\/campus_alert_prod,uicpsych2017_theme\/global-styling,uicpsych2017_theme\/smartmenus,uicpsych2017_theme\/to-top,uicpsych2017_theme\/toggle,uicpsych2017_theme\/uicpsych-custom,uicpsych_ga\/uicpsych_ga,views\/views.ajax,views\/views.module","theme":"uicpsych2017_theme","theme_token":null},"ajaxTrustedUrl":[],"uicpsych_ga":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"eu_cookie_compliance":{"popup_enabled":true,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info\u0022\u003E\n  \u003Cdiv class =\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Ch2\u003ECookie Notice\u003C\/h2\u003E\n\u003Cp\u003EWe use cookies on this site to enhance your user experience. By continuing to browse without changing your browser settings to block or delete Cookies, you agree to the storing of Cookies and related technologies on your device. To learn more about cookies, \u003Ca href=\u0022https:\/\/www.psych.uic.edu\/about-us\/about-cookies\u0022\u003Eclick here\u003C\/a\u003E.\u003C\/p\u003E\n\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EUniversity of Illinois Web Privacy Notice\u003C\/button\u003E\n          \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003EI Agree\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022 \u003ENo, thanks\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info\u0022\u003E\n  \u003Cdiv class =\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EUniversity of Illinois Web Privacy Notice\u003C\/button\u003E\n          \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003EI Agree\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022 \u003ENo, thanks\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"https:\/\/www.vpaa.uillinois.edu\/resources\/web_privacy","popup_link_new_window":true,"popup_position":false,"popup_language":"en","store_consent":false,"better_support_for_screen_readers":false,"cookie_name":"","reload_page":false,"domain":"","popup_eu_only_js":false,"cookie_lifetime":100,"cookie_session":0,"disagree_do_not_show_popup":false,"method":"opt_in","whitelisted_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\n\u003Cp\u003EYou have given your consent for us to set cookies.\u003C\/p\u003E\n\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button\u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":false},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:8c8cc08b9f5f74dfa246f555c8f9014fe23f47a487bb6f4860f7c9029dfbb4de":{"view_name":"uicpsych_listing","view_display_id":"research_project_by_investigator","view_args":"62","view_path":"\/profile\/alex-leow","view_base_path":"uicdrlisting\/%","view_dom_id":"8c8cc08b9f5f74dfa246f555c8f9014fe23f47a487bb6f4860f7c9029dfbb4de","pager_element":0}}},"user":{"uid":0,"permissionsHash":"bc5ad7fe993611951f1ec2ffbe70f83f9c1f0ab7a7baf19a14f4771eda133ff3"}}</script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="/core/assets/vendor/domready/ready.min.js?v=1.0.8"></script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.2.1"></script>
+<script src="/core/assets/vendor/jquery-once/jquery.once.min.js?v=2.2.0"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=8.6.1"></script>
+<script src="/core/misc/drupal.js?v=8.6.1"></script>
+<script src="/core/misc/drupal.init.js?v=8.6.1"></script>
+<script src="https://static.addtoany.com/menu/page.js" async></script>
+<script src="/modules/contrib/addtoany/js/addtoany.js?v=8.6.1"></script>
+<script src="/core/misc/progress.js?v=8.6.1"></script>
+<script src="/core/modules/responsive_image/js/responsive_image.ajax.js?v=8.6.1"></script>
+<script src="/core/misc/ajax.js?v=8.6.1"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="/sites/all/themes/custom/uicpsych2017_theme/smartmenus/jquery.smartmenus.js?v=1.0.2"></script>
+<script src="/sites/all/themes/custom/uicpsych2017_theme/smartmenus/addons/bootstrap/jquery.smartmenus.bootstrap.js?v=1.0.2"></script>
+<script src="/sites/all/themes/custom/uicpsych2017_theme/js/custom/toggle.js?v=8.6.1"></script>
+<script src="/sites/all/themes/custom/uicpsych2017_theme/js/custom/carousel.js?v=1"></script>
+<script src="/sites/all/themes/custom/uicpsych2017_theme/js/plugins/lazyloader/lazyloader.js?v=1"></script>
+<script src="/sites/all/themes/custom/uicpsych2017_theme/js/plugins/Lightbox/dist/js/lightbox.min.js?v=1"></script>
+<script src="/sites/all/themes/custom/uicpsych2017_theme/js/plugins/owl-carousel/owl.carousel.min.js?v=1"></script>
+<script src="/sites/all/themes/custom/uicpsych2017_theme/js/plugins/waypoints/jquery.waypoints.min.js?v=1"></script>
+<script src="/sites/all/themes/custom/uicpsych2017_theme/js/plugins/WOW/dist/wow.min.js?v=1"></script>
+<script src="/sites/all/themes/custom/uicpsych2017_theme/js/plugins/html5lightbox/html5lightbox.js?v=1"></script>
+<script src="/sites/all/themes/custom/uicpsych2017_theme/js/custom/custom_uicpsych.js?v=1"></script>
+<script src="/sites/all/themes/custom/uicpsych2017_theme/js/custom/gtm-ajax.js?v=1"></script>
+<script src="/modules/custom/uicpsych/uicpsych_ga/js/uicpsych_ga.js?v=8.6.1"></script>
+<script src="/core/assets/vendor/jquery.cookie/jquery.cookie.min.js?v=1.4.1"></script>
+<script src="/modules/contrib/eu_cookie_compliance/js/eu_cookie_compliance.js?v=1"></script>
+<script src="/core/assets/vendor/jquery-form/jquery.form.min.js?v=4.22"></script>
+<script src="/core/modules/views/js/base.js?v=8.6.1"></script>
+<script src="/core/modules/views/js/ajax_view.js?v=8.6.1"></script>
+<script src="/modules/contrib/spamspan/js/spamspan.js?v=8.6.1"></script>
+<script src="//www.uic.edu/apps/web-alert/alert.js"></script>
+<script src="/sites/all/themes/custom/uicpsych2017_theme/js/custom/to-top.js?v=1.0.1"></script>
+
+  </body>
+</html>

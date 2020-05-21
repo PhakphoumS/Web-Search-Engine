@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin List -->
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Page:</strong>
+		<a href='/list.php?id=5&amp;page=1'>1</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=2'>2</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=3'>3</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=4'>4</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=5'>5</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=6'>6</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=7'>7</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=8'>8</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=9'>9</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=10'>10</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=11'>11</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=12'>12</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=13'>13</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=14'><strong>14</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=15'>15</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=16'>16</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=17'>17</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<div id='list_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin List List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1707'><img src='/resizedImages/500x280-crop-evolution.gif' alt='' title='Evolution of Behavior in a Simulated Environment' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1707'>Evolution of Behavior in a Simulated Environment</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=122'>Mike Papka</a>, <a href='/entry.php?id=79'>Sumit Das</a>, <a href='/entry.php?id=88'>Terry Franguiadakis</a><br>
+			July 1, 1994 - July 15, 1994<br><br>
+			This application enables CAVE users to view and interact with the behavior of various animats, virtual animals that exhibit behaviors similar to&hellip; <a href='/entry.php?id=1707'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1710'><img src='/resizedImages/500x280-crop-vis5d.jpg' alt='' title='The SIGGRAPH 94 Daily Weather Forecast' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1710'>The SIGGRAPH 94 Daily Weather Forecast</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=282'>Bill Hibbard</a>, <a href='/entry.php?id=72'>Steven Cohen</a>, Brian Paul, Andre Battaiola, Gregory Tripoli, Peter Pokrant<br>
+			July 1, 1994 - July 15, 1994<br><br>
+			Interactive 3D visualization has proved its value for finding and understanding problems with numerical simulations of the atmosphere. Scientists are&hellip; <a href='/entry.php?id=1710'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1711'><img src='/resizedImages/500x280-crop-molecular.gif' alt='' title='Interactive Molecular Modeling Using Real-Time Molecular Dynamics Simulations and Virtual Reality Computer Graphics' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1711'>Interactive Molecular Modeling Using Real-Time Molecular Dynamics Simulations and Virtual Reality Computer Graphics</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=76'>Carolina Cruz-Neira</a>, Paul Bash;eorge Lent<br>
+			July 1, 1994 - July 14, 1994<br><br>
+			Using real-time interactive molecular modeling and molecular dynamics simulations, this project demonstrates the docking of a drug molecule to its&hellip; <a href='/entry.php?id=1711'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1712'><img src='/resizedImages/500x280-crop-grind.jpg' alt='' title='Simulation of a Grinding Process in Virtual Reality' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1712'>Simulation of a Grinding Process in Virtual Reality</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=122'>Mike Papka</a>, Thomas Canifield, William Jester, John Rowlan, Edward Plaskacz<br>
+			July 1, 1994 - July 15, 1994<br><br>
+			Simulation of a grinding process in the CAVE enables users to explore a commonly used manufacturing process from an entirely new vantage point. An&hellip; <a href='/entry.php?id=1712'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1716'><img src='/resizedImages/500x280-crop-sandbox.gif' alt='' title='SANDBOX: Scientists Accessing Necessary Data Based on eXperimentation' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1716'>SANDBOX: Scientists Accessing Necessary Data Based on eXperimentation</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=10'>Andrew Johnson</a>, Farshad Fotouhi<br>
+			July 1, 1994 - July 15, 1994<br><br>
+			Scientific databases contain enormous amounts of data collected through experimentation. They are accessed by investigators from many disciplines&hellip; <a href='/entry.php?id=1716'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1717'><img src='/resizedImages/500x280-crop-crash.gif' alt='' title='Computational Modeling for Crashworthiness of Electric Vehicles Using Nonlinear Finite Element Methods' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1717'>Computational Modeling for Crashworthiness of Electric Vehicles Using Nonlinear Finite Element Methods</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=87'>Roger Engelman</a>, Bruce Engelmann, Robert Whirley<br>
+			July 1, 1994 - July 15, 1994<br><br>
+			This project uses transient nonlinear finite element analysis to model the crash-worthiness of a vehicle modified from gasoline to electric power&hellip; <a href='/entry.php?id=1717'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1719'><img src='/resizedImages/500x280-crop-41chapman.jpg' alt='' title='Using Virtual Reality For Machine Design' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1719'>Using Virtual Reality For Machine Design</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=111'>Gary Lindahl</a>, <a href='/entry.php?id=129'>Maggie Rawlings</a>, <a href='/entry.php?id=101'>Milana Huang</a>, R. Ingram, K. Ahlers, D. Stevenson, J. Bettner, D. Chapman, M. Novak, V. Lehner, M. VandeWiele, M. Larson, J. Lohmar<br>
+			July 1, 1994 - July 15, 1994<br><br>
+			Caterpillar, Inc. uses virtual reality as a tool for interactively evaluating new machine designs. Using virtual reality, the operator of a virtual&hellip; <a href='/entry.php?id=1719'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1720'><img src='/resizedImages/500x280-crop-40kerbel.gif' alt='' title='Scientific Visualization of Gyrofluid Tokamak Turbulence Simulation' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1720'>Scientific Visualization of Gyrofluid Tokamak Turbulence Simulation</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=23'>Alan Verlo</a>, G. Kerbel, R. Waltz, D. Shumaker, J. Milovich;. Hammett, M. Beer, The Numerical Tokamak Project Consortium<br>
+			July 1, 1994 - July 15, 1994<br><br>
+			High-performance algorithms for simulating and visualizing 3D plasma turbulence in magnetic fusion experiments have been developed as an aid in the&hellip; <a href='/entry.php?id=1720'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1721'><img src='/resizedImages/500x280-crop-02sandin.jpg' alt='' title='Getting Physical in Four Dimensions' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1721'>Getting Physical in Four Dimensions</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=114'>Joanna Mason</a>, <a href='/entry.php?id=13'>Louis H. Kauffman</a>, <a href='/entry.php?id=101'>Milana Huang</a>, George Francis<br>
+			July 1, 1994 - July 15, 1994<br><br>
+			The goal of this application is to provide a more intuitive understanding of hyperspace. It enabled users to physically interact with objects in four&hellip; <a href='/entry.php?id=1721'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1722'><img src='/resizedImages/500x280-crop-posteuclid_half.gif' alt='' title='Post-Euclidean Walkabout' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1722'>Post-Euclidean Walkabout</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=114'>Joanna Mason</a>, G. Francis, C. Hartman, U. Axen, A. Arias, P. McCreary;. Chappell<br>
+			July 1, 1994 - July 15, 1994<br><br>
+			This real-time interactive CAVE application takes you on a visit to the post-Euclidean geometry of Gauss, Riemann, Klein, Poincare, and Thurston&hellip; <a href='/entry.php?id=1722'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1725'><img src='/resizedImages/500x280-crop-14bower.jpg' alt='' title='Phase and Amplitude Maps of the Electric Organ Discharge of the Weakly Electric Fish' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1725'>Phase and Amplitude Maps of the Electric Organ Discharge of the Weakly Electric Fish</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, C. Assad, B. Rasnow, J. Bower<br>
+			July 1, 1994 - July 15, 1994<br><br>
+			This demonstration models the Apteronotus Leptorhynchus (commonly known as the Brown Ghost). It displays simulated data of the electric fields&hellip; <a href='/entry.php?id=1725'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1729'><img src='/resizedImages/500x280-crop-vreye.gif' alt='' title='The Virtual Eye' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1729'>The Virtual Eye</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=50'>Paul Neumann</a>, R. Parshall, L. Sadler<br>
+			July 1, 1994 - July 15, 1994<br><br>
+			This project demonstrates the design of an anatomically realistic computer model of a human eye in a virtual environment. Users are able to explore&hellip; <a href='/entry.php?id=1729'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1735'><img src='/resizedImages/500x280-crop-jason.gif' alt='' title='Jason Interactive Mapper' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1735'>Jason Interactive Mapper</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=51'>Dave Pape</a>, G. Feldman, R. Haleblian, A. Maffei, M. Marra, C. Molyneaux, K. Stewart<br>
+			July 1, 1994 - July 15, 1994<br><br>
+			The JASON is an underwater remotely operated vehicle operated by the Woods Hole Oceanographic Institute. This virtual-reality demonstration re-enacts&hellip; <a href='/entry.php?id=1735'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1683'><img src='/resizedImages/500x280-crop-calvin_evl_large.png' alt='' title='CALVIN: Collaborative Architectural Layout Via Immersive Navigation' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1683'>CALVIN: Collaborative Architectural Layout Via Immersive Navigation</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=146'>Christina Vasilakis</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a>, Michael Kelley, Bruce Gibeson, Steve Grinavic<br>
+			January 1, 1994 - January 1, 1996<br><br>
+			One of the current long term goals at the Electronic Visualization Laboratory (EVL) is to create a persistent virtual environment enabling multiple&hellip; <a href='/entry.php?id=1683'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1770'><img src='/resizedImages/500x280-crop-ideskbig_animcruz.gif' alt='' title='ImmersaDesk&trade;' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<strong><a href='/entry.php?id=1770'>ImmersaDesk&trade;</a></strong><br>
+			<strong>Researchers:</strong> <a href='/entry.php?id=7'>Daniel J. Sandin</a>, <a href='/entry.php?id=20'>Greg Dawe</a>, <a href='/entry.php?id=6'>Thomas A. DeFanti</a><br>
+			January 1, 1994 - December 1, 1994<br><br>
+			The ImmersaDesk&trade; was developed in 1994 at EVL. It is a drafting table format VR display. It features a 67x50-inch rear-projected screen at a&hellip; <a href='/entry.php?id=1770'><strong>Read more</strong></a>
+		</div>
+	</td>
+</tr>
+<!-- End List List -->
+	</table>
+</div>
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Page:</strong>
+		<a href='/list.php?id=5&amp;page=1'>1</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=2'>2</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=3'>3</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=4'>4</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=5'>5</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=6'>6</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=7'>7</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=8'>8</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=9'>9</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=10'>10</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=11'>11</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=12'>12</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=13'>13</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=14'><strong>14</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=15'>15</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=16'>16</a>&nbsp;&nbsp;
+		<a href='/list.php?id=5&amp;page=17'>17</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<!-- End List -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

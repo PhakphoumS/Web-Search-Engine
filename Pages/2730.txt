@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Entry -->
+<table id='entry_area' class='fixedTable'>
+	<tr>
+		<td style='width:676px;'>
+			<div id='entry_info'>
+<!-- Begin Entry Info -->
+<h3>User perspective and higher cognitive task-loads influence movement and performance in immersive training environments</h3>
+<div id='entry_image_large'><img style='left:44px;' src='/resizedImages/1280x720-trabuccobmc.jpg' alt='' title='User perspective and higher cognitive task-loads influence movement and performance in immersive training environments' width='551' height='360'></div>
+<span class='smallText'>View of the CAVE2, displaying the third-person perspective of a task. 72 high-resolution displays are arranged in 18 columns in a circular fashion, providing an area of 320 degrees of screen space with a resolution of 36 Megapixels for each user eye.</span><br><br>
+<div class='entry_content'>
+	<strong>Authors:</strong> <a href='/entry.php?id=2250'>Trabucco, J.</a>, <a href='/entry.php?id=2290'>Rottigni, A.</a>, <a href='/entry.php?id=2156'>Cavallo, M.</a>, Bailey, D., Patton, J., <a href='/entry.php?id=2052'>Marai, G.E.</a><br><br>
+	<strong>Publication:</strong> <em>BMC Biomedical Engineering</em>, pp. 1-14<br><br>
+	<strong>URL:</strong> <a href='https://doi.org/10.1186/s42490-019-0021-0' target='_blank'>https://doi.org/10.1186/s42490-019-0021-0</a><br><br>
+<!-- Begin Entry Description -->
+<strong>Background:</strong> In virtual reality (VR) applications such as games, virtual training, and interactive neurorehabilitation, one can employ either the first-person user perspective or the third-person perspective to perceive the virtual environment; however, applications rarely offer both perspectives for the same task. We used a targeted-reaching task in a large-scale virtual reality environment (N = 30 healthy volunteers) to evaluate the effects of user perspective on the head and upper extremity movements, and on user performance. We further evaluated how different cognitive challenges would modulate these effects. Finally, we obtained the user-reported engagement level under the different perspectives.<br><br>
+<strong>Results:</strong> We found that first-person perspective resulted in larger head movements (3.52 ± 1.3m) than the third-person perspective (2.41 ± 0.7m). First-person perspective also resulted in more upper-extremity movement (30.08 ± 7.28m compared to 26.66 ± 4.86m) and longer completion times (61.3 ± 16.4s compared to 53 ± 10.4s) for more challenging tasks such as the &ldquo;flipped mode&rdquo;, in which moving one arm causes the opposite virtual arm to move. We observed no significant effect of user perspective alone on the success rate. Subjects reported experiencing roughly the same level of engagement in both first-person and third-person perspectives (F(1.58) = 0.9, P = .445).<br><br>
+<strong>Conclusion:</strong> User perspective and its interaction with higher-cognitive load tasks influences the extent of movement and user performance in a virtual theater environment, and may influence the choice of the interface type (first or third person) in immersive training depending on the user conditions and exercise requirements.<br><br>
+<strong>Keywords:</strong> User perspective, Engagement, CAVE2<br><br>
+<!-- End Entry Description -->
+	<strong>Date:</strong> August 1, 2019 - September 1, 2019<br><br>
+	<strong>Document:</strong> <a href='/documents/trabucco_et_al-2019-bmc_biomedical_engineering.pdf'>View PDF</a>
+</div>
+<!-- End Entry Info -->
+			</div>
+		</td>
+		<td style='width:374px;'>
+			<div id='entry_sidebar'>
+<!-- Begin Entry Sidebar -->
+<div class='entry_content'>
+	<h3>Related Entries</h3>
+	<strong>Directory:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2052'>G. Elisabeta Marai</a></li>
+		<li><a href='/entry.php?id=2250'>Juan Trelles Trabucco</a></li>
+		<li><a href='/entry.php?id=2290'>Andrea Rottigni</a></li>
+		<li><a href='/entry.php?id=2156'>Marco Cavallo</a></li>
+	</ul><br>
+	<strong>Research:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2176'>RehabJim: A Third Person Approach To Virtual Reality Biomechanical Rehabilitation</a></li>
+	</ul><br>
+	<h3>Related Categories</h3>
+	<ul>
+		<li><a href='/category.php?id=3&amp;related=4'>Applications</a></li>
+		<li><a href='/category.php?id=43&amp;related=4'>Human Computer Interaction (HCI)</a></li>
+		<li><a href='/category.php?id=12&amp;related=4'>Human Factors</a></li>
+		<li><a href='/category.php?id=20&amp;related=4'>Software</a></li>
+		<li><a href='/category.php?id=24&amp;related=4'>User Groups</a></li>
+		<li><a href='/category.php?id=28&amp;related=4'>VR</a></li>
+	</ul>
+</div>
+<!-- End Entry Sidebar-->
+			</div>
+		</td>
+	</tr>
+</table>
+<!-- End Entry -->
+<script>
+	// Making both divs the same height is much easier in JavaScript
+	var entryInfo = document.getElementById("entry_info");
+	var entrySidebar = document.getElementById("entry_sidebar");
+	
+	if (entryInfo && entrySidebar) {
+		var maxHeight = Math.max(entryInfo.offsetHeight, entrySidebar.offsetHeight)-20;
+		entryInfo.style.height = maxHeight+"px";
+		entrySidebar.style.height = maxHeight+"px";
+	}
+</script>
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

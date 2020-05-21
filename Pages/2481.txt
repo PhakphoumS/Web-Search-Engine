@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Software Technologies Research Center (STRC)</title>
+	<style type="text/css">
+		body {
+			color:#333;
+			font-family:Verdana, Geneva, sans-serif;
+			font-size:13px;
+			margin:0;
+			padding:0;
+		}
+		a {
+			color:#900;
+			text-decoration:none;
+		}
+		img {
+			border:0;
+			display:block;
+			max-width:100%;
+			height:auto;
+		}
+		table {
+			border-collapse:collapse;
+			border-spacing:0;
+		}
+		td {padding:0;}
+	</style>
+</head>
+<body>
+	<div style="background:#900; width:100%; height:30px;"></div>
+	<div style="background-image:url('maxine_bg.gif'); width:100%;">
+		<div style="background:#fff; margin:0 auto; padding:10px; width:760px;">
+			<table style="width:100%;">
+				<tr>
+					<td style="text-align:right; vertical-align:top; width:500px;">
+						<span style="font-size:18px;">MAXINE D. BROWN</span><br>
+						Director, Electronic Visualization Laboratory<br>
+						University of Illinois at Chicago<br>
+						<a href="mailto:maxine@uic.edu">maxine@uic.edu</a><br>
+					</td>
+					<td style="width:10px;"></td>
+					<td style="vertical-align:top; width:250px;"><img src="maxine.jpg" alt="Maxine Brown" width="250" height="250"/></td>
+				</tr>
+			</table>
+		</div>
+		<div style="background:#fff; margin:0 auto; padding:10px; text-align:justify; width:760px;">
+			<p>Maxine Brown is the Director of the Electronic Visualization Laboratory (EVL) at the University of Illinois at Chicago (UIC), responsible for fundraising, outreach, documentation, and promotion of its research activities.
+			Her research interests include computer graphics, scientific visualization, collaboration, human-computer interfaces, high-performance computing, and international network infrastructure.
+			Brown has been active in the ACM SIGGRAPH organization and in SIGGRAPH and ACM/IEEE Supercomputing conferences; she recently served as a General Co-Chair of IEEE Visualization 2015.</p>
+			
+			<p>In recognition of her services to UIC and the community at large, Brown is a recipient of the 1990 UIC Chancellor&rsquo;s Academic Professional Excellence (CAPE) award; the 2001 UIC Merit Award; and the 1998 ACM SIGGRAPH Outstanding Service Award.
+			In 2009, Chicago&rsquo;s award-winning multimedia public affairs series &ldquo;Chicago Matters: Beyond Burnham&rdquo; designated Brown as one of 15 Global Visionaries for her role in co-developing the StarLight national/international communications exchange, located in downtown Chicago.</p>
+			
+			<p>Brown is co-principal investigator of the US National Science Foundation&rsquo;s (NSF) International Research Network Connections program&rsquo;s StarLight Softward Defined Networking Exchange (SDX) initiative, and was previously co-principal investigator of the NSF-funded TransLight / StarLight, EuroLink and STAR TAP / StarLight initiatives.
+			Brown was also the project manager of the NSF-funded OptIPuter project.
+			She is a founding member of the Pacific Rim Applications and Grid Middleware Assembly (PRAGMA) and the Global Lambda Integrated Facility (GLIF).
+			Brown is also the UIC representative and Past President of the Board of Directors of the Great Lakes Consortium for Petascale Computing.
+			She co-created and co-chaired the international grid (iGrid) Workshops in 1998, 2000, 2002 and 2005.
+		</p>
+		</div>
+	</div>
+	<div style="background:#900; width:100%; height:30px;"></div>
+</body>
+</html>
+

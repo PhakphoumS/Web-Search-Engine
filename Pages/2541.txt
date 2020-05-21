@@ -1,0 +1,576 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin List -->
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Year:</strong>
+		<a href='/list.php?id=4&amp;year=2020'>2020</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2019'>2019</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2018'>2018</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2017'>2017</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2016'>2016</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2015'>2015</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2014'>2014</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2013'>2013</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2012'>2012</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2011'>2011</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2010'>2010</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2009'>2009</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2008'>2008</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2007'><strong>2007</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2006'>2006</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2005'>2005</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2004'>2004</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2003'>2003</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2002'>2002</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2001'>2001</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2000'>2000</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1999'>1999</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1998'>1998</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1997'>1997</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1996'>1996</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1995'>1995</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1994'>1994</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1993'>1993</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1992'>1992</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1991'>1991</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1990'>1990</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1989'>1989</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1987'>1987</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1985'>1985</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1984'>1984</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1977'>1977</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1976'>1976</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<div id='list_area'>
+	<table style='width:1046px;' class='fixedTable'>
+<!-- Begin List List -->
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1509'><img src='/resizedImages/500x280-crop-terabitsystems_sc07-2.jpg' alt='' title='Towards Terabit/s Systems: Performance Evaluation of Multi-Rail Systems' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=209'>Vishwanath, V.</a>, Shimizu, T., Takizawa, M., Obana, K., <a href='/entry.php?id=21'>Leigh, J.</a><br>
+			<strong><a href='/entry.php?id=1509'>Towards Terabit/s Systems: Performance Evaluation of Multi-Rail Systems</a></strong><br>
+			<em>Proceedings of Supercomputing 2007 (SC07)</em>, Reno, NV<br>
+			November 10, 2007<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1504'><img src='/resizedImages/500x280-crop-wallcologythesis-2.png' alt='' title='WallCology: A Learner&rsquo;s Interface to a Persistent Virtual Ecosystem' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=252'>Uphoff, B. E.</a><br>
+			<strong><a href='/entry.php?id=1504'>WallCology: A Learner&rsquo;s Interface to a Persistent Virtual Ecosystem</a></strong><br>
+			<em>Thesis in partial fulfillment of the requirement for the degree of Master of Science in Computer Science</em>, University of Illinois at Chicago, Chicago, IL<br>
+			November 1, 2007<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1508'><img src='/resizedImages/500x280-crop-thesis_nicholasschwarz.jpg' alt='' title='Distributed Volume Rendering of Very Large Data on High-Resolution Scalable Displays' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=213'>Schwarz, N.</a><br>
+			<strong><a href='/entry.php?id=1508'>Distributed Volume Rendering of Very Large Data on High-Resolution Scalable Displays</a></strong><br>
+			<em>Thesis in partial fulfillment of the requirement for the degree of Master of Science in Computer Science</em>, University of Illinois at Chicago, Chicago, IL<br>
+			October 29, 2007<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1507'><img src='/resizedImages/500x280-crop-kizhi_cifa.jpg' alt='' title='Passing Excellence, The Interactive Art Visualization Of the Kizhi Ensemble' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=188'>Tsoupikova, D., Kooima, R.</a><br>
+			<strong><a href='/entry.php?id=1507'>Passing Excellence, The Interactive Art Visualization Of the Kizhi Ensemble</a></strong><br>
+			<em>Proceedings of the CIPA Symposium</em>, Athens, Greece<br>
+			October 1, 2007<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1502'><img src='/resizedImages/500x280-crop-autoextraction3dmodels_vr_haptic_simulations.png' alt='' title='Automating the Extraction of 3D Models from Medical Images for Virtual Reality and Haptic Simulations' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			Rizzi, S. H., Banerjee, P., <a href='/entry.php?id=182'>Luciano, C. J.</a><br>
+			<strong><a href='/entry.php?id=1502'>Automating the Extraction of 3D Models from Medical Images for Virtual Reality and Haptic Simulations</a></strong><br>
+			<em>Proceedings of the 3rd Annual IEEE Conference on Automation Science and Engineering</em>, Scottsdale, AZ, pp. 152-157, ISBN: 978-1-4244-1154-2<br>
+			September 22, 2007<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1503'><img src='/resizedImages/500x280-crop-gpu-based_elastic-object_deformation.png' alt='' title='GPU-based elastic-object deformation for enhancement of existing haptic applications' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=182'>Luciano, C. J.</a>, Banerjee, P., Rizzi, S. H. R.<br>
+			<strong><a href='/entry.php?id=1503'>GPU-based elastic-object deformation for enhancement of existing haptic applications</a></strong><br>
+			<em>Proceedings of the 3rd Annual IEEE Conference on Automation Science and Engineering</em>, Scottsdale, AZ, pp. 146-151, ISBN: 978-1-4244-1154-2<br>
+			September 22, 2007<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1499'><img src='/resizedImages/500x280-crop-ecoc07logo.jpg' alt='' title='Lambda Sharing Demonstration via Traffic-Driven Lambda-on-Demand' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			Tsukishima, Y., <a href='/entry.php?id=225'>Hirano, A.</a>, Nagatsu, N., Imajuku, W., Jinno, M., Hibino, Y., Takigawa, Y., Hagimoto, K., <a href='/entry.php?id=149'>Wang, X.</a>, <a href='/entry.php?id=192'>Renambot, L.</a>, <a href='/entry.php?id=208'>Jeong, B.</a>, <a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=6'>DeFanti, T.</a>, <a href='/entry.php?id=23'>Verlo, A.</a><br>
+			<strong><a href='/entry.php?id=1499'>Lambda Sharing Demonstration via Traffic-Driven Lambda-on-Demand</a></strong><br>
+			<em>Proceedings of the 33rd European Conference and Exhibition on Optical Communication (ECOC 2007)</em>, International Congress Center (ICC), Berlin, Germany<br>
+			September 16, 2007<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1599'><img src='/resizedImages/500x280-crop-fds.jpg' alt='' title='The Far Dark Shore: Sculptural Depth and Relief in Digital Stereoscopic Video and Composited Stereoscopic Computer Graphics' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=273'>JD Pirtle</a><br>
+			<strong><a href='/entry.php?id=1599'>The Far Dark Shore: Sculptural Depth and Relief in Digital Stereoscopic Video and Composited Stereoscopic Computer Graphics</a></strong><br>
+			<em>DXARTS, University of Washington</em><br>
+			September 1, 2007<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1506'><img src='/resizedImages/500x280-crop-ventrictopgun.png' alt='' title='Accuracy of ventriculostomy catheter placement using a head- and hand-tracked high-resolution virtual reality simulator with haptic feedback' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			Banerjee, P. P., <a href='/entry.php?id=182'>Luciano, C. J.</a>, Lemole, M. G., Charbel, F. T., Oh, M. Y.<br>
+			<strong><a href='/entry.php?id=1506'>Accuracy of ventriculostomy catheter placement using a head- and hand-tracked high-resolution virtual reality simulator with haptic feedback</a></strong><br>
+			<em>Journal of Neurosurgery</em>, vol 107, no 3, pp. 515-521<br>
+			September 1, 2007<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1500'><img src='/resizedImages/500x280-crop-nrl_stereosolar.png' alt='' title='Development of Display Environment for LASCO, EIT and SECCHI' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=172'>Kim, T.J.</a>, <a href='/entry.php?id=221'>Krumbholz, C.</a>, <a href='/entry.php?id=21'>Leigh, J.</a><br>
+			<strong><a href='/entry.php?id=1500'>Development of Display Environment for LASCO, EIT and SECCHI</a></strong><br>
+			<em>Final Technical Report to Naval Research Laboratory (NRL)</em><br>
+			July 10, 2007<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1558'><img src='/resizedImages/500x280-crop-oecc.png' alt='' title='The First Optically-Virtual-Concatenated Lambdas over Multiple Domains in Chicago Metro Area Network Achieved Through Interworking of Network Resource Managers' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			Tsukishima, Y., <a href='/entry.php?id=225'>Hirano, A.</a>, Taniguchi, A., Imajuku, W., Jinno, M., Hibino, Y., Takigawa, Y., Hagimoto, K., <a href='/entry.php?id=149'>Wang, X.</a>, <a href='/entry.php?id=192'>Renambot, L.</a>, <a href='/entry.php?id=208'>Jeong, B.</a>, <a href='/entry.php?id=227'>Jagodic, R.</a>, <a href='/entry.php?id=248'>Nam, S.</a>, <a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=6'>DeFanti, T.</a>, <a href='/entry.php?id=23'>Verlo, A.</a><br>
+			<strong><a href='/entry.php?id=1558'>The First Optically-Virtual-Concatenated Lambdas over Multiple Domains in Chicago Metro Area Network Achieved Through Interworking of Network Resource Managers</a></strong><br>
+			<em>Proceedings of the 12th Optoelectronics &amp; Communications Conference / 16th International Conference on Integrated Optics &amp; Optical Fiber Communication</em>, Pacifico Yokohama, Japan, pp. 310-311<br>
+			July 1, 2007<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1505'><img src='/resizedImages/500x280-crop-ventriculostomysim.png' alt='' title='Virtual Reality in Neurosurgical Education: Part-task Ventriculostomy Simulation with Dynamic Visual and Haptic Feedback' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			Lemole, M. G., Banerjee, P. P., <a href='/entry.php?id=182'>Luciano, C.</a>, Neckrysh, S., Charbel, F.T.<br>
+			<strong><a href='/entry.php?id=1505'>Virtual Reality in Neurosurgical Education: Part-task Ventriculostomy Simulation with Dynamic Visual and Haptic Feedback</a></strong><br>
+			<em>Neurosurgery</em>, vol 61, no 1, Lippincott Williams &amp; Wilkins, pp. 142-149<br>
+			July 1, 2007<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1521'><img src='/resizedImages/500x280-crop-moher_ac2007.jpg' alt='' title='A Learning Progression to Effectively Implement Virtual Reality as an Educational Tool for K-12 Nanoscience Education' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=8'>Bell, J.</a>, <a href='/entry.php?id=16'>Moher, T.</a><br>
+			<strong><a href='/entry.php?id=1521'>A Learning Progression to Effectively Implement Virtual Reality as an Educational Tool for K-12 Nanoscience Education</a></strong><br>
+			<em>Annual Conference of the American Society for Engineering Education</em>, Honolulu, HI<br>
+			June 24, 2007<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1498'><img src='/resizedImages/500x280-crop-newcave.gif' alt='' title='Emerging from the CAVE: Collaboration in Ultra High Resolution Environments' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=192'>Renambot, L.</a>, <a href='/entry.php?id=6'>DeFanti, T.</a>, <a href='/entry.php?id=178'>Brown, M.</a>, <a href='/entry.php?id=208'>Jeong, B.</a>, <a href='/entry.php?id=227'>Jagodic, R.</a>, <a href='/entry.php?id=221'>Krumbholz, C.</a>, <a href='/entry.php?id=219'>Svistula, D.</a>, <a href='/entry.php?id=245'>Hur, H.</a>, <a href='/entry.php?id=222'>Kooima, R.</a>, <a href='/entry.php?id=199'>Peterka, T.</a>, <a href='/entry.php?id=163'>Ge, J.</a>, Falk, C.<br>
+			<strong><a href='/entry.php?id=1498'>Emerging from the CAVE: Collaboration in Ultra High Resolution Environments</a></strong><br>
+			<em>Proceedings of the First International Symposium on Universal Communication</em>, Kyoto, Japan<br>
+			June 14, 2007<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1497'><img src='/resizedImages/500x280-crop-accessgridlogo-2.png' alt='' title='Real-Time Compression For High-Resolution Content' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=192'>Renambot, L.</a>, <a href='/entry.php?id=208'>Jeong, B.</a>, <a href='/entry.php?id=21'>Leigh, J.</a><br>
+			<strong><a href='/entry.php?id=1497'>Real-Time Compression For High-Resolution Content</a></strong><br>
+			<em>Proceedings of the Access Grid Retreat 2007</em>, Chicago, IL<br>
+			May 14, 2007<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1495'><img src='/resizedImages/500x280-crop-multirail.jpg' alt='' title='Towards Terabit/s Systems: Performance Evaluation of Multi-Rail Systems' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=209'>Vishwanath, V.</a>, Shimizu, T., Takizawa, M., Obana, K., <a href='/entry.php?id=21'>Leigh, J.</a><br>
+			<strong><a href='/entry.php?id=1495'>Towards Terabit/s Systems: Performance Evaluation of Multi-Rail Systems</a></strong><br>
+			<em>IEEE INFOCOM 2007</em>, Anchorage, Alaska<br>
+			May 8, 2007<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1535'><img src='/misc/default_500x280.png' alt='' title='High-Fidelity Monitoring in Virtual Computing Environments' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			W. Feng, <a href='/entry.php?id=209'>Vishwanath V.</a>, <a href='/entry.php?id=21'>Leigh J.</a>, Gardner M.<br>
+			<strong><a href='/entry.php?id=1535'>High-Fidelity Monitoring in Virtual Computing Environments</a></strong><br>
+			<em>International Conference on the Virtual Computing Initiative (ICVCI), Research Triangle Park, NC, May 2007</em><br>
+			May 7, 2007<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1512'><img src='/resizedImages/500x280-crop-pointvr.jpg' alt='' title='A Point-Based Remote Visualization Pipeline For Large-Scale Virtual Reality' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=163'>Ge, J.</a><br>
+			<strong><a href='/entry.php?id=1512'>A Point-Based Remote Visualization Pipeline For Large-Scale Virtual Reality</a></strong><br>
+			<em>EVL, PhD Dissertation</em><br>
+			May 1, 2007<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1496'><img src='/resizedImages/500x280-crop-bjeong.png' alt='' title='Collaborative Visualization Architecture in Scalable Adaptive Graphics Environment' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=208'>Jeong, B.</a><br>
+			<strong><a href='/entry.php?id=1496'>Collaborative Visualization Architecture in Scalable Adaptive Graphics Environment</a></strong><br>
+			<em>IBM Visualization and Graphics Student Symposium</em>, TJ Watson Research - Hawthorne and Yorktown, New York<br>
+			April 26, 2007<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1494'><img src='/resizedImages/500x280-crop-tompeterka_dynallexexperiment.jpg' alt='' title='Dynallax: Dynamic Parallax Barrier Autostereoscopic Display' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=199'>Peterka, T.</a><br>
+			<strong><a href='/entry.php?id=1494'>Dynallax: Dynamic Parallax Barrier Autostereoscopic Display</a></strong><br>
+			<em>EVL, PhD Dissertation</em><br>
+			April 23, 2007<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1520'><img src='/resizedImages/500x280-crop-moher_aera2007.jpg' alt='' title='Classroom Space, Classroom Time, and the Representation of Dynamic Phenomena' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=16'>Moher, T.</a>, Wiley, J.<br>
+			<strong><a href='/entry.php?id=1520'>Classroom Space, Classroom Time, and the Representation of Dynamic Phenomena</a></strong><br>
+			<em>Paper presented at the Annual Conference of the American Educational Research Association</em>, Chicago, IL<br>
+			April 9, 2007<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1493'><img src='/resizedImages/500x280-crop-presencecover.jpg' alt='' title='Size-Constancy in the CAVE' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=14'>Kenyon, R.V.</a>, <a href='/entry.php?id=7'>Sandin, D.</a>, Smith, R.C., Pawlicki, R., <a href='/entry.php?id=6'>DeFanti, T.</a><br>
+			<strong><a href='/entry.php?id=1493'>Size-Constancy in the CAVE</a></strong><br>
+			<em>Presence: Teleoperators and Virtual Environments</em>, vol 16, no 2, MIT Press Journals, pp. 172-187<br>
+			April 1, 2007<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1480'><img src='/resizedImages/500x280-crop-experiment.jpg' alt='' title='The Effects of Scene Complexity, Stereovision, and Motion Parallax on Size Constancy in a Virtual Environment' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=232'>Luo, X.</a>, <a href='/entry.php?id=14'>Kenyon, R.</a>, Kamper, D.G., <a href='/entry.php?id=7'>Sandin, D.</a>, <a href='/entry.php?id=6'>DeFanti, T.</a><br>
+			<strong><a href='/entry.php?id=1480'>The Effects of Scene Complexity, Stereovision, and Motion Parallax on Size Constancy in a Virtual Environment</a></strong><br>
+			<em>Proceedings of the IEEE Virtual Reality Conference 2007(VR &rsquo;07)</em>, Charlotte, NC<br>
+			March 10, 2007<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1482'><img src='/resizedImages/500x280-crop-camerabasedtrackingvr07.png' alt='' title='Real-Time Neural Network-based Face Tracker for VR Displays' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=35'>Girado, J. I.</a>, <a href='/entry.php?id=199'>Peterka, T.</a>, <a href='/entry.php?id=222'>Kooima, R. L.</a>, <a href='/entry.php?id=163'>Ge, J.</a>, <a href='/entry.php?id=7'>Sandin, D. J.</a>, <a href='/entry.php?id=10'>Johnson, A. E.</a>, <a href='/entry.php?id=21'>Leigh, J.</a>, <a href='/entry.php?id=6'>DeFanti, T. A.</a><br>
+			<strong><a href='/entry.php?id=1482'>Real-Time Neural Network-based Face Tracker for VR Displays</a></strong><br>
+			<em>Proceedings of the IEEE Virtual Reality Conference 2007(VR &rsquo;07)</em>, Charlotte, NC<br>
+			March 10, 2007<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1489'><img src='/resizedImages/500x280-crop-dynallax2.jpg' alt='' title='Dynallax: Solid State Dynamic Parallax Barrier Autostereoscopic VR Display' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=199'>Peterka, T.</a>, <a href='/entry.php?id=222'>Kooima, R.L.</a>, <a href='/entry.php?id=35'>Girado,  J. I.</a>, <a href='/entry.php?id=163'>Ge, J.</a>, <a href='/entry.php?id=7'>Sandin, D.J.</a>, <a href='/entry.php?id=10'>Johnson, A.</a>, <a href='/entry.php?id=21'>Leigh, J.</a>, Schulze, J., <a href='/entry.php?id=6'>DeFanti, T. A.</a><br>
+			<strong><a href='/entry.php?id=1489'>Dynallax: Solid State Dynamic Parallax Barrier Autostereoscopic VR Display</a></strong><br>
+			<em>Proceedings of the IEEE Virtual Reality Conference 2007(VR &rsquo;07)</em>, Charlotte, NC<br>
+			March 10, 2007<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1490'><img src='/resizedImages/500x280-crop-varriercombiner2.jpg' alt='' title='A GPU Sub-pixel Algorithm for Autostereoscopic Virtual Reality' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=222'>Kooima, R.L.</a>, <a href='/entry.php?id=199'>Peterka, T.</a>, <a href='/entry.php?id=35'>Girado, J.I.</a>, <a href='/entry.php?id=163'>Ge, J.</a>, <a href='/entry.php?id=7'>Sandin, D. J.</a>, <a href='/entry.php?id=6'>DeFanti, T. A.</a><br>
+			<strong><a href='/entry.php?id=1490'>A GPU Sub-pixel Algorithm for Autostereoscopic Virtual Reality</a></strong><br>
+			<em>Proceedings of the IEEE Virtual Reality Conference 2007(VR &rsquo;07)</em><br>
+			March 10, 2007<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1491'><img src='/resizedImages/500x280-crop-withindows_hill.jpg' alt='' title='A Single-Authoring and Bridging Framework for Virtual and Augmented Reality Interfaces' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=173'>Hill, A.</a><br>
+			<strong><a href='/entry.php?id=1491'>A Single-Authoring and Bridging Framework for Virtual and Augmented Reality Interfaces</a></strong><br>
+			<em>Proceedings of the IEEE 3DUI Conference 2007 (3DUI 2007)</em>, Charlotte, North Carolina<br>
+			March 10, 2007<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1481'><img src='/resizedImages/500x280-crop-sagedisplaycontroarchitecturer.png' alt='' title='Design and Implementation of SAGE Display Controller' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=212'>Alimohideen, J.</a><br>
+			<strong><a href='/entry.php?id=1481'>Design and Implementation of SAGE Display Controller</a></strong><br>
+			<em>Thesis Project for Master of Science in Computer Science 2007</em><br>
+			February 1, 2007<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1475'><img src='/resizedImages/500x280-crop-6panelvarrier.jpg' alt='' title='Evolution of the Varrier&trade; Autostereoscopic VR Display: 2001-2007' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=199'>Peterka, T.</a>, <a href='/entry.php?id=222'>Kooima, R.</a>, <a href='/entry.php?id=35'>Girado, J.</a>, <a href='/entry.php?id=163'>Ge, J.</a>, <a href='/entry.php?id=7'>Sandin, D.</a>, <a href='/entry.php?id=6'>DeFanti, T.</a><br>
+			<strong><a href='/entry.php?id=1475'>Evolution of the Varrier&trade; Autostereoscopic VR Display: 2001-2007</a></strong><br>
+			<em>IS&amp;T / SPIE Electronic Imaging 2007 Conference Proceedings</em><br>
+			January 28, 2007<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1476'><img src='/resizedImages/500x280-crop-cytovizspie2007.jpg' alt='' title='CytoViz: an Artistic Mapping of Network Measurements as Living Organisms in a VR Application' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=4'>Lopez Silva, B.A.</a>, <a href='/entry.php?id=192'>Renambot, L.</a><br>
+			<strong><a href='/entry.php?id=1476'>CytoViz: an Artistic Mapping of Network Measurements as Living Organisms in a VR Application</a></strong><br>
+			<em>IS&amp;T / SPIE Electronic Imaging 2007 Conference Proceedings</em><br>
+			January 28, 2007<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1478'><img src='/resizedImages/500x280-crop-passing_excellence.png' alt='' title='Passing Excellence' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=188'>Tsoupikova, D.</a><br>
+			<strong><a href='/entry.php?id=1478'>Passing Excellence</a></strong><br>
+			<em>IS&amp;T / SPIE Electronic Imaging 2007 Conference Proceedings</em><br>
+			January 28, 2007<br>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td style='width:270px; height:160px;'><div class='list_images'><a href='/entry.php?id=1479'><img src='/resizedImages/500x280-crop-skin2006.jpg' alt='' title='Skin: an interactive hyperstereoscopic electro installation' width='250' height='140'></a></div></td>
+	<td style='width:776px; height:160px;'>
+		<div class='list_info'>
+			<a href='/entry.php?id=189'>Kostis, H.</a>, <a href='/entry.php?id=222'>Kooima, R.</a>, Kannenberg, J.<br>
+			<strong><a href='/entry.php?id=1479'>Skin: an interactive hyperstereoscopic electro installation</a></strong><br>
+			<em>IS&amp;T / SPIE Electronic Imaging 2007 Conference Proceedings</em><br>
+			January 28, 2007<br>
+		</div>
+	</td>
+</tr>
+<!-- End List List -->
+	</table>
+</div>
+<!-- Begin List Pagination -->
+<div class='list_pagination'>
+	<div>
+		<strong>Year:</strong>
+		<a href='/list.php?id=4&amp;year=2020'>2020</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2019'>2019</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2018'>2018</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2017'>2017</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2016'>2016</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2015'>2015</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2014'>2014</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2013'>2013</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2012'>2012</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2011'>2011</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2010'>2010</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2009'>2009</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2008'>2008</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2007'><strong>2007</strong></a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2006'>2006</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2005'>2005</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2004'>2004</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2003'>2003</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2002'>2002</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2001'>2001</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=2000'>2000</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1999'>1999</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1998'>1998</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1997'>1997</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1996'>1996</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1995'>1995</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1994'>1994</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1993'>1993</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1992'>1992</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1991'>1991</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1990'>1990</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1989'>1989</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1987'>1987</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1985'>1985</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1984'>1984</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1977'>1977</a>&nbsp;&nbsp;
+		<a href='/list.php?id=4&amp;year=1976'>1976</a>&nbsp;&nbsp;
+	</div>
+</div>
+<!-- End List Pagination -->
+<!-- End List -->
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

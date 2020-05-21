@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Entry -->
+<table id='entry_area' class='fixedTable'>
+	<tr>
+		<td style='width:676px;'>
+			<div id='entry_info'>
+<!-- Begin Entry Info -->
+<h3>UIC/EVL Helps Kick Off NSF&rsquo;s Holodeck Social Media Campaign</h3>
+<div id='entry_image_large'><img style='left:50px;' src='/resizedImages/1280x720-evl-startrek-enterprise_exterior_ljl1492-small.jpg' alt='' title='UIC/EVL Helps Kick Off NSF&rsquo;s Holodeck Social Media Campaign' width='539' height='360'></div>
+<span class='smallText'>In an homage to Star Trek, Arthur Nishimoto spent his spare time over several years creating a 3D virtual-reality replica of the starship Enterprise for EVL&rsquo;s CAVE2&trade;. Enterprise exterior model developed by Dennis Baily and Eric Clark. - (Photo: L. Long, EVL/UIC)</span><br><br>
+<div class='entry_content'>
+	<strong>Participants:</strong> <a href='/entry.php?id=270'>Arthur Nishimoto</a><br><br>
+<!-- Begin Entry Description -->
+Capitalizing on Star Trek&rsquo;s 50th anniversary, which debuted on September 8, 1966, the National Science Foundation (NSF) has developed a social media #holodeck campaign to promote its support of cutting-edge research in virtual reality and immersive environments. NSF recognizes that the Electronic Visualization Laboratory (EVL) at the University of Illinois at Chicago (UIC) has a long history of leadership in this area, so not only included the lab in its campaign, but kicked off its campaign by highlighting EVL&rsquo;s work.<br><br>
+Specifically, NSF is focusing on Star Trek&rsquo;s Holodeck - a virtual reality environment that can fabricate lifelike experiences and enable training, research and development, mental and physical health, entertainment and exploration. Coincidentally, the term &ldquo;holodeck&rdquo; has often been applied to EVL&rsquo;s CAVE&trade; Automatic Virtual Environment, introduced in 1992, and its CAVE2&trade; Hybrid Reality Environment, introduced in 2012. Both these unique displays were designed and built with major funding from NSF.<br><br>
+Inspired by the CAVE2 system, UIC Computer Science graduate student and EVL research assistant Arthur Nishimoto spent much of his spare time over the past several years developing a full-scale virtual model of Star Trek&rsquo;s starship Enterprise. The CAVE2 is a holodeck-like room that transports people who enter to the Enterprise, where they can walk through various rooms or fly through the cosmos. NSF selected a photo of Nishimoto in the CAVE2 environment, controlling the Enterprise, to put on its introductory blog.<br><br>
+The Holodeck, as envisioned by Star Trek&rsquo;s creator Gene Roddenberry, is a fully-immersive artificial environment you can enter and experience with all your senses. The Holodeck is several decades away, and will take a great deal of basic research in computer visualization, sensors, data analysis, perceptual psychology and a range of other disciplines, as well as technological advances in virtual reality, augmented reality, holography, displays, projection and brain-machine interfaces. EVL, along with its many collaborators, has been involved in all these areas.<br><br>
+NSF has been supporting research in virtual reality and immersive environments since the 1970s - predating &ldquo;Star Trek: Next Generation.&rdquo; Its goal for the #holodeck campaign is to raise awareness among public, media and legislative audiences of the science and engineering challenges involved in creating the Holodeck - or immersive experiences generally - and to promote the work of its many federally-supported researchers who are developing radically new kinds of multi-sensory experiences using computing and engineered devices.<br><br>
+<a href="http://nationalsciencefoundation.tumblr.com/post/150653094693/building-a-holodeck">See the NSF introductory #holodeck blog.</a><br>
+<a href="http://nationalsciencefoundation.tumblr.com/">See the NSF blog.</a><br> 
+<a href="https://www.facebook.com/US.NSF">See NSF at Facebook.</a><br>
+<a href="https://twitter.com/NSF">See NSF Twitter.</a><br><br>
+<!-- End Entry Description -->
+	<strong>Email:</strong> <a href='mailto:maxine@uic.edu'>maxine@uic.edu</a><br><br>
+	<strong>Date:</strong> September 19, 2016
+</div>
+<!-- End Entry Info -->
+			</div>
+		</td>
+		<td style='width:374px;'>
+			<div id='entry_sidebar'>
+<!-- Begin Entry Sidebar -->
+<div class='entry_content'>
+	<h3>Related Entries</h3>
+	<strong>Art:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=2028'>StarTrek Enterprise</a></li>
+	</ul><br>
+	<strong>Directory:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=270'>Arthur Nishimoto</a></li>
+	</ul><br>
+	<h3>Related Categories</h3>
+	<ul>
+		<li><a href='/category.php?id=3&amp;related=3'>Applications</a></li>
+		<li><a href='/category.php?id=28&amp;related=3'>VR</a></li>
+		<li><a href='/category.php?id=29&amp;related=3'>VR Art</a></li>
+	</ul>
+</div>
+<!-- End Entry Sidebar-->
+			</div>
+		</td>
+	</tr>
+</table>
+<!-- End Entry -->
+<script>
+	// Making both divs the same height is much easier in JavaScript
+	var entryInfo = document.getElementById("entry_info");
+	var entrySidebar = document.getElementById("entry_sidebar");
+	
+	if (entryInfo && entrySidebar) {
+		var maxHeight = Math.max(entryInfo.offsetHeight, entrySidebar.offsetHeight)-20;
+		entryInfo.style.height = maxHeight+"px";
+		entrySidebar.style.height = maxHeight+"px";
+	}
+</script>
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>

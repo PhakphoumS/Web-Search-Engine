@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>evl | electronic visualization laboratory</title>
+	<link rel="stylesheet" href="/style.css">
+	<script>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26425659-14']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="header_area">
+		<table style="width:1030px; height:104px;" class="fixedTable">
+			<tr>
+				<td style="width:254px; height:104px;">
+					<div id="header_logo">
+						<a href="/index.php"><img
+							src="/misc/logo.png"
+							onmouseover="this.src='/misc/logo_on.png';"
+							onmouseout="this.src='/misc/logo.png';"
+							alt="evl"
+							title="evl"
+							width="250"
+							height="100"
+						></a>
+					</div>
+				</td>
+				<td style="width:776px; height:104px;">
+					<table style="width:776px; height:104px;" class="fixedTable">
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/menuPage.php?id=5"><h3>About</h3></a>
+									<a href="/menuPage.php?id=4"><h3>Location</h3></a>
+									<a href="/list.php?id=2"><h3>People</h3></a>
+									<a href="/menuPage.php?id=3"><h3>Join Us</h3></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="http://www.youtube.com/user/evltube" target="_blank"><img
+										src="/misc/youtube.png"
+										onmouseover="this.src='/misc/youtube_on.png';"
+										onmouseout="this.src='/misc/youtube.png';"
+										alt=""
+										title="YouTube"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://www.facebook.com/UIC.EVL" target="_blank"><img
+										src="/misc/facebook.png"
+										onmouseover="this.src='/misc/facebook_on.png';"
+										onmouseout="this.src='/misc/facebook.png';"
+										alt=""
+										title="Facebook"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="https://twitter.com/evl_uic" target="_blank"><img
+										src="/misc/twitter.png"
+										onmouseover="this.src='/misc/twitter_on.png';"
+										onmouseout="this.src='/misc/twitter.png';"
+										alt=""
+										title="Twitter"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+							<td style="width:56px; height:48px;">
+								<div class="header_social">
+									<a href="/menuPage.php?id=2"><img
+										src="/misc/donate.png"
+										onmouseover="this.src='/misc/donate_on.png';"
+										onmouseout="this.src='/misc/donate.png';"
+										alt=""
+										title="Donate"
+										width="44"
+										height="44"
+									></a>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="6" style="width:776px; height:8px;"></td>
+						</tr>
+						<tr>
+							<td style="width:496px; height:48px;">
+								<div class="header_menu">
+									<a href="/list.php?id=3"><h3>Events</h3></a>
+									<a href="/list.php?id=4"><h3>Papers</h3></a>
+									<a href="/list.php?id=5"><h3>Research</h3></a>
+									<a href="/list.php?id=1"><h3>Art</h3></a>
+								</div>
+							</td>
+							<td colspan="5" style="vertical-align:middle; width:280px; height:48px;">
+								<form action="/search.php" method="get">
+									<input id="header_search" name="search" type="search" placeholder="Search" maxlength="32">
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- Begin Content -->
+<!-- Begin Entry -->
+<table id='entry_area' class='fixedTable'>
+	<tr>
+		<td style='width:676px;'>
+			<div id='entry_info'>
+<!-- Begin Entry Info -->
+<h3>OmegaDesk: An Instrument for Interactive Visual Data Exploration and Collaboration</h3>
+<div id='entry_image_large'><img style='left:0;' src='/resizedImages/1280x720-_ljl4307.jpg' alt='' title='OmegaDesk: An Instrument for Interactive Visual Data Exploration and Collaboration' width='640' height='360'></div>
+<span class='smallText'>OmegaDesk enables users to view stereoscopic 3D volumes while browsing - L. Long, EVL</span><br><br>
+<div class='entry_content'>
+	<strong>Researchers:</strong> <a href='/entry.php?id=10'>Andrew Johnson</a>, <a href='/entry.php?id=21'>Jason Leigh</a>, <a href='/entry.php?id=281'>Victor Mateevitsi</a>, <a href='/entry.php?id=250'>Yiwen Sun</a>, Alessandro Febretti<br><br>
+	<strong>Funding:</strong> NSF Award CNS-0821121<br><br>
+<!-- Begin Entry Description -->
+OmegaDesk provides researchers with a powerful, easy-to-use, information-rich, cyberinfrastructure instrument in support of scientific discovery. The OmegaDesk unifies ultra-high-resolution computer-enhanced collaboration workspaces and stereoscopic virtual environments with multi-touch-sensitive surfaces so that users can intuitively point, write, touch and manipulate the information displayed, and communicate and share this information with remote colleagues.<br><br>
+
+OmegaDesk provides capabilities not commercially available. It enables multiple viewers to simultaneously see stereoscopic 3D as well as 2D information from different viewpoints. It is high-resolution and multi-touch-enabled so more than one person can interact with the system at a time.<br><br>
+
+OmegaDesk development consists of several phases. All three phases are occurring concurrently to enable successive improvements.<br><br>
+
+<strong>Phase 1:</strong> EVL prototyped the design of a LCD-based multi-touch table, called <a href='http://www.evl.uic.edu/core.php?mod=4&amp;type=1&amp;indi=392'>TacTile</a>.<br><br>
+
+<strong>Phase 2:</strong> While EVL&rsquo;s initial goal was to construct a stereoscopic overlay for the table, EVL&rsquo;s most recent prototype, called OmegaDesk, has two display screens - one is a multi-touch display and the other an active stereoscopic display, which are synchronized to work together. Several prototype applications now run on OmegaDesk. New camera-based input modalities (e.g., wand and gesture) are being developed.<br><br>
+
+<strong>Phase 3:</strong> EVL is developing an API library and device drivers, called OmegaLib, as well as confidence testing the system. OmegaLib will work with TacTile as well as OmegaDesk.<br><br>
+
+Two versions of the OmegaDesk are currently being built: stereoscopic and an autostereoscopic. The stereo version is based on a commercial product by JVC. The autostereo version is based on <a href='http://www.evl.uic.edu/core.php?mod=4&amp;type=1&amp;indi=315'>Dynallax</a>. Dynallax will enable multiple viewers to see 3D without having to wear special 3D glasses. It will enable an LCD display to support viewing in several simultaneous modes, with the viewing mode selectable on a per-pixel basis. One or two users can be head-tracked with Dynallax so that 3D information is displayed from their points of view, or multiple users can share a 3D perspective, enabling group collaboration with 3D data. No commercial product exits that can do all these modes.<br><br>
+
+This latter mode, panoramic autostereo (or panoramagram), might be used for OmegaDesk. Multiple users could view this type of display, even upside-down, with limited &ldquo;look-around&rdquo; capability. Viewers could then stand along the two long sides of OmegaDesk and still see correct stereo views.<br><br>
+<!-- End Entry Description -->
+	<strong>Email:</strong> <a href='mailto:ajohnson@uic.edu'>ajohnson@uic.edu</a><br><br>
+	<strong>Date:</strong> September 1, 2008 - August 31, 2012
+</div>
+<!-- End Entry Info -->
+			</div>
+		</td>
+		<td style='width:374px;'>
+			<div id='entry_sidebar'>
+<!-- Begin Entry Sidebar -->
+<div class='entry_content'>
+	<h3>Related Entries</h3>
+	<strong>Directory:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=250'>Yiwen Sun</a></li>
+		<li><a href='/entry.php?id=281'>Victor Mateevitsi</a></li>
+		<li><a href='/entry.php?id=21'>Jason Leigh</a></li>
+		<li><a href='/entry.php?id=10'>Andrew Johnson</a></li>
+	</ul><br>
+	<strong>Events:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=1016'>Not your usual desk job</a></li>
+	</ul><br>
+	<strong>Papers:</strong><br>
+	<ul>
+		<li><a href='/entry.php?id=1601'>The OmegaDesk: Towards A Hybrid 2D &amp; 3D Work Desk</a></li>
+	</ul><br>
+	<h3>Related Categories</h3>
+	<ul>
+		<li><a href='/category.php?id=9&amp;related=6'>Devices</a></li>
+		<li><a href='/category.php?id=24&amp;related=6'>User Groups</a></li>
+	</ul>
+</div>
+<!-- End Entry Sidebar-->
+			</div>
+		</td>
+	</tr>
+</table>
+<!-- End Entry -->
+<script>
+	// Making both divs the same height is much easier in JavaScript
+	var entryInfo = document.getElementById("entry_info");
+	var entrySidebar = document.getElementById("entry_sidebar");
+	
+	if (entryInfo && entrySidebar) {
+		var maxHeight = Math.max(entryInfo.offsetHeight, entrySidebar.offsetHeight)-20;
+		entryInfo.style.height = maxHeight+"px";
+		entrySidebar.style.height = maxHeight+"px";
+	}
+</script>
+<!-- End Content -->
+	<div id="footer_area">
+		<a href="mailto:evl-web@uic.edu"><h3>Contact</h3></a>
+	</div>
+</body>
+</html>
